@@ -8832,7 +8832,7 @@
 			}
 		},
 		"example/ Http get": {
-			"description": "Http get example",
+			"description": "Http get example\n\nGet #1 task data from https://jsonplaceholder.typicode.com/ and write to the console",
 			"interface": {
 				"inputs": {
 					"start": {

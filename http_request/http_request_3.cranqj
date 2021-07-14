@@ -8832,7 +8832,7 @@
 			}
 		},
 		"example/ Reusable http task getter": {
-			"description": "Project root",
+			"description": "Reusable Task getter\n\nCreate a reusable component for getting task data from https://jsonplaceholder.typicode.com/ and write the result to the console",
 			"interface": {
 				"inputs": {
 					"start": {

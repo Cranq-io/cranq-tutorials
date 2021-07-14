@@ -8832,7 +8832,7 @@
 			}
 		},
 		"example/ Http get with parameterized url": {
-			"description": "Project root",
+			"description": "Http Get with parameterized url\n\nGet arbitrary task (id comes from parameter) data from https://jsonplaceholder.typicode.com/ and write the result to the console",
 			"interface": {
 				"inputs": {
 					"start": {

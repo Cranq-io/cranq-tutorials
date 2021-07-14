@@ -8832,7 +8832,7 @@
 			}
 		},
 		"http post example": {
-			"description": "",
+			"description": "Http post\n\nPost #209 task to https://jsonplaceholder.typicode.com/ and write the result to the console",
 			"interface": {
 				"inputs": {
 					"start": {
