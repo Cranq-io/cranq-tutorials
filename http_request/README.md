@@ -4,7 +4,7 @@
 
 ### Step 1 - Http Get
 
-Objective: Get 1 task from https://jsonplaceholder.typicode.com/ and write to the console
+Objective: Get #1 task data from https://jsonplaceholder.typicode.com/ and write to the console
 
 New concepts:
 
@@ -31,7 +31,7 @@ New concepts:
 
 ### Step 4 - Http Post
 
-Objective: Get 1 task from https://jsonplaceholder.typicode.com/ and write to the console
+Objective: Post #209 task to https://jsonplaceholder.typicode.com/ and write the result to the console
 
 New concepts:
 
