@@ -41,4 +41,25 @@ New concepts:
 
 - use http dispatcher for posting data
 
-!["Http get app in Cranq"](./http_request_1.png)
+!["Http get app in Cranq"](./http_request_4.png)
+
+### Step 5 - Check Http dispatcher status
+
+Objective: Try to get data from invalid resource and check if the response status is 200 and write the result of the check to the console
+
+New concepts:
+
+- use equality checker
+- use fork
+
+!["Http get app in Cranq"](./http_request_5.png)
+
+### Step 6 - Check Http dispatcher error
+
+Objective: Get data from not existing url and write the error to the console
+
+New concepts:
+
+- use Http dispatcher error output pott
+
+!["Http get app in Cranq"](./http_request_6.png)
