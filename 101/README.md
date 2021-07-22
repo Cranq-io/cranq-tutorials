@@ -3,6 +3,9 @@
 :q
 :q
 
+:q
+:q
+
 ## First steps - From "Hello World" to "List iterator greater"
 
 ### Step 1 - Hello Word
@@ -30,7 +33,7 @@ New concepts:
 
 - moving nodes
 - moving the canvas
-- showing/hiding inspector panel
+- showing/hinding inspector panel
 - using the [Concatenator] node
 - connecting nodes (input to output this time)
 
