@@ -62,8 +62,7 @@ New concepts:
 - creating and name input and output ports
 - entering and exiting a structure node
 - connecting nodes to their parents input/output ports
-
-!["Create a reusable custom node in Cranq"](./101_4.png)
+  !["Create a reusable custom node in Cranq"](./101_4.png)
 
 ### Step 5 - Reuse custom node
 
