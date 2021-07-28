@@ -33,7 +33,7 @@ New concepts:
 
 - moving nodes
 - moving the canvas
-- showing/hinding inspector panel
+- showing/hiding inspector panel
 - using the [Concatenator] node
 - connecting nodes (input to output this time)
 
