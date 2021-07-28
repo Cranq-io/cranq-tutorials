@@ -34,7 +34,7 @@ New concepts:
 !["Improved Hello World app in Cranq"](./101_2.png)
 
 
-### Step 3 - Chainging transformations
+### Step 3 - Chain transformations
 
 Objective: Handling multiple values and chaining multiple transformations
 
@@ -56,7 +56,7 @@ New concepts:
 - entering and exiting a structure node
 - connecting nodes to their parents input/output ports
   
-!["Create reusable custom node in Cranq"](./101_4.png)
+!["Create a reusable custom node in Cranq"](./101_4.png)
 
 ### Step 5 - Reuse custom node
 
@@ -66,7 +66,7 @@ New concepts:
 - same output can be input of multiple nodes
 - adding a custom node via Search (using prototype name)  
 
-!["Reuse of custom node in Cranq"](./101_5.png)
+!["Reuse custom node in Cranq"](./101_5.png)
 
 ### Step 6 - Get parameters from a list and iterate
 
