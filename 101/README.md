@@ -27,7 +27,7 @@ Objective: append "!"
 New concepts: 
 - moving nodes
 - moving the canvas
-- showing/hinding inspector panel
+- showing/hiding inspector panel
 - using the [Concatenator] node
 - connecting nodes (input to output this time)
 
@@ -42,7 +42,7 @@ New concepts:
 - chaining multiple transformations
 - providing start signal to every node (direct or indirect)
 
-!["Chained transformations in Cranq"](./101_3.png)
+!["Chain transformations in Cranq"](./101_3.png)
 
 ### Step 4 - Create a reusable custom node
 
@@ -56,7 +56,7 @@ New concepts:
 - entering and exiting a structure node
 - connecting nodes to their parents input/output ports
   
-!["Reusable custom node in Cranq"](./101_4.png)
+!["Create reusable custom node in Cranq"](./101_4.png)
 
 ### Step 5 - Reuse custom node
 
