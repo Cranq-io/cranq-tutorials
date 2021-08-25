@@ -1,4 +1,8 @@
 # CRANQ 101
+
+:q
+:q
+
 :q
 :q
 
@@ -8,11 +12,12 @@
 
 Objective: Write "Hello World" to the console
 
-New concepts: 
+New concepts:
+
 - connecting nodes
 - running the app
 - checking the output
-- deleting connection  
+- deleting connection
 - inserting new node from search
 - setting descriptive node names
 - storing/reading static values in/from [Store] nodes
@@ -24,7 +29,8 @@ New concepts:
 
 Objective: append "!"
 
-New concepts: 
+New concepts:
+
 - moving nodes
 - moving the canvas
 - showing/hiding inspector panel
@@ -33,12 +39,12 @@ New concepts:
 
 !["Improved Hello World app in Cranq"](./101_2.png)
 
-
 ### Step 3 - Chain transformations
 
 Objective: Handling multiple values and chaining multiple transformations
 
-New concepts: 
+New concepts:
+
 - chaining multiple transformations
 - providing start signal to every node (direct or indirect)
 
@@ -49,22 +55,23 @@ New concepts:
 Objective: Wrap multi step transformaion into a reusable structure node
 
 New concepts:
+
 - deleting nodes
 - creating new structure node
 - setting the name of the new node and its prototype
 - creating and name input and output ports
 - entering and exiting a structure node
 - connecting nodes to their parents input/output ports
-  
-!["Create a reusable custom node in Cranq"](./101_4.png)
+  !["Create a reusable custom node in Cranq"](./101_4.png)
 
 ### Step 5 - Reuse custom node
 
 Objective: Reuse the created custom node with different parameter
 
-New concepts: 
+New concepts:
+
 - same output can be input of multiple nodes
-- adding a custom node via Search (using prototype name)  
+- adding a custom node via Search (using prototype name)
 
 !["Reuse custom node in Cranq"](./101_5.png)
 
@@ -72,7 +79,8 @@ New concepts:
 
 Objective: replace multiple parameters by an array and iterate through
 
-New concepts: 
+New concepts:
+
 - using the store the hold a list value
 - iterating through a list
 - debugging signals with [Data logger]
