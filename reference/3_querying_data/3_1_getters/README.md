@@ -150,7 +150,7 @@ Getting the length of an array can be performed with the ```data/array/Length ge
 
 ## Getting array element by index
 
-Getting an array element by it's index can be performed with the ```data/array/Item getter``` node.
+Getting an array element by its index can be performed with the ```data/array/Item getter``` node.
 
 ![](images/2021-07-16-15-50-13.png)
 

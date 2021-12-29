@@ -49,7 +49,7 @@ Setting the ```pretty``` input to ```true``` will format the output in a human-r
 >
 > Place node **tutorials/data/JSON parser example**
 
-String representations of JSON structures can be parsed with the ```data/dictionary/JSON parser``` node. The following example illustrates it's basic usage:
+String representations of JSON structures can be parsed with the ```data/dictionary/JSON parser``` node. The following example illustrates its basic usage:
 
 ![](images/2021-08-03-18-34-01.png)
 

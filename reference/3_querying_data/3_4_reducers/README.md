@@ -4,12 +4,12 @@ Reducers are akin to mappers - instead of mapping each collection item to anothe
 
 ![](images/2021-07-19-09-02-53.png)
 
-- The node takes an ```array``` as it's input
-- It iterates through the array items, and yields each on it's ```item``` output
+- The node takes an ```array``` as its input
+- It iterates through the array items, and yields each on its ```item``` output
 - It also outputs the current result on its ```part reduced``` output
 - The developer should perform the required transformations by using the current item and reduction result, and route the resulting value back to the ```part reduced``` input
 - An ```initial``` value should also be specified - this value will be present on the ```part reduced``` output, when the first item is being processed
-- Once each iteration is accounted for on the ```part reduced``` input, the node outputs the final result on it's ```reduced``` output
+- Once each iteration is accounted for on the ```part reduced``` input, the node outputs the final result on its ```reduced``` output
 
 ## Example - Summing array values
 
@@ -72,13 +72,13 @@ As a reminder, here is our test dataset:
 
 - Place an instance of the node ```tutorials/data/Concatenator (array) example``` implemented in the previous example (or create it now)
 - Then create a new node "sum_emp_salary" that will perform the calculation
-  - Create an input/output pair, and connect the test data provider node to it's input
+  - Create an input/output pair, and connect the test data provider node to its input
 
 ![](images/2021-07-19-09-17-58.png)
 
-- Drilling into the new node, place a reducer & set it's ```initial``` input to a static value of ```0```
-- Connect the ```item``` output to a ```dictionary/Item getter```, that will select the salary property of each item - set it's ```key``` input to a static value of ```"Salary"```
-- Place a ```number/Adder``` node, and connect it's inputs to:
+- Drilling into the new node, place a reducer & set its ```initial``` input to a static value of ```0```
+- Connect the ```item``` output to a ```dictionary/Item getter```, that will select the salary property of each item - set its ```key``` input to a static value of ```"Salary"```
+- Place a ```number/Adder``` node, and connect its inputs to:
   - The result of the aforementioned node
   - The ```part reduced``` node of the reducer
 - Route the result of the add node back to the ```part reduced``` input of the reducer

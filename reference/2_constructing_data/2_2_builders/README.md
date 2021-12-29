@@ -8,7 +8,7 @@ Cranq provides a set of builder nodes, allowing the construction/initialization 
 >
 > Place node **tutorials/data/Builder (array) example**
 
-In this example, we use the ```data/array/Builder``` node to initialize an empty array. The initial values can be specified on it's ```item``` input port.
+In this example, we use the ```data/array/Builder``` node to initialize an empty array. The initial values can be specified on its ```item``` input port.
 
 ![](images/2021-08-16-13-14-46.png)
 

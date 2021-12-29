@@ -8,7 +8,7 @@ Like CRANQ itself, the documentation is also under constant development. We will
 
 ## Assumptions
 
-This tutorial assumes, that the reader is already familiar with the concept of CRANQ, the UI, and it's interactions - check out our [CRANQ 101 video course](https://cranq.io/go/app-tutorials) to learn the basics!
+This tutorial assumes, that the reader is already familiar with the concept of CRANQ, the UI, and its interactions - check out our [CRANQ 101 video course](https://cranq.io/go/app-tutorials) to learn the basics!
 
 ## How to use this guide
 

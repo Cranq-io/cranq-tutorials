@@ -4,17 +4,17 @@ Cranq offers the following synchronization primitives to manage application flow
 
 ### Syncer & splitter
 
-The ```flow/Syncer``` aggregates the input signals & forwards it only, once all of it's inputs received a trigger. 
-- It's counterpart is ```flow/Splitter```, which is capable of splitting up the aggregated signal to the original signals.
+The ```flow/Syncer``` aggregates the input signals & forwards it only, once all of its inputs received a trigger. 
+- Its counterpart is ```flow/Splitter```, which is capable of splitting up the aggregated signal to the original signals.
 - They both have dynamic input/output ports (spread ports), allowing the developer to scale them as needed
-- They are useful for building a synchronization point on node inputs, making sure the node executes only once all (or some) of it's inputs are fulfilled
+- They are useful for building a synchronization point on node inputs, making sure the node executes only once all (or some) of its inputs are fulfilled
 - They can also be used for merging & splitting data structures, as [demonstrated later](cranqj/app_flow_sync_split.cranqj)
 
 ### Multiplexing & demultiplexing
 
 The ```flow/Multiplexer``` node also combines several inputs into a single output, without synchronization
 - The input is forwarded immediately, retaining the input port the original signal was received on. 
-- It's counterpart is ```flow/Demultiplexer```
+- Its counterpart is ```flow/Demultiplexer```
 - They both have dynamic input/output ports (spread ports), allowing the developer to scale them as needed
 
 ### Repeater
@@ -66,7 +66,7 @@ To observe the result, we can wrap this node & drive it with some test data. Not
 }
 ```
 
-As we can see, the output of the ```flow/Syncer``` is a dictionary of it's input values - as a result, it can also be used for constructing data, as demonstrated in later examples.
+As we can see, the output of the ```flow/Syncer``` is a dictionary of its input values - as a result, it can also be used for constructing data, as demonstrated in later examples.
 
 ## Example - Using parameters with enumeration nodes
 
@@ -74,7 +74,7 @@ As we can see, the output of the ```flow/Syncer``` is a dictionary of it's input
 >
 > Place node **tutorials/flow/Repeater example**
 
-As mentioned [previously](../1_1_junctions/README.md), iterators & it's derivatives (filters, mappers, reducers) create a new signal with a different tag for each item they process, which cannot be directly synchronized with the original signal. 
+As mentioned [previously](../1_1_junctions/README.md), iterators & its derivatives (filters, mappers, reducers) create a new signal with a different tag for each item they process, which cannot be directly synchronized with the original signal. 
 
 The nodes that have this characteristics are the:
 - ```data/array/Iterator```
@@ -111,10 +111,10 @@ The repeater will perform the same signal forking as the mapper node, creating a
 To summarize:
 
 - Let's place a ```data/array/Mapper``` and route the input array into it
-- Let's also connect it's ```item``` output to a ```number/Add``` node
+- Let's also connect its ```item``` output to a ```number/Add``` node
 - Place a ```data/array/Repeater```, and 
   - Connect the value & array inputs to it
-  - Connect it's output to the ```number/Add``` node
+  - Connect its output to the ```number/Add``` node
 - Finally, route the result of the ```number/Add``` node back to the mapper
 
 ### Test data
