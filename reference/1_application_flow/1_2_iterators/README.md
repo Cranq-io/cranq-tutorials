@@ -4,7 +4,7 @@ The closes analogy to an imperative "foreach" statement in Cranq is an "Iterator
 - ```data/array/Iterator``` to work with arrays
 - ```data/dictionary/Iterator``` for dictionaries/key-value pairs
 
-As it's name suggests, an iterator iterates through a data collection, and emits a signal with each element on it's output. 
+As its name suggests, an iterator iterates through a data collection, and emits a signal with each element on its output. 
 
 However, the iterator creates a new signal with distinct tags for each element - as a result:
 - The processing is parallel
@@ -17,7 +17,7 @@ However, the iterator creates a new signal with distinct tags for each element -
 >
 > Place node **tutorials/flow/Iterator**
 
-Consider a simple application, that takes an array as it's input, and outputs each element.
+Consider a simple application, that takes an array as its input, and outputs each element.
 
 ![](images/2021-07-09-12-34-21.png)
 
@@ -38,7 +38,7 @@ Take note of the output of this application:
 84 @start:6
 26 @start:7
 ```
-The logger being used here outputs the signal data, along with it's tag. 
+The logger being used here outputs the signal data, along with its tag. 
 
 Observing the tags here, we see that the iterator forked our original signal for each array item.
 
@@ -97,9 +97,9 @@ To perform the previous example of selecting the odd numbers from an input array
 
 Place an instance of the ```data/array/Filter``` node:
 - This node will iterate through each item in the array
-- Each item will appear on it's ```item``` output
+- Each item will appear on its ```item``` output
 - The result of the ```number/Odd tester``` node will determine whether the item will be included in the filtered resultset
-- The per-item processing is parallel, but the result is synchronized - the filter node will output an array of the filtered values on it's ```filtered``` output.
+- The per-item processing is parallel, but the result is synchronized - the filter node will output an array of the filtered values on its ```filtered``` output.
 
 ### Test data:
 
@@ -130,8 +130,8 @@ Let's take the previous problem, but this time, let's determine, whether the arr
 
 For this purpose, we can use the ```data/array/Reducer``` node, which maps the array to a single value. 
 - It does so, by iterating through each element, allowing the developer to  to inspect each array element, and calculate the result on the fly. 
-- Along with each ```item```, the node yields the current subresult on it's ```part reduced``` output, and expects the calculated subresult on it's input by the same name.
-- In our case, we route each ```item``` into the ```number/Odd tester``` node, and combine it's result with the current ```part reduced```, by using a ```boolean/Or``` gate
+- Along with each ```item```, the node yields the current subresult on its ```part reduced``` output, and expects the calculated subresult on its input by the same name.
+- In our case, we route each ```item``` into the ```number/Odd tester``` node, and combine its result with the current ```part reduced```, by using a ```boolean/Or``` gate
 - Make sure, to give a starter ```part reduced``` value on the ```initial``` input - in our case, let's give it a static "false" value
 
 ### Test data:

@@ -4,10 +4,10 @@ Mappers can be used to map each element of an array to a value, typically calcul
 
 ![](images/2021-07-19-07-33-22.png)
 
-- The node takes an array as it's input
-- It iterates through the array items, and yields each on it's ```item``` output
+- The node takes an array as its input
+- It iterates through the array items, and yields each on its ```item``` output
 - The developer should perform the required transformations, and route it back to the ```mapped item``` input, with the same tag
-- Once each element is accounted for in the ```mapped item``` input, the node yields the collected results on it's ```mapped``` output
+- Once each element is accounted for in the ```mapped item``` input, the node yields the collected results on its ```mapped``` output
 
 > **_More info:_**
 >
@@ -160,7 +160,7 @@ As a reminder, here is our test dataset:
 - Place an instance of node ```tutorials/data/Syncer (build dictionary) example```, and connect it to a ```flow/Splitter```
   
    ![](images/2021-07-19-08-26-13.png)
-  - The splitter will split the data to Employee and Department collections - to do this, assign the static value ```["Employees","Departments"]``` to it's ```fields``` input
+  - The splitter will split the data to Employee and Department collections - to do this, assign the static value ```["Employees","Departments"]``` to its ```fields``` input
 - Create a node with a single output, an input for ```emps``` and ```depts```, then connect it to the outputs of the ```flow/Splitter```
 
 
@@ -178,7 +178,7 @@ As a reminder, here is our test dataset:
 
 - We also need to connect the employee list to this node - however, as the mapper is an enumeration node, the ```emps``` input of the outer node can't be connected directly
   - Instead, we have to route it through a ```data/array/Repeater``` node
-  - Connect the ```emps``` input to it's ```data``` input, and ```depts``` to ```array```
+  - Connect the ```emps``` input to its ```data``` input, and ```depts``` to ```array```
 
 > **_More info:_**
 >
@@ -188,7 +188,7 @@ As a reminder, here is our test dataset:
 
 - At this point, we have a list of employees for the department under iteration - we can now use the node from the previous example, ```tutorials/data/Mapper (get emp names) example``` to extract their names
 - Then a ```dictionary/Item setter``` to merge the list of names into the deparment entry emitted from the mapper
-  - Connect the name list to it's ```value``` input, and the ```item``` output of the mapper to ```dict```
+  - Connect the name list to its ```value``` input, and the ```item``` output of the mapper to ```dict```
   - Connect the ```dict``` output back to the mapper's ```mapped item``` input, concluding our iteration
 - Finally, the ```mapped``` output of the mapper can be wired to out node output
 

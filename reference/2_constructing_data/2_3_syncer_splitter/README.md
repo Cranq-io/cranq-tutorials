@@ -1,9 +1,9 @@
 # Using the flow/Syncer & Splitter nodes for data manipulation
 
-The ```flow/Syncer``` node in Cranq is a synchronization primitive, that combines the data content of it's input signals into a single output stucture. It can be construct both arrays & dictionaries.
+The ```flow/Syncer``` node in Cranq is a synchronization primitive, that combines the data content of its input signals into a single output stucture. It can be construct both arrays & dictionaries.
 
 The syncer node features a dynamic input port set (spread port):
-- It's ```fields``` input takes an array, which determines the quantity and names of its input ports
+- Its ```fields``` input takes an array, which determines the quantity and names of its input ports
 - The names of these input ports will determine whether the node creates an array, or a dictionary
 
 For example:
@@ -38,7 +38,7 @@ Let's take the schema created in [Example - Building a record](../2_2_builders/R
     ```
 - Merge them together with the flow/Syncer node
   - Note, that we are using the array-building feature of the node in this example
-  - We use  ```[0, 1]``` as it's fields input
+  - We use  ```[0, 1]``` as its fields input
 
 
 ### Sample output:
@@ -125,9 +125,9 @@ STO?
 >
 > Place node **tutorials/data/Splitter (split dicionary) example**
 
-The ```flow/Syncer``` has an inverse node, ```flow/Splitter```, which can be used to split an array or dictionary by it's elements or items.
+The ```flow/Syncer``` has an inverse node, ```flow/Splitter```, which can be used to split an array or dictionary by its elements or items.
 
-It's signature and mechanism is very similar to the syncer, but in this case, the output nodes are dynamic.
+Its signature and mechanism is very similar to the syncer, but in this case, the output nodes are dynamic.
 
 Taking the previous example, let's take the just created repository node, and split it up again to "Employees" and "Departments"
 

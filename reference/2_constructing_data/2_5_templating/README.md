@@ -4,7 +4,7 @@ Cranq offers a built-in templating node, ```string/Template filler``` that can a
 
 The node takes a string template and a dictionary or parameters.
 - The ```template``` should contain the tokens to be replaced, in the following format: ```{key}```
-- The ```parameters``` input accepts a dictionary - it's keys will be matched against the discovered tokens in the ```template```, and replaced with the corresponding values
+- The ```parameters``` input accepts a dictionary - its keys will be matched against the discovered tokens in the ```template```, and replaced with the corresponding values
 
 
 ## Example - Filling string templates
