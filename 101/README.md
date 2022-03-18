@@ -1,9 +1,5 @@
 # CRANQ 101
 
-:q :q
-
-:q :q
-
 ## First steps - From "Hello World" to "List iterator greater"
 
 ### Step 1 - Hello Word
