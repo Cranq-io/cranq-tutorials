@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CRANQ tutorials](README.md)
+* [CRANQ Resources Centre](README.md)
 * [CRANQ 101](101/README.md)
 * [CRANQ http-request](http\_request/README.md)
 * [CRANQ reference course](reference/README.md)

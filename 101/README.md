@@ -1,18 +1,25 @@
+---
+description: >-
+  Enjoy your very first steps on CRANQ.  It's easy to get started with CRANQ,
+  and soon you will be finding and connecting components, and bringing your
+  dream to life.
+---
+
 # CRANQ 101
 
-## First steps - From "Hello World" to "List iterator greater"
+## First steps - From "Hello World" to "List iterator"
 
 ### Step 1 - Hello Word
 
-Objective: Write "Hello World" to the console
+Objective:  We're going to write "Hello World" to the console using CRANQ.  PS You should already have installed CRANQ.
 
 New concepts:
 
 * connecting nodes
 * running the app
 * checking the output
-* deleting connection
-* inserting new node from search
+* deleting a connection
+* inserting a new node from search
 * setting descriptive node names
 * storing/reading static values in/from \[Store] nodes
 * logging data to the output
@@ -23,7 +30,7 @@ Simple Hello World app in Cranq"
 
 ### Step 2 - Concatenate strings
 
-Objective: append "!"
+Objective: Append "!" to "Hello World" using a Concatenator node.
 
 New concepts:
 
@@ -52,7 +59,7 @@ New concepts:
 
 ### Step 4 - Create a reusable custom node
 
-Objective: Wrap multi step transformaion into a reusable structure node
+Objective: Wrap multi-step transformation into a reusable Structure node
 
 New concepts:
 
@@ -71,7 +78,7 @@ New concepts:
 
 ### Step 5 - Reuse custom node
 
-Objective: Reuse the created custom node with different parameter
+Objective: Reuse the created custom node with different parameters
 
 New concepts:
 
@@ -84,7 +91,7 @@ New concepts:
 
 ### Step 6 - Get parameters from a list and iterate
 
-Objective: replace multiple parameters by an array and iterate through
+Objective: Replace multiple parameters by an array, and iterate through that array
 
 New concepts:
 
