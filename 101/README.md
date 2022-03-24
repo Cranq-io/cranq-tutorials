@@ -9,7 +9,7 @@ description: >-
 
 ## First steps - From "Hello World" to "List iterator"
 
-### Step 1 - Hello Word
+### Step 1 - "Hello World"
 
 Objective:  We're going to write "Hello World" to the console using CRANQ.  PS You should already have installed CRANQ.
 
