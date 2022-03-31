@@ -1,15 +1,22 @@
 ---
-description: You've found us.  Get ready for an intuitive new approach to programming!
+description: Start your journey to CRANQ mastery here.  BTW, the Basic package is Free :-)
 ---
 
-# CRANQ Resources Centre
+# CRANQ Academy
 
-CRANQ is an IDE with integrated repository, designed for building in a visual programming paradigm.  CRANQ code can be made a lot faster, and with fewer bugs than text code.  CRANQ's visual programming paradigm means that junior coders can be onboarded faster, and conversations with non-technical stakeholders are fuller and clearer. &#x20;
+Do you want to make coding quicker?  Do you want to show and demonstrate your code in a more visual way?  CRANQ is a new way to program in a visual way, that lets you work a lot faster, and with fewer bugs than text code.  CRANQ's IDE is fully integrated with its repository, and designed for building in a simple but flexible visual programming paradigm.
+
+CRANQ doesn't need a lot of prior programming experience.  Follow the tutorials in this section and pretty soon you will be shipping functionality like a pro.
+
+Oh, by the way, you're using the Basic package right now, and there's nothing to pay.
+
+
 
 ## Your Roadmap
 
 
 
-1. Head over to the [CRANQ website](https://cranq.io), and [download CRANQ](https://cranq.io/go/app-tutorials) for your platform, if you haven't already!
-2. Check out the [CRANQ 101 video course](https://cranq.io/go/app-tutorials) to learn the basics!
-3. Follow, or take inspiration from our [reference course](reference/) to learn about various aspects of the language & get examples for typical development scenarios!
+1. Head over to the [CRANQ website](https://cranq.io), and download CRANQ for your platform, if you haven't already!  It's easy, just click 'Download' in the hp top nav, and then open the file.
+2. Move on to the CRANQ 101 video course at the base of the page to learn the basics!
+3. Look up specific reference questions in our comprehensive database.  You 'll find a ton of information in there that will help you to solve problems
+4. Give us a shout on our [Discord Channel](https://discord.gg/UgsjNtZW65) if you need further help!
