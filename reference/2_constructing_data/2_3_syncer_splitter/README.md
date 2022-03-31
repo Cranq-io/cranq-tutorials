@@ -1,31 +1,33 @@
 # Using the flow/Syncer & Splitter nodes for data manipulation
 
-The ```flow/Syncer``` node in Cranq is a synchronization primitive, that combines the data content of it's input signals into a single output stucture. It can be construct both arrays & dictionaries.
+The `flow/Syncer` node in Cranq is a synchronization primitive, that combines the data content of it's input signals into a single output stucture. It can be construct both arrays & dictionaries.
 
 The syncer node features a dynamic input port set (spread port):
-- It's ```fields``` input takes an array, which determines the quantity and names of its input ports
-- The names of these input ports will determine whether the node creates an array, or a dictionary
+
+* It's `fields` input takes an array, which determines the quantity and names of its input ports
+* The names of these input ports will determine whether the node creates an array, or a dictionary
 
 For example:
- - ```fields``` value ```[0,1,2]``` will result in ports ```0, 1, 2```, and will yield an array with 3 elements
- - ```fields``` value ```["a","b","c"]``` will result in ports ```a, b, c```, and will produce a dictionary with 3 elements
 
-> **_More info:_**
+* `fields` value `[0,1,2]` will result in ports `0, 1, 2`, and will yield an array with 3 elements
+* `fields` value `["a","b","c"]` will result in ports `a, b, c`, and will produce a dictionary with 3 elements
+
+> _**More info:**_
 >
-> For application flow use cases of the syncer/splitter nodes, check out  **[Application flow - Synchronization](../../1_application_flow/1_3_synchronization/README.md)**
+> For application flow use cases of the syncer/splitter nodes, check out [**Application flow - Synchronization**](../../1\_application\_flow/1\_3\_synchronization/)
 
 ## Example - Building arrays with values
 
-> **_Try out:_**
+> _**Try out:**_
 >
 > Place node **tutorials/data/Syncer (build emps array) example**
 
-STO? source node?
-Let's take the schema created in [Example - Building a record](../2_2_builders/README.md), and construct a collection of employee records:
+STO? source node? Let's take the schema created in [Example - Building a record](../2\_2\_builders/), and construct a collection of employee records:
 
 ![](images/2021-07-15-15-51-55.png)
 
-- Let's create 2 employee records, by channeling our test data into a ```data/dictionary/Builder/keys & values``` node, as illustrated in the [example](../2_2_builders/README.md) mentioned above:
+*   Let's create 2 employee records, by channeling our test data into a `data/dictionary/Builder/keys & values` node, as illustrated in the [example](../2\_2\_builders/) mentioned above:
+
     ```json
     # schema:
     ["EmpID","Name","Dept","HireDate","Salary"]
@@ -36,10 +38,9 @@ Let's take the schema created in [Example - Building a record](../2_2_builders/R
     # record_2:
     [101,"Sue","Facilities","2019-02-13",1500]
     ```
-- Merge them together with the flow/Syncer node
-  - Note, that we are using the array-building feature of the node in this example
-  - We use  ```[0, 1]``` as it's fields input
-
+* Merge them together with the flow/Syncer node
+  * Note, that we are using the array-building feature of the node in this example
+  * We use `[0, 1]` as it's fields input
 
 ### Sample output:
 
@@ -60,13 +61,11 @@ Let's take the schema created in [Example - Building a record](../2_2_builders/R
     "Salary": 1500
   }
 ]
-
 ```
-
 
 ## Example - Combining records
 
-> **_Try out:_**
+> _**Try out:**_
 >
 > Place node **tutorials/data/Syncer (build dictionary) example**
 
@@ -75,11 +74,12 @@ In this example, let's create a collection describing the departments, and combi
 ![](images/2021-07-15-16-25-44.png)
 
 STO?
-- Let's combine the node created in the previous [Example - Building arrays with values]() with a department collection - you don't have to create them now, they are included as:
-  - ```tutorial/data_constr/Syncer (build emps array) example```
-  - ```tutorials/data/Syncer (build depts array) example``` 
-- Connect the employee & department records together with a flow/Syncer node
-  - Use the values ```["Employees","Departments"]``` as the "fields" input
+
+* Let's combine the node created in the previous [Example - Building arrays with values](./) with a department collection - you don't have to create them now, they are included as:
+  * `tutorial/data_constr/Syncer (build emps array) example`
+  * `tutorials/data/Syncer (build depts array) example`
+* Connect the employee & department records together with a flow/Syncer node
+  * Use the values `["Employees","Departments"]` as the "fields" input
 
 ### Sample output:
 
@@ -118,14 +118,13 @@ STO?
 }
 ```
 
-
 ## Example - Splitting records by keys
 
-> **_Try out:_**
+> _**Try out:**_
 >
 > Place node **tutorials/data/Splitter (split dicionary) example**
 
-The ```flow/Syncer``` has an inverse node, ```flow/Splitter```, which can be used to split an array or dictionary by it's elements or items.
+The `flow/Syncer` has an inverse node, `flow/Splitter`, which can be used to split an array or dictionary by it's elements or items.
 
 It's signature and mechanism is very similar to the syncer, but in this case, the output nodes are dynamic.
 
@@ -133,9 +132,9 @@ Taking the previous example, let's take the just created repository node, and sp
 
 ![](images/2021-07-20-13-11-52.png)
 
-- Re-use the created node from the previous example, or place an instance of ```tutorials/data/Syncer (build dictionary) example```
-- Place a ```flow/Splitter``` node, and assign the static value ```["Employees", "Departments"]``` to the ```fields``` input
-- Note, that this will also work for arrays - in that case, the desired array indexes should be specified
+* Re-use the created node from the previous example, or place an instance of `tutorials/data/Syncer (build dictionary) example`
+* Place a `flow/Splitter` node, and assign the static value `["Employees", "Departments"]` to the `fields` input
+* Note, that this will also work for arrays - in that case, the desired array indexes should be specified
 
 ### Sample output:
 
