@@ -4,9 +4,11 @@ description: Start your journey to CRANQ mastery here.  BTW, the Basic package i
 
 # CRANQ Academy
 
-![A Better Way](.gitbook/assets/image.png)
-
 Do you want to make coding quicker?  Do you want to show and demonstrate your code in a more visual way?  CRANQ is a new way to program in a visual way, that lets you work a lot faster, and with fewer bugs than text code.  CRANQ's IDE is fully integrated with its repository, and designed for building in a simple but flexible visual programming paradigm.
+
+{% embed url="https://youtu.be/7GgD6-2mBoU" %}
+Finding NFT Duplicates and Wrapping in an API
+{% endembed %}
 
 CRANQ doesn't need a lot of prior programming experience.  Follow the tutorials in this section and pretty soon you will be shipping functionality like a pro.
 
