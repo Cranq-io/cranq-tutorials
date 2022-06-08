@@ -1,6 +1,5 @@
 ---
-description: >-
-Covers CRANQ's public node repository. Why it's necessary, what its
+description: Covers CRANQ's public node repository. Why it's necessary, what its
 advantages are, how it's populated.
 ---
 
