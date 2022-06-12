@@ -1,13 +1,13 @@
 ---
 description: >-
-  This lesson establishes the fundamental concepts in CRANQ's flavor of dataflow
-  programming: nodes, connections, signals, and parameters. What they are, and
-  how to use them.
+  This lesson establishes the basic concepts in CRANQ's flavor of dataflow
+  programming: nodes, connections, signals, parameters, and tags. What they are,
+  and how to use them.
 ---
 
 # 103: Nodes & connections
 
-CRANQ, as a visual programmign language, is based on a special flavor of [dataflow programming](https://en.wikipedia.org/wiki/Dataflow\_programming). The terms below outline basic concepts of this paradigm.
+CRANQ, as a visual programming language, is based on a special flavor of [dataflow programming](https://en.wikipedia.org/wiki/Dataflow\_programming).
 
 :bulb: The simplest illustration of dataflow programming is doing laundry:
 
