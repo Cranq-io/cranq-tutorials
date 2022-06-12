@@ -1,8 +1,8 @@
 # Table of contents
 
 * [CRANQ: Introduction](README.md)
-* [Course](course/README.md)
-  * [Basics](course/basics/README.md)
+* [🎓 Course](course/README.md)
+  * [🐣 Basics](course/basics/README.md)
     * [101: What is CRANQ?](course/basics/101/README.md)
     * [102: Getting started](course/basics/102/README.md)
     * [103: Nodes & connections](course/basics/103/README.md)
@@ -13,6 +13,7 @@
   * [Code node](terms/code-node.md)
   * [Structure node](terms/structure-node.md)
   * [The repo](terms/the-repo.md)
+  * [Data types](terms/data-types.md)
 * [CRANQ 101](101/README.md)
 * [CRANQ http-request](http\_request/README.md)
 * [CRANQ reference course](reference/README.md)

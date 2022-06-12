@@ -20,7 +20,7 @@ In CRANQ, you can build your own by mixing, composing existing nodes without lea
 
 ## ...to a professional developer?
 
-There are some caveats, but the fact is, _CRANQ code is just code_. It's tied to a hierarchical [dataflow](https://en.wikipedia.org/wiki/Dataflow\_programming) graph structure, but when you look at the [Node.js](https://nodejs.org) JavaScript that it compiles to, it's really just the user-defined code of [_code_ _node_](../../../terms/code-node.md)s, plus code generated for connections and composition.
+:wrench: There are some caveats, but the fact is, _CRANQ code is just code_. It's tied to a hierarchical [dataflow](https://en.wikipedia.org/wiki/Dataflow\_programming) graph structure, but when you look at the [Node.js](https://nodejs.org) JavaScript that it compiles to, it's really just the user-defined code of [_code_ _node_](../../../terms/code-node.md)s, plus code generated for connections and composition.
 
 So in essence, **CRANQ is a framework and visual IDE for dataflow programming**.
 
@@ -32,7 +32,7 @@ And **the CRANQ repo is**, perhaps CRANQ's most appealing feature. It's a **glob
 
 CRANQ is also the first visual IDE to incorporate **comprehensive** [**debug**](../106/) features. When running your program from the editor, activity and traffic can be observed real-time. Identifying and eliminating bugs visually not only becomes possible through CRANQ, but it's significantly faster than debugging text-code.
 
-Finally, for a low-code tool, CRANQ **fits** exceptionally well **into existing development workflows**. You have the option to put CRANQ code under version control (eg. Git), and to deploy it onto your existing infrastructure. It also integrates well with existing Node.js code in both directions: use npm packages in CRANQ, and use compiled CRANQ code in JavaScript projects.
+:wrench: Finally, for a low-code tool, CRANQ **fits** exceptionally well **into existing development workflows**. You have the option to put CRANQ code under version control (eg. Git), and to deploy it onto your existing infrastructure. It also integrates well with existing Node.js code in both directions: use npm packages in CRANQ, and use compiled CRANQ code in JavaScript projects.
 
 ## Glimpse of the future
 
