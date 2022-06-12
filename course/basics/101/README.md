@@ -38,4 +38,4 @@ CRANQ is also the first visual IDE to incorporate **comprehensive** [**debug**](
 
 CRANQ is being used in production today - but there are still lots of exciting features to come. Each of those features will multiply the productivity and intuitiveness of CRANQ.
 
-Imagine an engine that delivers you just the right piece of code without asking. Or one that makes suggestions to replace components with faster, more robust ones. Or, a monitoring system that lets you spot and fix problems in production. These are just a few examples, but they are coming - so the CRANQ app you start building today will reap the benefits tomorrow.
+:star: Imagine an engine that delivers you just the right piece of code without asking. Or one that makes suggestions to replace components with faster, more robust ones. Or, a monitoring system that lets you spot and fix problems in production. These are just a few examples, but they are coming - so the CRANQ app you start building today will reap the benefits tomorrow.

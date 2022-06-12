@@ -9,7 +9,7 @@
     * [104: The CRANQ repo](course/basics/104/README.md)
     * [105: Composition](course/basics/105/README.md)
     * [106: Debugging](course/basics/106/README.md)
-* [Terms](terms/README.md)
+* [📘 Terms](terms/README.md)
   * [Code node](terms/code-node.md)
   * [Structure node](terms/structure-node.md)
   * [The repo](terms/the-repo.md)
