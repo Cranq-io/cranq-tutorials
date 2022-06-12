@@ -2,6 +2,7 @@
 
 * [CRANQ: Introduction](README.md)
 * [🎓 Course](course/README.md)
+  * [Legend](course/legend.md)
   * [🐣 Basics](course/basics/README.md)
     * [101: What is CRANQ?](course/basics/101/README.md)
     * [102: Getting started](course/basics/102/README.md)

@@ -14,7 +14,7 @@ However, since CRANQ has this unique quality of uniting the spectrum that stretc
 
 If you're familiar with workflow automation platforms like [Zapier](https://zapier.com/), [Integromat](https://www.integromat.com/en), or [N8N](https://n8n.io/), then the best way to put it would be that **CRANQ is an infinitely extensible Zapier**.
 
-After all, you can build workflows in CRANQ out of easy to use, high-level nodes representing popular services such as Airtable, or Google Maps, but the range of connectors extends beyond what the developer of the platform provides.
+After all, you can build workflows in CRANQ out of easy to use, high-level nodes representing popular services such as Airtable, or Google Maps, but the range of connectors extends beyond what we, the CRANQ team, the developers of the platform, provide.
 
 In CRANQ, you can build your own by mixing, composing existing nodes without leaving the platform.
 
