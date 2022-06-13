@@ -65,4 +65,4 @@ The concept of the tag is the secret sauce in CRANQ's flavor of dataflow program
 
 :wrench: The tag serves other purposes, eg. indicating signal multiplicity at runtime. Typically, nodes that iterate over an array or dictionary, emit signals for each iteration with unique tags, so that synchronization of those signals remain consistent.
 
-Synchronizing concurrent signals into [records](../../../terms/data-types.md#record) is one of the most common operations in CRANQ. All you need to do to achieve this is - set up a `flow/Syncer` node with the list of field names, and connect the corresponding outputs to the syncer's inputs. The output will be a single record containing each input as a field.
+Synchronizing concurrent signals into [records](../../advanced/data-types.md#record) is one of the most common operations in CRANQ. All you need to do to achieve this is - set up a `flow/Syncer` node with the list of field names, and connect the corresponding outputs to the syncer's inputs. The output will be a single record containing each input as a field.

@@ -1,21 +1,15 @@
 ---
-description: The CRANQ course takes you from basic concepts all the way to building, debugging, deploying, and maintaining CRANQ low-code apps with confidence and speed.
+description: >-
+  The CRANQ course takes you from basic concepts all the way to building,
+  debugging, deploying, and maintaining CRANQ low-code apps with confidence and
+  speed.
 ---
 
-# CRANQ Course
+# 🎓 Course
 
-## Contents
+The icons below are used throughout the lessons to mark certain paragraphs.
 
-### Basics
-
-* [101: What is CRANQ?](basics/101/README.md)
-* [102: Getting started](basics/102/README.md)
-* [103: Nodes & connections](basics/103/README.md)
-* [104: The CRANQ repo](basics/104/README.md)
-* [105: Composition](basics/105/README.md)
-* [106: Debugging](basics/106/README.md)
-
-### Advanced
-
-### How-to
-
+* :information\_source:: Information that is not vital for understanding the topic at hand, but helps putting it into context, especially related to future releases of CRANQ.
+* :exclamation:: Things to look out for when working with CRANQ.
+* :wrench:: Additional technical insight to those coming to CRANQ from a developer background.
+* :bulb:: Explanation which makes it easier to understand the related topic.
