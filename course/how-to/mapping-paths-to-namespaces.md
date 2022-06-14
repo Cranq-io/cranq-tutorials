@@ -1,0 +1,2 @@
+# Mapping paths to namespaces
+

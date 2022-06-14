@@ -23,6 +23,8 @@ Complex nodes are sometimes referred to as _components_ throughout the documenta
 
 Most nodes have internal structure made up of _child_ nodes and connections between them. Some nodes, especially the most fundamental ones, are implemented using text code, like JavaScript.
 
+We call the definition of a node the _prototype_. Prototypes describe a node's interface: input and output ports, including data types and other attibutes, as well as the implementation - structure or code, but _not_ its parameter values. When we place nodes inside other nodes as children, we call those _instances_. Instances inherit the interface and implementation of the underlying prototype, extended with parameter values set on input ports.
+
 Nodes may or may not have internal state. Those that do, like database connectors, are somewhat harder to test and debug, so it's a good idea to keep them to a minimum.
 
 :information\_source: Documenting statefulness of nodes is a planned feature of CRANQ, aimed at aiding testing and qualitative scoring of nodes in the [repository](../104/).

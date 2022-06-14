@@ -16,6 +16,7 @@
     * [Data types](course/advanced/data-types.md)
   * [🧑🍳 How to](course/how-to/README.md)
     * [Synchronizing signals](course/how-to/synchronizing-signals.md)
+    * [Mapping paths to namespaces](course/how-to/mapping-paths-to-namespaces.md)
 * [CRANQ 101](101/README.md)
 * [CRANQ http-request](http\_request/README.md)
 * [CRANQ reference course](reference/README.md)
