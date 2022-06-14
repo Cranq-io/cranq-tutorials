@@ -61,8 +61,6 @@ Parameters set on parent nodes' input ports propagate via connections to child n
 
 Identifies the origin of a signal.
 
-The concept of the tag is the secret sauce in CRANQ's flavor of dataflow programming. Its primary purpose is synchronization of signals that "go together". For instance, in the case of a node that adds two numbers together (eg. `number/Adder`), the two independent input signals must be recognized as a pair, so the node can calculate their sum. In cases like that, the output inherits the tag of the correspondig inputs.
+The concept of the tag is the secret sauce in CRANQ's flavor of dataflow programming. Its primary purpose is [synchronization](../../how-to/synchronizing-signals.md) of signals that "go together". For instance, in the case of a node that adds two numbers together (eg. `number/Adder`), the two independent input signals must be recognized as a pair, so the node can calculate their sum. In cases like that, the output inherits the tag of the correspondig inputs.
 
 :wrench: The tag serves other purposes, eg. indicating signal multiplicity at runtime. Typically, nodes that iterate over an array or dictionary, emit signals for each iteration with unique tags, so that synchronization of those signals remain consistent.
-
-Synchronizing concurrent signals into [records](../../advanced/data-types.md#record) is one of the most common operations in CRANQ. All you need to do to achieve this is - set up a `flow/Syncer` node with the list of field names, and connect the corresponding outputs to the syncer's inputs. The output will be a single record containing each input as a field.
