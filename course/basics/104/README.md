@@ -12,7 +12,7 @@ Unlike _GitHub_, the code you find in the CRANQ repo can be put to use right awa
 
 Unlike code on _GitHub_, CRANQ code is an _actual database_ - the representations of hierarchical dataflow graphs - and thus, is a much richer medium than text code for expressing what components are expected to do.
 
-:information\_source: CRANQ's natural progression will take it way beyond static typing. It's going to support built-in code attributes like statefulness, synchronicity, and signal multiplicity; qualitative assessment based on documentation, unit tests, and popularity; and a recommendation engine based on all of these, predicting the next component the user needs.
+:information\_source: CRANQ's natural progression will take it way beyond static typing. It's going to support built-in code attributes like statefulness, synchronicity, concurrency, and signal multiplicity; qualitative assessment based on documentation, unit tests, and popularity; and a recommendation engine based on all of these, predicting the next component you need.
 
 Unlike _npm_, the CRANQ repo hosts individual components instead of packages of components. Your running CRANQ program will only contain code that it actually uses.
 
@@ -28,7 +28,7 @@ The CRANQ repo aspires to be the place where all future code will be stored and 
 
 Since the CRANQ repo is the _one_ place for storing CRANQ code, and components are made to be reusable individually, it makes sense to organize them into a hierarchy of _namespaces_. Namespaces are ephemeral - they don't exist in themselves, only inasmuch as a node declares them. For instance, the node `data/array/Mapper` belongs to the `data/array` and `data` namespaces, but if someone were to rename it to `data/list/Mapper`, it would belong to `data/list` instead of `data/array` onward, leaving all other nodes in `data/array` unaffected.
 
-:information\_source: Private namespaces will soon provide a way for users to _own_ portions of the public repo, and store their code there. Eg. the namespace `@cranq` would belong to CRANQ LTD.
+:information\_source: Private namespaces will soon provide a way for you to _own_ portions of the public repo, and store your code there. Eg. the namespace `@cranq` would belong to CRANQ LTD.
 
 ## Storage
 
