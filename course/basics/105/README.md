@@ -32,7 +32,7 @@ In most cases though, such as communicating with an API endpoint, we needn't wor
 
 ## Grouping
 
-The process of grouping is fairly straightforward: select the nodes you want to group (cmd / ctrl + click), open the context menu on one of the selected nodes (right click), then pick "Group nodes". That's it.
+The process of grouping is fairly straightforward: select the nodes you want to group (Cmd / Ctrl + click), open the context menu on one of the selected nodes (right click), then pick "Group nodes". That's it.
 
 However, the way you group makes all the difference, as this is what imposes structure on code. _Well structured CRANQ code is easy to understand and navigate._
 
