@@ -63,14 +63,6 @@ A unit of data in flow. Signals traverse from output ports to connected input po
 
 A signal is made up of JSON data and a [tag](./#tag). This is important because in CRANQ, it doesn't matter in what order and when exactly are signals received. So in order to determine which signals belong together, we need some extra information - this is the tag.
 
-## Parameter
-
-A unit of static data. Instead of receiving them at runtime, parameters are applied once at at compile time. Because parameters have no role at runtime, they don't have tags associated with them.
-
-Parameters set on parent nodes' input ports propagate via connections to child nodes' input ports.
-
-:exclamation: Input ports can't have both a parameter set and receive signals through a connection. In the CRANQ app, setting a parameter will remove any connection on the affected input port, and likewise, making a connection will clear any parameter set on it.
-
 ## Tag
 
 Identifies the origin of a signal.
@@ -82,3 +74,11 @@ The concept of the tag is the secret sauce in CRANQ's flavor of dataflow program
 Any given port, in optimal circumstances, would not receive or send a signal with the same tag more than once during the program's lifecycle. When they do, it usually a sign of potential bugs.
 
 :bulb: In most cases nodes send their output with the input signal's original tag.
+
+## Parameter
+
+A unit of static data. Instead of receiving them at runtime, parameters are applied once at compile time. Because parameters have no role at runtime, they don't have tags associated with them.
+
+Parameters set on parent nodes' input ports propagate via connections to child nodes' input ports.
+
+:exclamation: Input ports can't have both a parameter set and receive signals through a connection. In the CRANQ app, setting a parameter will remove any connection on the affected input port, and likewise, making a connection will clear any parameter set on it.
