@@ -26,7 +26,7 @@ So in essence, **CRANQ is a framework and visual IDE for dataflow programming**.
 
 ## What makes CRANQ different?
 
-First of all, **CRANQ is general-purpose**, and as such, first of its kind. It's a low-code platform that you can use to code whatever you want. At the moment it's most suited to building APIs, more specifcally, Web3 APIs, but the possibilties are only limited by the (ever growing) contents of the CRANQ [repository](../../advanced/the-repo.md).
+First of all, **CRANQ is general-purpose**. It's a low-code platform that you can use to code whatever you want. At the moment it's most suited to building APIs, more specifcally, Web3 APIs, but the possibilties are only limited by the (ever growing) contents of the CRANQ [repository](../../advanced/the-repo.md).
 
 And **the CRANQ repo is**, perhaps CRANQ's most appealing feature. It's a **global, extensible** database of code and resources that is **integrated** into the platform. Compared to Zapier's selection of connectors, it's extensible; and as opposed to eg. [npm](https://npmjs.com) or [GitHub](https://github.com), you can drag-and-drop code from it right into your app.
 
