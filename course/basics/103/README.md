@@ -5,9 +5,9 @@ description: >-
   and how to use them.
 ---
 
-# 103: Nodes & connections
+# 102: Nodes & connections
 
-CRANQ, as a visual programming language, is based on a special flavor of [dataflow programming](https://en.wikipedia.org/wiki/Dataflow\_programming).
+CRANQ, as a programming language, is based on a special flavor of [dataflow programming](https://en.wikipedia.org/wiki/Dataflow\_programming).
 
 :bulb: The simplest illustration of dataflow programming is doing laundry:
 
