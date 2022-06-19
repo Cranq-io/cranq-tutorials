@@ -19,15 +19,27 @@ CRANQ, as a programming language, is based on a special flavor of [dataflow prog
 
 _The_ unit of processing in CRANQ. It takes data from [signals](./#signal) and [parameters](./#parameter) through input [ports](./#port), processes the data, and sends the result via output [ports](./#port).
 
-Unconnected nodes, especially as stored in the [repo](../104/), will be referred to as _components_ throughout the documentation.
+Most nodes have internal _structure_ made up of _child_ nodes and connections between them. Some nodes, especially the most fundamental ones, are implemented using text code, like JavaScript.
 
-Most nodes have internal structure made up of _child_ nodes and connections between them. Some nodes, especially the most fundamental ones, are implemented using text code, like JavaScript.
-
-We call the definition of a node the _prototype_. Prototypes describe a node's interface: input and output ports, including data types and other attibutes, as well as the implementation - structure or code, but _not_ its parameter values. When we place nodes inside other nodes as children, we call those _instances_. Instances inherit the interface and implementation of the underlying prototype, extended with parameter values set on input ports.
-
-Nodes may or may not have internal state. Those that do, like database connectors, are somewhat harder to test and debug, so it's a good idea to keep them to a minimum.
+Nodes may or may not have internal _state_. The ones that do, like database connectors, are somewhat harder to test and debug, so it's a good idea to keep the number of stateful nodes to a minimum.
 
 :information\_source: Documenting statefulness of nodes is a planned feature of CRANQ, aimed at aiding testing and qualitative scoring of nodes in the repository.
+
+### Prototypes and instances
+
+Nodes can be made reusable.
+
+Reusing nodes is very important because that's how we speed up development both for ourselves and for others.
+
+Reusable nodes are called _prototype_s.
+
+When we [add a node from the repo](../102/#step-2-add-nodes-from-the-repo), we're actually reusing a node. A node in the repo is therefore always a prototype - and when dragged to the canvas it becomes an _instance_ of a node.
+
+Node instances inherit every property of the prototype - ports, data types, structure, and code - but in addition to these, they can also have parameter values (see [below](./#parameter)) set on input ports. Instances can only exist in the context of a parent node, whereas prototypes live in the repo without context.&#x20;
+
+:bulb: If you've used [Sketch](https://www.sketch.com/) or [Figma](https://www.figma.com/) before, this concept may already be familiar. In Sketch, reusable elements are called _symbols_; in Figma - _components_, and they work pretty much the same way as prototypes do in CRANQ.
+
+:information\_source: In CRANQ, we also call prototypes components sometimes.
 
 ## Port
 
