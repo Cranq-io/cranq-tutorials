@@ -41,9 +41,7 @@ Behaviors also contribute to the qualitative scoring of nodes. Prototypes with m
 
 In the near future, CRANQ will support entering data through forms, making this process much easier.
 
-## Private namespaces
 
-Private namespaces will soon provide a way for you to _own_ portions of the public repo, and store your code there. Eg. the namespace `@cranq` would belong to CRANQ LTD.
 
 ## Typed traffic viewers
 
