@@ -9,7 +9,7 @@ description: >-
 
 The icons below are used throughout the lessons:
 
-* :information\_source:: Information that is not vital for understanding the topic at hand, but helps putting it into context, especially related to future releases of CRANQ.
+* :information\_source:: Information that helps putting things into context, eg. pointing out a limitation.
 * :exclamation:: Things to look out for when working with CRANQ.
 * :wrench:: Additional technical insight to those coming to CRANQ from a developer background.
 * :bulb:: Explanation which makes it easier to understand the related topic.

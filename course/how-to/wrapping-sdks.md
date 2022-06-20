@@ -1,2 +1,2 @@
-# ✏ Wrapping SDKs
+# Wrapping SDKs
 

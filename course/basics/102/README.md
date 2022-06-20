@@ -4,7 +4,7 @@ description: >-
   going to be pretty easy - you won't need any prior coding experience.
 ---
 
-# 101: Getting started
+# 102: Getting started
 
 <mark style="color:blue;">To get you started in CRANQ, we'll build a simple program that samples the current BTC-USD price via the</mark> [<mark style="color:blue;">Yahoo Finance</mark>](https://uk.finance.yahoo.com/) <mark style="color:blue;">API, and prints it to the console.</mark>
 
@@ -35,7 +35,7 @@ This first CRANQ program of ours will require only one parameter: the instrument
 
 1. Let's click on the `parameter` node's `data` input, and in the inspector panel that appears on the right, enter "BTC-USD" (including the double quotes) into the "value" field.
 
-:information\_source: [Currently](../../../roadmap.md#forms), parameters can only be entered as JSON.
+:information\_source: Parameters can only be entered as JSON for the time being. In the near future, CRANQ will support entering data through forms, making this process much easier.
 
 ## Step 4: Connect nodes
 

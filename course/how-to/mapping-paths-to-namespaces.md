@@ -1,2 +1,2 @@
-# ✏ Mapping paths to namespaces
+# Mapping paths to namespaces
 

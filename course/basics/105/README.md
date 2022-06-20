@@ -18,11 +18,7 @@ Alternatively, you can start by creating a blank node (right click on canvas -> 
 
 Finding components in the repo currently requires you to search for them by (parts of) their name, namespace, description, and keywords.
 
-Results will be ordered by:
-
-1. whether they're featured by CRANQ
-2. whether they are well documented (description filled out, icon assigned, etc.)
-3. whether the search term(s) appear in the name, keywords, or description
+:information\_source: In the future, finding components you actually _need_ will become much easier, faster, and more intuitive with the introduction of the cloud-based repo and the recommendation engine built on top of it.
 
 ## Making connections
 
