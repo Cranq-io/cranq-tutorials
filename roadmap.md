@@ -39,10 +39,16 @@ Behaviors also contribute to the qualitative scoring of nodes. Prototypes with m
 
 ## Forms
 
-In the near future, CRANQ will support entering data through forms, making this process much easier.
+Easy and meaningful data entry is what makes a low-code tool accessible and brings it closer the realm of no-code.
 
+Setting node parameters as JSON data may be a challenge, especially to no-code users, and considering complex data types.
 
+Fortunately, JSON can be broken down along structural lines into multi-level forms. With information built into data types about what kind of input field to use, we'll be able to generate forms for input ports of virtually any complexity.
 
 ## Typed traffic viewers
 
-In the not so distant future, they'll be able to show images, charts, tables, HTML, and others meaningfully.
+What forms are to input ports, are type-specific traffic viewers to output ports and connections.
+
+In order to work even faster in CRANQ, ideally, traffic viewers would display data according to its kind. Images should show as images, charts displayed as chats, HTML rendered as HTML, and so on.
+
+The same way we can associate form fields with types, we can do the same with traffic viewers.
