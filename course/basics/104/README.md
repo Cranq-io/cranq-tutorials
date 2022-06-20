@@ -26,9 +26,11 @@ The CRANQ repo aspires to be the place where all future code will be stored and 
 
 ## Namespaces
 
-Since the CRANQ repo is the _one_ place for storing CRANQ code, and components are made to be reusable individually, it makes sense to organize them into a hierarchy of _namespaces_. Namespaces are ephemeral - they don't exist in themselves, only inasmuch as a node declares them. For instance, the node `data/array/Mapper` belongs to the `data/array` and `data` namespaces, but if someone were to rename it to `data/list/Mapper`, it would belong to `data/list` instead of `data/array` onward, leaving all other nodes in `data/array` unaffected.
+Since the CRANQ repo is the _one_ place for storing CRANQ code, and components are made to be reusable individually, it makes sense to organize them into a hierarchy of _namespaces_.
 
 :information\_source: Private namespaces will soon provide a way for you to _own_ portions of the public repo, and store your code there. Eg. the namespace `@cranq` would belong to CRANQ LTD.
+
+Read more about namespaces [here](../../advanced/namespaces.md).
 
 ## Storage
 
