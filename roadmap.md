@@ -4,25 +4,42 @@ description: Important features we're committed to delivering
 
 # 🛬 Roadmap
 
-## Forms
+CRANQ is designed from the ground up to deliver never before seen heights of productivity, comprehension, and operational transparency. However, a system that can deliver all that is necessarily complex, and CRANQ - the way we always envisioned it - is based on a number of fundamental features working in concert.
 
-In the near future, CRANQ will support entering data through forms, making this process much easier.
+Some of these features we've already implemented, at least to the extent that they're usable:
 
-## Behaviors
+* building and navigation
+* basic repo search
+* running and downloading compiled program
+* activity view w/ JSON traffic inspectors
 
-Documenting statefulness of nodes is a planned feature of CRANQ, aimed at aiding testing and qualitative scoring of nodes in the repository.
-
-There are plans to make this more obvious. By extending nodes' interfaces with information about which outputs are expected to send signals in response to which inputs and under what circumstances, and comparing those expectations to the actually received and sent signals, CRANQ will be able to highlight nodes - also in red - where signals get stuck.
+But some others we're still working on. This is a collection of features from our backlog - each of which we expect will multply CRANQ's usefulness.
 
 ## Recommendation engine
 
-CRANQ's natural progression will take it way beyond static typing. It's going to support built-in code attributes like statefulness, synchronicity, concurrency, and signal multiplicity; qualitative assessment based on documentation, unit tests, and popularity; and ties them all together in a recommendation engine that will predict the next component you need.
+Perhaps the most important feature on our roadmap is the recommendation engine.
 
-In the future, finding components you actually _need_ will become much easier, faster, and more intuitive with the introduction of the cloud-based repo and the recommendation engine built on top of it.
+It's an extension of searching the repo, and it's main purpose is to predict the next component or the next connection you're going to place on the canvas. First, it looks at what you're building: nodes and connections already on the canvas. Then it matches them to the vast number of components available in the repo, and comes up with a list of nodes that it found to be used in similar contexts.
 
-In the future, CRANQ will use data types to find compatible nodes for possible connections.
+The matching process relies on component structure, data types, [behaviors](roadmap.md#behaviors), documentation quality, and even popularity to give you the best options.
 
-Code nodes don't do type checking at runtime because static type checking will be introduced soon, so a connection with mismatching data types (or other attributes) would be detected before the program runs.
+Beyond predicting the next best node, the recommendation engine has other uses, too. It can also tell you about your existing CRANQ program, drawing your attention to potential risks and errors. A connection between mismatching types? Shows up in red.
+
+## Behaviors
+
+In the world of classical software development, the best code is the one that can express what it's going to do without actually doing it.
+
+This has several benefits. Code like this is easier to read, easier to catch bugs, and easier to test. The more code tells about itself without running, the better.
+
+This is no different in CRANQ. But in CRANQ, we're dealing with code that is represented by structured data, not text. And structured data has the advantage of being extensible without sacrificing readability. So while in textual programming languages code can tell very little about itself (:wrench: class structure, arguments, & return value), CRANQ code can tell much more. The difference is what we call _behaviors_, and their purpose is help CRANQ developers build faster, and catch problems sooner.
+
+:wrench: Behaviors include: statefulness, synchronicity, mutation, signal multiplicity, signal routing.
+
+Behaviors also contribute to the qualitative scoring of nodes. Prototypes with more specific behaviors score higher.
+
+## Forms
+
+In the near future, CRANQ will support entering data through forms, making this process much easier.
 
 ## Private namespaces
 
