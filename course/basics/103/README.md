@@ -23,8 +23,6 @@ Most nodes have internal _structure_ made up of _child_ nodes and connections be
 
 Nodes may or may not have internal _state_. The ones that do, like database connectors, are somewhat harder to test and debug, so it's a good idea to keep the number of stateful nodes to a minimum.
 
-:information\_source: Documenting statefulness of nodes is a planned feature of CRANQ, aimed at aiding testing and qualitative scoring of nodes in the repository.
-
 ### Prototypes and instances
 
 Nodes can be made reusable.
@@ -48,8 +46,6 @@ Where nodes receive and send data. Data enters nodes through _input_ ports, eith
 Ports have data types associated with them, which helps determining whether a parameter or a connected port is compatible.
 
 Data types in CRANQ must be compatible with [JSON](https://en.wikipedia.org/wiki/JSON), including strings, numbers, boolean (true / false), null, arrays, and dictionaries.
-
-:information\_source: In the future, CRANQ will use data types to find compatible nodes for possible connections.
 
 ## Connection
 
