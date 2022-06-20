@@ -4,7 +4,7 @@ description: >-
   are, how it's populated.
 ---
 
-# 104: The CRANQ repo
+# 103: The CRANQ repo
 
 The centerpiece of CRANQ's innovation is the _repo_: it takes the gobal database of editable code of [GitHub](https://github.com), the universal reusability of [npm](http://npmjs.com) packages, and the ease of use of [Zapier](https://zapier.com) connectors, and blends them into an global, extensible component library that is accessible right from the CRANQ app.
 
@@ -12,7 +12,7 @@ Unlike _GitHub_, the code you find in the CRANQ repo can be put to use right awa
 
 Unlike code on _GitHub_, CRANQ code is an _actual database_ - the representations of hierarchical dataflow graphs - and thus, is a much richer medium than text code for expressing what components are expected to do.
 
-:information\_source: CRANQ's natural progression will take it way beyond static typing. It's going to support built-in code attributes like statefulness, synchronicity, concurrency, and signal multiplicity; qualitative assessment based on documentation, unit tests, and popularity; and a recommendation engine based on all of these, predicting the next component you need.
+:information\_source: CRANQ's natural progression will take it way beyond static typing. It's going to support built-in code attributes like statefulness, synchronicity, concurrency, and signal multiplicity; qualitative assessment based on documentation, unit tests, and popularity; and ties them all together in a recommendation engine that will predict the next component you need.
 
 Unlike _npm_, the CRANQ repo hosts individual components instead of packages of components. Your running CRANQ program will only contain code that it actually uses.
 
