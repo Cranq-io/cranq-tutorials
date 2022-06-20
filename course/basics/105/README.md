@@ -2,7 +2,7 @@
 description: Teaches you the basic steps to organize CRANQ code into reusable components.
 ---
 
-# 105: Composition
+# 104: Composition
 
 When you code in CRANQ you usually follow the pattern below.
 
@@ -12,7 +12,7 @@ When you code in CRANQ you usually follow the pattern below.
 4. Group related nodes
 5. Optionally, make the group reusable.
 
-Alternatively, you can start by creating a blank node (right click on canvas -> "Add node" -> New structure node), but it's rarely needed.
+Alternatively, you can start by creating a blank node (right click on canvas -> "Add node" -> "New Structure Node"), but it's rarely needed.
 
 ## Search
 
