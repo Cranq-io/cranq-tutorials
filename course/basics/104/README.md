@@ -38,4 +38,4 @@ Currently the repo is stored as a set of files - one JSON for each node prototyp
 
 :information\_source: Repo storage will not stop at files though. Our goal is to extend the file-based repository into a high performance database, so that storage will match the repo's internal representation, paving the way to a powerful component-recommendation engine.
 
-:wrench: Because version control is very important to any sowtware development work, and the cloud-based repository does not yet exist, CRANQ supports mapping multiple paths in the file system to [custom namespaces](../../how-to/mapping-paths-to-namespaces.md). This offers an easy and transparent way to blend public and private domains of CRANQ code into a single, extended repository.
+:wrench: Because version control is very important to any software development work, and the cloud-based repository does not yet exist, CRANQ supports mapping multiple paths in the file system to [custom namespaces](../../how-to/mapping-paths-to-namespaces.md). This offers an easy and transparent way to blend public and private domains of CRANQ code into a single, extended repository.
