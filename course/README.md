@@ -7,7 +7,7 @@ description: >-
 
 # 🎓 Course
 
-The icons below are used throughout the lessons to mark certain paragraphs.
+The icons below are used throughout the lessons:
 
 * :information\_source:: Information that is not vital for understanding the topic at hand, but helps putting it into context, especially related to future releases of CRANQ.
 * :exclamation:: Things to look out for when working with CRANQ.
