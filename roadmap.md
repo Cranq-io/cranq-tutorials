@@ -15,6 +15,10 @@ Some of these features we've already implemented, at least to the extent that th
 
 But some others we're still working on. This is a collection of features from our backlog - each of which we expect will multply CRANQ's usefulness.
 
+## Cloud-based repo
+
+As introduced in the [Basics course](course/basics/104/#storage), the repo is stored as a set of JSON files. The natural progression of CRANQ however requires the repo to become a high performance database, so that we can find things much faster, and make versioning completely transparent for those that don't need or don't want to rely on Git.
+
 ## Recommendation engine
 
 Perhaps the most important feature on our roadmap is the recommendation engine.
