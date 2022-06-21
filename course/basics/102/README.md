@@ -4,7 +4,7 @@ description: >-
   going to be pretty easy - you won't need any prior coding experience.
 ---
 
-# 102: Getting started
+# 101: Getting started
 
 <mark style="color:blue;">To get you started in CRANQ, we'll build a simple program that samples the current BTC-USD price via the</mark> [<mark style="color:blue;">Yahoo Finance</mark>](https://uk.finance.yahoo.com/) <mark style="color:blue;">API, and prints it to the console.</mark>
 
@@ -20,10 +20,12 @@ Once downloaded, install and start the app.
 
 After starting CRANQ for the first time you'll be greeted by an empty project on the _canvas,_ pre-populated with two nodes you'll most likely need:
 
-* a starter node that sends a signal when you run the program
-* a logger node the logs whatever data it receives to the console.
+* a starter node that sends a signal when you run the program,
+* and a logger node that logs whatever data it receives to the console.
 
 :bulb: The canvas is where you build, navigate, run, and analyze CRNQ programs in a visual way.
+
+Steps:
 
 1. Open the repo contents through the green plus button in the header.
 2. In the repo's search field, type "yahoo". Among the first couple of results you'll see one called "Market price getter". Drag that node from the list and drop it on the canvas.
@@ -35,7 +37,7 @@ This first CRANQ program of ours will require only one parameter: the instrument
 
 1. Let's click on the `parameter` node's `data` input, and in the inspector panel that appears on the right, enter "BTC-USD" (including the double quotes) into the "value" field.
 
-:information\_source: Parameters can only be entered as JSON for the time being. In the near future, CRANQ will support entering data through forms, making this process much easier.
+:information\_source: [Currently](../../../roadmap.md#forms), parameters can only be entered as JSON.
 
 ## Step 4: Connect nodes
 
