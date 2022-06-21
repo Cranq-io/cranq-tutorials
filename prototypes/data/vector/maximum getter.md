@@ -1,0 +1,16 @@
+---
+description: [data/vector]
+---
+
+# Maximum getter
+
+### Input ports:
+
+* __vector__: ` any[] `
+
+    Array of numbers
+
+### Output ports:
+
+* __max__: ` any[][number] `
+

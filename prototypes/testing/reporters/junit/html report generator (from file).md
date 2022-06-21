@@ -1,0 +1,36 @@
+---
+description: [testing/reporters/junit]
+---
+
+# HTML report generator (from file)
+
+Generates an HTML report of the specified JUnit XML file, and saves it to the specified path.
+
+### Input ports:
+
+* __junit xml path__: ` any `
+
+    The path to the JUnit XML file to generate the report for.
+    
+    Example:
+    "C:\\folder\\report.xml"
+
+
+* __report path__: ` any `
+
+    The desired report path.
+    
+    Example:
+    "C:\\folder\\report.html"
+
+### Output ports:
+
+* __generated path__: ` any `
+
+    Indicates, that the report was generated successfully.
+
+
+* __bounced__: ` any `
+
+    Indicates, that the report has failed to generate.
+
