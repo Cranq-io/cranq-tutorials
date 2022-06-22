@@ -11,7 +11,7 @@ NPM external packages can be used in code nodes. _Most cases can be handled with
 1. Right click on the canvas “Add node”.
 2. On the pop up window bottom left click “New Code Node” button.
 
-![](../../.gitbook/assets/add\_code\_node.gif)
+![](<../../.gitbook/assets/add\_code\_node (1).gif>)
 
 ### Add dependencies to the Node
 
