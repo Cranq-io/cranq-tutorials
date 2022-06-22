@@ -5,7 +5,7 @@ description: >-
   speed.
 ---
 
-# 🎓 Course
+# 📖 Reference
 
 The icons below are used throughout the lessons:
 
