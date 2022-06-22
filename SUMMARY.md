@@ -15,7 +15,7 @@
     * [✏ The repo](course/advanced/the-repo.md)
     * [✏ Data types](course/advanced/data-types.md)
     * [✏ Namespaces](course/advanced/namespaces.md)
-  * [🧑🍳 🧑🍳 How to](course/how-to/README.md)
+  * [🧑🍳 How to](course/how-to/README.md)
     * [✏ Synchronizing signals](course/how-to/synchronizing-signals.md)
     * [✏ Mapping paths to namespaces](course/how-to/mapping-paths-to-namespaces.md)
     * [✏ Wrapping SDKs](course/how-to/wrapping-sdks.md)

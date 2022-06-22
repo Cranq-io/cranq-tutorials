@@ -10,4 +10,3 @@ description: >-
 The icons below are used throughout the lessons:
 
 * :wrench:: Additional technical insight to those coming to CRANQ from a developer background.
-* :exclamation:: Things to look out for when working with CRANQ.
