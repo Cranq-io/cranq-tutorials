@@ -1,3 +1,0 @@
-# prototypes
-
-Prototype documentation
