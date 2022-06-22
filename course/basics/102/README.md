@@ -6,13 +6,17 @@ description: >-
 
 # 101: Getting started
 
-<mark style="color:blue;">To get you started in CRANQ, we'll build a simple program that samples the current BTC-USD price via the</mark> [<mark style="color:blue;">Yahoo Finance</mark>](https://uk.finance.yahoo.com/) <mark style="color:blue;">API, and prints it to the console.</mark>
+To get you started in CRANQ, we'll build a simple program that samples the current BTC-USD price via the [Yahoo Finance](https://uk.finance.yahoo.com/) API, and prints it to the console.
 
-:bulb: The Yahoo Finance API is not supported by Yahoo anymore, but we'll use it in this lession anyway, as it's still operational, and doesn't  require any setup, like API keys.
+{% hint style="info" %}
+The Yahoo Finance API is not supported by Yahoo anymore, but we'll use it in this lession anyway, as it's still operational, and doesn't  require any setup, like API keys.
+{% endhint %}
 
 ## Step 1: Download & install CRANQ
 
 Head to [https://cranq.io](https://cranq.io) and download the latest CRANQ installer. CRANQ is a desktop app available for Windows, MacOS, and Ubuntu.
+
+![Download](../../../.gitbook/assets/Download.png) ![Install (macOS)](<../../../.gitbook/assets/Screenshot 2022-06-21 at 14.29.26.png>)
 
 Once downloaded, install and start the app.
 
@@ -23,7 +27,11 @@ After starting CRANQ for the first time you'll be greeted by an empty project on
 * a starter node that sends a signal when you run the program,
 * and a logger node that logs whatever data it receives to the console.
 
-:bulb: The canvas is where you build, navigate, run, and analyze CRNQ programs in a visual way.
+![Startup view](<../../../.gitbook/assets/Screenshot 2022-06-21 at 16.58.46.png>)
+
+{% hint style="info" %}
+The canvas is where you build, navigate, run, and analyze CRANQ programs in a visual way.
+{% endhint %}
 
 Steps:
 
@@ -31,13 +39,19 @@ Steps:
 2. In the repo's search field, type "yahoo". Among the first couple of results you'll see one called "Market price getter". Drag that node from the list and drop it on the canvas.
 3. Then go back to search and type "param". Drag the one called "Parameter" onto the canvas. We'll need this to turn the symbol that we'll enter later into a signal.
 
+![Open repo](<../../../.gitbook/assets/Screenshot 2022-06-21 at 17.01.13.png>) ![Find node](<../../../.gitbook/assets/Screenshot 2022-06-21 at 17.02.53 (1).png>) ![Drag node onto canvas](<../../../.gitbook/assets/Screenshot 2022-06-21 at 17.05.22 (1).png>)
+
 ## Step 3: Set node parameters
 
 This first CRANQ program of ours will require only one parameter: the instrument symbol, which in this case will be "BTC-USD".&#x20;
 
-1. Let's click on the `parameter` node's `data` input, and in the inspector panel that appears on the right, enter "BTC-USD" (including the double quotes) into the "value" field.
+Let's click on the `parameter` node's `data` input, and in the inspector panel that appears on the right, enter "BTC-USD" (including the double quotes) into the "value" field.
 
-:information\_source: [Currently](../../../roadmap.md#forms), parameters can only be entered as JSON.
+![Set parameter value](<../../../.gitbook/assets/Screenshot 2022-06-21 at 17.09.01.png>)
+
+{% hint style="info" %}
+[Currently](../../../roadmap.md#forms), parameters can only be entered as JSON.
+{% endhint %}
 
 ## Step 4: Connect nodes
 
@@ -47,6 +61,8 @@ At this point we have all the necessary nodes, set up with parameters. To comple
 2. For the current market price of "BTC-USD" to be read from the Yahoo Finance API, we need to send the symbol to the API node. Connect the `data` output of `parameter` to the `symbol` input of `market price getter`.
 3. Finally, to display the price in the app, connect the `price` output of `market price getter` to the `data` input of `log`.
 
+![Start to read param](<../../../.gitbook/assets/Screenshot 2022-06-21 at 17.10.03.png>) ![Param to symbol](<../../../.gitbook/assets/Screenshot 2022-06-21 at 17.10.40.png>) ![Price to logger](<../../../.gitbook/assets/Screenshot 2022-06-21 at 17.11.10.png>)
+
 We're done! All it took was dragging 2 nodes from the repo, setting a parameter, and making 3 connections.
 
 We're ready to test and analyze the program we just made.
@@ -55,6 +71,10 @@ We're ready to test and analyze the program we just made.
 
 To run the program, click on the 'play' button in the header. You'll notice that the nodes turn grey, and then gradually, green. When the program finishes, the BTC-USD price should be visible in the console window, which just opened.
 
+![Click ](<../../../.gitbook/assets/Screenshot 2022-06-21 at 17.11.46.png>) ![Activity view](<../../../.gitbook/assets/Screenshot 2022-06-21 at 17.12.17.png>) ![Program completes.](<../../../.gitbook/assets/Screenshot 2022-06-21 at 17.12.20.png>)
+
 CRANQ wouldn't be CRANQ if that was all to running a program. Try adding traffic viewer windows to all 3 connections via their context menus. In each window, you'll see the last signal transmitted through the corresponding connection. With these traffic viewers, you can trace the program's progression and see what's happening at each stage.
+
+![Traffic viewers enabled](<../../../.gitbook/assets/Screenshot 2022-06-22 at 09.46.19.png>)
 
 If you change the symbol value on the `data` value of `parameter` (to ETH-USD), and run the program again, you'll notice how the contents of the traffic viewer windows change accordingly.

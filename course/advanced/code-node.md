@@ -1,2 +1,2 @@
-# Code node
+# ✏ Code node
 
