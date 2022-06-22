@@ -1,4 +1,4 @@
-# Data types
+# ✏ Data types
 
 ## Logical structural types
 

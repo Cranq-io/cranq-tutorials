@@ -1,2 +1,2 @@
-# Structure node
+# ✏ Structure node
 

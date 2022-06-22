@@ -1,4 +1,4 @@
-# Synchronizing signals
+# ✏ Synchronizing signals
 
 [Signals](../basics/103/#signal) in CRANQ are assumed to be asynchronous by default. It does not matter in what (chronological) order a node receives its inputs, as long as they bear the same [tag](../basics/103/#tag). If they do, they can be treated as a single signal onwards.
 
