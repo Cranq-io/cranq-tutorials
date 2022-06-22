@@ -11,6 +11,7 @@
     * [104: Composition](course/basics/105/README.md)
     * [105: Debugging](course/basics/106/README.md)
   * [🚀 Advanced](course/advanced/README.md)
+    * [✏ Using external npm package](course/advanced/using-external-npm-package.md)
     * [✏ Code node](course/advanced/code-node.md)
     * [✏ Structure node](course/advanced/structure-node.md)
     * [✏ The repo](course/advanced/the-repo.md)
