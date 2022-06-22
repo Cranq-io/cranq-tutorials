@@ -7,8 +7,7 @@
 ## Actions
 
 * [Bulk auto-metadata uploader](prototypes/blockchain/moralis/actions/bulk%20auto-metadata%20uploader.md)
-* [bulk auto-metadata uploader (simplified)](<actions/bulk (simplified) 
-* uploader.md>)
+* [bulk auto-metadata uploader (simplified)](<actions/bulk (simplified) uploader.md>)
 
 ## Api v2
 
