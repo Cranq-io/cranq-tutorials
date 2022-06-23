@@ -60,7 +60,27 @@ Each of the parameters are javascript object.
 
 
 
-## Sample of a code node
+## Target
+
+Code can compile to different target. Right now CRANQ support the following targets:&#x20;
+
+* ES6 (browser)
+* ES6 (vanilla)
+* ES6 (node.js)
+
+![](<../../.gitbook/assets/image (2).png>)&#x20;
+
+When compile a project have to be careful that the code which added was written in the specified format, and on compile we chose that specified one. Nodes and ports can have multiple target, but each of the connected nodes and ports code part has to be implemented on the targeted language. Otherwise CRANQ will throw error at compile time.
+
+![](../../.gitbook/assets/compile\_to\_node.gif)
+
+The default target is Node.js
+
+
+
+
+
+
 
 
 
