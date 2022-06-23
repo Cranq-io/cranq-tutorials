@@ -1,5 +1,5 @@
 ---
-description: testing]
+description: [testing]
 ---
 
 # Less or equal asserter

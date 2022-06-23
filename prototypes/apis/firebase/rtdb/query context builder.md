@@ -1,5 +1,5 @@
 ---
-description: apis/firebase/rtdb]
+description: [apis/firebase/rtdb]
 ---
 
 # Query context builder

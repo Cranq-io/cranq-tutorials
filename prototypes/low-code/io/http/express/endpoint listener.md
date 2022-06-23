@@ -1,5 +1,5 @@
 ---
-description: low-code/io/http/express]
+description: [low-code/io/http/express]
 ---
 
 # Endpoint listener

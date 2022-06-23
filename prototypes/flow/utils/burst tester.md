@@ -1,5 +1,5 @@
 ---
-description: flow/utils]
+description: [flow/utils]
 ---
 
 # Burst tester

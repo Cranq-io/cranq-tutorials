@@ -1,5 +1,5 @@
 ---
-description: apis/fx/yahoo finance]
+description: [apis/fx/yahoo finance]
 ---
 
 # Daily rates getter

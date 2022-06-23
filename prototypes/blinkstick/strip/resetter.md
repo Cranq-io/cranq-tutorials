@@ -1,5 +1,5 @@
 ---
-description: blinkstick/strip]
+description: [blinkstick/strip]
 ---
 
 # Resetter

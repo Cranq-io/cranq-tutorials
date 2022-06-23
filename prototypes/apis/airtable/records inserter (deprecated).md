@@ -1,5 +1,5 @@
 ---
-description: apis/airtable]
+description: [apis/airtable]
 ---
 
 # Records inserter (deprecated)

@@ -1,5 +1,5 @@
 ---
-description: boolean]
+description: [boolean]
 ---
 
 # Condition

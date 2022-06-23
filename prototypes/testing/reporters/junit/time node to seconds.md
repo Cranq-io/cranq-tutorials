@@ -1,5 +1,5 @@
 ---
-description: testing/reporters/junit]
+description: [testing/reporters/junit]
 ---
 
 # Time node to seconds

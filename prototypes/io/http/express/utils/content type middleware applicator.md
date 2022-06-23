@@ -1,5 +1,5 @@
 ---
-description: io/http/express/utils]
+description: [io/http/express/utils]
 ---
 
 # Content type middleware applicator

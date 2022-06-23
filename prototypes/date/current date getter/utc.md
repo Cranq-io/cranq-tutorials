@@ -1,5 +1,5 @@
 ---
-description: date/Current date getter]
+description: [date/Current date getter]
 ---
 
 # utc

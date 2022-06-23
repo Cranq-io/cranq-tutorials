@@ -1,5 +1,5 @@
 ---
-description: data/csv]
+description: [data/csv]
 ---
 
 # Naive parser

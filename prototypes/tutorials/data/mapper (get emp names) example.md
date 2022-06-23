@@ -1,5 +1,5 @@
 ---
-description: tutorials/data]
+description: [tutorials/data]
 ---
 
 # Mapper (get emp names) example

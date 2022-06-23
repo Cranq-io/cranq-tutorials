@@ -1,5 +1,5 @@
 ---
-description: apis/firebase/rtdb/rest]
+description: [apis/firebase/rtdb/rest]
 ---
 
 # Data reader

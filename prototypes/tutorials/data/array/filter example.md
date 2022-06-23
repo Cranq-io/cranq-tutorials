@@ -1,5 +1,5 @@
 ---
-description: tutorials/data/array]
+description: [tutorials/data/array]
 ---
 
 # Filter example

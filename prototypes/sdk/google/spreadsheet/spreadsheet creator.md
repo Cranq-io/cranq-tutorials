@@ -1,5 +1,5 @@
 ---
-description: sdk/google/spreadsheet]
+description: [sdk/google/spreadsheet]
 ---
 
 # Spreadsheet creator

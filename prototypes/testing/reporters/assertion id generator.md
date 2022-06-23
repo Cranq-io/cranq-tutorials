@@ -1,5 +1,5 @@
 ---
-description: testing/reporters]
+description: [testing/reporters]
 ---
 
 # Assertion ID generator

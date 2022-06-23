@@ -1,5 +1,5 @@
 ---
-description: io/http]
+description: [io/http]
 ---
 
 # HTML Form POST request dispatcher

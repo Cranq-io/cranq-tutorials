@@ -1,5 +1,5 @@
 ---
-description: debug]
+description: [debug]
 ---
 
 # Unsuccessfull http response logger

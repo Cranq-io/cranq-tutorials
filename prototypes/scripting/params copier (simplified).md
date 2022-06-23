@@ -1,5 +1,5 @@
 ---
-description: scripting]
+description: [scripting]
 ---
 
 # Params copier (simplified)

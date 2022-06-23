@@ -1,5 +1,5 @@
 ---
-description: io/http]
+description: [io/http]
 ---
 
 # Request dispatcher (deprecated)

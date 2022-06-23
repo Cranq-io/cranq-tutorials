@@ -1,5 +1,5 @@
 ---
-description: streaming]
+description: [streaming]
 ---
 
 # Moving buffer

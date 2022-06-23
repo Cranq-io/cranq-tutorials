@@ -1,5 +1,5 @@
 ---
-description: apis/googlemaps/staticmap/utils]
+description: [apis/googlemaps/staticmap/utils]
 ---
 
 # Area definition classifier

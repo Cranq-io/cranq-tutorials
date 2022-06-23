@@ -1,5 +1,5 @@
 ---
-description: data]
+description: [data]
 ---
 
 # Equality tester (strict)

@@ -1,5 +1,5 @@
 ---
-description: tutorials/flow]
+description: [tutorials/flow]
 ---
 
 # Polling example

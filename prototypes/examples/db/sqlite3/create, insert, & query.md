@@ -1,5 +1,5 @@
 ---
-description: examples/db/sqlite3]
+description: [examples/db/sqlite3]
 ---
 
 # Create, insert, & query

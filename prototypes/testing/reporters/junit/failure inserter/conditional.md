@@ -1,5 +1,5 @@
 ---
-description: testing/reporters/junit/Failure inserter]
+description: [testing/reporters/junit/Failure inserter]
 ---
 
 # conditional

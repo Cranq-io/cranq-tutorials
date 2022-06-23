@@ -1,5 +1,5 @@
 ---
-description: apis/airtable/utils]
+description: [apis/airtable/utils]
 ---
 
 # Record insert request builder

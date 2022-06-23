@@ -1,5 +1,5 @@
 ---
-description: tutorials/boolean]
+description: [tutorials/boolean]
 ---
 
 # Condition example

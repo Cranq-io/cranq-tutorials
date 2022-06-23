@@ -1,5 +1,5 @@
 ---
-description: blinkstick/pro]
+description: [blinkstick/pro]
 ---
 
 # Colors setter

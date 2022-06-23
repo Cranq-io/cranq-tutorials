@@ -1,5 +1,5 @@
 ---
-description: io/file]
+description: [io/file]
 ---
 
 # File mover

@@ -1,5 +1,5 @@
 ---
-description: json]
+description: [json]
 ---
 
 # Parser

@@ -1,5 +1,5 @@
 ---
-description: data/dictionary]
+description: [data/dictionary]
 ---
 
 # Mapper

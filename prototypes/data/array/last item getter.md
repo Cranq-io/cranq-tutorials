@@ -1,5 +1,5 @@
 ---
-description: data/array]
+description: [data/array]
 ---
 
 # Last item getter

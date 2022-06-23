@@ -1,5 +1,5 @@
 ---
-description: number]
+description: [number]
 ---
 
 # Type tester

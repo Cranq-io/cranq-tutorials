@@ -1,5 +1,5 @@
 ---
-description: examples/projects/JUnit reporter]
+description: [examples/projects/JUnit reporter]
 ---
 
 # click me

@@ -1,5 +1,5 @@
 ---
-description: examples/io/http/express]
+description: [examples/io/http/express]
 ---
 
 # Basic server

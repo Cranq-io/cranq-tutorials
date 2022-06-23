@@ -1,5 +1,5 @@
 ---
-description: string]
+description: [string]
 ---
 
 # URI component encoder

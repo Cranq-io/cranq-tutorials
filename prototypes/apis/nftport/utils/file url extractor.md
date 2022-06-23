@@ -1,5 +1,5 @@
 ---
-description: apis/nftport/utils]
+description: [apis/nftport/utils]
 ---
 
 # File URL extractor

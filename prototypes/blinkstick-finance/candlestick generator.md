@@ -1,5 +1,5 @@
 ---
-description: blinkstick-finance]
+description: [blinkstick-finance]
 ---
 
 # Candlestick generator

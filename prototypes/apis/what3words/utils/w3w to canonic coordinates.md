@@ -1,5 +1,5 @@
 ---
-description: apis/what3words/utils]
+description: [apis/what3words/utils]
 ---
 
 # w3w to canonic coordinates

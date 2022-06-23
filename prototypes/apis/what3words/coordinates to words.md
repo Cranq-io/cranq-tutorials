@@ -1,5 +1,5 @@
 ---
-description: apis/what3words]
+description: [apis/what3words]
 ---
 
 # Coordinates to words

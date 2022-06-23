@@ -1,5 +1,5 @@
 ---
-description: html]
+description: [html]
 ---
 
 # XPath value finder

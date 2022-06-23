@@ -1,5 +1,5 @@
 ---
-description: apis/googlemaps/staticmaps]
+description: [apis/googlemaps/staticmaps]
 ---
 
 # Image fetcher

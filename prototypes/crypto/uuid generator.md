@@ -1,5 +1,5 @@
 ---
-description: crypto]
+description: [crypto]
 ---
 
 # UUID generator

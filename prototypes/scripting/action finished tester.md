@@ -1,5 +1,5 @@
 ---
-description: scripting]
+description: [scripting]
 ---
 
 # Action finished tester

@@ -1,5 +1,5 @@
 ---
-description: blockchain/moralis/actions]
+description: [blockchain/moralis/actions]
 ---
 
 # Bulk image uploader (simplified)

@@ -1,5 +1,5 @@
 ---
-description: examples/projects/FTSE-100 Index]
+description: [examples/projects/FTSE-100 Index]
 ---
 
 # Fetch

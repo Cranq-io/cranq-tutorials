@@ -1,5 +1,5 @@
 ---
-description: blockchain/ethereum]
+description: [blockchain/ethereum]
 ---
 
 # Contracts

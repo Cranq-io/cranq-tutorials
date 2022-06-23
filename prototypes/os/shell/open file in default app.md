@@ -1,5 +1,5 @@
 ---
-description: os/shell]
+description: [os/shell]
 ---
 
 # Open file in default app

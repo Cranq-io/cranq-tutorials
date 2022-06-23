@@ -1,5 +1,5 @@
 ---
-description: string]
+description: [string]
 ---
 
 # Custom template filler

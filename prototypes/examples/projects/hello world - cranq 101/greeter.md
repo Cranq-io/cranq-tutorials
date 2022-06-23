@@ -1,5 +1,5 @@
 ---
-description: examples/projects/Hello World - Cranq 101]
+description: [examples/projects/Hello World - Cranq 101]
 ---
 
 # Greeter

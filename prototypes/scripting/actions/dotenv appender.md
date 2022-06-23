@@ -1,5 +1,5 @@
 ---
-description: scripting/actions]
+description: [scripting/actions]
 ---
 
 # Dotenv appender

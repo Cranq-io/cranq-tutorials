@@ -1,5 +1,5 @@
 ---
-description: tutorials/data/array]
+description: [tutorials/data/array]
 ---
 
 # Iterator (parallel filter) example

@@ -1,5 +1,5 @@
 ---
-description: data/tree]
+description: [data/tree]
 ---
 
 # Node setter

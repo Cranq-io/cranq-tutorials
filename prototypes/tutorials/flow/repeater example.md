@@ -1,5 +1,5 @@
 ---
-description: tutorials/flow]
+description: [tutorials/flow]
 ---
 
 # Repeater example

@@ -1,5 +1,5 @@
 ---
-description: flow]
+description: [flow]
 ---
 
 # Gate

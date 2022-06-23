@@ -1,5 +1,5 @@
 ---
-description: db/sqlite3]
+description: [db/sqlite3]
 ---
 
 # Closer

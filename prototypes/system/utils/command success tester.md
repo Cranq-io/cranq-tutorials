@@ -1,5 +1,5 @@
 ---
-description: system/utils]
+description: [system/utils]
 ---
 
 # Command success tester

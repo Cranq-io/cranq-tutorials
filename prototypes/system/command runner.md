@@ -1,5 +1,5 @@
 ---
-description: system]
+description: [system]
 ---
 
 # Command runner

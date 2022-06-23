@@ -1,5 +1,5 @@
 ---
-description: date]
+description: [date]
 ---
 
 # Midnight getter

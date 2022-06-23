@@ -1,5 +1,5 @@
 ---
-description: data/invertible dictionary]
+description: [data/invertible dictionary]
 ---
 
 # Builder (key-value pairs)

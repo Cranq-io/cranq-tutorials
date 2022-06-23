@@ -1,5 +1,5 @@
 ---
-description: api/firebase/auth/rest]
+description: [api/firebase/auth/rest]
 ---
 
 # Email signup

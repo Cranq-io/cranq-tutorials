@@ -1,5 +1,5 @@
 ---
-description: io/stdio]
+description: [io/stdio]
 ---
 
 # Text writer (with param)

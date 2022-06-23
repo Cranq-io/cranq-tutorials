@@ -1,5 +1,5 @@
 ---
-description: apis/ga/measurement protocol]
+description: [apis/ga/measurement protocol]
 ---
 
 # Event params builder

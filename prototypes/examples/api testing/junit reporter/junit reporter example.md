@@ -1,5 +1,5 @@
 ---
-description: examples/api testing/junit reporter]
+description: [examples/api testing/junit reporter]
 ---
 
 # JUnit reporter example

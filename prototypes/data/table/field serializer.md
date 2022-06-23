@@ -1,5 +1,5 @@
 ---
-description: data/table]
+description: [data/table]
 ---
 
 # Field serializer

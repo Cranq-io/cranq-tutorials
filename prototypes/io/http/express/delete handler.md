@@ -1,5 +1,5 @@
 ---
-description: io/http/express]
+description: [io/http/express]
 ---
 
 # DELETE handler

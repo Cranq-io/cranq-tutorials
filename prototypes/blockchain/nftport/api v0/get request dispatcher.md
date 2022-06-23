@@ -1,5 +1,5 @@
 ---
-description: blockchain/nftport/api v0]
+description: [blockchain/nftport/api v0]
 ---
 
 # GET request dispatcher

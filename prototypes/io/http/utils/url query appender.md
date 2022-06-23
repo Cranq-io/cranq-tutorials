@@ -1,5 +1,5 @@
 ---
-description: io/http/utils]
+description: [io/http/utils]
 ---
 
 # URL query appender

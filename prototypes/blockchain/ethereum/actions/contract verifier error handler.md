@@ -1,5 +1,5 @@
 ---
-description: blockchain/ethereum/actions]
+description: [blockchain/ethereum/actions]
 ---
 
 # Contract verifier error handler

@@ -1,5 +1,5 @@
 ---
-description: io/http/utils]
+description: [io/http/utils]
 ---
 
 # JSON response error detector

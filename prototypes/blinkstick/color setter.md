@@ -1,5 +1,5 @@
 ---
-description: blinkstick]
+description: [blinkstick]
 ---
 
 # Color setter

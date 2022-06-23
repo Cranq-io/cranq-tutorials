@@ -1,5 +1,5 @@
 ---
-description: sdk/google/Drive]
+description: [sdk/google/Drive]
 ---
 
 # File creator

@@ -1,5 +1,5 @@
 ---
-description: data/color]
+description: [data/color]
 ---
 
 # Hex to RGB converter

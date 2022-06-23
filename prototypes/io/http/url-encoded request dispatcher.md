@@ -1,5 +1,5 @@
 ---
-description: io/http]
+description: [io/http]
 ---
 
 # URL-encoded request dispatcher

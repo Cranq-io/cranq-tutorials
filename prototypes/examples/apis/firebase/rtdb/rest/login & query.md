@@ -1,5 +1,5 @@
 ---
-description: examples/apis/firebase/rtdb/rest]
+description: [examples/apis/firebase/rtdb/rest]
 ---
 
 # Login & query

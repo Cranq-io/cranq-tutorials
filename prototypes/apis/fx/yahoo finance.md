@@ -1,5 +1,5 @@
 ---
-description: apis/fx]
+description: [apis/fx]
 ---
 
 # Yahoo Finance

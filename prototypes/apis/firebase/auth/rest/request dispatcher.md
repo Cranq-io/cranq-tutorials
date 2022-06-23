@@ -1,5 +1,5 @@
 ---
-description: apis/firebase/auth/rest]
+description: [apis/firebase/auth/rest]
 ---
 
 # Request dispatcher

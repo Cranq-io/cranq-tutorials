@@ -1,5 +1,5 @@
 ---
-description: time]
+description: [time]
 ---
 
 # Timestamp getter

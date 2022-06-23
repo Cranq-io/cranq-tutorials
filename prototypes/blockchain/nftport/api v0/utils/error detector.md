@@ -1,5 +1,5 @@
 ---
-description: blockchain/nftport/api v0/utils]
+description: [blockchain/nftport/api v0/utils]
 ---
 
 # Error detector

@@ -1,5 +1,5 @@
 ---
-description: io/http/express/middleware]
+description: [io/http/express/middleware]
 ---
 
 # Request timeout handler

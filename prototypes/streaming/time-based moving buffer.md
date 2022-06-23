@@ -1,5 +1,5 @@
 ---
-description: streaming]
+description: [streaming]
 ---
 
 # Time-based moving buffer

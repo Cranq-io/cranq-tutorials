@@ -1,5 +1,5 @@
 ---
-description: low-code/io/http]
+description: [low-code/io/http]
 ---
 
 # Error response generator

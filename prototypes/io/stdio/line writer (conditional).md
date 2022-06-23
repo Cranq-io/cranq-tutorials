@@ -1,5 +1,5 @@
 ---
-description: io/stdio]
+description: [io/stdio]
 ---
 
 # Line writer (conditional)

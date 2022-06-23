@@ -1,5 +1,5 @@
 ---
-description: sdk/web3/eth]
+description: [sdk/web3/eth]
 ---
 
 # Transaction receipt getter

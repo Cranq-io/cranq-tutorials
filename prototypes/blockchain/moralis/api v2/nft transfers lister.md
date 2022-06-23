@@ -1,5 +1,5 @@
 ---
-description: blockchain/moralis/api v2]
+description: [blockchain/moralis/api v2]
 ---
 
 # NFT transfers lister

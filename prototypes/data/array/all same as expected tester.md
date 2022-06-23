@@ -1,5 +1,5 @@
 ---
-description: data/array]
+description: [data/array]
 ---
 
 # All same as expected tester

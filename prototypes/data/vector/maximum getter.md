@@ -1,5 +1,5 @@
 ---
-description: data/vector]
+description: [data/vector]
 ---
 
 # Maximum getter
