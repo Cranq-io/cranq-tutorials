@@ -83,7 +83,7 @@ When compile a project have to be careful that the code which added was written 
 
 ![](../../.gitbook/assets/compile\_to\_node.gif)
 
-The default target is Node.js
+The default target is Vanilla.
 
 
 
