@@ -1,6 +1,8 @@
-# Email signup
+---
+description: [api/firebase/auth/rest]
+---
 
-[api/firebase/auth/rest]
+# Email signup
 
 Signs up a Firebase user by their email & password.
 
