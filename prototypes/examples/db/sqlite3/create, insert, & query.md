@@ -8,12 +8,10 @@ Opens an in-memory SQLite database, creates a table, inserts rows, then queries 
 
 * __start__: `any`
 
-
 ### Output ports:
 
 * __data__: `any`
 
 
 * __done__: `any`
-
 

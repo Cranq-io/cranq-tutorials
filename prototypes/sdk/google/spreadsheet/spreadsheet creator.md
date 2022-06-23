@@ -34,6 +34,7 @@ Example:
 ### Input ports:
 
 * __auth data__: `{"email" :string, "key" :string}`
+
     Receives the authentication data of service account.
     
     Example: 
@@ -41,7 +42,6 @@ Example:
       "email": "email@email.com",
       "key": "TopSecretKey!"
     }
-
 
 
 * __drive data__: 
@@ -66,7 +66,6 @@ Example:
     }
 
 
-
 * __spreadsheet data__: 
     ```
     {"update meta data" :{string: any}, "values" :any[][]}
@@ -85,23 +84,20 @@ Example:
     }
     
 
-
-
 ### Output ports:
 
 * __done__: `null`
+
     Sends null if the action was successful.
     
     Example:
     null
 
 
-
 * __error__: `{"error" :string}`
+
     Sends the error which happened during the execution of the action.
     
     Example:.
     {error: "Something went wrong!"}
-
-
 

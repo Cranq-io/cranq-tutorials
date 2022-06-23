@@ -15,28 +15,26 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/2_constructing_d
 ### Input ports:
 
 * __array__: `any[]`
+
     Recieves array to delete item from.
     
     Example:
     [1,2,3]
 
 
-
 * __index__: `number`
+
     Recieves index which identifies item to be deleted from the array.
     
     Example:
     1
 
-
-
 ### Output ports:
 
 * __array__: `any[]`
+
     Sends array with specified item deleted.
     
     Example:
     [1,3]
-
-
 

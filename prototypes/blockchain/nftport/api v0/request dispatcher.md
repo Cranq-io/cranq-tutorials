@@ -7,23 +7,22 @@ Dispatches a POST request to one of the NFTPort API endpoints.
 ### Input ports:
 
 * __API key__: `string`
+
     Receives the NFT port API key.
 
 
-
 * __URL__: `string`
+
     Receives the target NFT port endpoint.
     
 
 
-
 * __body__: `string`
+
     Receives the post data.
 
 
-
 * __method__: `any`
-
 
 ### Output ports:
 
@@ -39,6 +38,4 @@ Dispatches a POST request to one of the NFTPort API endpoints.
     ```
 
     Sends the reconstructed HTTP response.
-
-
 

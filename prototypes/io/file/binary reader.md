@@ -8,12 +8,10 @@ Reads binary files Base64 encoded.
 
 * __path__: `string`
 
-
 ### Output ports:
 
 * __base64__: `string`
 
 
 * __bounced__: `string`
-
 

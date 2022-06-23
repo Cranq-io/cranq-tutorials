@@ -8,9 +8,7 @@ Example node, that demonstrates the basic usage of the json/Serializer node.
 
 * __run__: `any`
 
-
 ### Output ports:
 
 * __output__: `any`
-
 

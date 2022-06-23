@@ -9,13 +9,10 @@
 
 * __params & mapping__: `{"params" :any, "mapping" :{string: string}}`
 
-
 ### Output ports:
 
 * __params__: 
     ```
     {"params" :any, "mapping" :{string: string}}["params"]
     ```
-
-
 

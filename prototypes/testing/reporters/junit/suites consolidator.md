@@ -6,9 +6,7 @@
 
 * __pre-report__: `(any[] or {string: any})`
 
-
 ### Output ports:
 
 * __pre-report__: `any`
-
 

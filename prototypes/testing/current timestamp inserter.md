@@ -8,9 +8,7 @@ Inserts current timestamp into an assertion record.
 
 * __assertion__: `{string: any}`
 
-
 ### Output ports:
 
 * __assertion__: `{string: any}`
-
 

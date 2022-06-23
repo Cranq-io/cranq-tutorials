@@ -11,11 +11,10 @@ Dispatches HTTP request with an URL encoded body, expects response as JSON, pars
     {"method" :string, "url" :string, "headers" :{string: string}, "data" :{string: (string or string[])}}
     ```
 
-
-
 ### Output ports:
 
 * __data__: `any`
+
     Sends HTTP response message body as data.
     
     Example:
@@ -27,7 +26,6 @@ Dispatches HTTP request with an URL encoded body, expects response as JSON, pars
     }"
 
 
-
 * __response__: 
     ```
     {"status" :number, "headers" :{string: string}, "body" :string}
@@ -36,7 +34,5 @@ Dispatches HTTP request with an URL encoded body, expects response as JSON, pars
     Sends original response.
 
 
-
 * __error__: `{"error" :string}`
-
 

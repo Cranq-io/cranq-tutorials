@@ -24,16 +24,14 @@ For the example to work the Firebase project must allow anonymous login and data
 
 * __DB URL__: `any`
 
-
 ### Output ports:
 
 * __data__: `any`
-    Sends forwarded data.
 
+    Sends forwarded data.
 
 
 * __error__: `any`
+
     Sends forwarded data.
-
-
 

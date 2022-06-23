@@ -12,9 +12,7 @@
 
 * __separator__: `string`
 
-
 ### Output ports:
 
 * __slug__: `any`
-
 

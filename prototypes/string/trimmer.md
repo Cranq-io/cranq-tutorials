@@ -11,20 +11,18 @@ Example:
 ### Input ports:
 
 * __string__: `string`
+
     Receives string to be trimmed.
     
     Example:
     "  foo"
 
-
-
 ### Output ports:
 
 * __trimmed__: `string`
+
     Sends trimmed string.
     
     Example
     "foo"
-
-
 

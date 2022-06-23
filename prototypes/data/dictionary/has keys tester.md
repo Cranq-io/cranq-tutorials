@@ -27,37 +27,35 @@ Example C:
 ### Input ports:
 
 * __dict__: `{string: any}`
+
     Receives the dictionary to test.
     
     Example:
     { "first": 1, "third": 3, "fifth": 5 }
 
 
-
 * __expected keys__: `string[]`
+
     Receives an array of expected keys.
     
     Example:
     [ "first", "third" ]
 
 
-
 * __strict__: `boolean`
+
     Receives whether extra keys in `dict` are allowed.
     
     Example:
     false
 
-
-
 ### Output ports:
 
 * __has__: `boolean`
+
     Sends a value indicating whether the dictionary has the expected keys.
     
     Example:
     true
     
-
-
 

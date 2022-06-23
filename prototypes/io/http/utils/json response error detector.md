@@ -24,19 +24,16 @@ Example B
     Receives JSON response that might contain an error.
 
 
-
 * __error msg__: `string`
+
     Receives error message to appear in `error`.
-
-
 
 ### Output ports:
 
 * __data__: `any`
+
     Sends response data, when the response was successful.
 
 
-
 * __error__: `{"error" :string, optional "details" :any}`
-
 

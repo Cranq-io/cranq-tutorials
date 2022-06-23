@@ -7,14 +7,13 @@ Checks for the presence of the specified bearer token in the submitted request h
 ### Input ports:
 
 * __bearer token__: `string`
+
     Receives the bearer token to be verified.
 
 
-
 * __request__: `{"headers" :{string: string}, "body" :string}`
+
     Receives the request to be authorized.
-
-
 
 ### Output ports:
 
@@ -22,5 +21,4 @@ Checks for the presence of the specified bearer token in the submitted request h
 
 
 * __error__: `{"error" :"incorrect bearer token"}`
-
 

@@ -8,4 +8,3 @@ Generates a HTML report of the specified JUnit XML, and opens it in the default 
 
 * __junit xml__: `any`
 
-

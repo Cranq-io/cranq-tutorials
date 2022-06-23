@@ -12,14 +12,12 @@ Example:
 ### Input ports:
 
 * __number__: `number`
+
     Number to be tested for oddness.
-
-
 
 ### Output ports:
 
 * __odd__: `boolean`
+
     Sends true if the number is odd, false otherwise.
-
-
 

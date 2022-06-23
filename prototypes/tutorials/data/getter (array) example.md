@@ -8,7 +8,6 @@ Example node, that demonstrates the usage of array getter nodes.
 
 * __run__: `any`
 
-
 ### Output ports:
 
 * __first__: `any`
@@ -21,5 +20,4 @@ Example node, that demonstrates the usage of array getter nodes.
 
 
 * __length__: `any`
-
 

@@ -11,12 +11,10 @@ Use `flow/Splitter` or `flow/Switch` instead.
 
 * __data__: `any`
 
-
 ### Output ports:
 
 * __output__: `any`
 
 
 * __bounced__: `any`
-
 

@@ -8,9 +8,7 @@ Example node, that demonstrates the usage of the data/array/Reducer node
 
 * __emps__: `any`
 
-
 ### Output ports:
 
 * __sum__: `any`
-
 

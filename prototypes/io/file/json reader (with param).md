@@ -11,12 +11,10 @@ Reads a JSON file from the specified path and outputs its content.
 
 * __start__: `any`
 
-
 ### Output ports:
 
 * __data__: `any`
 
 
 * __bounced__: `string`
-
 

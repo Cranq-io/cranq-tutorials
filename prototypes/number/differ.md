@@ -12,14 +12,12 @@ Example:
 ### Input ports:
 
 * __number__: `number`
+
     Receives numbers to be subtracted
-
-
 
 ### Output ports:
 
 * __diff__: `number`
+
     The difference of the last two numbers received.
-
-
 

@@ -21,6 +21,7 @@ Example:
 ### Input ports:
 
 * __folder data__: `{"path" :string, "content" :string}[]`
+
     Receives moralis post data.
     
     Example:
@@ -32,18 +33,17 @@ Example:
       ]
 
 
-
 * __API key__: `string`
+
     Receives moralis API key.
     
     Example: 
     "ffdfdhdhgdjjhggkjcvxc" 
 
-
-
 ### Output ports:
 
 * __file URLs__: `string[]`
+
     Sends file ipfs URLs.
     
     Example:
@@ -53,7 +53,5 @@ Example:
     
 
 
-
 * __error__: `any`
-
 

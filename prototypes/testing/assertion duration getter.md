@@ -11,11 +11,9 @@ Determines the time between the start of a test case (or suite) and a specific a
 
 * __start__: `any`
 
-
 ### Output ports:
 
 * __duration__: `any`
+
     In milliseconds
-
-
 

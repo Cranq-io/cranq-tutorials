@@ -8,9 +8,7 @@ Example node, that demonstrates the building of dictionaries with the flow/Synce
 
 * __build__: `any`
 
-
 ### Output ports:
 
 * __dict__: `any`
-
 

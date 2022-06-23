@@ -9,9 +9,7 @@
 
 * __open__: `any`
 
-
 ### Output ports:
 
 * __data__: `any`
-
 

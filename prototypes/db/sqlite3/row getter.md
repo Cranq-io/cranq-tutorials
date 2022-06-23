@@ -14,7 +14,6 @@ Retrieves a single row from the specified database.
 
 * __params__: `any`
 
-
 ### Output ports:
 
 * __row__: `any`
@@ -24,5 +23,4 @@ Retrieves a single row from the specified database.
 
 
 * __DB ID__: `any`
-
 

@@ -27,38 +27,36 @@ Example C:
 ### Input ports:
 
 * __dict__: `{string: any}`
+
     Receives the dictionary to validate the value in.
     
     Example:
     { "first": 1, "third": 3, "fifth": 5 }
 
 
-
 * __key__: `string`
+
     Receives the key in the dictionary to compare the value of.
     
     Example:
     "third"
 
 
-
 * __value__: `any`
+
     Receives the value to test against the specified dictionary key.
     
     Example:
     3
 
-
-
 ### Output ports:
 
 * __same__: `boolean`
+
     Sends a value indicating whether the value is the same as the item with the specified key in the provided dictionary.
     
     Example:
     true
     
     
-
-
 

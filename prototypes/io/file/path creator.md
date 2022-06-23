@@ -8,9 +8,7 @@ Creates a path in the filesystem.
 
 * __path__: `string`
 
-
 ### Output ports:
 
 * __success__: `boolean`
-
 

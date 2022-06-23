@@ -9,13 +9,10 @@
 
 * __item names__: `string[]`
 
-
 ### Output ports:
 
 * __item metadata__: 
     ```
     {"image" :string, "name" :string, "description" :string}[]
     ```
-
-
 

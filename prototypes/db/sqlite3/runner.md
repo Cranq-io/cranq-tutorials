@@ -14,8 +14,6 @@ https://www.sqlite.org/syntax.html
     {"db-id" :string, "sql" :string, optional "params" :(string or number)[]}
     ```
 
-
-
 ### Output ports:
 
 * __done__: `string`
@@ -28,5 +26,4 @@ https://www.sqlite.org/syntax.html
 
 
 * __error__: `string`
-
 

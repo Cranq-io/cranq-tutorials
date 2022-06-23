@@ -8,9 +8,7 @@ Wraps input in a 1-element array
 
 * __data__: `any`
 
-
 ### Output ports:
 
 * __array__: `[any]`
-
 

@@ -34,6 +34,7 @@ Example:
 ### Input ports:
 
 * __transaction hash & provider__: `{"transaction_hash" :string, "provider" :string}`
+
     Receives transaction hash & web3 provider.
     
     Example:
@@ -42,8 +43,6 @@ Example:
      "provider": "https://speedy-nodes-nyc.moralis.io/1a2b3c4d5e6f1a2b3c4d5e6f/eth/mainnet"
     }
     
-
-
 
 ### Output ports:
 
@@ -80,7 +79,5 @@ Example:
     
 
 
-
 * __error__: `{"error" :string}`
-
 

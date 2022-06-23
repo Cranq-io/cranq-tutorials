@@ -9,12 +9,10 @@
 
 * __base64__: `string`
 
-
 ### Output ports:
 
 * __written__: `null`
 
 
 * __error__: `{"error" :string}`
-
 

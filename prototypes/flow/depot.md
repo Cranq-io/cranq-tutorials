@@ -13,19 +13,17 @@ Example:
 ### Input ports:
 
 * __data__: `any`
+
     Receives data to be forwarded on trigger signal.
 
 
-
 * __trigger__: `any`
+
     Receives a signal indicating that the corresponding `data` input signal may be forwarded.
-
-
 
 ### Output ports:
 
 * __data__: `any`
+
     Sends signal as received through `data` (input).
-
-
 

@@ -6,9 +6,7 @@
 
 * __path__: `string`
 
-
 ### Output ports:
 
 * __config__: `{string: any}`
-
 

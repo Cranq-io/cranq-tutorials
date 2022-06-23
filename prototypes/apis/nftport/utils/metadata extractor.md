@@ -9,12 +9,10 @@
 
 * __path__: `string[]`
 
-
 ### Output ports:
 
 * __metadata__: `any`
 
 
 * __error__: `{"error" :string}`
-
 

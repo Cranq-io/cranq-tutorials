@@ -14,9 +14,7 @@ Copies values from state over to a params structure.
 
 * __mapping__: `{string: string}`
 
-
 ### Output ports:
 
 * __params__: `any`
-
 

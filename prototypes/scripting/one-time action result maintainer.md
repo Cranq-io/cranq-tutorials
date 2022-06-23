@@ -13,11 +13,9 @@
     ```
 
 
-
 * __state__: `any`
+
     Receives script state.
-
-
 
 ### Output ports:
 
@@ -25,5 +23,4 @@
 
 
 * __state (action finished)__: `any`
-
 

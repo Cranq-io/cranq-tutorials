@@ -9,13 +9,10 @@
 
 * __start__: `any`
 
-
 ### Output ports:
 
 * __config__: 
     ```
     {"api-url" :string, "private-key" :string, "public-key" :string, "token-uri" :string}
     ```
-
-
 

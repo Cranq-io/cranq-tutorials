@@ -11,12 +11,10 @@ Routes data received via `data` to one of the outputs matching the value in `val
 
 * __data__: `any`
 
-
 ### Output ports:
 
 * __data__: `any`
 
 
 * __other__: `any`
-
 

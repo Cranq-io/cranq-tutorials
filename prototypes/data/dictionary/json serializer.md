@@ -14,20 +14,18 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 ### Input ports:
 
 * __dict__: `any`
+
     Receives the dictionary to serialize.
     
     Example:
     { "first": 1, "third": 3, "fifth": 5 }
 
-
-
 ### Output ports:
 
 * __json__: `any`
+
     Sends the JSON string representation of the provided dictionary.
     
     Example:
     "{\"first\":1,\"third\":3,\"fifth\":5}"
-
-
 

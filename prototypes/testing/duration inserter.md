@@ -11,9 +11,7 @@ Inserts test duration into a list of durations on an assertion record.
 
 * __duration__: `any`
 
-
 ### Output ports:
 
 * __assertion__: `{string: any}`
-
 

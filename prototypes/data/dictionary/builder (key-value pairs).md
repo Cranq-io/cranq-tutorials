@@ -16,12 +16,11 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 ### Input ports:
 
 * __key-value pairs__: `{"key" :string, "value" :any}[]`
+
     Receives objects having key & value properties.
     
     Example:
     [ { "key":"first", "value": 1 }, { "key":"third", "value": 3 } ]
-
-
 
 ### Output ports:
 
@@ -34,6 +33,4 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
     
     Example:
     { "first": 1, "third": 3 }
-
-
 

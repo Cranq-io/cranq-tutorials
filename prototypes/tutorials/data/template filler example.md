@@ -8,9 +8,7 @@ Example node, that demonstrates the usage of the string/Template filler node.
 
 * __run__: `any`
 
-
 ### Output ports:
 
 * __output__: `any`
-
 

@@ -21,22 +21,23 @@ Example:
 ### Input ports:
 
 * __URL__: `string`
+
     Receives the target of the HTML form post.
     
     Example:
     "https://httpbin.org/post"
 
 
-
 * __headers__: `{string: string}`
+
     Receives request headers. 
     
     Example:
     {}
 
 
-
 * __form data__: `{string: (string or string[])}`
+
     Receives the form data to be posted.
     
     Example:
@@ -48,32 +49,31 @@ Example:
     "topping": ["bacon", "cheese", "onion"]
     }
 
-
-
 ### Output ports:
 
 * __status__: `number`
+
     Sends HTTP response status code. Indicates whether the request has been  successfully completed.
     
     Example:
     200
 
 
-
 * __headers__: `{string: string}`
+
     Sends HTTP response headers.
 
 
-
 * __body__: `string`
+
     Sends HTTP response message body data.
     
     Example:
     "OK"
 
 
-
 * __errors__: `{"error" :string}`
+
     Sends HTTP response communication error.
     
     
@@ -81,6 +81,4 @@ Example:
     {
       "error": "Error: getaddrinfo ENOTFOUND x.y"
     } 
-
-
 

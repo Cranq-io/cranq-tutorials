@@ -9,12 +9,10 @@
 
 * __max diff__: `any`
 
-
 ### Output ports:
 
 * __done__: `any`
 
 
 * __bounced__: `any`
-
 

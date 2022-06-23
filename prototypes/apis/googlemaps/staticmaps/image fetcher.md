@@ -14,15 +14,12 @@ Fetches image of a specified area on a global map.
     Defines the area to be captured.
 
 
-
 * __params__: 
     ```
     {"apiKey" :string, "size" :[number,number], optional "scale" :number, optional "format" :("png8" or "png" or "png32" or "gif" or "jpg" or "jpg-baseline"), optional "mapType" :("roadmap" or "satellite" or "hybrid" or "terrain"), optional "language" :string, optional "region" :string}
     ```
 
     Optional params are ignored ATM.
-
-
 
 ### Output ports:
 
@@ -33,5 +30,4 @@ Fetches image of a specified area on a global map.
 
 
 * __error__: `{"error" :string, optional "details" :any}`
-
 

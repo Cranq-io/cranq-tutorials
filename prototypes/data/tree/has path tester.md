@@ -12,6 +12,7 @@ Example:
 ### Input ports:
 
 * __path__: `(string or number)[]`
+
     The path to look for in the `tree`
     
     Example:
@@ -20,16 +21,13 @@ Example:
     {"foo":[0, {"bar": "baz"}]}
 
 
-
 * __tree__: `(any[] or {string: any})`
+
     The tree data structure to find the `path` within
-
-
 
 ### Output ports:
 
 * __has__: `boolean`
+
     Whether the `path` was found in the `tree`
-
-
 

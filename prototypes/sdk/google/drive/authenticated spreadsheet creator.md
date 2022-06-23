@@ -26,14 +26,15 @@ Example:
 ### Input ports:
 
 * __session Id__: `string`
+
     Receives the session id of the drive action.
     
     Example: 
     "drive_session"
 
 
-
 * __auth data__: `{"email" :string, "key" :string}`
+
     Receives the authentication data of service account.
     
     Example: 
@@ -42,7 +43,6 @@ Example:
       "key": "TopSecretKey!"
     }
     
-
 
 
 * __create spreadsheet data__: 
@@ -67,23 +67,20 @@ Example:
     }
     
 
-
-
 ### Output ports:
 
 * __done__: `{"fileid" :string}`
+
     Sends the generated fileid.
     
     Eg.
     {"fileid": "1_ewweewweFileID"}
 
 
-
 * __error__: `{"error" :string}`
+
     Sends the error which happened during the execution of the action.
     
     Example:.
     {error: "Something went wrong!"}
-
-
 

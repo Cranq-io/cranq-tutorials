@@ -6,9 +6,7 @@
 
 * __size__: `[number,number]`
 
-
 ### Output ports:
 
 * __string__: `string`
-
 

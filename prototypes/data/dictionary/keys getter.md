@@ -15,20 +15,18 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/3_querying_data/
 ### Input ports:
 
 * __dict__: `{string: any}`
+
     Receives to dictionary to extract the keys from.
     
     Example:
     { "first": 1, "third": 3, "fifth": 5 } 
 
-
-
 ### Output ports:
 
 * __keys__: `string[]`
+
     Sends the keys of the dictionary as an array.
     
     Example:
     [ "first", "third", "fifth" ]
-
-
 

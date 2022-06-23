@@ -15,12 +15,10 @@
 
 * __interval__: `string`
 
-
 ### Output ports:
 
 * __instrument__: `any`
 
 
 * __error__: `{"error" :"Service unavailable"}`
-
 

@@ -9,9 +9,7 @@
 
 * __b__: `any`
 
-
 ### Output ports:
 
 * __same__: `any`
-
 

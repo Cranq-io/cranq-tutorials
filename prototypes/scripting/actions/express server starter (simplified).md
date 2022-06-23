@@ -13,8 +13,8 @@ Repeatable action.
 ### Input ports:
 
 * __state__: `any`
-    Receives script state.
 
+    Receives script state.
 
 
 * __params__: 
@@ -34,12 +34,9 @@ Repeatable action.
       "middlewares": ["json"]
     }
 
-
-
 ### Output ports:
 
 * __state__: `any`
+
     Sends updates script state.
-
-
 

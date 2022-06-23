@@ -24,11 +24,9 @@ Example B
     Receives response that might contain an error.
 
 
-
 * __error msg__: `string`
+
     Receives error message to appear in `error`.
-
-
 
 ### Output ports:
 
@@ -38,7 +36,5 @@ Example B
     ```
 
 
-
 * __error__: `{"error" :string, optional "details" :any}`
-
 

@@ -19,6 +19,7 @@ Example (failure):
 ### Input ports:
 
 * __path__: `string`
+
     Receives the path of the directory to list the content of.
     
     Example:
@@ -26,11 +27,10 @@ Example (failure):
     
     (To keep the application portable use "/" as path separator.)
 
-
-
 ### Output ports:
 
 * __child names__: `string[]`
+
     Sends the names of files & directories under the specified path.
     
     Example:
@@ -40,22 +40,20 @@ Example (failure):
     ]
 
 
-
 * __bounced__: `string`
+
     Sends the path if the operation has failed.
     
     Example:
     "/home/user1/dir1"
 
 
-
 * __error__: `{"error" :string}`
+
     Sends error information if the operation has failed.
     
     Example: 
     {
       "error": "Error: ENOENT: no such file or directory, scandir '/home/user1/dir1'"
     }
-
-
 

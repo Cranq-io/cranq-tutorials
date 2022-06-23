@@ -14,7 +14,6 @@ Runs a single SQL statement on the specified SQLite database, with the specified
 
 * __params__: `any`
 
-
 ### Output ports:
 
 * __done__: `any`
@@ -30,5 +29,4 @@ Runs a single SQL statement on the specified SQLite database, with the specified
 
 
 * __DB ID__: `any`
-
 

@@ -7,9 +7,8 @@ Deletes the specified path recursively, and forced.
 ### Input ports:
 
 * __path__: `string`
+
     Deletes all folders on the specified path from the filesystem.
-
-
 
 ### Output ports:
 
@@ -17,5 +16,4 @@ Deletes the specified path recursively, and forced.
 
 
 * __error__: `string`
-
 

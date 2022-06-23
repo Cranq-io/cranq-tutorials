@@ -6,9 +6,7 @@
 
 * __context__: `any`
 
-
 ### Output ports:
 
 * __context__: `any`
-
 

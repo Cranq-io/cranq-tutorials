@@ -9,9 +9,7 @@
 
 * __item__: `any`
 
-
 ### Output ports:
 
 * __assertion__: `any`
-
 

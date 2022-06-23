@@ -18,8 +18,6 @@
     {optional "chain" :("ethereum" or "polygon"), optional "refresh_metadata" :boolean}
     ```
 
-
-
 ### Output ports:
 
 * __NFT__: 
@@ -28,14 +26,11 @@
     ```
 
 
-
 * __response__: 
     ```
     {"status" :number, "headers" :{string: string}, "body" :any}
     ```
 
 
-
 * __error__: `{"error" :string}`
-
 

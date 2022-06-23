@@ -12,14 +12,12 @@ Example:
 ### Input ports:
 
 * __number__: `number`
+
     The number to be converted.
-
-
 
 ### Output ports:
 
 * __string__: `string`
+
     Sends the serialized number.
-
-
 

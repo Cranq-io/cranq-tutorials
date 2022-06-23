@@ -11,12 +11,10 @@ Matches a string to a non-global regular expression, and returns substrings that
 
 * __string__: `string`
 
-
 ### Output ports:
 
 * __groups__: `(string[] or null)`
 
 
 * __not found__: `any`
-
 

@@ -8,12 +8,10 @@ Example node, that demonstrates the usage of the flow/Splitter for splitting dic
 
 * __run__: `any`
 
-
 ### Output ports:
 
 * __Employees__: `any`
 
 
 * __Departments__: `any`
-
 

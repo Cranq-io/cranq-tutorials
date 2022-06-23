@@ -13,28 +13,27 @@ Example:
 ### Input ports:
 
 * __body__: `string`
+
     Receives the body of the response.
     
     Example:
     "OK"
 
 
-
 * __status__: `number`
+
     Receives a HTTP status code.
     
     Example:
     200
 
 
-
 * __headers__: `{string: string}`
+
     Receives a record of HTTP headers.
     
     Example:
     {"Contanet-Type": "text/plain"}
-
-
 
 ### Output ports:
 
@@ -44,6 +43,4 @@ Example:
     ```
 
     Sends the constructed HTTP response.
-
-
 

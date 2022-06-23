@@ -12,12 +12,11 @@ Accepted middleware identifiers:
 ### Input ports:
 
 * __app ID__: `string`
+
     Identifies the Express app to apply the middleware on.
 
 
-
 * __middleware__: `("text" or "json" or "urlencoded" or "cors")`
-
 
 ### Output ports:
 
@@ -28,7 +27,6 @@ Accepted middleware identifiers:
 
 
 * __error__: `{"error" :string}`
+
     Sends error information in case the middleware could not be applied.
-
-
 

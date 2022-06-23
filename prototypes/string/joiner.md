@@ -13,19 +13,17 @@ Example:
 ### Input ports:
 
 * __separator__: `string`
+
     The separator string
 
 
-
 * __substrings__: `string[]`
+
     Array containing the parts
-
-
 
 ### Output ports:
 
 * __joined__: `string`
+
     Sends the joined parts, separated by the separator string.
-
-
 

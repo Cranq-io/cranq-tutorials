@@ -8,9 +8,7 @@ Example node, that demonstrates the usage of the data/array/Concatenator node. P
 
 * __run__: `any`
 
-
 ### Output ports:
 
 * __array__: `any`
-
 

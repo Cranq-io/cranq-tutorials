@@ -13,19 +13,17 @@ Example:
 ### Input ports:
 
 * __a__: `number`
+
     The first number
 
 
-
 * __b__: `number`
+
     The second number
-
-
 
 ### Output ports:
 
 * __equal__: `boolean`
+
     Sends true if the received numbers are equal, false otherwise.
-
-
 

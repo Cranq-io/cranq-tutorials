@@ -15,20 +15,18 @@ Example B:
 ### Input ports:
 
 * __data__: `any`
+
     Receives the data to test for being a dictionary.
     
     Example:
     { "first": 1, "third": 0 }
 
-
-
 ### Output ports:
 
 * __is dict__: `boolean`
+
     Sends a value indicating whether the `data` received is a dictionary.
     
     Example:
     true
-
-
 

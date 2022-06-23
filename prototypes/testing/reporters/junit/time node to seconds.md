@@ -6,9 +6,7 @@
 
 * __pre-report time__: `{string: any}`
 
-
 ### Output ports:
 
 * __seconds__: `number`
-
 

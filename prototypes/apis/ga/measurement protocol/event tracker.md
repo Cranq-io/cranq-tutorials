@@ -24,12 +24,10 @@ https://developers.google.com/analytics/devguides/collection/protocol/v1/devguid
 
 * __value__: `any`
 
-
 ### Output ports:
 
 * __done__: `any`
 
 
 * __error__: `any`
-
 

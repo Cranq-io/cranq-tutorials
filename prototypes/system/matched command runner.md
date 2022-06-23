@@ -11,8 +11,8 @@ Sends empty array on no match.
 ### Input ports:
 
 * __cwd__: `any`
-    Receives individual fields for syncing.
 
+    Receives individual fields for syncing.
 
 
 * __command__: `string`
@@ -20,11 +20,9 @@ Sends empty array on no match.
 
 * __regex__: `string`
 
-
 ### Output ports:
 
 * __groups__: `string[]`
+
     Matched RegEx groups
-
-
 

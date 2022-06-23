@@ -8,9 +8,7 @@ Example node, that demonstrates the building of arrays with the flow/Syncer. Pro
 
 * __build__: `any`
 
-
 ### Output ports:
 
 * __array__: `any`
-
 

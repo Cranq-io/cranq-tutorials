@@ -13,19 +13,17 @@ Example:
 ### Input ports:
 
 * __value__: `number`
+
     The value to test against the reference
 
 
-
 * __reference__: `number`
+
     The reference to compare the value with
-
-
 
 ### Output ports:
 
 * __less or equal__: `boolean`
+
     Whether the value is less or equal than the reference
-
-
 

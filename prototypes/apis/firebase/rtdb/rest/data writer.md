@@ -7,20 +7,19 @@ Creates or replaces a data entry  identified by 'path', in a Firebase Realtime D
 ### Input ports:
 
 * __query context__: `any`
+
     idToken
     dbUrl
 
 
-
 * __path__: `any`
+
     Identifies data entry to be written.
     
     type: string[]
 
 
-
 * __data__: `any`
-
 
 ### Output ports:
 
@@ -31,8 +30,7 @@ Creates or replaces a data entry  identified by 'path', in a Firebase Realtime D
 
 
 * __query context__: `any`
+
     idToken
     dbUrl
-
-
 

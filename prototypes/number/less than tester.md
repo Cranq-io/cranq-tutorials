@@ -13,19 +13,17 @@ Example:
 ### Input ports:
 
 * __value__: `number`
+
     The first operand of the comparison
 
 
-
 * __reference__: `number`
+
     The second operand of the comparison
-
-
 
 ### Output ports:
 
 * __less__: `boolean`
+
     Sends true if 'a' is less than 'b'.
-
-
 

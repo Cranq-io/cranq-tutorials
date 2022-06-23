@@ -24,8 +24,8 @@ Links:
 ### Input ports:
 
 * __state__: `any`
-    Receives script state.
 
+    Receives script state.
 
 
 * __params__: 
@@ -34,7 +34,6 @@ Links:
     ```
 
     Receives method and route to match incoming requests against. Also specifies which running Express server instance to use via 'app-id'. The parameter 'app-id' must match the ID of a previously started Express server.
-
 
 
 * __response__: 
@@ -49,13 +48,11 @@ Links:
     * 'headers' list HTTP response headers
     * 'body' specifies the body of the response. Format potentially depends on middlewares.
 
-
-
 ### Output ports:
 
 * __state__: `any`
-    Sends updated script state.
 
+    Sends updated script state.
 
 
 * __request__: 
@@ -64,6 +61,4 @@ Links:
     ```
 
     Sends incoming requests matching the route and method received via `params`.
-
-
 

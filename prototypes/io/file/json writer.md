@@ -9,12 +9,10 @@
 
 * __data__: `any`
 
-
 ### Output ports:
 
 * __written__: `null`
 
 
 * __bounced__: `{"data" :any, "path" :string}`
-
 

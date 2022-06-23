@@ -14,9 +14,7 @@ Decorates assertion records with description and duration.
 
 * __assertion__: `any`
 
-
 ### Output ports:
 
 * __assertion__: `any`
-
 

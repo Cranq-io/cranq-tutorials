@@ -8,9 +8,7 @@ Example wrapper node, that demonstrates the basic usage of the flow/Repeater nod
 
 * __run__: `any`
 
-
 ### Output ports:
 
 * __output__: `any`
-
 

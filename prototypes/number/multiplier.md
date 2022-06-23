@@ -13,19 +13,17 @@ Example:
 ### Input ports:
 
 * __a__: `number`
+
     The first operand of the multiplication
 
 
-
 * __b__: `number`
+
     The second operand of the multiplication
-
-
 
 ### Output ports:
 
 * __product__: `number`
+
     Sends the product of the two inputs.
-
-
 

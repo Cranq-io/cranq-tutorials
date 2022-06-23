@@ -13,24 +13,22 @@ Example:
 ### Input ports:
 
 * __a__: `number`
+
     The divident of the operation.
 
 
-
 * __b__: `number`
+
     The divisor of the operation.
-
-
 
 ### Output ports:
 
 * __remainder__: `number`
+
     The remainder of the operation.
 
 
-
 * __bounced__: `{"a" :number, "b" :number}`
+
     Sends synced inputs on error.
-
-
 

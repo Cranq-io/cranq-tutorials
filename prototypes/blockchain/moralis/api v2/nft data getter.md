@@ -15,13 +15,13 @@ https://admin.moralis.io/web3Api
 
 
 * __address__: `string`
+
     Receives the contract address for a token.
 
 
-
 * __token ID__: `string`
-    Receives the identifier of the token in the context of its governing contract.
 
+    Receives the identifier of the token in the context of its governing contract.
 
 
 * __params__: 
@@ -31,18 +31,16 @@ https://admin.moralis.io/web3Api
 
     Receives parameters refining the transfers query.
     
-    Example:  
-    {  
-    \ \ "chain": "ropsten"  
-    }  
-
-
+    Example:
+    {
+      "chain": "ropsten"
+    }
 
 ### Output ports:
 
 * __NFT data__: ``blockchain/moralis/NFT data``
-    Sends a list of NFT transfers as returned by the Moralis API
 
+    Sends a list of NFT transfers as returned by the Moralis API
 
 
 * __response__: 
@@ -53,7 +51,5 @@ https://admin.moralis.io/web3Api
     Sends the entire response from the Moralis API, including status and header.
 
 
-
 * __error__: `{"error" :string}`
-
 

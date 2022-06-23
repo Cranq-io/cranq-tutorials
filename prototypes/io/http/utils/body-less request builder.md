@@ -14,13 +14,10 @@ Builds a HTTP request that has no body.
 
 * __headers__: `{string: string}`
 
-
 ### Output ports:
 
 * __request__: 
     ```
     {"method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "url" :string, "headers" :{string: string}}
     ```
-
-
 

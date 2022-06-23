@@ -6,9 +6,7 @@
 
 * __symbol__: `any`
 
-
 ### Output ports:
 
 * __index__: `any`
-
 

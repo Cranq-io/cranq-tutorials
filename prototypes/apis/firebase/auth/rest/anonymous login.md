@@ -10,7 +10,6 @@ Anonymous authentication must be enabled for the relevant Firebase Project.
 
 * __API key__: `any`
 
-
 ### Output ports:
 
 * __ID token__: `any`
@@ -23,11 +22,10 @@ Anonymous authentication must be enabled for the relevant Firebase Project.
 
 
 * __auth context__: `any`
+
     idToken
     email
     refreshToken
     expiresIn
     localId
-
-
 

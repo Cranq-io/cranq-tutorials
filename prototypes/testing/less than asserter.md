@@ -9,9 +9,7 @@
 
 * __expected__: `any`
 
-
 ### Output ports:
 
 * __out__: `any`
-
 

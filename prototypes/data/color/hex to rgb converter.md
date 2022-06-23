@@ -6,9 +6,7 @@
 
 * __hex__: `any`
 
-
 ### Output ports:
 
 * __RGB__: `any`
-
 

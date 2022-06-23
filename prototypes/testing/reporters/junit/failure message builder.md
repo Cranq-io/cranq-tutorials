@@ -6,9 +6,7 @@
 
 * __assertion__: `any`
 
-
 ### Output ports:
 
 * __message__: `any`
-
 

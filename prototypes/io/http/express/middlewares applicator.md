@@ -11,14 +11,12 @@ Applies multiple Express middlewares.
 
 * __middlewares__: `("text" or "json" or "urlencoded" or "cors")[]`
 
-
 ### Output ports:
 
 * __done__: `any`
 
 
 * __error__: `{"error" :string}`
+
     Sends error information in case any of the specified the middlewares could not be applied.
-
-
 

@@ -10,16 +10,13 @@
     ```
 
 
-
 * __state__: `any`
+
     Receives script state.
-
-
 
 ### Output ports:
 
 * __state__: `any`
+
     Sends updated script state.
-
-
 

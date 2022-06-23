@@ -13,19 +13,17 @@ Example:
 ### Input ports:
 
 * __a__: `boolean`
+
     Receives the first operand
 
 
-
 * __b__: `boolean`
+
     Receives the second operand
-
-
 
 ### Output ports:
 
 * __or__: `boolean`
+
     Sends the result of the OR operation.
-
-
 

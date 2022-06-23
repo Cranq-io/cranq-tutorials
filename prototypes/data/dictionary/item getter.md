@@ -21,36 +21,34 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/3_querying_data/
 ### Input ports:
 
 * __dict__: `{string: any}`
+
     Receives the dictionary to get the value from.
     
     Example:
     { "first": 1, "third": 3, "fifth": 5 }
 
 
-
 * __key__: `string`
+
     Receives the key corresponding to the value to get.
     
     Example:
     "third"
 
-
-
 ### Output ports:
 
 * __value__: `{string: any}[string]`
+
     If found, sends the value corresponding to the specified key.
     
     Example:
     1
 
 
-
 * __not found__: `{"dict" :{string: any}, "key" :string}`
+
     Sends the input values, when the specified key is not found in the dictionary.
     
     Example:
     { "dict":  { "first": 1, "third": 3, "fifth": 5 }, "key": "second" }
-
-
 

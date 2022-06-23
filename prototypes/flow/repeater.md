@@ -18,19 +18,17 @@ Example:
 ### Input ports:
 
 * __data__: `any`
+
     Receives data to be repeated.
 
 
-
 * __count__: `number`
+
     Receives the number of times the input is to be repeated.
-
-
 
 ### Output ports:
 
 * __data__: `any`
+
     Sends the repeated signal.
-
-
 

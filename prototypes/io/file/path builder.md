@@ -37,11 +37,10 @@ Example:
     
     (To keep the application portable use "/" as path separator.)
 
-
-
 ### Output ports:
 
 * __path__: `string`
+
     Sends the resulting path.
     
     Example (Windows):
@@ -49,6 +48,4 @@ Example:
     
     Example (OSX & *nix):
     "/home/user1/dir1/foo.txt"
-
-
 

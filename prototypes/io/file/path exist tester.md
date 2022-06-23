@@ -8,9 +8,7 @@ Tests whether the specified path exists in the filesystem.
 
 * __path__: `string`
 
-
 ### Output ports:
 
 * __exists__: `boolean`
-
 

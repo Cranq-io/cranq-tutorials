@@ -12,14 +12,12 @@ Example:
 ### Input ports:
 
 * __data__: `any`
+
     Input value to be checked
-
-
 
 ### Output ports:
 
 * __is boolean__: `boolean`
+
     Sends true if the input is a boolean, false otherwise.
-
-
 

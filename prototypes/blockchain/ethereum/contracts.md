@@ -10,9 +10,7 @@
     ```
 
 
-
 * __params__: `any`
-
 
 ### Output ports:
 
@@ -20,5 +18,4 @@
 
 
 * __contract name__: `any`
-
 

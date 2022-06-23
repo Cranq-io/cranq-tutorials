@@ -18,14 +18,15 @@ Examples:
 ### Input ports:
 
 * __start__: `(string or number)`
+
     Receives the timerId which identifies the timer.
     
     Example:
     "timer1"
 
 
-
 * __stop__: `(string or number)`
+
     Receives the timerId which identifies the timer to be stopped.
     
     
@@ -33,30 +34,27 @@ Examples:
     "timer1"
 
 
-
 * __delay__: `number`
+
     Receives the time in milliseconds that the timer should wait before the `done` port is triggered.
     
     Example: 
     300
 
-
-
 ### Output ports:
 
 * __done__: `(string or number)`
+
     Sends timerId when the delayed timeout is reached.
     
     Example:
     "timer1" 
 
 
-
 * __stopped__: `(string or number)`
+
     Sends timerId when the timer is stopped.
     
     Example:
     "timer1" 
-
-
 

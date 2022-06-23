@@ -11,16 +11,14 @@ Example:
 ### Input ports:
 
 * __table__: `{string: any}[]`
+
     [Inherited from port `array` of `mapper`] 
     Recieves array to be mapped.
     
     Example:
     ["Foo", "Bar"]
 
-
-
 ### Output ports:
 
 * __table__: `{string: (string or number or boolean or null)}[]`
-
 

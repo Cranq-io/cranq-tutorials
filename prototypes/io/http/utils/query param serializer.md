@@ -11,14 +11,12 @@ Example:
 ### Input ports:
 
 * __param__: `{"key" :string, "value" :string}`
+
     Receives a single query parameter as key-value pair.
-
-
 
 ### Output ports:
 
 * __string__: `string`
+
     Sends the serialized single query param.
-
-
 

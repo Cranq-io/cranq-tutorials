@@ -19,13 +19,10 @@ For body-less requests, see `io/http/utils/Body-less request builder`.
 
 * __data__: `any`
 
-
 ### Output ports:
 
 * __JSON req.__: 
     ```
     {"method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "url" :string, "headers" :{string: string}, "data" :any}
     ```
-
-
 

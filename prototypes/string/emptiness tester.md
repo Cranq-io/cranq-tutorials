@@ -12,14 +12,12 @@ Example:
 ### Input ports:
 
 * __string__: `string`
+
     The string to be tested for emptiness.
-
-
 
 ### Output ports:
 
 * __empty__: `boolean`
+
     Sends true if the string is empty, false otherwise.
-
-
 

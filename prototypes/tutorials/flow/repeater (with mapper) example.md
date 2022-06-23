@@ -11,9 +11,7 @@ Example node, that demonstrates the basic usage of the flow/Repeater node, provi
 
 * __value__: `any`
 
-
 ### Output ports:
 
 * __output__: `any`
-
 

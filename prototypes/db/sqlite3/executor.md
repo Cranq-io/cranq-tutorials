@@ -8,12 +8,10 @@ Executes all queries in the received SQL script.
 
 * __params__: `{"dbId" :string, "sql" :string}`
 
-
 ### Output ports:
 
 * __done__: `null`
 
 
 * __error__: `string`
-
 

@@ -8,9 +8,7 @@ Example node, that demonstrates a basic polling scenario
 
 * __run__: `any`
 
-
 ### Output ports:
 
 * __output__: `any`
-
 

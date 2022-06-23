@@ -15,52 +15,50 @@ Example:
 ### Input ports:
 
 * __template__: `string`
+
     Receives the template string to replace parameters in.
     
     Example:
     "Hello {#subject#}!"
 
 
-
 * __params__: `{string: any}`
+
     Receives the parameters to replace in the template.
     
     Example: 
     {"subject":"world"}
 
 
-
 * __token start__: `string`
+
     Receives the string that marks the start of the parameter placeholder (token) within the template.
     
     Example:
     "{#"
 
 
-
 * __token end__: `string`
+
     Receives the string that marks the end of the parameter placholder (token) within the template.
     
     Example:
     "#}"
 
-
-
 ### Output ports:
 
 * __filled__: `string`
+
     Sends the template string with replaced parameters.
     
     Example:
     "Hello world!"
 
 
-
 * __error__: `{"error" :string}`
+
     Sends error in case any occurs during operation.
     
     Example: 
     {"error": "Some error message"}
-
-
 

@@ -7,12 +7,11 @@ Retrieves multiple nodes from a tree.
 ### Input ports:
 
 * __tree__: `any`
+
     Data to be repeated
 
 
-
 * __paths__: `(string or number)[][]`
-
 
 ### Output ports:
 
@@ -23,5 +22,4 @@ Retrieves multiple nodes from a tree.
 
 
 * __missing indexes__: `any`
-
 

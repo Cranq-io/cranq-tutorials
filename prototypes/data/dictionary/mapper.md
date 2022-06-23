@@ -8,9 +8,8 @@
 
 
 * __mapped value__: `{string: any}[string]`
+
     The current (by tag) value, mapped.
-
-
 
 ### Output ports:
 
@@ -18,5 +17,4 @@
 
 
 * __value__: `any`
-
 

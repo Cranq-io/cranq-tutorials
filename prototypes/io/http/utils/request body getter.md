@@ -11,14 +11,12 @@ Example:
 ### Input ports:
 
 * __request__: `{"body" :any}`
+
     Receives an HTTP request that has a body.
-
-
 
 ### Output ports:
 
 * __body__: `{"body" :any}["body"]`
+
     Sends the 'body' component of the received request.
-
-
 

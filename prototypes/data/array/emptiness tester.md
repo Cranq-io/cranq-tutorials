@@ -11,20 +11,18 @@ Example:
 ### Input ports:
 
 * __array__: `any[]`
+
     Receives array to be tested.
     
     Example:
     []
 
-
-
 ### Output ports:
 
 * __empty__: `boolean`
+
     Sends whether the `array` does not contain any element.
     
     Example:
     true
-
-
 

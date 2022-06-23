@@ -20,11 +20,9 @@ Builds raw "pageview" parameter set for Google Analytics Measurement Protocol re
 
 * __title__: `any`
 
-
 ### Output ports:
 
 * __params__: `any`
+
     Measurement Protocol parameters for "pageview" hit type. Key-value pairs, must be serialized to be passed as payload.
-
-
 

@@ -21,6 +21,7 @@ Example (failure):
 ### Input ports:
 
 * __path__: `string`
+
     Receives the path of the file or directory to get information of.
     
     Example:
@@ -28,8 +29,6 @@ Example (failure):
     - "/home/user1/dir1/foo.txt"
     
     (To keep the application portable use "/" as path separator.)
-
-
 
 ### Output ports:
 
@@ -50,13 +49,11 @@ Example (failure):
     }
 
 
-
 * __bounced__: `string`
+
     Sends the path if the operation has failed.
     
     Example:
     - "/home/user1/dir1"
     - "/home/user1/dir1/foo.txt"
-
-
 

@@ -24,6 +24,7 @@ Example:
 ### Input ports:
 
 * __array__: `{string: (string or number or boolean)}[]`
+
     Receives the array of dictionaries to format.
     
     Example:
@@ -38,12 +39,9 @@ Example:
       },
     ]
 
-
-
 ### Output ports:
 
 * __csv__: `string`
+
     The resulting csv string.
-
-
 

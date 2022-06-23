@@ -8,4 +8,3 @@ Logs received data and tag to the output. Formats data as JSON.
 
 * __data__: `any`
 
-

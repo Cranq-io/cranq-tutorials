@@ -12,9 +12,7 @@ Example:
 
 * __csv__: `string`
 
-
 ### Output ports:
 
 * __2D array__: `string[][]`
-
 

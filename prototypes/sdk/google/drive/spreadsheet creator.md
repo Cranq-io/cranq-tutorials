@@ -18,14 +18,15 @@ Example:
 ### Input ports:
 
 * __session Id__: `string`
+
     Receives the session id of the drive action.
     
     Example: 
     "drive_session"
 
 
-
 * __file meta data__: `{string: any}`
+
     Receives the metadata of the spreadsheet creation.
     
     Example in case of shared drive:
@@ -50,30 +51,27 @@ Example:
     }
 
 
-
 * __supports all drives__: `boolean`
+
     Receives `supports all drives` parameter whether create should support both drives and shared drives.
     
     Example: 
     "true"
 
-
-
 ### Output ports:
 
 * __done__: `{"fileid" :string}`
+
     Sends the result of the action.
     
     Eg.
     {"fileid": "1_ewweewweFileID"}
 
 
-
 * __error__: `{"error" :string}`
+
     Sends the error which happened during the execution of the action.
     
     Eg.
     {error: "Something went wrong!"}
-
-
 

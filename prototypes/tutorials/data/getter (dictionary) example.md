@@ -8,7 +8,6 @@ Example node, that demonstrates the usage of dictionary getter nodes.
 
 * __run__: `any`
 
-
 ### Output ports:
 
 * __keys__: `any`
@@ -21,5 +20,4 @@ Example node, that demonstrates the usage of dictionary getter nodes.
 
 
 * __size__: `any`
-
 

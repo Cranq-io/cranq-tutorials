@@ -21,12 +21,10 @@ Logs received 4xx and 5xx responses with a custom message.
     }
 
 
-
 * __message__: `string`
+
     Receives additional log message.
     
     Example: 
     "unsuccessfull call"
-
-
 

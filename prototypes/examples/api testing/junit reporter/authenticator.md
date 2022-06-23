@@ -6,9 +6,7 @@
 
 * __start__: `any`
 
-
 ### Output ports:
 
 * __token__: `string`
-
 

@@ -8,9 +8,7 @@ Writes temporary assertions into the preprocessed JUnit output.
 
 * __context__: `any`
 
-
 ### Output ports:
 
 * __context__: `any`
-
 

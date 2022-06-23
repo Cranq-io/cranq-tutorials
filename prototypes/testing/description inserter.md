@@ -11,9 +11,7 @@ Inserts description into list of descriptions on an assertion record.
 
 * __description__: `any`
 
-
 ### Output ports:
 
 * __assertion__: `{string: any}`
-
 

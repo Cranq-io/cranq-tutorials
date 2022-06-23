@@ -7,16 +7,14 @@ Deletes a single record from an AirTable table.
 ### Input ports:
 
 * __record ID__: `string`
-    Receives the identifier of the record relative to an AirTable table.
 
+    Receives the identifier of the record relative to an AirTable table.
 
 
 * __params__: 
     ```
     {"apiKey" :string, "baseId" :string, "tableName" :string}
     ```
-
-
 
 ### Output ports:
 
@@ -31,7 +29,5 @@ Deletes a single record from an AirTable table.
     Sends the entire response from the AirTable API without modification.
 
 
-
 * __error__: `{"error" :string, optional "details" :any}`
-
 

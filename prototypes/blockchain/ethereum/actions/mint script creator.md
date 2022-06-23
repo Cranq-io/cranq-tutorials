@@ -12,10 +12,7 @@
     {"cwd" :string, "result-path" :string, "message" :string, "contract-address" :string, "contract-name" :string, "token-uri" :string, "create-file" :string}
     ```
 
-
-
 ### Output ports:
 
 * __state__: `any`
-
 

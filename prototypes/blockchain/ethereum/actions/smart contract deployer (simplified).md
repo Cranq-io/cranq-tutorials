@@ -32,11 +32,10 @@ Example:
       }
     }
 
-
-
 ### Output ports:
 
 * __state__: `any`
+
     Example:
     
     {
@@ -80,6 +79,4 @@ Example:
         }
       }
     } @start
-
-
 

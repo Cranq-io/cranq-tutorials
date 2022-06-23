@@ -6,9 +6,7 @@
 
 * __next__: `any`
 
-
 ### Output ports:
 
 * __assertion ID__: `any`
-
 

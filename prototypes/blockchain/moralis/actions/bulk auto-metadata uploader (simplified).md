@@ -64,6 +64,7 @@ Example:
 ### Input ports:
 
 * __state__: `any`
+
     Receives script state.
     
     Example:
@@ -86,7 +87,6 @@ Example:
     }
 
 
-
 * __params__: 
     ```
     {"cwd" :string, "moralis-api-key" :string, "image-urls" :string[], "image-names" :string[]}
@@ -102,11 +102,10 @@ Example:
       "image-names": ["logo.jpg"]
     }
 
-
-
 ### Output ports:
 
 * __state__: `any`
+
     Sends updated script state.
     
     Example:
@@ -142,6 +141,4 @@ Example:
     	  ]	
       }
     }
-
-
 

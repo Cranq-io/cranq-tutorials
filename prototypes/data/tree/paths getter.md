@@ -6,9 +6,7 @@
 
 * __tree__: `any`
 
-
 ### Output ports:
 
 * __paths__: `(string or number)[][]`
-
 

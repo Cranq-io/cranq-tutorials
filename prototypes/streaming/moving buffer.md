@@ -20,32 +20,30 @@ Example:
 ### Input ports:
 
 * __sample__: `any`
+
     Receives individual samples to be buffered.
 
 
-
 * __size__: `number`
+
     Specifies the maximum number of samples stored in the buffer.
     
     Must be parameter.
 
-
-
 ### Output ports:
 
 * __buffer__: `any[]`
+
     Sends current contents of moving buffer.
 
 
-
 * __error__: `{"message" :string}`
+
     Sends error when:
     * size is equal or less than 0 or not set
 
 
-
 * __bounced__: `any`
+
     Forwards input received via `sample` on error.
-
-
 

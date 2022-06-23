@@ -12,19 +12,17 @@ Example:
 ### Input ports:
 
 * __string__: `string`
+
     String input to parse
-
-
 
 ### Output ports:
 
 * __number__: `number`
+
     Sends the parsed number if the parsing was successful.
 
 
-
 * __bounced__: `string`
+
     Sends the input data if the parsing has failed.
-
-
 

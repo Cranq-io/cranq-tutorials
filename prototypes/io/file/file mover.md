@@ -27,6 +27,7 @@ destination: "home/user1/dir2/bar.txt"
 ### Input ports:
 
 * __source__: `string`
+
     Receives the path of the source file to move.
     
     Example:
@@ -35,8 +36,8 @@ destination: "home/user1/dir2/bar.txt"
     (To keep the application portable use "/" as path separator.)
 
 
-
 * __destination__: `string`
+
     Receives the path of the desired target file.
     
     Example:
@@ -44,11 +45,10 @@ destination: "home/user1/dir2/bar.txt"
     
     (To keep the application portable use "/" as path separator.)
 
-
-
 ### Output ports:
 
 * __bounced__: `{"source" :string, "destination" :string}`
+
     Sends synced parameters if operation has failed.
     
     Example:
@@ -58,8 +58,8 @@ destination: "home/user1/dir2/bar.txt"
     }
 
 
-
 * __moved__: `{"source" :string, "destination" :string}`
+
     Sends synced parameters if operation has succeeded.
     
     Example:
@@ -69,14 +69,12 @@ destination: "home/user1/dir2/bar.txt"
     }
 
 
-
 * __error__: `{"error" :string}`
+
     Sends error information if the operation has failed.
     
     Example: 
     {
       "error": "Error: ENOENT: no such file or directory, rename '/home/user1/dir1/foo.txt' -> '/home/user1/dir2/bar.txt'"
     }
-
-
 

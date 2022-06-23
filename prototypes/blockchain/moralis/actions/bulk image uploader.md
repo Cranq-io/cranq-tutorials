@@ -67,11 +67,11 @@ Example:
 ### Input ports:
 
 * __state__: `any`
+
     Receives script state.
     
     Example:
     {}
-
 
 
 * __params__: 
@@ -123,11 +123,10 @@ Example:
       }
     }
 
-
-
 ### Output ports:
 
 * __state__: `any`
+
     Sends updated script state.
     
     Example:
@@ -148,6 +147,4 @@ Example:
     	"https://ipfs.moralis.io:2053/ipfs/QmVsdDLF8gmZeUCdrqgjXHLZ4VupdvxQaCiCdDvVApmR2o/nft\\batch-images\\logo.jpg"
       ]
     }
-
-
 

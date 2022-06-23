@@ -15,6 +15,7 @@ Example:
 ### Input ports:
 
 * __path__: `string`
+
     Receives the path to parse.
     
     Example:
@@ -22,8 +23,6 @@ Example:
     - "C:/Users/User1/dir1/foo.txt"
     
     (To keep the application portable use "/" as path separator.)
-
-
 
 ### Output ports:
 
@@ -45,6 +44,4 @@ Example:
       "basename": "foo",
       "extension": ".txt"
     }
-
-
 

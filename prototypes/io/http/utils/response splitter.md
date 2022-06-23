@@ -7,9 +7,8 @@ Splits a canonical HTTP response into its components: HTTP status, headers, and 
 ### Input ports:
 
 * __response__: ``io/http/Response``
+
     Receives the canonical HTTP response to be split.
-
-
 
 ### Output ports:
 
@@ -20,5 +19,4 @@ Splits a canonical HTTP response into its components: HTTP status, headers, and 
 
 
 * __body__: ``io/http/Response`["body"]`
-
 

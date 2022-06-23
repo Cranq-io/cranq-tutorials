@@ -5,36 +5,35 @@
 ### Input ports:
 
 * __session id__: `string`
+
     Receives the id of the S3 session.
     
     Example: 
     "s3-session-id"
 
 
-
 * __bucket name__: `string`
+
     Receives the name of the S3 bucket to upload to.
     
     Example: 
     "buckat-name"
 
 
-
 * __file name__: `any`
+
     Receives the name of the file  to be uploaded.
     
     Example: 
     "test.tx"
 
 
-
 * __file content__: `any`
+
     Receives the content of the file  to be uploaded.
     
     Example: 
     "test content"
-
-
 
 ### Output ports:
 
@@ -55,7 +54,5 @@
     } 
 
 
-
 * __error__: `{"error" :string}`
-
 

@@ -12,8 +12,6 @@ This is an internal node. Use specific SQLite nodes instead.
     {"id" :string, "type" :("open" or "run" or "get" or "all" or "each" or "close"), "options" :{"sql" :string, optional "options" :{string: any}}}
     ```
 
-
-
 ### Output ports:
 
 * __data__: `any`
@@ -23,5 +21,4 @@ This is an internal node. Use specific SQLite nodes instead.
 
 
 * __error__: `string`
-
 

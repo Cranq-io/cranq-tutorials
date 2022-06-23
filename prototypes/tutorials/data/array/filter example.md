@@ -8,9 +8,7 @@ Example node, that demonstrates the basic usage of the data/array/Filter node ov
 
 * __run__: `any`
 
-
 ### Output ports:
 
 * __output__: `any`
-
 

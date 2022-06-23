@@ -15,26 +15,24 @@ Example:
 ### Input ports:
 
 * __tree__: `(any[] or {string: any})`
+
     Tree data structure in which to store a node.
     
     Will be mutated.
 
 
-
 * __path__: `(string or number)[]`
+
     Receives the path segments where the `node` should  be written to
 
 
-
 * __node__: `any`
+
     Receives the node to be set
-
-
 
 ### Output ports:
 
 * __modified tree__: `(any[] or {string: any})`
+
     Sends the modified tree
-
-
 

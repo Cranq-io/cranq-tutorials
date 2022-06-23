@@ -11,6 +11,7 @@ Examples:
 ### Input ports:
 
 * __path__: `string`
+
     Receives a serialized tree path in canonical format.
     
     Examples:
@@ -18,14 +19,11 @@ Examples:
     * "foo"
     * "foo.b\\.r"
 
-
-
 ### Output ports:
 
 * __parsed__: `(string or number)[]`
+
     Sends tree path. (Array of strings and numbers.)
     
     Example: ["foo", 0, "bar"]
-
-
 

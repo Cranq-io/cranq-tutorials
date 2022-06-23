@@ -13,19 +13,17 @@ Example:
 ### Input ports:
 
 * __a__: `string`
+
     The first string
 
 
-
 * __b__: `string`
+
     The second string
-
-
 
 ### Output ports:
 
 * __concatenated__: `string`
+
     Sends the concatenation of the two inputs.
-
-
 

@@ -12,10 +12,7 @@
     {"cwd" :string, "result-path" :string, "message" :string}
     ```
 
-
-
 ### Output ports:
 
 * __state__: `any`
-
 

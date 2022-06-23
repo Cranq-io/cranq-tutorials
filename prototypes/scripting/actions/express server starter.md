@@ -12,10 +12,7 @@
     {"cwd" :string, "result-path" :string, "message" :string, "app-id" :string, "port" :number, "middlewares" :("json" or "cors" or "urlencoded")[]}
     ```
 
-
-
 ### Output ports:
 
 * __state__: `any`
-
 

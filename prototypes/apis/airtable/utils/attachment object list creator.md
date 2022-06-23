@@ -6,9 +6,7 @@
 
 * __file URLs__: `string[]`
 
-
 ### Output ports:
 
 * __attachments__: `{"url" :string[][number]}[]`
-
 

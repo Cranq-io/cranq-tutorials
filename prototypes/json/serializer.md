@@ -9,9 +9,7 @@
 
 * __pretty__: `any`
 
-
 ### Output ports:
 
 * __json__: `any`
-
 

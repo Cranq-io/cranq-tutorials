@@ -5,16 +5,14 @@
 ### Input ports:
 
 * __record IDs__: `string[]`
-    Receives list of record identifiers relative to an AirTable table.
 
+    Receives list of record identifiers relative to an AirTable table.
 
 
 * __params__: 
     ```
     {"apiKey" :string, "baseId" :string, "tableName" :string}
     ```
-
-
 
 ### Output ports:
 
@@ -29,7 +27,5 @@
     Sends the entire response from the AirTable API without modification.
 
 
-
 * __error__: `{"error" :string, optional "details" :any}`
-
 

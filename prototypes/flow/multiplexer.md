@@ -13,19 +13,17 @@ Example:
 ### Input ports:
 
 * __fields__: `(string[] or number[])`
+
     Receives a list of input port names to accept data payload through.
 
 
-
 * __demultiplexed__: `any`
+
     Receives data payload for multiplexing.
-
-
 
 ### Output ports:
 
 * __multiplexed__: `{"field" :string, "data" :any}`
+
     Sends multiplexed data.
-
-
 

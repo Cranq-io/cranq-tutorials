@@ -11,9 +11,7 @@ Example node that demonstrates the usage of the data/array/Mapper node.
 
 * __depts__: `any`
 
-
 ### Output ports:
 
 * __array__: `any`
-
 

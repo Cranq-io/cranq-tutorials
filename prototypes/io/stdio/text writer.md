@@ -11,10 +11,9 @@ Example:
 ### Input ports:
 
 * __text__: `string`
+
     The text to be written to the standard output.
     
     
     Example: "hello world"
-
-
 

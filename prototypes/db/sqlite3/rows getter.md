@@ -11,8 +11,6 @@ Retrieves multiple rows as a single array from the specified database.
     {"dbId" :string, "sql" :string, optional "params" :(string or number)[]}
     ```
 
-
-
 ### Output ports:
 
 * __data__: `{string: any}[]`
@@ -22,5 +20,4 @@ Retrieves multiple rows as a single array from the specified database.
 
 
 * __error__: `string`
-
 

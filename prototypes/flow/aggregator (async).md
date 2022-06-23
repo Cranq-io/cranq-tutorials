@@ -17,19 +17,17 @@ Example:
 ### Input ports:
 
 * __data__: `any`
+
     Receives data items to be aggregated.
 
 
-
 * __release__: `any`
+
     Receives signal to release aggregated inputs. Independent of `data`.
-
-
 
 ### Output ports:
 
 * __aggregated__: `any[]`
+
     Sends the aggregated data.
-
-
 

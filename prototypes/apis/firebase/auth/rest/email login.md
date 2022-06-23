@@ -16,7 +16,6 @@ User must be signed up, and email authentication must be enabled for the relevan
 
 * __password__: `any`
 
-
 ### Output ports:
 
 * __ID token__: `any`
@@ -29,12 +28,11 @@ User must be signed up, and email authentication must be enabled for the relevan
 
 
 * __auth context__: `any`
+
     idToken
     email
     refreshToken
     expiresIn
     localId
     registered
-
-
 

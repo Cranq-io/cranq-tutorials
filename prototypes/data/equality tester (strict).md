@@ -11,9 +11,7 @@ Tests whether `a` and `b` are equal by reference. (Primitives by value.)
 
 * __b__: `any`
 
-
 ### Output ports:
 
 * __equal__: `any`
-
 

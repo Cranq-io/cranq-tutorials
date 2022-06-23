@@ -9,9 +9,7 @@
 
 * __index__: `number`
 
-
 ### Output ports:
 
 * __is last__: `boolean`
-
 

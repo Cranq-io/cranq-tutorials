@@ -11,13 +11,10 @@ Opens the specified SQLite database. When the database doesn't exist, creates it
     {"dbId" :string, "filename" :string, "initSql" :string}
     ```
 
-
-
 ### Output ports:
 
 * __done__: `null`
 
 
 * __error__: `string`
-
 

@@ -16,7 +16,6 @@ Mode is normally 6.
 
 * __mode__: `any`
 
-
 ### Output ports:
 
 * __done__: `any`
@@ -26,5 +25,4 @@ Mode is normally 6.
 
 
 * __DB ID__: `any`
-
 

@@ -12,19 +12,17 @@ Example:
 ### Input ports:
 
 * __boolean__: `boolean`
+
     Input condition value
-
-
 
 ### Output ports:
 
 * __true__: `null`
+
     Sends null if the input value is true.
 
 
-
 * __false__: `null`
+
     Sends null if the input value is false.
-
-
 

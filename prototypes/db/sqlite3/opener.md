@@ -13,13 +13,10 @@ Mode is normally 6.
     {"dbId" :string, "filename" :string, "mode" :number}
     ```
 
-
-
 ### Output ports:
 
 * __done__: `null`
 
 
 * __error__: `string`
-
 

@@ -5,10 +5,10 @@
 ### Input ports:
 
 * __coordinates__: `[number,number]`
+
     Receives the coordinates to be converted to what3words.
     
     Format: [latitude, longitude]
-
 
 
 * __params__: 
@@ -17,8 +17,6 @@
     ```
 
     Receives what3words API parameters.
-
-
 
 ### Output ports:
 
@@ -30,14 +28,11 @@
     Sends data structure describing the geographical area identified by the 3-word address.
 
 
-
 * __response__: 
     ```
     {"status" :number, "headers" :{string: any}, "body" :string}
     ```
 
 
-
 * __error__: `{"error" :string, optional "details" :any}`
-
 

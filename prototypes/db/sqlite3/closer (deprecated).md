@@ -8,7 +8,6 @@ Closes the specified SQLite database.
 
 * __DB ID__: `any`
 
-
 ### Output ports:
 
 * __done__: `any`
@@ -18,5 +17,4 @@ Closes the specified SQLite database.
 
 
 * __DB ID__: `any`
-
 

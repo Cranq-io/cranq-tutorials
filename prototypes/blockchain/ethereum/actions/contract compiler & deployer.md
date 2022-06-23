@@ -14,10 +14,7 @@ Compiles and deploys a smart contract
     {"compile-contract" :{"cwd" :(string or number)[], "result-path" :string, "message" :string, "command" :string}, "deploy-contract" :{"cwd" :string, "result-path" :string, "message" :string, "network" :string, "regex" :string}, "prepare-verify-contract-params" :{string: string}, "verify-contract" :{"contract-address" :string, "cwd" :string, "result-path" :string, "message" :string}}
     ```
 
-
-
 ### Output ports:
 
 * __state__: `any`
-
 

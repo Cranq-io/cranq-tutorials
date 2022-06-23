@@ -6,9 +6,7 @@
 
 * __paths__: `string[]`
 
-
 ### Output ports:
 
 * __parsed__: `(string or number)[][]`
-
 

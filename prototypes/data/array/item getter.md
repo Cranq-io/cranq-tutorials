@@ -21,31 +21,29 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 ### Input ports:
 
 * __array__: `any[]`
+
     Recieves array to retrieve item from.
     
     Example:
     [1,2]
 
 
-
 * __index__: `number`
+
     Recieves index which identifies item to be retrieved in the array.
     
     Example:
     1
 
-
-
 ### Output ports:
 
 * __item__: `any[][number]`
+
     Sends item at the specified index.
     
     Example:
     2
 
 
-
 * __not found__: `{"array" :any[], "index" :number}`
-
 

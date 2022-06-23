@@ -7,22 +7,21 @@ Builds an assertion record.
 ### Input ports:
 
 * __success__: `any`
-    Receives individual fields for syncing.
 
+    Receives individual fields for syncing.
 
 
 * __actual__: `any`
-    Receives individual fields for syncing.
 
+    Receives individual fields for syncing.
 
 
 * __expected__: `any`
+
     Receives individual fields for syncing.
 
 
-
 * __type__: `any`
-
 
 ### Output ports:
 
@@ -30,6 +29,4 @@ Builds an assertion record.
     ```
     {"success" :any, "actual" :any, "expected" :any, "type" :any}
     ```
-
-
 

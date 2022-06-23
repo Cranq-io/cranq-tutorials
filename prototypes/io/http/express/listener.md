@@ -24,29 +24,29 @@ Example:
 ### Input ports:
 
 * __app ID__: `string`
+
     The id of the express instance.
     
     Example: 
     "my-express-server"
 
 
-
 * __port__: `number`
+
     The port number express should listen to.
     
     Example: 
     3000
 
-
-
 ### Output ports:
 
 * __done__: `null`
+
     Event triggered when the action has been executed.
 
 
-
 * __error__: `{"error" :string}`
+
     Sends error information in case the specified action could not be successfully executed.
     
     Example:
@@ -59,8 +59,8 @@ Example:
     }
 
 
-
 * __app ID__: `string`
+
     DEPRECATED
     
     The id of the express instance the action was executed on. Emitted when the action was executed.
@@ -68,6 +68,4 @@ Example:
     
     Example: 
     "my-express-server"
-
-
 

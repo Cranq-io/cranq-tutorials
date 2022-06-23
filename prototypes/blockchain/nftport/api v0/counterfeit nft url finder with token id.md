@@ -18,13 +18,10 @@ https://docs.nftport.xyz/docs/nftport/b3A6MjQ1OTQxMDc-find-counterfeit-nf-ts-w-t
     {"apiKey" :string, optional "chain" :("ethereum" or "polygon"), optional "page_number" :number, optional "page_size" :number, optional "threshold" :number}
     ```
 
-
-
 ### Output ports:
 
 * __file URLs__: `string[]`
 
 
 * __error__: `{"error" :string}`
-
 

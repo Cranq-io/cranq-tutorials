@@ -9,8 +9,8 @@ See `scripting/actions/Express server starter`.
 ### Input ports:
 
 * __state__: `any`
-    Receives script state.
 
+    Receives script state.
 
 
 * __params__: 
@@ -19,25 +19,20 @@ See `scripting/actions/Express server starter`.
     ```
 
 
-
 * __response__: 
     ```
     {"status" :number, "headers" :{string: string}, "body" :any}
     ```
 
-
-
 ### Output ports:
 
 * __state__: `any`
-    Sends updated script state.
 
+    Sends updated script state.
 
 
 * __request__: 
     ```
     {"baseUrl" :string, "body" :any, "cookies" :any, "hostname" :string, "headers" :{string: string}, "ip" :string, "ips" :string[], "method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "originalUrl" :string, "params" :{string: string}, "path" :string, "protocol" :("http" or "https"), "query" :{string: any}, "route" :string, "secure" :boolean, "signedCookies" :any, "stale" :boolean, "subdomains" :string[], "xhr" :boolean}
     ```
-
-
 

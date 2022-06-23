@@ -15,28 +15,26 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 ### Input ports:
 
 * __item__: `any`
+
     Receives item to be added to the array.
     
     Example:
     "Foo"
 
 
-
 * __count__: `number`
+
     Receives the number of times the item is to be add to the array.
     
     Example:
     3
 
-
-
 ### Output ports:
 
 * __array__: `any[]`
+
     Sends the built array.
     
     Example:
     ["Foo", "Foo", "Foo"]
-
-
 

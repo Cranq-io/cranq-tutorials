@@ -11,10 +11,9 @@ Example:
 ### Input ports:
 
 * __line__: `string`
+
     The line of text to be written to the standard output. (Does not need to include a line break)
     
     
     Example: "hello world"
-
-
 

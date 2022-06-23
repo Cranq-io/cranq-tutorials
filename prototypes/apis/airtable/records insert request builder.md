@@ -15,7 +15,6 @@
 
 * __table__: `any`
 
-
 ### Output ports:
 
 * __verb__: `any`
@@ -28,5 +27,4 @@
 
 
 * __body__: `any`
-
 

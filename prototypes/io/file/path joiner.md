@@ -12,6 +12,7 @@ Example:
 ### Input ports:
 
 * __base__: `string`
+
     Receives the base path to concatenate onto.
     
     Example:
@@ -20,8 +21,8 @@ Example:
     (To keep the application portable use "/" as path separator.)
 
 
-
 * __relative__: `string`
+
     Receives the path relative to `base`.
     
     Example:
@@ -29,15 +30,12 @@ Example:
     
     (To keep the application portable use "/" as path separator.)
 
-
-
 ### Output ports:
 
 * __joined__: `string`
+
     Sends the resulting path.
     
     Example:
     "/home/user1/dir1/foo.txt"
-
-
 

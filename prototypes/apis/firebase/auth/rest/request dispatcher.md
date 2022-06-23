@@ -5,6 +5,7 @@
 ### Input ports:
 
 * __action__: `any`
+
     Identifies account action in the Google Identity Toolkit API.
     
     Possible values:
@@ -21,12 +22,10 @@
     "delete"
 
 
-
 * __API key__: `any`
 
 
 * __data__: `any`
-
 
 ### Output ports:
 
@@ -40,5 +39,4 @@
 
 
 * __auth context__: `any`
-
 

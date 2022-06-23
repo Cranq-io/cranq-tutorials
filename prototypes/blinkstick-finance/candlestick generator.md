@@ -9,9 +9,7 @@
 
 * __max__: `any`
 
-
 ### Output ports:
 
 * __colors__: `any`
-
 

@@ -31,29 +31,29 @@ Example:
 ### Input ports:
 
 * __app ID__: `string`
+
     The id of the express instance.
     
     Example: 
     "my-express-server"
 
 
-
 * __method__: `("GET" or "POST" or "PUT" or "PATCH" or "DELETE")`
+
     Receives the method to handle request for. 
     
     Example:
     "GET"
 
 
-
 * __route__: `(string or string[])`
+
     Receives the route(s) to handle requests for. Route be specified as exact match (1) or as pattern match (2).
     
     Example:
     1) "/status" will just match "/status"
     2) "/s*s" will match "status", "shoes", etc..
     
-
 
 
 * __response__: 
@@ -72,8 +72,6 @@ Example:
       "body": "Done"
     }
 
-
-
 ### Output ports:
 
 * __request__: 
@@ -84,13 +82,13 @@ Example:
     Forwards the request to be processed.
 
 
-
 * __done__: `null`
+
     Event triggered when the specified action has been executed.
 
 
-
 * __app ID__: `string`
+
     The id of the express instance the action was executed on. Emitted when the action was executed.
     To be used when chaining multiple actions on the same express instance.
     
@@ -98,9 +96,7 @@ Example:
     "my-express-server"
 
 
-
 * __error__: `{"error" :string}`
+
     Sends error information in case the request could not be handled.
-
-
 

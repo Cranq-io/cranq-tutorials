@@ -14,9 +14,8 @@
 
 
 * __AT record__: `{"fields" :{string: any}}`
+
     Record as is sent to / received from the AirTable API.
-
-
 
 ### Output ports:
 
@@ -24,6 +23,4 @@
     ```
     {"method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "url" :string, "headers" :{string: string}, "data" :{"records" :[{"fields" :{string: any}}]}}
     ```
-
-
 

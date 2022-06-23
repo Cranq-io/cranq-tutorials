@@ -32,11 +32,11 @@ Example:
 ### Input ports:
 
 * __state__: `any`
+
     Receives script state.
     
     Example:
     {}@0
-
 
 
 * __params__: 
@@ -53,11 +53,10 @@ Example:
       "moralis-api-key": "API_KEY"
     }
 
-
-
 ### Output ports:
 
 * __state__: `any`
+
     Sends updated script state.
     
     Example:
@@ -78,6 +77,4 @@ Example:
     	"https://ipfs.moralis.io:2053/ipfs/QmVsdDLF8gmZeUCdrqgjXHLZ4VupdvxQaCiCdDvVApmR2o/nft\\batch-images\\logo.jpg"
       ]
     }
-
-
 

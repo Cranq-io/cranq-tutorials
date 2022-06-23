@@ -11,8 +11,8 @@ https://airtable.com/api/meta
 ### Input ports:
 
 * __record__: `{string: any}`
-    Receives a single record to be inserted into AirTable.
 
+    Receives a single record to be inserted into AirTable.
 
 
 * __params__: 
@@ -20,13 +20,11 @@ https://airtable.com/api/meta
     {"apiKey" :string, "baseId" :string, "tableName" :string}
     ```
 
-
-
 ### Output ports:
 
 * __record__: `{string: any}`
-    Sends the record that was successfully inserted into AirTable.
 
+    Sends the record that was successfully inserted into AirTable.
 
 
 * __AT record__: 
@@ -37,7 +35,6 @@ https://airtable.com/api/meta
     Sends the record that was successfully inserted into AirTable, including metadata like row ID, and date & time of creation.
 
 
-
 * __response__: 
     ```
     {"status" :number, "headers" :{string: any}, "body" :string}
@@ -46,7 +43,5 @@ https://airtable.com/api/meta
     Sends the entire response from the AirTable API without modification.
 
 
-
 * __error__: `{"error" :string, optional "details" :any}`
-
 

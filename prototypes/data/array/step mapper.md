@@ -9,7 +9,6 @@
 
 * __mapped item__: `any`
 
-
 ### Output ports:
 
 * __mapped__: `any[]`
@@ -22,5 +21,4 @@
 
 
 * __bounced__: `any`
-
 

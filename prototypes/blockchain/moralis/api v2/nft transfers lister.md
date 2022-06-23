@@ -12,18 +12,18 @@ https://docs.moralis.io/introduction/readme
 ### Input ports:
 
 * __API key__: `string`
+
     Receives the Moralis API key.
 
 
-
 * __address__: `string`
+
     Receives the contract address for a token.
 
 
-
 * __token ID__: `string`
-    Receives the identifier of the token in the context of its governing contract.
 
+    Receives the identifier of the token in the context of its governing contract.
 
 
 * __params__: 
@@ -38,13 +38,11 @@ https://docs.moralis.io/introduction/readme
       "chain": "ropsten"
     }
 
-
-
 ### Output ports:
 
 * __transfers__: ``blockchain/moralis/NFT transfer`[]`
-    Sends a list of NFT transfers as returned by the Moralis API
 
+    Sends a list of NFT transfers as returned by the Moralis API
 
 
 * __response__: 
@@ -55,7 +53,5 @@ https://docs.moralis.io/introduction/readme
     Sends the entire response from the Moralis API, including status and header.
 
 
-
 * __error__: `{"error" :string}`
-
 

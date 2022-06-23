@@ -26,16 +26,12 @@ Possible error responses:
     ```
 
 
-
 * __params__: 
     ```
     ({"appId" :string, "port" :number, "method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "route" :string, optional "request" :{optional "bearerToken" :string, optional "contentType" :("text" or "json" or "urlencoded")}, optional "response" :{optional "contentType" :("text" or "json")}} and {"timeout" :number})
     ```
 
-
-
 ### Output ports:
 
 * __request__: ``io/http/Request``
-
 

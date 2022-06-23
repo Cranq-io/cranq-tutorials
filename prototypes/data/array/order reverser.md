@@ -11,20 +11,18 @@ Example:
 ### Input ports:
 
 * __array__: `any[]`
+
     Recieves array to reserve.
     
     Example:
     [1,2,3]
 
-
-
 ### Output ports:
 
 * __reversed__: `any[]`
+
     Sends reversed array.
     
     Example:
     [3,2,1
-
-
 

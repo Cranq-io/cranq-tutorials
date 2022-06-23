@@ -14,9 +14,7 @@ Records a single assertion into a preprocessed report JSON.
 
 * __pre-report__: `any`
 
-
 ### Output ports:
 
 * __pre-report__: `any`
-
 

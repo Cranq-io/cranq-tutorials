@@ -26,8 +26,6 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
       }
     }
 
-
-
 ### Output ports:
 
 * __response__: 
@@ -50,8 +48,8 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
     }
 
 
-
 * __error__: `{"error" :string}`
+
     Sends error on failing to send or receive the request.
     
     Example:
@@ -59,6 +57,4 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
     {
       "error": "Error: getaddrinfo ENOTFOUND x.y"
     } 
-
-
 

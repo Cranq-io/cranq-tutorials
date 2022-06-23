@@ -21,22 +21,20 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/1_application_fl
 ### Input ports:
 
 * __dict__: `{string: any}`
+
     Receives the dictionary to iterate through.
     
     Example:
     { "first": 1, "third": 3, "fifth": 5 }
 
-
-
 ### Output ports:
 
 * __value__: `{string: any}[string]`
+
     Sends the value of the current item, with the tag corresponding to the iteration.
 
 
-
 * __key__: `string`
+
     Sends the key of the current item, with the tag corresponding to the iteration.
-
-
 

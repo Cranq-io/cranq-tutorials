@@ -10,4 +10,3 @@ Not recommended for complex data types.
 
 * __data__: `any`
 
-

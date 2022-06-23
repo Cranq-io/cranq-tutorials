@@ -23,7 +23,6 @@ Core interface to Express.js. Use higher level nodes to interact with Express.
     }
 
 
-
 * __response__: 
     ```
     {"status" :number, "headers" :{string: string}, "body" :any}
@@ -40,8 +39,6 @@ Core interface to Express.js. Use higher level nodes to interact with Express.
       "body": "Done"
     }
 
-
-
 ### Output ports:
 
 * __request__: 
@@ -52,19 +49,17 @@ Core interface to Express.js. Use higher level nodes to interact with Express.
     Sends the request processed by  defined handlers. Can be used to post-process the request.
 
 
-
 * __done__: `null`
+
     Event triggered when the specified action has been executed.
 
 
-
 * __error__: `{"error" :string}`
+
     Sends error information in case the specified action could not be successfully executed.
     
     Example:
     {
       "error": "Error: listen EADDRINUSE: address already in use :::3000"
     }
-
-
 

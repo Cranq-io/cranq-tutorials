@@ -10,13 +10,12 @@ Dispatches a GET request to one of the NFTPort API endpoints.
 
 
 * __URL__: `string`
+
     [Inherited from port `url` of `dispatch request`] 
     Receives the target of the HTTP request. Also called "resource" 
     
     Example:
     "https://jsonplaceholder.typicode.com/todos/1"
-
-
 
 ### Output ports:
 
@@ -32,6 +31,4 @@ Dispatches a GET request to one of the NFTPort API endpoints.
     ```
 
     Sends the reconstructed HTTP response.
-
-
 

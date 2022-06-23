@@ -25,14 +25,15 @@ Example:
 ### Input ports:
 
 * __app ID__: `string`
+
     The id of the express instance.
     
     Example: 
     "my-express-server"
 
 
-
 * __route__: `(string or string[])`
+
     Receives the route(s) to handle requests for. Route be specified as exact match (1) or as pattern match (2).
     
     Example:
@@ -40,16 +41,16 @@ Example:
     2) "/s*s" will match "status", "shoes", etc..
 
 
-
 * __status__: `number`
+
     Receives the HTTP status code to be sent with the response to the client.
     
     Example: 
     200
 
 
-
 * __headers__: `{string: string}`
+
     Receives the HTTP headers to be sent with the response to the client.
     
     Example: 
@@ -58,8 +59,8 @@ Example:
     }
 
 
-
 * __body__: `any`
+
     Receives the content to send to the client as response body.
     
     Example:
@@ -67,11 +68,10 @@ Example:
     - 3.14
     - { "status": "OK" }
 
-
-
 ### Output ports:
 
 * __headers__: `{string: string}`
+
     Forwards  the headers of the request to be processed.
     
     Example: 
@@ -80,14 +80,12 @@ Example:
     }
 
 
-
 * __query__: `{string: any}`
+
     Forwards the query parameters to process.
 
 
-
 * __done__: `null`
+
     Event triggered when the request has been processed.
-
-
 

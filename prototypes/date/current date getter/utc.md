@@ -6,9 +6,7 @@
 
 * __read__: `any`
 
-
 ### Output ports:
 
 * __date__: `any`
-
 

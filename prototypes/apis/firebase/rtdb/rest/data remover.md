@@ -7,17 +7,16 @@ Removes the data entry identified by 'path', from a Firebase Realtime Database.
 ### Input ports:
 
 * __query context__: `any`
+
     idToken
     dbUrl
 
 
-
 * __path__: `any`
+
     Identifies data entry to be deleted.
     
     type: string[]
-
-
 
 ### Output ports:
 
@@ -28,8 +27,7 @@ Removes the data entry identified by 'path', from a Firebase Realtime Database.
 
 
 * __query context__: `any`
+
     idToken
     dbUrl
-
-
 

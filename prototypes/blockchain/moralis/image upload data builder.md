@@ -6,9 +6,7 @@
 
 * __image paths__: `string[]`
 
-
 ### Output ports:
 
 * __image data__: `{"path" :string, "content" :string}[]`
-
 

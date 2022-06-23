@@ -11,6 +11,7 @@ Example:
 ### Input ports:
 
 * __path__: `string`
+
     Receives the path to test whether it is a file or not.
     
     Example:
@@ -18,15 +19,12 @@ Example:
     
     (To keep the application portable use "/" as path separator.)
 
-
-
 ### Output ports:
 
 * __is file__: `boolean`
+
     Boolean value that indicates, whether the specified path is a file.
     
     Example:
     true
-
-
 

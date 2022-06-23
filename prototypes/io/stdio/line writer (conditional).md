@@ -11,4 +11,3 @@ Writes a line to the standard output when the condition is true.
 
 * __condition__: `boolean`
 
-

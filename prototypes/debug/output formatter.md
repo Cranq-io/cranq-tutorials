@@ -11,9 +11,7 @@ Formats output based on received data and a custom message.
 
 * __message__: `string`
 
-
 ### Output ports:
 
 * __prepare output-filled__: `string`
-
 

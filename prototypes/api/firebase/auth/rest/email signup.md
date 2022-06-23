@@ -16,7 +16,6 @@ Email authentication must be enabled for the relevant Firebase Project.
 
 * __password__: `any`
 
-
 ### Output ports:
 
 * __ID token__: `any`
@@ -29,5 +28,4 @@ Email authentication must be enabled for the relevant Firebase Project.
 
 
 * __auth context__: `any`
-
 

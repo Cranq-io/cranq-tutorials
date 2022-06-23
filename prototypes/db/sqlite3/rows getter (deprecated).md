@@ -14,7 +14,6 @@ Retrieves multiple rows as a single array from the specified database.
 
 * __params__: `any`
 
-
 ### Output ports:
 
 * __rows__: `any`
@@ -24,5 +23,4 @@ Retrieves multiple rows as a single array from the specified database.
 
 
 * __DB ID__: `any`
-
 

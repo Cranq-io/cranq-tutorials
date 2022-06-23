@@ -9,4 +9,3 @@
 
 * __action result__: `any`
 
-

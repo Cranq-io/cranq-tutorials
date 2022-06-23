@@ -9,9 +9,7 @@
 
 * __greeted__: `any`
 
-
 ### Output ports:
 
 * __greeting__: `any`
-
 

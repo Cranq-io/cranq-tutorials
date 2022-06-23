@@ -20,37 +20,35 @@ Example:
 ### Input ports:
 
 * __data__: `any`
+
     Receives data to be throttled / rate limited.
 
 
-
 * __delay__: `number`
+
     Receives the length of the time window in milliseconds, in which to limit the number of signals.
     
     Can be set as parameter.
 
 
-
 * __count__: `number`
+
     Receives the maximum number of signals to be forwarded in the specified time window.
     
     Can be set as parameter.
 
-
-
 ### Output ports:
 
 * __data__: `any`
+
     Forwards the signals received via `data`, throttled.
 
 
-
 * __buffer size__: `number`
+
     Sends the current size of the throttler's internal buffer.
     
     Only sent when the size changes.
     
     Used for raising errors related to exceeding allowed buffer size.
-
-
 

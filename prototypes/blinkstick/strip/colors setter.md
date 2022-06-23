@@ -5,9 +5,8 @@
 ### Input ports:
 
 * __colors__: `any`
+
     Array of 8 HEX RGB color values. (Without leading hash.)
-
-
 
 ### Output ports:
 
@@ -15,5 +14,4 @@
 
 
 * __bounced__: `any`
-
 

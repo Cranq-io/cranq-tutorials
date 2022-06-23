@@ -23,36 +23,34 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 ### Input ports:
 
 * __dict__: `{string: any}`
+
     Receives the dictionary to set the value in.
     
     Example:
     { "first": 1, "third": 3, "fifth": 5 }
 
 
-
 * __key__: `string`
+
     Receives the key corresponding to the value to set.
     
     Example:
     "second"
 
 
-
 * __value__: `{string: any}[string]`
+
     Receives the value to set.
     
     Example:
     2
 
-
-
 ### Output ports:
 
 * __dict__: `{string: any}`
+
     Sends the resulting dictionary, with the new/altered item.
     
     Example:
     { "first": 1, "second":2, "third": 3, "fifth": 5 }
-
-
 
