@@ -9,8 +9,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 
 ### Input ports:
 
-* __array__: _any[]_
-
+* __array__: `any[]`
     Receives array to be filtered.
     
     Example:
@@ -18,8 +17,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 
 
 
-* __include item__: _boolean_
-
+* __include item__: `boolean`
     Receives whether to include the current (by tag) item.
     
     Example:
@@ -29,8 +27,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 
 ### Output ports:
 
-* __filtered__: _any[]_
-
+* __filtered__: `any[]`
     Sends the filtered array.
     
     Example:
@@ -38,8 +35,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 
 
 
-* __item__: _any[][number]_
-
+* __item__: `any[][number]`
     Sends the current item.
     
     Example:

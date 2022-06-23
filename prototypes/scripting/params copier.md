@@ -6,21 +6,17 @@ Copies values from state over to a params structure.
 
 ### Input ports:
 
-* __source__: _any_
+* __source__: `any`
 
 
-
-* __destination__: _any_
-
+* __destination__: `any`
 
 
-* __mapping__: _{string: string}_
-
+* __mapping__: `{string: string}`
 
 
 ### Output ports:
 
-* __params__: _any_
-
+* __params__: `any`
 
 

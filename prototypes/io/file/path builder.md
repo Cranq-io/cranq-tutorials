@@ -14,7 +14,10 @@ Example:
 
 ### Input ports:
 
-* __components__: _{"directory" :string, "basename" :string, "extension" :string}_
+* __components__: 
+    ```
+    {"directory" :string, "basename" :string, "extension" :string}
+    ```
 
     Receives the components to build the path from.
     
@@ -38,8 +41,7 @@ Example:
 
 ### Output ports:
 
-* __path__: _string_
-
+* __path__: `string`
     Sends the resulting path.
     
     Example (Windows):

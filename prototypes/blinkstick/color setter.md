@@ -6,25 +6,21 @@ Sets an RGB color on the specified LED.
 
 ### Input ports:
 
-* __color__: _any_
-
+* __color__: `any`
     type: [number, number, number]
 
 
 
-* __index__: _any_
-
+* __index__: `any`
     type: number
 
 
 
 ### Output ports:
 
-* __done__: _any_
+* __done__: `any`
 
 
-
-* __bounced__: _any_
-
+* __bounced__: `any`
 
 

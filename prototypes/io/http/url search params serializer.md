@@ -13,8 +13,7 @@ Example:
 
 ### Input ports:
 
-* __params__: _({string: any} or [string,any][])_
-
+* __params__: `({string: any} or [string,any][])`
     Received URL search parameters.
     
     Example:
@@ -25,8 +24,7 @@ Example:
 
 ### Output ports:
 
-* __serialized__: _string_
-
+* __serialized__: `string`
     Serialized parameters
     
     Example:

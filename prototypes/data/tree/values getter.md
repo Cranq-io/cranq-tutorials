@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __tree__: _any_
-
+* __tree__: `any`
 
 
 ### Output ports:
 
-* __values__: _any[]_
-
+* __values__: `any[]`
 
 

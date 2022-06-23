@@ -33,8 +33,7 @@ Example:
 
 ### Input ports:
 
-* __auth data__: _{"email" :string, "key" :string}_
-
+* __auth data__: `{"email" :string, "key" :string}`
     Receives the authentication data of service account.
     
     Example: 
@@ -45,7 +44,10 @@ Example:
 
 
 
-* __drive data__: _{"file meta data" :{string: any}, "supports all drives" :boolean}_
+* __drive data__: 
+    ```
+    {"file meta data" :{string: any}, "supports all drives" :boolean}
+    ```
 
     Receives the data of the drive where the spreadsheet is stored.
     
@@ -65,7 +67,10 @@ Example:
 
 
 
-* __spreadsheet data__: _{"update meta data" :{string: any}, "values" :any[][]}_
+* __spreadsheet data__: 
+    ```
+    {"update meta data" :{string: any}, "values" :any[][]}
+    ```
 
     Receives the spreadsheet metadata.
     
@@ -84,8 +89,7 @@ Example:
 
 ### Output ports:
 
-* __done__: _null_
-
+* __done__: `null`
     Sends null if the action was successful.
     
     Example:
@@ -93,8 +97,7 @@ Example:
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends the error which happened during the execution of the action.
     
     Example:.

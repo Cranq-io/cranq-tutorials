@@ -6,21 +6,17 @@ Adds an item to an invertible dictionary. Invertible dictionaries can have multi
 
 ### Input ports:
 
-* __dict__: _{string: any[]}_
+* __dict__: `{string: any[]}`
 
 
-
-* __key__: _string_
-
+* __key__: `string`
 
 
-* __value__: _{string: any[]}[string][number]_
-
+* __value__: `{string: any[]}[string][number]`
 
 
 ### Output ports:
 
-* __dict__: _{string: any[]}_
-
+* __dict__: `{string: any[]}`
 
 

@@ -4,17 +4,14 @@
 
 ### Input ports:
 
-* __data__: _any_
+* __data__: `any`
 
 
-
-* __pretty__: _any_
-
+* __pretty__: `any`
 
 
 ### Output ports:
 
-* __json__: _any_
-
+* __json__: `any`
 
 

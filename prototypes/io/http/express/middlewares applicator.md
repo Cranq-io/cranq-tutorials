@@ -6,22 +6,18 @@ Applies multiple Express middlewares.
 
 ### Input ports:
 
-* __app ID__: _any_
+* __app ID__: `any`
 
 
-
-* __middlewares__: _("text" or "json" or "urlencoded" or "cors")[]_
-
+* __middlewares__: `("text" or "json" or "urlencoded" or "cors")[]`
 
 
 ### Output ports:
 
-* __done__: _any_
+* __done__: `any`
 
 
-
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends error information in case any of the specified the middlewares could not be applied.
 
 

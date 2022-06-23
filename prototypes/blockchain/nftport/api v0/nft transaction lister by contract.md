@@ -11,19 +11,20 @@ https://docs.nftport.xyz/docs/nftport/b3A6MzAxNDQ3NzY-retrieve-transactions-by-c
 
 ### Input ports:
 
-* __API key__: _string_
-
+* __API key__: `string`
     Receives the NFTPort API key.
 
 
 
-* __address__: _string_
-
+* __address__: `string`
     Receives the contract address for a token.
 
 
 
-* __params__: _{"chain" :"ethereum", "continuation" :string, "include" :("default" or "metadata"), "page_size" :number}_
+* __params__: 
+    ```
+    {"chain" :"ethereum", "continuation" :string, "include" :("default" or "metadata"), "page_size" :number}
+    ```
 
     Receives parameters that customize the result transfer list.
     
@@ -31,23 +32,23 @@ https://docs.nftport.xyz/docs/nftport/b3A6MzAxNDQ3NzY-retrieve-transactions-by-c
 
 
 
-* __token ID__: _string_
-
+* __token ID__: `string`
     Receives the identifier of the token in the context of its governing contract.
 
 
 
 ### Output ports:
 
-* __transactions__: _`blockchain/nftport/NFT transaction`[]_
+* __transactions__: ``blockchain/nftport/NFT transaction`[]`
 
 
-
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
 
 
-* __response__: _{"status" :number, "headers" :{string: string}, "data" :`blockchain/nftport/NFT transactions by contract response`}_
+* __response__: 
+    ```
+    {"status" :number, "headers" :{string: string}, "data" :`blockchain/nftport/NFT transactions by contract response`}
+    ```
 
 
 

@@ -6,7 +6,10 @@ Works with google spreadsheet using the googleapis sdk.
 
 ### Input ports:
 
-* __action__: _{"sessionid" :string, "type" :("service_account_auth" or "update"), "options" :{string: any}}_
+* __action__: 
+    ```
+    {"sessionid" :string, "type" :("service_account_auth" or "update"), "options" :{string: any}}
+    ```
 
     Receives the parameters of the google spreadsheet base prototype.
     
@@ -25,8 +28,7 @@ Works with google spreadsheet using the googleapis sdk.
 
 ### Output ports:
 
-* __done__: _any_
-
+* __done__: `any`
     Sends the result fo the action.
     
     Example:
@@ -34,8 +36,7 @@ Works with google spreadsheet using the googleapis sdk.
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends the error which happened during the execution of the action.
     
     Example:.

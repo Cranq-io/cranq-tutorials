@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __date__: _any_
-
+* __date__: `any`
 
 
 ### Output ports:
 
-* __midnight__: _any_
-
+* __midnight__: `any`
 
 

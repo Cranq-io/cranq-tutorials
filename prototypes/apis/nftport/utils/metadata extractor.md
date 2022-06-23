@@ -4,21 +4,17 @@
 
 ### Input ports:
 
-* __NFT__: _any_
+* __NFT__: `any`
 
 
-
-* __path__: _string[]_
-
+* __path__: `string[]`
 
 
 ### Output ports:
 
-* __metadata__: _any_
+* __metadata__: `any`
 
 
-
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
 
 

@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __image paths__: _string[]_
-
+* __image paths__: `string[]`
 
 
 ### Output ports:
 
-* __image data__: _{"path" :string, "content" :string}[]_
-
+* __image data__: `{"path" :string, "content" :string}[]`
 
 

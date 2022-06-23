@@ -45,20 +45,21 @@ Examples:
 
 ### Input ports:
 
-* __request__: _any_
-
+* __request__: `any`
     Receives the request.
 
 
 
-* __response__: _{"status" :number, "headers" :{string: string}, "body" :string}_
+* __response__: 
+    ```
+    {"status" :number, "headers" :{string: string}, "body" :string}
+    ```
 
     Receives the response.
 
 
 
-* __timeout__: _number_
-
+* __timeout__: `number`
     Receives the timeout in milliseconds.
     
     Example: 
@@ -68,7 +69,10 @@ Examples:
 
 ### Output ports:
 
-* __response__: _{"status" :number, "headers" :{string: string}, "body" :string}_
+* __response__: 
+    ```
+    {"status" :number, "headers" :{string: string}, "body" :string}
+    ```
 
     Sends response.
 

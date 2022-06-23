@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __context__: _(any[] or {string: any})_
-
+* __context__: `(any[] or {string: any})`
 
 
 ### Output ports:
 
-* __context__: _any_
-
+* __context__: `any`
 
 

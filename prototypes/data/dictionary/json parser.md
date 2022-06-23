@@ -18,8 +18,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Input ports:
 
-* __json__: _string_
-
+* __json__: `string`
     Receives the JSON string to parse.
     
     Example:
@@ -29,8 +28,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Output ports:
 
-* __parsed__: _{string: any}_
-
+* __parsed__: `{string: any}`
     Sends the parsed dictionary.
     
     Example:
@@ -38,14 +36,12 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 
 
-* __bounced__: _string_
-
+* __bounced__: `string`
     Sends the value of `json`, if the parsing was unsuccessful.
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends error information if the operation has failed.
     
     Example: 

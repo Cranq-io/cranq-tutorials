@@ -4,17 +4,14 @@
 
 ### Input ports:
 
-* __string__: _any_
+* __string__: `any`
 
 
-
-* __substring__: _any_
-
+* __substring__: `any`
 
 
 ### Output ports:
 
-* __assertion__: _any_
-
+* __assertion__: `any`
 
 

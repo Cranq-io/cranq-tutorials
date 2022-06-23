@@ -8,28 +8,24 @@ Flavour depends on the running environment.
 
 ### Input ports:
 
-* __string__: _string_
-
+* __string__: `string`
     The string.
 
 
 
-* __regex__: _string_
-
+* __regex__: `string`
     The regex pattern
 
 
 
 ### Output ports:
 
-* __matches__: _boolean_
-
+* __matches__: `boolean`
     Whether the given regex matches the given string
 
 
 
-* __groups__: _string[]_
-
+* __groups__: `string[]`
     Groups matched by the given regex pattern
 
 

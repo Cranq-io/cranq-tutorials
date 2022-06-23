@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __date__: _any_
-
+* __date__: `any`
 
 
 ### Output ports:
 
-* __UNIX epoch__: _any_
-
+* __UNIX epoch__: `any`
 
 

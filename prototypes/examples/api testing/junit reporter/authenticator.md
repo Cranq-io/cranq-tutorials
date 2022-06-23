@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __start__: _any_
-
+* __start__: `any`
 
 
 ### Output ports:
 
-* __token__: _string_
-
+* __token__: `string`
 
 

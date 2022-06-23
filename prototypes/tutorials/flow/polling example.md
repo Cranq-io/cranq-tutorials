@@ -6,13 +6,11 @@ Example node, that demonstrates a basic polling scenario
 
 ### Input ports:
 
-* __run__: _any_
-
+* __run__: `any`
 
 
 ### Output ports:
 
-* __output__: _any_
-
+* __output__: `any`
 
 

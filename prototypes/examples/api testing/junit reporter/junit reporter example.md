@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __start__: _any_
-
+* __start__: `any`
 
 
 ### Output ports:
 
-* __JUnit XML__: _any_
-
+* __JUnit XML__: `any`
 
 

@@ -6,17 +6,14 @@ Inserts API key into a HTTP request header.
 
 ### Input ports:
 
-* __headers__: _{string: string}_
+* __headers__: `{string: string}`
 
 
-
-* __API key__: _string_
-
+* __API key__: `string`
 
 
 ### Output ports:
 
-* __headers__: _({string: string} and {"X-Api-Key" :string})_
-
+* __headers__: `({string: string} and {"X-Api-Key" :string})`
 
 

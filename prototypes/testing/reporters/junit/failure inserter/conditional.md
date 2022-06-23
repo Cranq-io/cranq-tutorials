@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __context__: _any_
-
+* __context__: `any`
 
 
 ### Output ports:
 
-* __context__: _any_
-
+* __context__: `any`
 
 

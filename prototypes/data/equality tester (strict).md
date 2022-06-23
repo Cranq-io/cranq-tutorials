@@ -6,17 +6,14 @@ Tests whether `a` and `b` are equal by reference. (Primitives by value.)
 
 ### Input ports:
 
-* __a__: _any_
+* __a__: `any`
 
 
-
-* __b__: _any_
-
+* __b__: `any`
 
 
 ### Output ports:
 
-* __equal__: _any_
-
+* __equal__: `any`
 
 

@@ -11,16 +11,14 @@ Example:
 
 ### Input ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Receives signal to be shifted back.
 
 
 
 ### Output ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Sends previously received signal.
 
 

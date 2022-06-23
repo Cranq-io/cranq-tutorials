@@ -14,27 +14,26 @@ Example A:
 
 ### Input ports:
 
-* __app ID__: _string_
-
+* __app ID__: `string`
     Identifies the Express app to apply the middleware on.
 
 
 
-* __params__: _{"contentType" :("text" or "json" or "urlencoded")}_
+* __params__: 
+    ```
+    {"contentType" :("text" or "json" or "urlencoded")}
+    ```
 
 
 
 ### Output ports:
 
-* __app ID__: _string_
+* __app ID__: `string`
 
 
-
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
 
 
-* __done__: _any_
-
+* __done__: `any`
 
 

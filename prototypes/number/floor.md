@@ -16,16 +16,14 @@ Example (negative number):
 
 ### Input ports:
 
-* __number__: _number_
-
+* __number__: `number`
     The number to be rounded.
 
 
 
 ### Output ports:
 
-* __floor__: _number_
-
+* __floor__: `number`
     The nearest integer which is less than or equal to the input number.
 
 

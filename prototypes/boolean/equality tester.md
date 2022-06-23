@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __a__: _boolean_
-
+* __a__: `boolean`
     First operand
 
 
 
-* __b__: _boolean_
-
+* __b__: `boolean`
     Second operand
 
 
 
 ### Output ports:
 
-* __equal__: _boolean_
-
+* __equal__: `boolean`
     Sends true if the provided values are equal, false otherwise.
 
 

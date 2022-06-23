@@ -4,23 +4,19 @@
 
 ### Input ports:
 
-* __dict__: _{string: any}_
+* __dict__: `{string: any}`
 
 
-
-* __mapped value__: _{string: any}[string]_
-
+* __mapped value__: `{string: any}[string]`
     The current (by tag) value, mapped.
 
 
 
 ### Output ports:
 
-* __mapped__: _{string: {string: any}[string]}_
+* __mapped__: `{string: {string: any}[string]}`
 
 
-
-* __value__: _any_
-
+* __value__: `any`
 
 

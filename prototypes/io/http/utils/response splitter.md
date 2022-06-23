@@ -6,23 +6,19 @@ Splits a canonical HTTP response into its components: HTTP status, headers, and 
 
 ### Input ports:
 
-* __response__: _`io/http/Response`_
-
+* __response__: ``io/http/Response``
     Receives the canonical HTTP response to be split.
 
 
 
 ### Output ports:
 
-* __status__: _`io/http/Response`["status"]_
+* __status__: ``io/http/Response`["status"]`
 
 
-
-* __headers__: _`io/http/Response`["headers"]_
-
+* __headers__: ``io/http/Response`["headers"]`
 
 
-* __body__: _`io/http/Response`["body"]_
-
+* __body__: ``io/http/Response`["body"]`
 
 

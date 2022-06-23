@@ -10,37 +10,34 @@ Bounces command and options when the node is already in the state of executing a
 
 ### Input ports:
 
-* __command__: _string_
+* __command__: `string`
 
 
-
-* __options__: _{"cwd" :string, "env" :{string: string}}_
-
+* __options__: `{"cwd" :string, "env" :{string: string}}`
 
 
 ### Output ports:
 
-* __stdout__: _string_
+* __stdout__: `string`
 
 
-
-* __stderr__: _string_
-
+* __stderr__: `string`
 
 
-* __error__: _(string or null)_
-
+* __error__: `(string or null)`
     Null on success.
 
 
 
-* __on busy__: _{"command" :string, "options" :{"cwd" :string, "env" :{string: string}}}_
+* __on busy__: 
+    ```
+    {"command" :string, "options" :{"cwd" :string, "env" :{string: string}}}
+    ```
 
     The received command and options when the node is still executing another command.
 
 
 
-* __bounced__: _any_
-
+* __bounced__: `any`
 
 

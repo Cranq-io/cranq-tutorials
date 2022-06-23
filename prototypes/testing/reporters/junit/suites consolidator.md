@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __pre-report__: _(any[] or {string: any})_
-
+* __pre-report__: `(any[] or {string: any})`
 
 
 ### Output ports:
 
-* __pre-report__: _any_
-
+* __pre-report__: `any`
 
 

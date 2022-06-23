@@ -6,20 +6,21 @@ Template for creating actions that run only once during the execution of the scr
 
 ### Input ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Receives script state.
 
 
 
-* __params__: _{"cwd" :string, "result-path" :string, "message" :string}_
+* __params__: 
+    ```
+    {"cwd" :string, "result-path" :string, "message" :string}
+    ```
 
 
 
 ### Output ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Sends updated script state.
 
 

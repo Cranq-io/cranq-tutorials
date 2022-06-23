@@ -14,8 +14,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/2_constructing_d
 
 ### Input ports:
 
-* __array__: _any[]_
-
+* __array__: `any[]`
     Recieves array to delete item from.
     
     Example:
@@ -23,8 +22,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/2_constructing_d
 
 
 
-* __index__: _number_
-
+* __index__: `number`
     Recieves index which identifies item to be deleted from the array.
     
     Example:
@@ -34,8 +32,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/2_constructing_d
 
 ### Output ports:
 
-* __array__: _any[]_
-
+* __array__: `any[]`
     Sends array with specified item deleted.
     
     Example:

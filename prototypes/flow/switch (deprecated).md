@@ -6,21 +6,17 @@ Use `flow/Splitter` or `flow/Switch` instead.
 
 ### Input ports:
 
-* __fields__: _(string[] or number[])_
+* __fields__: `(string[] or number[])`
 
 
-
-* __data__: _any_
-
+* __data__: `any`
 
 
 ### Output ports:
 
-* __output__: _any_
+* __output__: `any`
 
 
-
-* __bounced__: _any_
-
+* __bounced__: `any`
 
 

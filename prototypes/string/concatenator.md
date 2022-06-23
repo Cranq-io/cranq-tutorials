@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __a__: _string_
-
+* __a__: `string`
     The first string
 
 
 
-* __b__: _string_
-
+* __b__: `string`
     The second string
 
 
 
 ### Output ports:
 
-* __concatenated__: _string_
-
+* __concatenated__: `string`
     Sends the concatenation of the two inputs.
 
 

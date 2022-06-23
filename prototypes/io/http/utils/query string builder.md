@@ -10,16 +10,14 @@ Example:
 
 ### Input ports:
 
-* __params__: _{string: (string or string[])}_
-
+* __params__: `{string: (string or string[])}`
     Receives query parameters to be serialized as a dictionary.
 
 
 
 ### Output ports:
 
-* __query__: _string_
-
+* __query__: `string`
     Sends HTTP query string.
 
 

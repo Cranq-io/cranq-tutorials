@@ -6,11 +6,9 @@ Writes a line to the standard output when the condition is true.
 
 ### Input ports:
 
-* __line__: _string_
+* __line__: `string`
 
 
-
-* __condition__: _boolean_
-
+* __condition__: `boolean`
 
 

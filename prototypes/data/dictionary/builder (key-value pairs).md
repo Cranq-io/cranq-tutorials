@@ -15,8 +15,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Input ports:
 
-* __key-value pairs__: _{"key" :string, "value" :any}[]_
-
+* __key-value pairs__: `{"key" :string, "value" :any}[]`
     Receives objects having key & value properties.
     
     Example:
@@ -26,7 +25,10 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Output ports:
 
-* __dict__: _{string: {"key" :string, "value" :any}[][number]["value"]}_
+* __dict__: 
+    ```
+    {string: {"key" :string, "value" :any}[][number]["value"]}
+    ```
 
     Sends the resulting dictionary.
     

@@ -4,17 +4,18 @@
 
 ### Input ports:
 
-* __state__: _any_
+* __state__: `any`
 
 
-
-* __params__: _{"install-web3" :{"cwd" :(string or number)[], "result-path" :string, "message" :string, "command" :string}, "install-dotenv" :{"cwd" :(string or number)[], "result-path" :string, "message" :string, "command" :string}}_
+* __params__: 
+    ```
+    {"install-web3" :{"cwd" :(string or number)[], "result-path" :string, "message" :string, "command" :string}, "install-dotenv" :{"cwd" :(string or number)[], "result-path" :string, "message" :string, "command" :string}}
+    ```
 
 
 
 ### Output ports:
 
-* __state__: _any_
-
+* __state__: `any`
 
 

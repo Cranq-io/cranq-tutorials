@@ -22,8 +22,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Input ports:
 
-* __dict__: _{string: any}_
-
+* __dict__: `{string: any}`
     Receives the dictionary to delete the item from.
     
     Example:
@@ -31,8 +30,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 
 
-* __key__: _string_
-
+* __key__: `string`
     Receives the key corresponding to the value to delete.
     
     Example:
@@ -42,8 +40,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Output ports:
 
-* __dict__: _any_
-
+* __dict__: `any`
     Sends the resulting dictionary.
     
     Example:

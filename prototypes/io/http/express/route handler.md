@@ -30,8 +30,7 @@ Example:
 
 ### Input ports:
 
-* __app ID__: _string_
-
+* __app ID__: `string`
     The id of the express instance.
     
     Example: 
@@ -39,8 +38,7 @@ Example:
 
 
 
-* __method__: _("GET" or "POST" or "PUT" or "PATCH" or "DELETE")_
-
+* __method__: `("GET" or "POST" or "PUT" or "PATCH" or "DELETE")`
     Receives the method to handle request for. 
     
     Example:
@@ -48,8 +46,7 @@ Example:
 
 
 
-* __route__: _(string or string[])_
-
+* __route__: `(string or string[])`
     Receives the route(s) to handle requests for. Route be specified as exact match (1) or as pattern match (2).
     
     Example:
@@ -59,7 +56,10 @@ Example:
 
 
 
-* __response__: _{"status" :number, "headers" :{string: string}, "body" :any}_
+* __response__: 
+    ```
+    {"status" :number, "headers" :{string: string}, "body" :any}
+    ```
 
     Receives the response to be sent out to the client.
     
@@ -76,20 +76,21 @@ Example:
 
 ### Output ports:
 
-* __request__: _{"baseUrl" :string, "body" :any, "cookies" :any, "hostname" :string, "headers" :{string: string}, "ip" :string, "ips" :string[], "method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "originalUrl" :string, "params" :{string: string}, "path" :string, "protocol" :("http" or "https"), "query" :{string: any}, "route" :string, "secure" :boolean, "signedCookies" :any, "stale" :boolean, "subdomains" :string[], "xhr" :boolean}_
+* __request__: 
+    ```
+    {"baseUrl" :string, "body" :any, "cookies" :any, "hostname" :string, "headers" :{string: string}, "ip" :string, "ips" :string[], "method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "originalUrl" :string, "params" :{string: string}, "path" :string, "protocol" :("http" or "https"), "query" :{string: any}, "route" :string, "secure" :boolean, "signedCookies" :any, "stale" :boolean, "subdomains" :string[], "xhr" :boolean}
+    ```
 
     Forwards the request to be processed.
 
 
 
-* __done__: _null_
-
+* __done__: `null`
     Event triggered when the specified action has been executed.
 
 
 
-* __app ID__: _string_
-
+* __app ID__: `string`
     The id of the express instance the action was executed on. Emitted when the action was executed.
     To be used when chaining multiple actions on the same express instance.
     
@@ -98,8 +99,7 @@ Example:
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends error information in case the request could not be handled.
 
 

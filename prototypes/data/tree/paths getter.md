@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __tree__: _any_
-
+* __tree__: `any`
 
 
 ### Output ports:
 
-* __paths__: _(string or number)[][]_
-
+* __paths__: `(string or number)[][]`
 
 

@@ -11,16 +11,14 @@ Example:
 
 ### Input ports:
 
-* __params__: _{string: (string or string[])}_
-
+* __params__: `{string: (string or string[])}`
     Receives query parameters as dictionary.
 
 
 
 ### Output ports:
 
-* __flattened__: _{"key" :string, "value" :string}[]_
-
+* __flattened__: `{"key" :string, "value" :string}[]`
     Sends query parameter key-value pairs individually.
 
 

@@ -8,45 +8,38 @@ https://firebase.google.com/docs/reference/rest/database
 
 ### Input ports:
 
-* __query context__: _any_
-
+* __query context__: `any`
     idToken
     dbUrl
 
 
 
-* __method__: _any_
-
+* __method__: `any`
     HTTP method as required by the Firebase Realtime Database REST API.
     
     https://firebase.google.com/docs/reference/rest/database
 
 
 
-* __path__: _any_
-
+* __path__: `any`
     Identifies data entry that the query will interact with.
 
 
 
-* __data__: _any_
-
+* __data__: `any`
     Data to be sent via the HTTP request. Usually data to be set or updated.
 
 
 
 ### Output ports:
 
-* __data__: _{string: any}_
+* __data__: `{string: any}`
 
 
-
-* __error__: _string_
-
+* __error__: `string`
 
 
-* __query context__: _any_
-
+* __query context__: `any`
     idToken
     dbUrl
 

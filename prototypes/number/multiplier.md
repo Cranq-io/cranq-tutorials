@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __a__: _number_
-
+* __a__: `number`
     The first operand of the multiplication
 
 
 
-* __b__: _number_
-
+* __b__: `number`
     The second operand of the multiplication
 
 
 
 ### Output ports:
 
-* __product__: _number_
-
+* __product__: `number`
     Sends the product of the two inputs.
 
 

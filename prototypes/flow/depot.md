@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Receives data to be forwarded on trigger signal.
 
 
 
-* __trigger__: _any_
-
+* __trigger__: `any`
     Receives a signal indicating that the corresponding `data` input signal may be forwarded.
 
 
 
 ### Output ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Sends signal as received through `data` (input).
 
 

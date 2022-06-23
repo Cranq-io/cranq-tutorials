@@ -10,8 +10,7 @@ Example:
 
 ### Input ports:
 
-* __text__: _string_
-
+* __text__: `string`
     The text to be written to the standard output.
     
     

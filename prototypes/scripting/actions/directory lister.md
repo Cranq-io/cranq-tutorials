@@ -4,20 +4,21 @@
 
 ### Input ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Receives script state.
 
 
 
-* __params__: _{"cwd-path" :(string or number)[], "result-path" :string, "message" :string, "directory-path" :string}_
+* __params__: 
+    ```
+    {"cwd-path" :(string or number)[], "result-path" :string, "message" :string, "directory-path" :string}
+    ```
 
 
 
 ### Output ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Sends updated script state.
 
 

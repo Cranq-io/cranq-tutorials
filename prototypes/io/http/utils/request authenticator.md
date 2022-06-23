@@ -6,14 +6,12 @@ Authenticates request using the provided authentication method.
 
 ### Input ports:
 
-* __request__: _`io/http/Request`_
-
+* __request__: ``io/http/Request``
     Receives request to be authenticated
 
 
 
-* __params__: _{optional "bearerToken" :string}_
-
+* __params__: `{optional "bearerToken" :string}`
     [Inherited from port `dict` of `item getter`] 
     Receives the dictionary to get the value from.
     
@@ -24,11 +22,9 @@ Authenticates request using the provided authentication method.
 
 ### Output ports:
 
-* __request__: _`io/http/Request`_
+* __request__: ``io/http/Request``
 
 
-
-* __error__: _{"error" :"incorrect bearer token"}_
-
+* __error__: `{"error" :"incorrect bearer token"}`
 
 

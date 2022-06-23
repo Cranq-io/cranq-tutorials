@@ -4,8 +4,7 @@
 
 ### Input ports:
 
-* __session id__: _string_
-
+* __session id__: `string`
     Receives the id of the S3 session.
     
     Example: 
@@ -13,8 +12,7 @@
 
 
 
-* __bucket name__: _string_
-
+* __bucket name__: `string`
     Receives the name of the S3 bucket to upload to.
     
     Example: 
@@ -22,8 +20,7 @@
 
 
 
-* __file name__: _any_
-
+* __file name__: `any`
     Receives the name of the file  to be uploaded.
     
     Example: 
@@ -31,8 +28,7 @@
 
 
 
-* __file content__: _any_
-
+* __file content__: `any`
     Receives the content of the file  to be uploaded.
     
     Example: 
@@ -42,7 +38,10 @@
 
 ### Output ports:
 
-* __done__: _{"ETag" :string, "Location" :string, "key" :string, "Key" :string, "Bucket" :string}_
+* __done__: 
+    ```
+    {"ETag" :string, "Location" :string, "key" :string, "Key" :string, "Bucket" :string}
+    ```
 
     Sent the data about the successful upload.
     
@@ -57,7 +56,6 @@
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
 
 

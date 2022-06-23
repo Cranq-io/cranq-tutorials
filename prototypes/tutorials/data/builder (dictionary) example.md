@@ -6,13 +6,11 @@ Example node, that demonstrates the basic usage of dictionary builders
 
 ### Input ports:
 
-* __build__: _any_
-
+* __build__: `any`
 
 
 ### Output ports:
 
-* __data__: _any_
-
+* __data__: `any`
 
 

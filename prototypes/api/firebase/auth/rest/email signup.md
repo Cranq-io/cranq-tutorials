@@ -1,8 +1,6 @@
----
-description: [api/firebase/auth/rest]
----
-
 # Email signup
+
+[api/firebase/auth/rest]
 
 Signs up a Firebase user by their email & password.
 
@@ -10,33 +8,26 @@ Email authentication must be enabled for the relevant Firebase Project.
 
 ### Input ports:
 
-* __API key__: _any_
+* __API key__: `any`
 
 
-
-* __email__: _any_
-
+* __email__: `any`
 
 
-* __password__: _any_
-
+* __password__: `any`
 
 
 ### Output ports:
 
-* __ID token__: _any_
+* __ID token__: `any`
 
 
-
-* __user ID__: _any_
-
+* __user ID__: `any`
 
 
-* __error__: _any_
+* __error__: `any`
 
 
-
-* __auth context__: _any_
-
+* __auth context__: `any`
 
 

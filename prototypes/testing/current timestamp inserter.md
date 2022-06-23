@@ -6,13 +6,11 @@ Inserts current timestamp into an assertion record.
 
 ### Input ports:
 
-* __assertion__: _{string: any}_
-
+* __assertion__: `{string: any}`
 
 
 ### Output ports:
 
-* __assertion__: _{string: any}_
-
+* __assertion__: `{string: any}`
 
 

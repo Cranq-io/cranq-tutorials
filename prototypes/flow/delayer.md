@@ -6,14 +6,12 @@ Forwards each signal received via `data` (input) after waiting as many milliseco
 
 ### Input ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Receives data to be forwarded.
 
 
 
-* __delay__: _number_
-
+* __delay__: `number`
     Receives / sets time to wait in milliseconds before forwarding the signal received via `data` (input).
     
     Can be both parameter or signal (For each input through `data`.)
@@ -22,8 +20,7 @@ Forwards each signal received via `data` (input) after waiting as many milliseco
 
 ### Output ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Data forwarded with a delay.
 
 

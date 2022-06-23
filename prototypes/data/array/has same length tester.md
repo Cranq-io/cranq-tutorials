@@ -11,8 +11,7 @@ Example:
 
 ### Input ports:
 
-* __array1__: _any[]_
-
+* __array1__: `any[]`
     Recieves array1 to compare its lenght.
     
     Example:
@@ -20,8 +19,7 @@ Example:
 
 
 
-* __array2__: _any[]_
-
+* __array2__: `any[]`
     Recieves array2 to compare its lenght.
     
     Example:
@@ -31,8 +29,7 @@ Example:
 
 ### Output ports:
 
-* __has same length__: _boolean_
-
+* __has same length__: `boolean`
     Sends whether length of array1 and array1 is the same.
     
     Example:

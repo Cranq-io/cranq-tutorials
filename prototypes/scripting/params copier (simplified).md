@@ -4,17 +4,18 @@
 
 ### Input ports:
 
-* __source__: _any_
+* __source__: `any`
 
 
-
-* __params & mapping__: _{"params" :any, "mapping" :{string: string}}_
-
+* __params & mapping__: `{"params" :any, "mapping" :{string: string}}`
 
 
 ### Output ports:
 
-* __params__: _{"params" :any, "mapping" :{string: string}}["params"]_
+* __params__: 
+    ```
+    {"params" :any, "mapping" :{string: string}}["params"]
+    ```
 
 
 

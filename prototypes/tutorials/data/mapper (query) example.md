@@ -6,13 +6,11 @@ Example wrapper node that demonstrates the usage of the data/array/Mapper node.
 
 ### Input ports:
 
-* __run__: _any_
-
+* __run__: `any`
 
 
 ### Output ports:
 
-* __mapped__: _any_
-
+* __mapped__: `any`
 
 

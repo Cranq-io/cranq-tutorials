@@ -10,8 +10,7 @@ Example:
 
 ### Input ports:
 
-* __string__: _string_
-
+* __string__: `string`
     Receives string to be converted to uppercase.
     
     Example:
@@ -21,8 +20,7 @@ Example:
 
 ### Output ports:
 
-* __uppercase__: _string_
-
+* __uppercase__: `string`
     Sends `string` converted to upper case.
     
     Example:

@@ -6,13 +6,11 @@ Example node, that demonstrates the building of arrays with the flow/Syncer. Pro
 
 ### Input ports:
 
-* __build__: _any_
-
+* __build__: `any`
 
 
 ### Output ports:
 
-* __array__: _any_
-
+* __array__: `any`
 
 

@@ -6,8 +6,7 @@ Starts an express server set up for handling requests and also responding with J
 
 ### Input ports:
 
-* __app ID__: _string_
-
+* __app ID__: `string`
     The id of the express instance.
     
     Example: 
@@ -15,8 +14,7 @@ Starts an express server set up for handling requests and also responding with J
 
 
 
-* __port__: _number_
-
+* __port__: `number`
     The port number express should listen to.
     
     Example: 
@@ -26,12 +24,10 @@ Starts an express server set up for handling requests and also responding with J
 
 ### Output ports:
 
-* __done__: _any_
+* __done__: `any`
 
 
-
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends error information in case the server could not be started or a middleware could not be applied.
 
 

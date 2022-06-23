@@ -21,35 +21,30 @@ Example:
 
 ### Input ports:
 
-* __sample__: _{"value" :any, "timestamp" :number}_
-
+* __sample__: `{"value" :any, "timestamp" :number}`
     Receives individual samples to be buffered.
 
 
 
-* __size__: _number_
-
+* __size__: `number`
     Size of the buffer in seconds.
 
 
 
 ### Output ports:
 
-* __buffer__: _{"value" :any, "timestamp" :number}["value"][]_
-
+* __buffer__: `{"value" :any, "timestamp" :number}["value"][]`
     Sends current contents of moving buffer.
 
 
 
-* __error__: _{"message" :string}_
-
+* __error__: `{"message" :string}`
     Sends error when:
     * size is equal or less than 0 or not set
 
 
 
-* __bounced__: _{"value" :any, "timestamp" :number}_
-
+* __bounced__: `{"value" :any, "timestamp" :number}`
     Forwards input received via `sample` on error.
 
 

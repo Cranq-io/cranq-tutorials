@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __path__: _string_
-
+* __path__: `string`
 
 
 ### Output ports:
 
-* __config__: _{string: any}_
-
+* __config__: `{string: any}`
 
 

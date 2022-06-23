@@ -12,28 +12,24 @@ Example:
 
 ### Input ports:
 
-* __tree__: _(any[] or {string: any})_
-
+* __tree__: `(any[] or {string: any})`
     Receives the tree the node is extracted from
 
 
 
-* __path__: _(string or number)[]_
-
+* __path__: `(string or number)[]`
     Receives the path segments in an array
 
 
 
 ### Output ports:
 
-* __node__: _any_
-
+* __node__: `any`
     Sends the node at the specified path
 
 
 
-* __not found__: _(string or number)[]_
-
+* __not found__: `(string or number)[]`
     Sends the `path` if it was not found
 
 

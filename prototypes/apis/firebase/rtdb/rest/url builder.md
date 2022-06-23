@@ -4,20 +4,17 @@
 
 ### Input ports:
 
-* __query context__: _any_
-
+* __query context__: `any`
     idToken
     dbUrl
 
 
 
-* __path__: _any_
-
+* __path__: `any`
 
 
 ### Output ports:
 
-* __URL__: _any_
-
+* __URL__: `any`
 
 

@@ -6,21 +6,17 @@ Routes data received via `data` to one of the outputs matching the value in `val
 
 ### Input ports:
 
-* __values__: _string[]_
+* __values__: `string[]`
 
 
-
-* __data__: _any_
-
+* __data__: `any`
 
 
 ### Output ports:
 
-* __data__: _any_
+* __data__: `any`
 
 
-
-* __other__: _any_
-
+* __other__: `any`
 
 

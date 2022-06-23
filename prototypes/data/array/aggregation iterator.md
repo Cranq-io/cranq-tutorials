@@ -6,8 +6,7 @@ Iterates through items of an array, specifically for the purpose of being aggreg
 
 ### Input ports:
 
-* __array__: _any[]_
-
+* __array__: `any[]`
     Recieves array to be iterated over.
     
     Example:
@@ -17,8 +16,7 @@ Iterates through items of an array, specifically for the purpose of being aggreg
 
 ### Output ports:
 
-* __item__: _any[][number]_
-
+* __item__: `any[][number]`
     Sends current item.
     
     Example:
@@ -26,8 +24,7 @@ Iterates through items of an array, specifically for the purpose of being aggreg
 
 
 
-* __is last__: _boolean_
-
+* __is last__: `boolean`
     Sends flag whether current item is the last one.
     
     To be connected directly to the `release` input of a `flow/Aggregator`.

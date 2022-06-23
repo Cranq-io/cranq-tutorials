@@ -4,13 +4,15 @@
 
 ### Input ports:
 
-* __key-value pairs__: _{"key" :string, "value" :any}[]_
-
+* __key-value pairs__: `{"key" :string, "value" :any}[]`
 
 
 ### Output ports:
 
-* __dict__: _{string: {"key" :string, "value" :any}[][number]["value"]}_
+* __dict__: 
+    ```
+    {string: {"key" :string, "value" :any}[][number]["value"]}
+    ```
 
 
 

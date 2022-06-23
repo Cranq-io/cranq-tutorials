@@ -4,17 +4,14 @@
 
 ### Input ports:
 
-* __value__: _any_
+* __value__: `any`
 
 
-
-* __max__: _any_
-
+* __max__: `any`
 
 
 ### Output ports:
 
-* __colors__: _any_
-
+* __colors__: `any`
 
 

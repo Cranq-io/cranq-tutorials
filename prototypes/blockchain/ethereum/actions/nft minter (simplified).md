@@ -4,17 +4,18 @@
 
 ### Input ports:
 
-* __state__: _any_
+* __state__: `any`
 
 
-
-* __params__: _{"cwd" :string, "wallet-private-key" :string, "wallet-public-key" :string, "api-key" :string, "token-uri" :string, "contract-address" :string, "contract-name" :string}_
+* __params__: 
+    ```
+    {"cwd" :string, "wallet-private-key" :string, "wallet-public-key" :string, "api-key" :string, "token-uri" :string, "contract-address" :string, "contract-name" :string}
+    ```
 
 
 
 ### Output ports:
 
-* __state__: _any_
-
+* __state__: `any`
 
 

@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __assertion__: _any_
-
+* __assertion__: `any`
 
 
 ### Output ports:
 
-* __message__: _any_
-
+* __message__: `any`
 
 

@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __number__: _any_
-
+* __number__: `any`
 
 
 ### Output ports:
 
-* __out__: _any_
-
+* __out__: `any`
 
 

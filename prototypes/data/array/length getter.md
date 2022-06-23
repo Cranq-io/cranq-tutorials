@@ -10,8 +10,7 @@ Example:
 
 ### Input ports:
 
-* __array__: _any[]_
-
+* __array__: `any[]`
     Recieves array to determine length of.
     
     Example:
@@ -21,8 +20,7 @@ Example:
 
 ### Output ports:
 
-* __length__: _number_
-
+* __length__: `number`
     Sends `array` length.
     
     Example:

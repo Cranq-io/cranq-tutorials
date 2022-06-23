@@ -4,21 +4,17 @@
 
 ### Input ports:
 
-* __path__: _string_
+* __path__: `string`
 
 
-
-* __base64__: _string_
-
+* __base64__: `string`
 
 
 ### Output ports:
 
-* __written__: _null_
+* __written__: `null`
 
 
-
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
 
 

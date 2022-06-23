@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __a__: _number_
-
+* __a__: `number`
     The first operand of the subtraction
 
 
 
-* __b__: _number_
-
+* __b__: `number`
     The second operand of the subtraction
 
 
 
 ### Output ports:
 
-* __diff__: _number_
-
+* __diff__: `number`
     Sends the difference of 'a' from 'b'
 
 

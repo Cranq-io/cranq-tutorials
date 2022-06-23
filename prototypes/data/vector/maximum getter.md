@@ -4,15 +4,13 @@
 
 ### Input ports:
 
-* __vector__: _any[]_
-
+* __vector__: `any[]`
     Array of numbers
 
 
 
 ### Output ports:
 
-* __max__: _any[][number]_
-
+* __max__: `any[][number]`
 
 

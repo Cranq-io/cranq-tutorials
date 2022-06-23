@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __v4__: _any_
-
+* __v4__: `any`
 
 
 ### Output ports:
 
-* __uuid__: _any_
-
+* __uuid__: `any`
 
 

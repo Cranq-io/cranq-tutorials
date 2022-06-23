@@ -4,29 +4,23 @@
 
 ### Input ports:
 
-* __array__: _any[]_
+* __array__: `any[]`
 
 
-
-* __mapped item__: _any_
-
+* __mapped item__: `any`
 
 
 ### Output ports:
 
-* __mapped__: _any[]_
+* __mapped__: `any[]`
 
 
-
-* __item__: _any[][number]_
-
+* __item__: `any[][number]`
 
 
-* __done__: _any_
+* __done__: `any`
 
 
-
-* __bounced__: _any_
-
+* __bounced__: `any`
 
 

@@ -6,17 +6,14 @@ Closes the specified SQLite database.
 
 ### Input ports:
 
-* __params__: _{"db-id" :string}_
-
+* __params__: `{"db-id" :string}`
 
 
 ### Output ports:
 
-* __done__: _null_
+* __done__: `null`
 
 
-
-* __error__: _string_
-
+* __error__: `string`
 
 

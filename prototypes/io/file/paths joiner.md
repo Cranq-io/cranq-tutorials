@@ -6,22 +6,19 @@ Joins an array of path parts to a common base
 
 ### Input ports:
 
-* __base__: _string_
-
+* __base__: `string`
     The base path portion
 
 
 
-* __children__: _string[]_
-
+* __children__: `string[]`
     The array of path parts to join onto the base
 
 
 
 ### Output ports:
 
-* __paths__: _any_
-
+* __paths__: `any`
     The resulting paths
 
 

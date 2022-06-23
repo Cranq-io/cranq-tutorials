@@ -63,8 +63,7 @@ Example:
 
 ### Input ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Receives script state.
     
     Example:
@@ -88,7 +87,10 @@ Example:
 
 
 
-* __params__: _{"cwd" :string, "moralis-api-key" :string, "image-urls" :string[], "image-names" :string[]}_
+* __params__: 
+    ```
+    {"cwd" :string, "moralis-api-key" :string, "image-urls" :string[], "image-names" :string[]}
+    ```
 
     Recieves upload metadata script parameters.
     
@@ -104,8 +106,7 @@ Example:
 
 ### Output ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Sends updated script state.
     
     Example:

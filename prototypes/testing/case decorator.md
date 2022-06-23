@@ -6,21 +6,17 @@ Decorates assertion records with description and duration.
 
 ### Input ports:
 
-* __start__: _any_
+* __start__: `any`
 
 
-
-* __description__: _any_
-
+* __description__: `any`
 
 
-* __assertion__: _any_
-
+* __assertion__: `any`
 
 
 ### Output ports:
 
-* __assertion__: _any_
-
+* __assertion__: `any`
 
 

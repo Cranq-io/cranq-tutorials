@@ -4,21 +4,17 @@
 
 ### Input ports:
 
-* __dict__: _any_
+* __dict__: `any`
 
 
-
-* __keys__: _any_
-
+* __keys__: `any`
 
 
-* __strict__: _any_
-
+* __strict__: `any`
 
 
 ### Output ports:
 
-* __assertion__: _any_
-
+* __assertion__: `any`
 
 

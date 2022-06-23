@@ -6,13 +6,11 @@ Creates a path in the filesystem.
 
 ### Input ports:
 
-* __path__: _string_
-
+* __path__: `string`
 
 
 ### Output ports:
 
-* __success__: _boolean_
-
+* __success__: `boolean`
 
 

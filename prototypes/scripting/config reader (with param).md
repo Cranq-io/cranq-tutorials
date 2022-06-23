@@ -4,17 +4,18 @@
 
 ### Input ports:
 
-* __path__: _string_
+* __path__: `string`
 
 
-
-* __start__: _any_
-
+* __start__: `any`
 
 
 ### Output ports:
 
-* __config__: _{"api-url" :string, "private-key" :string, "public-key" :string, "token-uri" :string}_
+* __config__: 
+    ```
+    {"api-url" :string, "private-key" :string, "public-key" :string, "token-uri" :string}
+    ```
 
 
 

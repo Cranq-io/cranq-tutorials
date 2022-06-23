@@ -6,34 +6,27 @@ Builds raw "event" parameter set for Google Analytics Measurement Protocol reque
 
 ### Input ports:
 
-* __tracking ID__: _any_
+* __tracking ID__: `any`
 
 
-
-* __client ID__: _any_
-
+* __client ID__: `any`
 
 
-* __category__: _any_
+* __category__: `any`
 
 
-
-* __action__: _any_
-
+* __action__: `any`
 
 
-* __label__: _any_
+* __label__: `any`
 
 
-
-* __value__: _any_
-
+* __value__: `any`
 
 
 ### Output ports:
 
-* __params__: _{string: ({string: any} and {string: any})}_
-
+* __params__: `{string: ({string: any} and {string: any})}`
     Measurement Protocol parameters for "event" hit type. Key-value pairs, must be serialized to be passed as payload.
 
 

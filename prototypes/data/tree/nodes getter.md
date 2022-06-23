@@ -6,27 +6,22 @@ Retrieves multiple nodes from a tree.
 
 ### Input ports:
 
-* __tree__: _any_
-
+* __tree__: `any`
     Data to be repeated
 
 
 
-* __paths__: _(string or number)[][]_
-
+* __paths__: `(string or number)[][]`
 
 
 ### Output ports:
 
-* __nodes__: _any[]_
+* __nodes__: `any[]`
 
 
-
-* __found indexes__: _number_
-
+* __found indexes__: `number`
 
 
-* __missing indexes__: _any_
-
+* __missing indexes__: `any`
 
 

@@ -6,7 +6,10 @@ Extracts the first record from an AirTable API response.
 
 ### Input ports:
 
-* __resp. data__: _{"records" :{"id" :string, "createdTime" :string, "fields" :{string: any}}}_
+* __resp. data__: 
+    ```
+    {"records" :{"id" :string, "createdTime" :string, "fields" :{string: any}}}
+    ```
 
     JSON body of the record insertion response from AirTable.
 
@@ -14,11 +17,17 @@ Extracts the first record from an AirTable API response.
 
 ### Output ports:
 
-* __record__: _{"records" :{"id" :string, "createdTime" :string, "fields" :{string: any}}}["records"][number]["fields"]_
+* __record__: 
+    ```
+    {"records" :{"id" :string, "createdTime" :string, "fields" :{string: any}}}["records"][number]["fields"]
+    ```
 
 
 
-* __AT record__: _{"records" :{"id" :string, "createdTime" :string, "fields" :{string: any}}}["records"]_
+* __AT record__: 
+    ```
+    {"records" :{"id" :string, "createdTime" :string, "fields" :{string: any}}}["records"]
+    ```
 
     Record as is sent to / received from the AirTable API.
 

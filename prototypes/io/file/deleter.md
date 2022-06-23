@@ -20,8 +20,7 @@ Example (failure):
 
 ### Input ports:
 
-* __path__: _string_
-
+* __path__: `string`
     Receives the path of the file or directory to delete.
     
     Example:
@@ -32,8 +31,7 @@ Example (failure):
 
 
 
-* __recursive__: _boolean_
-
+* __recursive__: `boolean`
     Receives boolean flag which, when set, performs a recursive delete of all files & folders under the specified path.
     
     Example:
@@ -45,8 +43,7 @@ Example (failure):
 
 ### Output ports:
 
-* __bounced__: _{"path" :string, "recursive" :boolean}_
-
+* __bounced__: `{"path" :string, "recursive" :boolean}`
     Sends synced parameters if operation has failed.
     
     Example:
@@ -55,8 +52,7 @@ Example (failure):
 
 
 
-* __deleted__: _{"path" :string, "recursive" :boolean}_
-
+* __deleted__: `{"path" :string, "recursive" :boolean}`
     Sends synced parameters if the operation has succeeded.
     
     Example:
@@ -65,8 +61,7 @@ Example (failure):
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends error information if the operation has failed.
     
     Example: 

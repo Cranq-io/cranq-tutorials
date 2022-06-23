@@ -6,17 +6,14 @@ Executes all queries in the received SQL script.
 
 ### Input ports:
 
-* __params__: _{"dbId" :string, "sql" :string}_
-
+* __params__: `{"dbId" :string, "sql" :string}`
 
 
 ### Output ports:
 
-* __done__: _null_
+* __done__: `null`
 
 
-
-* __error__: _string_
-
+* __error__: `string`
 
 

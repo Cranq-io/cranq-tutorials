@@ -4,17 +4,14 @@
 
 ### Input ports:
 
-* __token__: _any_
-
+* __token__: `any`
 
 
 ### Output ports:
 
-* __user__: _{string: any}[string][string]_
+* __user__: `{string: any}[string][string]`
 
 
-
-* __status__: _any_
-
+* __status__: `any`
 
 

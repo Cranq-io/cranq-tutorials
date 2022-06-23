@@ -4,17 +4,14 @@
 
 ### Input ports:
 
-* __assertion__: _any_
+* __assertion__: `any`
 
 
-
-* __delay__: _any_
-
+* __delay__: `any`
 
 
 ### Output ports:
 
-* __pre-report__: _any_
-
+* __pre-report__: `any`
 
 

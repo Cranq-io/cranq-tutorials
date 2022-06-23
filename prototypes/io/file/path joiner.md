@@ -11,8 +11,7 @@ Example:
 
 ### Input ports:
 
-* __base__: _string_
-
+* __base__: `string`
     Receives the base path to concatenate onto.
     
     Example:
@@ -22,8 +21,7 @@ Example:
 
 
 
-* __relative__: _string_
-
+* __relative__: `string`
     Receives the path relative to `base`.
     
     Example:
@@ -35,8 +33,7 @@ Example:
 
 ### Output ports:
 
-* __joined__: _string_
-
+* __joined__: `string`
     Sends the resulting path.
     
     Example:

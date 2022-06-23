@@ -4,19 +4,16 @@
 
 ### Input ports:
 
-* __assertion__: _{string: any}_
-
+* __assertion__: `{string: any}`
 
 
 ### Output ports:
 
-* __case name__: _{string: any}[number]_
-
+* __case name__: `{string: any}[number]`
     Last item of the array
 
 
 
-* __suite name__: _string_
-
+* __suite name__: `string`
 
 

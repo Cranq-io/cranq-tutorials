@@ -12,8 +12,7 @@ Example:
 
 ### Input ports:
 
-* __array__: _any[]_
-
+* __array__: `any[]`
     Receives array to slice out of.
     
     Example:
@@ -21,8 +20,7 @@ Example:
 
 
 
-* __from__: _number_
-
+* __from__: `number`
     Receives start position of the slice (included).
     
     Example:
@@ -30,8 +28,7 @@ Example:
 
 
 
-* __to__: _number_
-
+* __to__: `number`
     Receives end position of the slice (not included.
     
     Example:
@@ -41,8 +38,7 @@ Example:
 
 ### Output ports:
 
-* __slice__: _any[]_
-
+* __slice__: `any[]`
     Sends section sliced out of the input array.
     
     Example:

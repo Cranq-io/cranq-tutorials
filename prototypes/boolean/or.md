@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __a__: _boolean_
-
+* __a__: `boolean`
     Receives the first operand
 
 
 
-* __b__: _boolean_
-
+* __b__: `boolean`
     Receives the second operand
 
 
 
 ### Output ports:
 
-* __or__: _boolean_
-
+* __or__: `boolean`
     Sends the result of the OR operation.
 
 

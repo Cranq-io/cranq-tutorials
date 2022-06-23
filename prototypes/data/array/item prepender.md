@@ -12,8 +12,7 @@ Example:
 
 ### Input ports:
 
-* __array__: _any[]_
-
+* __array__: `any[]`
     Recieves array to prepend to.
     
     Example:
@@ -21,8 +20,7 @@ Example:
 
 
 
-* __item__: _any[][number]_
-
+* __item__: `any[][number]`
     Recieves item to prepend.
     
     Example:
@@ -32,8 +30,7 @@ Example:
 
 ### Output ports:
 
-* __array__: _any[]_
-
+* __array__: `any[]`
     Sends array with specified item inserted to the begining.
     
     Example:

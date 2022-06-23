@@ -4,8 +4,7 @@
 
 ### Input ports:
 
-* __symbol__: _string_
-
+* __symbol__: `string`
     Receives ticker symbol.
     
     Example:
@@ -13,8 +12,7 @@
 
 
 
-* __from__: _number_
-
+* __from__: `number`
     Receives start date timestamp for querying data.
     
     Example:
@@ -22,8 +20,7 @@
 
 
 
-* __to__: _number_
-
+* __to__: `number`
     Receives end date timestamp for querying data.
     
     Example:
@@ -31,7 +28,10 @@
 
 
 
-* __interval__: _("1d" or "5d" or "1mo" or "3mo" or "6mo" or "1y" or "2y" or "5y" or "10y" or "ytd" or "max")_
+* __interval__: 
+    ```
+    ("1d" or "5d" or "1mo" or "3mo" or "6mo" or "1y" or "2y" or "5y" or "10y" or "ytd" or "max")
+    ```
 
     Receives the interval of the `rates per date` output
 
@@ -39,13 +39,11 @@
 
 ### Output ports:
 
-* __rates per date__: _{string: number}_
-
+* __rates per date__: `{string: number}`
     Sent the rates of the symbol per interval
 
 
 
-* __error__: _{"error" :"Service unavailable"}_
-
+* __error__: `{"error" :"Service unavailable"}`
 
 

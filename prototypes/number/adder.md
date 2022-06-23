@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __a__: _number_
-
+* __a__: `number`
     The first operand
 
 
 
-* __b__: _number_
-
+* __b__: `number`
     Second operand
 
 
 
 ### Output ports:
 
-* __sum__: _number_
-
+* __sum__: `number`
     The sum of the two operands.
 
 

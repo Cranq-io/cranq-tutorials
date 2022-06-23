@@ -6,13 +6,11 @@ Example node, that demonstrates the usage of the data/array/Reducer node
 
 ### Input ports:
 
-* __emps__: _any_
-
+* __emps__: `any`
 
 
 ### Output ports:
 
-* __sum__: _any_
-
+* __sum__: `any`
 
 

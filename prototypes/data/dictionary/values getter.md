@@ -14,8 +14,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/3_querying_data/
 
 ### Input ports:
 
-* __dict__: _{string: any}_
-
+* __dict__: `{string: any}`
     Receives the dictionary to extract the values from.
     
     Example:
@@ -25,8 +24,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/3_querying_data/
 
 ### Output ports:
 
-* __values__: _{string: any}[string]_
-
+* __values__: `{string: any}[string]`
     Sends the values of the dictionary as an array,
     
     Example:

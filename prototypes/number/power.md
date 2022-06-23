@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __base__: _number_
-
+* __base__: `number`
     The base operand of the power operation.
 
 
 
-* __exponent__: _number_
-
+* __exponent__: `number`
     The exponent operand of the power operation.
 
 
 
 ### Output ports:
 
-* __power__: _number_
-
+* __power__: `number`
     Sends the power of the provided inputs.
 
 

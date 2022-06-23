@@ -8,7 +8,6 @@ Not recommended for complex data types.
 
 ### Input ports:
 
-* __data__: _any_
-
+* __data__: `any`
 
 

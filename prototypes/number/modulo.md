@@ -12,28 +12,24 @@ Example:
 
 ### Input ports:
 
-* __a__: _number_
-
+* __a__: `number`
     The divident of the operation.
 
 
 
-* __b__: _number_
-
+* __b__: `number`
     The divisor of the operation.
 
 
 
 ### Output ports:
 
-* __remainder__: _number_
-
+* __remainder__: `number`
     The remainder of the operation.
 
 
 
-* __bounced__: _{"a" :number, "b" :number}_
-
+* __bounced__: `{"a" :number, "b" :number}`
     Sends synced inputs on error.
 
 

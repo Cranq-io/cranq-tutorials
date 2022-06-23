@@ -6,28 +6,24 @@ Tests whether there's a result recorded on the specified result path of the stat
 
 ### Input ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Receives script state.
 
 
 
-* __result path__: _(string or number)[]_
-
+* __result path__: `(string or number)[]`
     Locates an action result in the state.
 
 
 
 ### Output ports:
 
-* __on finished__: _any_
-
+* __on finished__: `any`
     Forwards state when result path exists.
 
 
 
-* __on not started__: _any_
-
+* __on not started__: `any`
     Forwards state when result path does not exist.
 
 

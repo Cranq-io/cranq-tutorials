@@ -6,21 +6,17 @@ Closes the specified SQLite database.
 
 ### Input ports:
 
-* __DB ID__: _any_
-
+* __DB ID__: `any`
 
 
 ### Output ports:
 
-* __done__: _any_
+* __done__: `any`
 
 
-
-* __error__: _any_
-
+* __error__: `any`
 
 
-* __DB ID__: _any_
-
+* __DB ID__: `any`
 
 

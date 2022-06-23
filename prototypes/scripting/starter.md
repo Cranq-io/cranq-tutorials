@@ -10,8 +10,7 @@ Example:
 
 ### Input ports:
 
-* __params__: _{"cwd" :string}_
-
+* __params__: `{"cwd" :string}`
     Receives essential parameters for initializing the state of the script.
     
     Property 'cwd' defaults to "./temp".
@@ -24,8 +23,7 @@ Example:
 
 ### Output ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Initial state of the program. Sends either the contents of the previously persisted state, or a blank state record.
     
     Examlpe: {}

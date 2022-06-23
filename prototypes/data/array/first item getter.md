@@ -13,8 +13,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 
 ### Input ports:
 
-* __array__: _any[]_
-
+* __array__: `any[]`
     Receives array to retrieve first item from.
     
     Example:
@@ -24,8 +23,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 
 ### Output ports:
 
-* __item__: _any[][number]_
-
+* __item__: `any[][number]`
     Sends first item of the array.
     
     Example:

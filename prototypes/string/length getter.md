@@ -11,16 +11,14 @@ Example:
 
 ### Input ports:
 
-* __string__: _string_
-
+* __string__: `string`
     The string
 
 
 
 ### Output ports:
 
-* __length__: _number_
-
+* __length__: `number`
     The length of the string.
 
 

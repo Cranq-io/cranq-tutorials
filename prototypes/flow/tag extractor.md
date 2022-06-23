@@ -10,16 +10,14 @@ Example:
 
 ### Input ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Receives the signal to extract the tag from.
 
 
 
 ### Output ports:
 
-* __tag__: _string_
-
+* __tag__: `string`
     Sends the extracted tag.
 
 

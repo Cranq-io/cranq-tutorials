@@ -6,13 +6,11 @@ Wraps input in a 1-element array
 
 ### Input ports:
 
-* __data__: _any_
-
+* __data__: `any`
 
 
 ### Output ports:
 
-* __array__: _[any]_
-
+* __array__: `[any]`
 
 

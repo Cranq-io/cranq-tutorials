@@ -4,17 +4,14 @@
 
 ### Input ports:
 
-* __array__: _any_
+* __array__: `any`
 
 
-
-* __item__: _any_
-
+* __item__: `any`
 
 
 ### Output ports:
 
-* __assertion__: _any_
-
+* __assertion__: `any`
 
 

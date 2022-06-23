@@ -22,8 +22,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/1_applicat
 
 ### Input ports:
 
-* __fields__: _(string[] or number[])_
-
+* __fields__: `(string[] or number[])`
     Sets a list of inupt port names matching property names in the data sent via `synced`.
     
     Must be parameter.
@@ -34,16 +33,14 @@ More: https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/1_applicat
 
 
 
-* __unsynced__: _any_
-
+* __unsynced__: `any`
     Receives individual item for syncing.
 
 
 
 ### Output ports:
 
-* __synced__: _({string: any} or any[])_
-
+* __synced__: `({string: any} or any[])`
     Sends synchronized inputs as a record or tuple indexed by the names of the ports they were received through.
     
     Example:

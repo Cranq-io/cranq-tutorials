@@ -9,25 +9,24 @@ https://www.sqlite.org/syntax.html
 
 ### Input ports:
 
-* __params__: _{"db-id" :string, "sql" :string, optional "params" :(string or number)[]}_
+* __params__: 
+    ```
+    {"db-id" :string, "sql" :string, optional "params" :(string or number)[]}
+    ```
 
 
 
 ### Output ports:
 
-* __done__: _string_
+* __done__: `string`
 
 
-
-* __last ID__: _string_
-
+* __last ID__: `string`
 
 
-* __changes__: _number_
+* __changes__: `number`
 
 
-
-* __error__: _string_
-
+* __error__: `string`
 
 

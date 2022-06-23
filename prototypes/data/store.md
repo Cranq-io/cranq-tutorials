@@ -11,34 +11,29 @@ Example:
 
 ### Input ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Receives contents of the store. San be set as parameter, or received as signal.
 
 
 
-* __read__: _any_
-
+* __read__: `any`
     Receives a signal that triggers the contents being sent via `data` (output), or `not found` when has no content.
 
 
 
 ### Output ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Sends store contents.
 
 
 
-* __written__: _null_
-
+* __written__: `null`
     Sends signal when contents were set in flow.
 
 
 
-* __not found__: _null_
-
+* __not found__: `null`
     Sends signal on read attempt while store has no content.
 
 

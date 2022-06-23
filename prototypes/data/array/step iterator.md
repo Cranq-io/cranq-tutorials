@@ -12,8 +12,7 @@ Subsequent items will be sent out on receiving signals on `next`, with increment
 
 ### Input ports:
 
-* __array__: _any[]_
-
+* __array__: `any[]`
     Sets up iteration and sends out the first item and index 0 with an iterable tag based on the original tag.
     
     When the array has only one or zero elements, a signal with the same tag will also be sent through `done`.
@@ -23,8 +22,7 @@ Subsequent items will be sent out on receiving signals on `next`, with increment
 
 
 
-* __next__: _any_
-
+* __next__: `any`
     Triggers sending out the next item and index, or, when there are no more items, the done signal.
     
     Tags on signals received through `next` are expected to be iterable, and identical to the tag sent out for the previous item. (This allows for simple loopbacks between `item` and `next`.)
@@ -38,8 +36,7 @@ Subsequent items will be sent out on receiving signals on `next`, with increment
 
 ### Output ports:
 
-* __item__: _any[][number]_
-
+* __item__: `any[][number]`
     Sends the next item in the array.
     
     Tags are iterable, and nested versions of the tag of the received array. (If the array tag was "start", item tags will be "start:0", "start:1", etc.)
@@ -49,8 +46,7 @@ Subsequent items will be sent out on receiving signals on `next`, with increment
 
 
 
-* __index__: _number_
-
+* __index__: `number`
     Sends the next index in the array.
     
     Tags are iterable, and nested versions of the tag of the received array. (If the array tag was "start", item tags will be "start:0", "start:1", etc.)
@@ -60,8 +56,7 @@ Subsequent items will be sent out on receiving signals on `next`, with increment
 
 
 
-* __done__: _any[]_
-
+* __done__: `any[]`
     Sends out the iterated array when there are no more items in the array and a signal received through `next`, or, when an array is received through `array` that has one or 0 items.
     
     The tag of the outgoing signal matches that of he original array.
@@ -71,8 +66,7 @@ Subsequent items will be sent out on receiving signals on `next`, with increment
 
 
 
-* __bounced__: _any_
-
+* __bounced__: `any`
     Sends any `next` signal that didn't satisfy the iterable tag requirement.
     
 

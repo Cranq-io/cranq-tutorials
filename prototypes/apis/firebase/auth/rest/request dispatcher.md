@@ -4,8 +4,7 @@
 
 ### Input ports:
 
-* __action__: _any_
-
+* __action__: `any`
     Identifies account action in the Google Identity Toolkit API.
     
     Possible values:
@@ -23,29 +22,23 @@
 
 
 
-* __API key__: _any_
+* __API key__: `any`
 
 
-
-* __data__: _any_
-
+* __data__: `any`
 
 
 ### Output ports:
 
-* __ID token__: _any_
+* __ID token__: `any`
 
 
-
-* __user ID__: _any_
-
+* __user ID__: `any`
 
 
-* __error__: _any_
+* __error__: `any`
 
 
-
-* __auth context__: _any_
-
+* __auth context__: `any`
 
 

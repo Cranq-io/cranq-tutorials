@@ -23,8 +23,7 @@ Example:
 
 ### Input ports:
 
-* __array__: _{string: (string or number or boolean)}[]_
-
+* __array__: `{string: (string or number or boolean)}[]`
     Receives the array of dictionaries to format.
     
     Example:
@@ -43,8 +42,7 @@ Example:
 
 ### Output ports:
 
-* __csv__: _string_
-
+* __csv__: `string`
     The resulting csv string.
 
 

@@ -6,17 +6,14 @@ Opens an in-memory SQLite database, creates a table, inserts rows, then queries 
 
 ### Input ports:
 
-* __start__: _any_
-
+* __start__: `any`
 
 
 ### Output ports:
 
-* __data__: _any_
+* __data__: `any`
 
 
-
-* __done__: _any_
-
+* __done__: `any`
 
 

@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __hex__: _any_
-
+* __hex__: `any`
 
 
 ### Output ports:
 
-* __RGB__: _any_
-
+* __RGB__: `any`
 
 

@@ -7,21 +7,21 @@ This is an internal node. Use specific SQLite nodes instead.
 
 ### Input ports:
 
-* __action__: _{"id" :string, "type" :("open" or "run" or "get" or "all" or "each" or "close"), "options" :{"sql" :string, optional "options" :{string: any}}}_
+* __action__: 
+    ```
+    {"id" :string, "type" :("open" or "run" or "get" or "all" or "each" or "close"), "options" :{"sql" :string, optional "options" :{string: any}}}
+    ```
 
 
 
 ### Output ports:
 
-* __data__: _any_
+* __data__: `any`
 
 
-
-* __done__: _null_
-
+* __done__: `null`
 
 
-* __error__: _string_
-
+* __error__: `string`
 
 

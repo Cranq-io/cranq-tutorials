@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __tree__: _(any[] or {string: any})_
-
+* __tree__: `(any[] or {string: any})`
     The tree to flatten
 
 
 
-* __delimiter__: _string_
-
+* __delimiter__: `string`
     The delimiter to use when prepending parent keys to child keys
 
 
 
 ### Output ports:
 
-* __flattened__: _{string: any}_
-
+* __flattened__: `{string: any}`
     The flat dictionary
 
 

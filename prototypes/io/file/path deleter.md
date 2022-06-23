@@ -6,19 +6,16 @@ Deletes the specified path recursively, and forced.
 
 ### Input ports:
 
-* __path__: _string_
-
+* __path__: `string`
     Deletes all folders on the specified path from the filesystem.
 
 
 
 ### Output ports:
 
-* __success__: _boolean_
+* __success__: `boolean`
 
 
-
-* __error__: _string_
-
+* __error__: `string`
 
 

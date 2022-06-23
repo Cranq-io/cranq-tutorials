@@ -4,27 +4,26 @@
 
 ### Input ports:
 
-* __API key__: _string_
+* __API key__: `string`
 
 
-
-* __base ID__: _string_
-
+* __base ID__: `string`
 
 
-* __table name__: _string_
+* __table name__: `string`
 
 
-
-* __AT record__: _{"fields" :{string: any}}_
-
+* __AT record__: `{"fields" :{string: any}}`
     Record as is sent to / received from the AirTable API.
 
 
 
 ### Output ports:
 
-* __JSON req.__: _{"method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "url" :string, "headers" :{string: string}, "data" :{"records" :[{"fields" :{string: any}}]}}_
+* __JSON req.__: 
+    ```
+    {"method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "url" :string, "headers" :{string: string}, "data" :{"records" :[{"fields" :{string: any}}]}}
+    ```
 
 
 

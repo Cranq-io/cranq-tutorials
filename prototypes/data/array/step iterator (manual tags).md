@@ -10,8 +10,7 @@ Subsequent items will be sent out on receiving signals on `next`, using the same
 
 ### Input ports:
 
-* __array__: _any[]_
-
+* __array__: `any[]`
     Sets up iteration and sends out the first item and index 0 with the tag associated with the received array.
     When the array has only one or zero elements, a signal will also be sent through `done`. 
     
@@ -20,8 +19,7 @@ Subsequent items will be sent out on receiving signals on `next`, using the same
 
 
 
-* __next__: _any_
-
+* __next__: `any`
     Triggers sending out the next item and index, or, when there are no more items, the done signal.
     
     Signals sent out on `item` and `index` bear the same tag as the signal received through `next`.
@@ -33,8 +31,7 @@ Subsequent items will be sent out on receiving signals on `next`, using the same
 
 ### Output ports:
 
-* __item__: _any[][number]_
-
+* __item__: `any[][number]`
     The next item in the array.
     
     The first item (index 0) bears the tag of the received array, subsequent items bear the tag of the corresponding signals received through `next`.
@@ -44,8 +41,7 @@ Subsequent items will be sent out on receiving signals on `next`, using the same
 
 
 
-* __index__: _number_
-
+* __index__: `number`
     The next index in the array.
     
     The first index (0) bears the tag of the received array, subsequent indexes bear the tag of the corresponding signals received through `next`.
@@ -55,8 +51,7 @@ Subsequent items will be sent out on receiving signals on `next`, using the same
 
 
 
-* __done__: _any[]_
-
+* __done__: `any[]`
     Sends out the iterated array when there are no more items in the array and a signal was received through `next`, or, when an array was received through `array` that has one or 0 items.
     
     The tag of the outgoing signal matches that of he original array.

@@ -6,7 +6,6 @@ Logs received data and tag to the output. Formats data as JSON.
 
 ### Input ports:
 
-* __data__: _any_
-
+* __data__: `any`
 
 

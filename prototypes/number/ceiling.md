@@ -16,16 +16,14 @@ Example (negative number):
 
 ### Input ports:
 
-* __number__: _number_
-
+* __number__: `number`
     Input number
 
 
 
 ### Output ports:
 
-* __ceiling__: _number_
-
+* __ceiling__: `number`
     The nearest integer which is greater than or equal to the input.
 
 

@@ -17,8 +17,7 @@ Examples:
 
 ### Input ports:
 
-* __start__: _(string or number)_
-
+* __start__: `(string or number)`
     Receives the timerId which identifies the timer.
     
     Example:
@@ -26,8 +25,7 @@ Examples:
 
 
 
-* __stop__: _(string or number)_
-
+* __stop__: `(string or number)`
     Receives the timerId which identifies the timer to be stopped.
     
     
@@ -36,8 +34,7 @@ Examples:
 
 
 
-* __delay__: _number_
-
+* __delay__: `number`
     Receives the time in milliseconds that the timer should wait before the `done` port is triggered.
     
     Example: 
@@ -47,8 +44,7 @@ Examples:
 
 ### Output ports:
 
-* __done__: _(string or number)_
-
+* __done__: `(string or number)`
     Sends timerId when the delayed timeout is reached.
     
     Example:
@@ -56,8 +52,7 @@ Examples:
 
 
 
-* __stopped__: _(string or number)_
-
+* __stopped__: `(string or number)`
     Sends timerId when the timer is stopped.
     
     Example:

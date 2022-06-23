@@ -6,21 +6,21 @@ Builds a HTTP request that has no body.
 
 ### Input ports:
 
-* __method__: _("GET" or "POST" or "PUT" or "PATCH" or "DELETE")_
+* __method__: `("GET" or "POST" or "PUT" or "PATCH" or "DELETE")`
 
 
-
-* __URL__: _string_
-
+* __URL__: `string`
 
 
-* __headers__: _{string: string}_
-
+* __headers__: `{string: string}`
 
 
 ### Output ports:
 
-* __request__: _{"method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "url" :string, "headers" :{string: string}}_
+* __request__: 
+    ```
+    {"method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "url" :string, "headers" :{string: string}}
+    ```
 
 
 

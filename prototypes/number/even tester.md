@@ -11,16 +11,14 @@ Example:
 
 ### Input ports:
 
-* __number__: _number_
-
+* __number__: `number`
     Number to be tested for evenness.
 
 
 
 ### Output ports:
 
-* __even__: _boolean_
-
+* __even__: `boolean`
     Sends true if the input value is even, false otherwise.
 
 

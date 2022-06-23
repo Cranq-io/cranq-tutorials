@@ -4,11 +4,9 @@
 
 ### Input ports:
 
-* __line__: _string_
+* __line__: `string`
 
 
-
-* __start__: _any_
-
+* __start__: `any`
 
 

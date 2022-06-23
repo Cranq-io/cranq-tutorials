@@ -20,8 +20,7 @@ Example (failure):
 
 ### Input ports:
 
-* __path__: _string_
-
+* __path__: `string`
     Receives the path of the file or directory to get information of.
     
     Example:
@@ -34,7 +33,10 @@ Example (failure):
 
 ### Output ports:
 
-* __info__: _{"size_bytes" :number, "created" :string, "accessed" :string, "modified" :string, "changed" :string}_
+* __info__: 
+    ```
+    {"size_bytes" :number, "created" :string, "accessed" :string, "modified" :string, "changed" :string}
+    ```
 
     The resulting file/directory information.
     
@@ -49,8 +51,7 @@ Example (failure):
 
 
 
-* __bounced__: _string_
-
+* __bounced__: `string`
     Sends the path if the operation has failed.
     
     Example:

@@ -4,29 +4,23 @@
 
 ### Input ports:
 
-* __symbol__: _string_
+* __symbol__: `string`
 
 
-
-* __from__: _number_
-
+* __from__: `number`
 
 
-* __to__: _number_
+* __to__: `number`
 
 
-
-* __interval__: _string_
-
+* __interval__: `string`
 
 
 ### Output ports:
 
-* __instrument__: _any_
+* __instrument__: `any`
 
 
-
-* __error__: _{"error" :"Service unavailable"}_
-
+* __error__: `{"error" :"Service unavailable"}`
 
 

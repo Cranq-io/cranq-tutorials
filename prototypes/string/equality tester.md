@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __a__: _string_
-
+* __a__: `string`
     The first string
 
 
 
-* __b__: _string_
-
+* __b__: `string`
     The second string
 
 
 
 ### Output ports:
 
-* __equal__: _boolean_
-
+* __equal__: `boolean`
     Sends true if the two strings are the same, false otherwise.
 
 

@@ -7,13 +7,11 @@ Uses https://www.npmjs.com/package/junit-xml.
 
 ### Input ports:
 
-* __json__: _any_
-
+* __json__: `any`
 
 
 ### Output ports:
 
-* __xml__: _any_
-
+* __xml__: `any`
 
 

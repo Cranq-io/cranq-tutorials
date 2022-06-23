@@ -10,37 +10,43 @@ https://airtable.com/api/meta
 
 ### Input ports:
 
-* __record__: _{string: any}_
-
+* __record__: `{string: any}`
     Receives a single record to be inserted into AirTable.
 
 
 
-* __params__: _{"apiKey" :string, "baseId" :string, "tableName" :string}_
+* __params__: 
+    ```
+    {"apiKey" :string, "baseId" :string, "tableName" :string}
+    ```
 
 
 
 ### Output ports:
 
-* __record__: _{string: any}_
-
+* __record__: `{string: any}`
     Sends the record that was successfully inserted into AirTable.
 
 
 
-* __AT record__: _{"id" :string, "createdTime" :string, "fields" :{string: any}}_
+* __AT record__: 
+    ```
+    {"id" :string, "createdTime" :string, "fields" :{string: any}}
+    ```
 
     Sends the record that was successfully inserted into AirTable, including metadata like row ID, and date & time of creation.
 
 
 
-* __response__: _{"status" :number, "headers" :{string: any}, "body" :string}_
+* __response__: 
+    ```
+    {"status" :number, "headers" :{string: any}, "body" :string}
+    ```
 
     Sends the entire response from the AirTable API without modification.
 
 
 
-* __error__: _{"error" :string, optional "details" :any}_
-
+* __error__: `{"error" :string, optional "details" :any}`
 
 

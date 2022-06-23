@@ -4,17 +4,18 @@
 
 ### Input ports:
 
-* __state__: _any_
+* __state__: `any`
 
 
-
-* __params__: _{"cwd" :string, "result-path" :string, "message" :string, "app-id" :string, "port" :number, "middlewares" :("json" or "cors" or "urlencoded")[]}_
+* __params__: 
+    ```
+    {"cwd" :string, "result-path" :string, "message" :string, "app-id" :string, "port" :number, "middlewares" :("json" or "cors" or "urlencoded")[]}
+    ```
 
 
 
 ### Output ports:
 
-* __state__: _any_
-
+* __state__: `any`
 
 

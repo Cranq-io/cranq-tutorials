@@ -26,8 +26,7 @@ destination: "/home/user1/dir2/bar.txt"
 
 ### Input ports:
 
-* __source__: _string_
-
+* __source__: `string`
     Receives the path of the source file to copy.
     
     Example:
@@ -37,8 +36,7 @@ destination: "/home/user1/dir2/bar.txt"
 
 
 
-* __destination__: _string_
-
+* __destination__: `string`
     Receives the path of the desired target file.
     
     Example:
@@ -50,8 +48,7 @@ destination: "/home/user1/dir2/bar.txt"
 
 ### Output ports:
 
-* __bounced__: _{"source" :string, "destination" :string}_
-
+* __bounced__: `{"source" :string, "destination" :string}`
     Sends synced parameters if operation has failed.
     
     Example:
@@ -63,8 +60,7 @@ destination: "/home/user1/dir2/bar.txt"
 
 
 
-* __copied__: _{"source" :string, "destination" :string}_
-
+* __copied__: `{"source" :string, "destination" :string}`
     Sends synced parameters if operation has succeeded.
     
     Example:
@@ -75,8 +71,7 @@ destination: "/home/user1/dir2/bar.txt"
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends error information if the operation has failed.
     
     Example: 

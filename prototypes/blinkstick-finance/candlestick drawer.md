@@ -4,21 +4,17 @@
 
 ### Input ports:
 
-* __price__: _any_
+* __price__: `any`
 
 
-
-* __max diff__: _any_
-
+* __max diff__: `any`
 
 
 ### Output ports:
 
-* __done__: _any_
+* __done__: `any`
 
 
-
-* __bounced__: _any_
-
+* __bounced__: `any`
 
 

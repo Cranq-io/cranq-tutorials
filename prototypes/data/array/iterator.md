@@ -10,8 +10,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/1_application_fl
 
 ### Input ports:
 
-* __array__: _any[]_
-
+* __array__: `any[]`
     Recieves array to be iterated over.
     
     Example:
@@ -22,8 +21,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/1_application_fl
 
 ### Output ports:
 
-* __item__: _any[][number]_
-
+* __item__: `any[][number]`
     Sends current item.
     
     Example:
@@ -31,8 +29,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/1_application_fl
 
 
 
-* __index__: _number_
-
+* __index__: `number`
     Sends current index.
     
     Example:
@@ -40,7 +37,6 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/1_application_fl
 
 
 
-* __done__: _any[]_
-
+* __done__: `any[]`
 
 

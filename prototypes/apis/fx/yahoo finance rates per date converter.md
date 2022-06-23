@@ -4,8 +4,7 @@
 
 ### Input ports:
 
-* __timestamps__: _any[]_
-
+* __timestamps__: `any[]`
     [Inherited from port `array` of `create rates per date mapping`] 
     Receives array to be reduced.
     
@@ -14,8 +13,7 @@
 
 
 
-* __prices__: _any[]_
-
+* __prices__: `any[]`
     [Inherited from port `array` of `iterate over adjusted close prices`] 
     Recieves array to be iterated over.
     
@@ -27,8 +25,7 @@
 
 ### Output ports:
 
-* __rates per date__: _any[][number]_
-
+* __rates per date__: `any[][number]`
     [Inherited from port `reduced` of `create rates per date mapping`] 
     Sends the reduced array.
     

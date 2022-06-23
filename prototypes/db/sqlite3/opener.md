@@ -8,17 +8,18 @@ Mode is normally 6.
 
 ### Input ports:
 
-* __params__: _{"dbId" :string, "filename" :string, "mode" :number}_
+* __params__: 
+    ```
+    {"dbId" :string, "filename" :string, "mode" :number}
+    ```
 
 
 
 ### Output ports:
 
-* __done__: _null_
+* __done__: `null`
 
 
-
-* __error__: _string_
-
+* __error__: `string`
 
 

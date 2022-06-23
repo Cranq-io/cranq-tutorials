@@ -15,16 +15,14 @@ Example B (for falsy):
 
 ### Input ports:
 
-* __value__: _any_
-
+* __value__: `any`
     Data to be evaulated as boolean
 
 
 
 ### Output ports:
 
-* __boolean__: _boolean_
-
+* __boolean__: `boolean`
     The value evaulated as boolean.
 
 

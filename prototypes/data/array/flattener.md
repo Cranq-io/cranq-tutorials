@@ -10,8 +10,7 @@ Example:
 
 ### Input ports:
 
-* __2D array__: _any[][]_
-
+* __2D array__: `any[][]`
     Recieves 2D arrays to be flattened.
     
     Example:
@@ -21,8 +20,7 @@ Example:
 
 ### Output ports:
 
-* __array__: _any[][][number][number][]_
-
+* __array__: `any[][][number][number][]`
     Sends flattened array.
     
     Example:

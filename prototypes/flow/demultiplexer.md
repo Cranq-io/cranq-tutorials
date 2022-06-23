@@ -12,24 +12,21 @@ Example:
 
 ### Input ports:
 
-* __fields__: _(string[] or number[])_
-
+* __fields__: `(string[] or number[])`
     Receives a list of output port names to send multiplexed data payload to.
     
     Must be parameter.
 
 
 
-* __multiplexed__: _{"field" :string, "data" :any}_
-
+* __multiplexed__: `{"field" :string, "data" :any}`
     Receives multiplexed data.
 
 
 
 ### Output ports:
 
-* __demultiplexed__: _{"field" :string, "data" :any}["data"]_
-
+* __demultiplexed__: `{"field" :string, "data" :any}["data"]`
     Sends demultiplexed payload data.
 
 

@@ -4,17 +4,14 @@
 
 ### Input ports:
 
-* __greeting__: _any_
+* __greeting__: `any`
 
 
-
-* __greeted__: _any_
-
+* __greeted__: `any`
 
 
 ### Output ports:
 
-* __greeting__: _any_
-
+* __greeting__: `any`
 
 

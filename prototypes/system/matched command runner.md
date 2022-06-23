@@ -10,24 +10,20 @@ Sends empty array on no match.
 
 ### Input ports:
 
-* __cwd__: _any_
-
+* __cwd__: `any`
     Receives individual fields for syncing.
 
 
 
-* __command__: _string_
+* __command__: `string`
 
 
-
-* __regex__: _string_
-
+* __regex__: `string`
 
 
 ### Output ports:
 
-* __groups__: _string[]_
-
+* __groups__: `string[]`
     Matched RegEx groups
 
 

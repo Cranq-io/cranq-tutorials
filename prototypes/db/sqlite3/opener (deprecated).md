@@ -8,29 +8,23 @@ Mode is normally 6.
 
 ### Input ports:
 
-* __DB ID__: _any_
+* __DB ID__: `any`
 
 
-
-* __file name__: _any_
-
+* __file name__: `any`
 
 
-* __mode__: _any_
-
+* __mode__: `any`
 
 
 ### Output ports:
 
-* __done__: _any_
+* __done__: `any`
 
 
-
-* __error__: _any_
-
+* __error__: `any`
 
 
-* __DB ID__: _any_
-
+* __DB ID__: `any`
 
 

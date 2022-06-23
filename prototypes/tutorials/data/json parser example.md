@@ -6,13 +6,11 @@ Example node that demonstrates the usage of the data/dictionary/JSON parser node
 
 ### Input ports:
 
-* __run__: _any_
-
+* __run__: `any`
 
 
 ### Output ports:
 
-* __output__: _any_
-
+* __output__: `any`
 
 

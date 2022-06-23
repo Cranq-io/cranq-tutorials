@@ -9,8 +9,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 
 ### Input ports:
 
-* __array__: _any[]_
-
+* __array__: `any[]`
     Recieves array to be mapped.
     
     Example:
@@ -18,8 +17,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 
 
 
-* __mapped item__: _any[][number]_
-
+* __mapped item__: `any[][number]`
     Recieves the current (by tag) item, mapped.
     
     Example:
@@ -29,8 +27,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 
 ### Output ports:
 
-* __mapped__: _any[][number][]_
-
+* __mapped__: `any[][number][]`
     Sends the mapped array.
     
     Example:
@@ -38,8 +35,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 
 
 
-* __item__: _any[][number]_
-
+* __item__: `any[][number]`
     Sends the current item.
     
     Example:
@@ -47,7 +43,6 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 
 
 
-* __index__: _number_
-
+* __index__: `number`
 
 

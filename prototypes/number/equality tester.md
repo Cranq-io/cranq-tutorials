@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __a__: _number_
-
+* __a__: `number`
     The first number
 
 
 
-* __b__: _number_
-
+* __b__: `number`
     The second number
 
 
 
 ### Output ports:
 
-* __equal__: _boolean_
-
+* __equal__: `boolean`
     Sends true if the received numbers are equal, false otherwise.
 
 

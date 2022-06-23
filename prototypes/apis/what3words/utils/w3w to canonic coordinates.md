@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __w3w coords__: _{"lng" :number, "lat" :number}_
-
+* __w3w coords__: `{"lng" :number, "lat" :number}`
 
 
 ### Output ports:
 
-* __canonic coords__: _[number,number]_
-
+* __canonic coords__: `[number,number]`
 
 

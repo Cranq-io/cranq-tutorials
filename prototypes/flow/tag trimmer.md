@@ -16,22 +16,19 @@ Example:
 
 ### Input ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Receives signal with iterable tag.
 
 
 
 ### Output ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Sends signal with data identical to the one received via `data`, but with the last iterable section removed from the tag.
 
 
 
-* __bounced__: _any_
-
+* __bounced__: `any`
     Forwards the signal received through `data` when its tag was not iterable.
 
 

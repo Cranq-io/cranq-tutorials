@@ -14,8 +14,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Input ports:
 
-* __key__: _string_
-
+* __key__: `string`
     Receives the keys to construct the dictionary from.
     
     Example:
@@ -23,8 +22,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 
 
-* __value__: _any_
-
+* __value__: `any`
     Receives the value to assign to all items.
     
     Example:
@@ -34,8 +32,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Output ports:
 
-* __dict__: _{string: any}_
-
+* __dict__: `{string: any}`
     Sends the resulting dictionary.
     
     Example:

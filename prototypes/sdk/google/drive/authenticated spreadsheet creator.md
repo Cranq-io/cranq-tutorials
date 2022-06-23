@@ -25,8 +25,7 @@ Example:
 
 ### Input ports:
 
-* __session Id__: _string_
-
+* __session Id__: `string`
     Receives the session id of the drive action.
     
     Example: 
@@ -34,8 +33,7 @@ Example:
 
 
 
-* __auth data__: _{"email" :string, "key" :string}_
-
+* __auth data__: `{"email" :string, "key" :string}`
     Receives the authentication data of service account.
     
     Example: 
@@ -47,7 +45,10 @@ Example:
 
 
 
-* __create spreadsheet data__: _{"file meta data" :{string: any}, "supports all drives" :boolean}_
+* __create spreadsheet data__: 
+    ```
+    {"file meta data" :{string: any}, "supports all drives" :boolean}
+    ```
 
     Receives the data of the spreadsheet.
     
@@ -70,8 +71,7 @@ Example:
 
 ### Output ports:
 
-* __done__: _{"fileid" :string}_
-
+* __done__: `{"fileid" :string}`
     Sends the generated fileid.
     
     Eg.
@@ -79,8 +79,7 @@ Example:
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends the error which happened during the execution of the action.
     
     Example:.

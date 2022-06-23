@@ -33,8 +33,7 @@ Example:
 
 ### Input ports:
 
-* __transaction hash & provider__: _{"transaction_hash" :string, "provider" :string}_
-
+* __transaction hash & provider__: `{"transaction_hash" :string, "provider" :string}`
     Receives transaction hash & web3 provider.
     
     Example:
@@ -48,7 +47,10 @@ Example:
 
 ### Output ports:
 
-* __transaction_receipt__: _{"status" :boolean, "transactionHash" :string, "transactionIndex" :number, "from" :string, "to" :string, "blockHash" :string, "blockNumber" :number, "contractAddress" :string, "cumulativeGasUsed" :number, "gasUsed" :number, "logs" :{"data" :string, "topics" :string[], "logIndex" :number, "transactionIndex" :number, "transactionHash" :string, "blockHash" :string, "blockNumber" :number, "address" :string}[]}_
+* __transaction_receipt__: 
+    ```
+    {"status" :boolean, "transactionHash" :string, "transactionIndex" :number, "from" :string, "to" :string, "blockHash" :string, "blockNumber" :number, "contractAddress" :string, "cumulativeGasUsed" :number, "gasUsed" :number, "logs" :{"data" :string, "topics" :string[], "logIndex" :number, "transactionIndex" :number, "transactionHash" :string, "blockHash" :string, "blockNumber" :number, "address" :string}[]}
+    ```
 
     Sends the transaction receipt.
     
@@ -79,7 +81,6 @@ Example:
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
 
 

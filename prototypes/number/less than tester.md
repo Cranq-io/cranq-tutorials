@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __value__: _number_
-
+* __value__: `number`
     The first operand of the comparison
 
 
 
-* __reference__: _number_
-
+* __reference__: `number`
     The second operand of the comparison
 
 
 
 ### Output ports:
 
-* __less__: _boolean_
-
+* __less__: `boolean`
     Sends true if 'a' is less than 'b'.
 
 

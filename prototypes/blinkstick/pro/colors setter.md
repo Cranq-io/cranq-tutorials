@@ -4,15 +4,13 @@
 
 ### Input ports:
 
-* __colors__: _any_
-
+* __colors__: `any`
     type: [number, number, number][]
 
 
 
 ### Output ports:
 
-* __done__: _any_
-
+* __done__: `any`
 
 

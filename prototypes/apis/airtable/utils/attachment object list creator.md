@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __file URLs__: _string[]_
-
+* __file URLs__: `string[]`
 
 
 ### Output ports:
 
-* __attachments__: _{"url" :string[][number]}[]_
-
+* __attachments__: `{"url" :string[][number]}[]`
 
 

@@ -6,13 +6,11 @@ Example node, that demonstrates the basic usage of the dictionary setters
 
 ### Input ports:
 
-* __run__: _any_
-
+* __run__: `any`
 
 
 ### Output ports:
 
-* __dict__: _any_
-
+* __dict__: `any`
 
 

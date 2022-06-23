@@ -10,11 +10,13 @@ Example:
 
 ### Input ports:
 
-* __state__: _any_
+* __state__: `any`
 
 
-
-* __params__: _{"cwd" :string, "wallet-private-key" :string, "api-key" :string, "etherscan-api-key" :string, "blockchain" :"ethereum", "blockchain-network" :"string", "contract" :"single-nft", "single-nft" :{"contract-name" :string, "token-name" :string, "token-symbol" :string}}_
+* __params__: 
+    ```
+    {"cwd" :string, "wallet-private-key" :string, "api-key" :string, "etherscan-api-key" :string, "blockchain" :"ethereum", "blockchain-network" :"string", "contract" :"single-nft", "single-nft" :{"contract-name" :string, "token-name" :string, "token-symbol" :string}}
+    ```
 
     Parameters for smart contract creation and deployment:
     
@@ -34,8 +36,7 @@ Example:
 
 ### Output ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Example:
     
     {

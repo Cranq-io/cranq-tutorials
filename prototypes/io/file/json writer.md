@@ -4,21 +4,17 @@
 
 ### Input ports:
 
-* __path__: _string_
+* __path__: `string`
 
 
-
-* __data__: _any_
-
+* __data__: `any`
 
 
 ### Output ports:
 
-* __written__: _null_
+* __written__: `null`
 
 
-
-* __bounced__: _{"data" :any, "path" :string}_
-
+* __bounced__: `{"data" :any, "path" :string}`
 
 

@@ -8,25 +8,21 @@ Bounces when the length of `values` and `path` don't match.
 
 ### Input ports:
 
-* __paths__: _(string or number)[][]_
-
+* __paths__: `(string or number)[][]`
     Receives paths that form the structure of the constructed tree.
 
 
 
-* __values__: _any[]_
-
+* __values__: `any[]`
     Receives the values that will be the leaf nodes of the constructed tree.
 
 
 
 ### Output ports:
 
-* __tree__: _any_
+* __tree__: `any`
 
 
-
-* __bounced__: _{"paths" :(string or number)[][], "values" :any[]}_
-
+* __bounced__: `{"paths" :(string or number)[][], "values" :any[]}`
 
 

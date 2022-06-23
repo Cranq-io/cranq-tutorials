@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __min__: _number_
-
+* __min__: `number`
     The minimum value
 
 
 
-* __max__: _number_
-
+* __max__: `number`
     The maximum value
 
 
 
 ### Output ports:
 
-* __random__: _number_
-
+* __random__: `number`
     Random number
 
 

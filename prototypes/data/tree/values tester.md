@@ -11,22 +11,19 @@ Example:
 
 ### Input ports:
 
-* __tree__: _(any[] or {string: any})_
-
+* __tree__: `(any[] or {string: any})`
     The tree to test
 
 
 
-* __reference__: _(any[] or {string: any})_
-
+* __reference__: `(any[] or {string: any})`
     The reference tree structure
 
 
 
 ### Output ports:
 
-* __all values are same__: _boolean_
-
+* __all values are same__: `boolean`
     Whether all nodes of the `data` tree are the same as the `reference`
 
 

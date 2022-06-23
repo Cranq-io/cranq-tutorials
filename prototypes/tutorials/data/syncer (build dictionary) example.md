@@ -6,13 +6,11 @@ Example node, that demonstrates the building of dictionaries with the flow/Synce
 
 ### Input ports:
 
-* __build__: _any_
-
+* __build__: `any`
 
 
 ### Output ports:
 
-* __dict__: _any_
-
+* __dict__: `any`
 
 

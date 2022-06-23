@@ -22,8 +22,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Input ports:
 
-* __dict__: _{string: any}_
-
+* __dict__: `{string: any}`
     Receives the dictionary to set the value in.
     
     Example:
@@ -31,8 +30,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 
 
-* __key__: _string_
-
+* __key__: `string`
     Receives the key corresponding to the value to set.
     
     Example:
@@ -40,8 +38,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 
 
-* __value__: _{string: any}[string]_
-
+* __value__: `{string: any}[string]`
     Receives the value to set.
     
     Example:
@@ -51,8 +48,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Output ports:
 
-* __dict__: _{string: any}_
-
+* __dict__: `{string: any}`
     Sends the resulting dictionary, with the new/altered item.
     
     Example:

@@ -16,22 +16,19 @@ Example B:
 
 ### Input ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Receives the signal to be forwarded / filtered.
 
 
 
-* __open__: _boolean_
-
+* __open__: `boolean`
     Whether to forward the signal received via `data`.
 
 
 
 ### Output ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Forwarded / filtered signal
 
 

@@ -6,17 +6,14 @@ Parses JSON.
 
 ### Input ports:
 
-* __json__: _string_
-
+* __json__: `string`
 
 
 ### Output ports:
 
-* __parsed__: _any_
+* __parsed__: `any`
 
 
-
-* __bounced__: _string_
-
+* __bounced__: `string`
 
 

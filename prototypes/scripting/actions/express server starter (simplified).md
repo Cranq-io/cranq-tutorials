@@ -12,13 +12,15 @@ Repeatable action.
 
 ### Input ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Receives script state.
 
 
 
-* __params__: _{"cwd" :string, "app-id" :string, "port" :number, "middlewares" :("json" or "cors" or "urlencoded")[]}_
+* __params__: 
+    ```
+    {"cwd" :string, "app-id" :string, "port" :number, "middlewares" :("json" or "cors" or "urlencoded")[]}
+    ```
 
     Receives:
     * 'cwd' locates directory for persisted state
@@ -36,8 +38,7 @@ Repeatable action.
 
 ### Output ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Sends updates script state.
 
 

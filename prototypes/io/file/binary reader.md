@@ -6,17 +6,14 @@ Reads binary files Base64 encoded.
 
 ### Input ports:
 
-* __path__: _string_
-
+* __path__: `string`
 
 
 ### Output ports:
 
-* __base64__: _string_
+* __base64__: `string`
 
 
-
-* __bounced__: _string_
-
+* __bounced__: `string`
 
 

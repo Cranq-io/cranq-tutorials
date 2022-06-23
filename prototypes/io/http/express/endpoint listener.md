@@ -6,21 +6,25 @@ Sets up a listener on an HTTP route. Starts an Express server if one is not star
 
 ### Input ports:
 
-* __response__: _{"status" :number, "headers" :{string: string}, "body" :string}_
+* __response__: 
+    ```
+    {"status" :number, "headers" :{string: string}, "body" :string}
+    ```
 
 
 
-* __params__: _{"appId" :string, "port" :number, "method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "route" :string, optional "request" :{optional "bearerToken" :string, optional "contentType" :("text" or "json" or "urlencoded")}, optional "response" :{optional "contentType" :("text" or "json")}}_
+* __params__: 
+    ```
+    {"appId" :string, "port" :number, "method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "route" :string, optional "request" :{optional "bearerToken" :string, optional "contentType" :("text" or "json" or "urlencoded")}, optional "response" :{optional "contentType" :("text" or "json")}}
+    ```
 
 
 
 ### Output ports:
 
-* __request__: _`io/http/Request`_
+* __request__: ``io/http/Request``
 
 
-
-* __error__: _any_
-
+* __error__: `any`
 
 

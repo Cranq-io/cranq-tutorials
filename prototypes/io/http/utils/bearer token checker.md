@@ -6,25 +6,21 @@ Checks for the presence of the specified bearer token in the submitted request h
 
 ### Input ports:
 
-* __bearer token__: _string_
-
+* __bearer token__: `string`
     Receives the bearer token to be verified.
 
 
 
-* __request__: _{"headers" :{string: string}, "body" :string}_
-
+* __request__: `{"headers" :{string: string}, "body" :string}`
     Receives the request to be authorized.
 
 
 
 ### Output ports:
 
-* __request__: _{"headers" :{string: string}, "body" :string}_
+* __request__: `{"headers" :{string: string}, "body" :string}`
 
 
-
-* __error__: _{"error" :"incorrect bearer token"}_
-
+* __error__: `{"error" :"incorrect bearer token"}`
 
 

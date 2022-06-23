@@ -8,25 +8,24 @@ For body-less requests, see `io/http/utils/Body-less request builder`.
 
 ### Input ports:
 
-* __method__: _("GET" or "POST" or "PUT" or "PATCH" or "DELETE")_
+* __method__: `("GET" or "POST" or "PUT" or "PATCH" or "DELETE")`
 
 
-
-* __url__: _string_
-
+* __url__: `string`
 
 
-* __headers__: _{string: string}_
+* __headers__: `{string: string}`
 
 
-
-* __data__: _{string: (string or string[])}_
-
+* __data__: `{string: (string or string[])}`
 
 
 ### Output ports:
 
-* __URL-enc. req.__: _{"method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "url" :string, "headers" :{string: string}, "data" :{string: (string or string[])}}_
+* __URL-enc. req.__: 
+    ```
+    {"method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "url" :string, "headers" :{string: string}, "data" :{string: (string or string[])}}
+    ```
 
 
 

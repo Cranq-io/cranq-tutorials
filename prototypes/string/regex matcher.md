@@ -6,21 +6,17 @@ Matches a string to a non-global regular expression, and returns substrings that
 
 ### Input ports:
 
-* __regex__: _string_
+* __regex__: `string`
 
 
-
-* __string__: _string_
-
+* __string__: `string`
 
 
 ### Output ports:
 
-* __groups__: _(string[] or null)_
+* __groups__: `(string[] or null)`
 
 
-
-* __not found__: _any_
-
+* __not found__: `any`
 
 

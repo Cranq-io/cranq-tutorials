@@ -4,8 +4,7 @@
 
 ### Input ports:
 
-* __session id__: _string_
-
+* __session id__: `string`
     Receives the id of the S3 session.
     
     Example: 
@@ -13,8 +12,7 @@
 
 
 
-* __access key id__: _string_
-
+* __access key id__: `string`
     Receives the AWS user's access key id.
     
     Example:
@@ -22,8 +20,7 @@
 
 
 
-* __secret access key__: _string_
-
+* __secret access key__: `string`
     Receives the AWS user's secret access key.
     
     Example:
@@ -33,14 +30,12 @@
 
 ### Output ports:
 
-* __done__: _null_
-
+* __done__: `null`
     It is triggered if the authentication was successful.
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends error information in case the authenticatiomn was not successful.
 
 

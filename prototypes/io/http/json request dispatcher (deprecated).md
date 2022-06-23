@@ -8,8 +8,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 ### Input ports:
 
-* __method__: _("GET" or "POST" or "PUT" or "PATCH" or "DELETE")_
-
+* __method__: `("GET" or "POST" or "PUT" or "PATCH" or "DELETE")`
     Receives http method. Indicates the desired action to be performed for a given target or resource.
     
     Example:
@@ -18,8 +17,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 
 
-* __URL__: _string_
-
+* __URL__: `string`
     Receives the target of the HTTP request. Also called "resource" 
     
     Example:
@@ -28,8 +26,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 
 
-* __headers__: _{string: string}_
-
+* __headers__: `{string: string}`
     Receives request headers. It is  used to describe a resource, or the behavior of the server or the client.
     
     Any received headers are added to the defaults.
@@ -47,8 +44,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 
 
-* __data__: _any_
-
+* __data__: `any`
     Receives the http request body as data. Some requests send data to the server in order to update it. In case of GET or DELETE request the body should be empty (will be ignored).
     
     Example:
@@ -58,8 +54,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 ### Output ports:
 
-* __status__: _number_
-
+* __status__: `number`
     Sends http response status code. Indicates whether the request has been  successfully completed.
     
     Example:
@@ -68,8 +63,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 
 
-* __headers__: _{string: string}_
-
+* __headers__: `{string: string}`
     Sends http response headers.
     
     Example:
@@ -80,8 +74,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 
 
-* __data__: _any_
-
+* __data__: `any`
     Sends http response message body as data.
     
     Example:
@@ -94,8 +87,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends http response communication error.
     
     
@@ -106,7 +98,10 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 
 
-* __response__: _{"status" :number, "headers" :{string: any}, "body" :string}_
+* __response__: 
+    ```
+    {"status" :number, "headers" :{string: any}, "body" :string}
+    ```
 
 
 

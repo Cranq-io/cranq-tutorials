@@ -66,8 +66,7 @@ Example:
 
 ### Input ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Receives script state.
     
     Example:
@@ -75,7 +74,10 @@ Example:
 
 
 
-* __params__: _{"get-names" :{"cwd-path" :(string or number)[], "result-path" :string, "message" :string, "directory-path" :string}, "build-paths" :{"cwd" :string, "result-path" :string, "message" :string, "child-paths" :string[], "base-path" :string}, "build-data" :{"cwd" :string, "result-path" :string, "message" :string, "image-paths" :string[]}, "upload" :{"cwd" :string, "result-path" :string, "message" :string, "folder-upload-data" :any, "api-key" :string}}_
+* __params__: 
+    ```
+    {"get-names" :{"cwd-path" :(string or number)[], "result-path" :string, "message" :string, "directory-path" :string}, "build-paths" :{"cwd" :string, "result-path" :string, "message" :string, "child-paths" :string[], "base-path" :string}, "build-data" :{"cwd" :string, "result-path" :string, "message" :string, "image-paths" :string[]}, "upload" :{"cwd" :string, "result-path" :string, "message" :string, "folder-upload-data" :any, "api-key" :string}}
+    ```
 
     Recieves upload images params.
     
@@ -125,8 +127,7 @@ Example:
 
 ### Output ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Sends updated script state.
     
     Example:

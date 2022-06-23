@@ -4,17 +4,18 @@
 
 ### Input ports:
 
-* __state__: _any_
+* __state__: `any`
 
 
-
-* __params__: _{"create-working-folder" :{"cwd" :string, "result-path" :string, "message" :string, "path" :string}, "create-contract-folder" :{"cwd" :string, "result-path" :string, "message" :string, "path" :string}, "create-scripts-folder" :{"cwd" :string, "result-path" :string, "message" :string, "path" :string}}_
+* __params__: 
+    ```
+    {"create-working-folder" :{"cwd" :string, "result-path" :string, "message" :string, "path" :string}, "create-contract-folder" :{"cwd" :string, "result-path" :string, "message" :string, "path" :string}, "create-scripts-folder" :{"cwd" :string, "result-path" :string, "message" :string, "path" :string}}
+    ```
 
 
 
 ### Output ports:
 
-* __state__: _any_
-
+* __state__: `any`
 
 

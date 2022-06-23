@@ -11,8 +11,7 @@ Example:
 
 ### Input ports:
 
-* __path__: _string_
-
+* __path__: `string`
     Receives the path to set the extension on.
     
     Example:
@@ -22,8 +21,7 @@ Example:
 
 
 
-* __extension__: _string_
-
+* __extension__: `string`
     Receives the extension to set on `path`.
     
     Example:
@@ -33,8 +31,7 @@ Example:
 
 ### Output ports:
 
-* __path__: _string_
-
+* __path__: `string`
     Sends the resulting path.
     
     Example:

@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __a__: _number_
-
+* __a__: `number`
     The first value to pick the max from
 
 
 
-* __b__: _number_
-
+* __b__: `number`
     The second value to pick the max from
 
 
 
 ### Output ports:
 
-* __max__: _number_
-
+* __max__: `number`
     Sends the maximum of the provided two values.
 
 

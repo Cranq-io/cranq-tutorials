@@ -14,8 +14,7 @@ Example B:
 
 ### Input ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Receives the data to test for being a dictionary.
     
     Example:
@@ -25,8 +24,7 @@ Example B:
 
 ### Output ports:
 
-* __is dict__: _boolean_
-
+* __is dict__: `boolean`
     Sends a value indicating whether the `data` received is a dictionary.
     
     Example:

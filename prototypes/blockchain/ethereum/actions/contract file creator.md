@@ -6,7 +6,10 @@ Creates the smart contract as file based on the parameters.
 
 ### Input ports:
 
-* __params__: _{"cwd" :string, "contract" :"single-nft", "single-nft" :{"contract-name" :string, "token-name" :string, "token-symbol" :string}, "result-path" :string, "message" :string}_
+* __params__: 
+    ```
+    {"cwd" :string, "contract" :"single-nft", "single-nft" :{"contract-name" :string, "token-name" :string, "token-symbol" :string}, "result-path" :string, "message" :string}
+    ```
 
     {
       "cwd": string, // the working directory
@@ -22,16 +25,14 @@ Creates the smart contract as file based on the parameters.
 
 
 
-* __state__: _any_
-
+* __state__: `any`
     Receives script state.
 
 
 
 ### Output ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Sends updated script state.
 
 

@@ -4,11 +4,9 @@
 
 ### Input ports:
 
-* __params__: _{"message" :string}_
+* __params__: `{"message" :string}`
 
 
-
-* __action result__: _any_
-
+* __action result__: `any`
 
 

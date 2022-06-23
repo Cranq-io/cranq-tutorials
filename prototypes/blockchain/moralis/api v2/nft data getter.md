@@ -11,48 +11,49 @@ https://admin.moralis.io/web3Api
 
 ### Input ports:
 
-* __API key__: _string_
+* __API key__: `string`
 
 
-
-* __address__: _string_
-
+* __address__: `string`
     Receives the contract address for a token.
 
 
 
-* __token ID__: _string_
-
+* __token ID__: `string`
     Receives the identifier of the token in the context of its governing contract.
 
 
 
-* __params__: _{"chain" :("eth" or "ropsten" or "rinkeby" or "goerli" or "kovan" or "polygon" or "mumbai" or "bsc" or "bsc testnet" or "avalanche" or "avalanche testnet" or "fantom"), "format" :("decimal" or "hex"), "offset" :number, "limit" :number, "order" :string, "cursor" :string}_
+* __params__: 
+    ```
+    {"chain" :("eth" or "ropsten" or "rinkeby" or "goerli" or "kovan" or "polygon" or "mumbai" or "bsc" or "bsc testnet" or "avalanche" or "avalanche testnet" or "fantom"), "format" :("decimal" or "hex"), "offset" :number, "limit" :number, "order" :string, "cursor" :string}
+    ```
 
     Receives parameters refining the transfers query.
     
-    Example:
-    {
-      "chain": "ropsten"
-    }
+    Example:  
+    {  
+    \ \ "chain": "ropsten"  
+    }  
 
 
 
 ### Output ports:
 
-* __NFT data__: _`blockchain/moralis/NFT data`_
-
+* __NFT data__: ``blockchain/moralis/NFT data``
     Sends a list of NFT transfers as returned by the Moralis API
 
 
 
-* __response__: _{"status" :number, "headers" :{string: string}, "data" :`blockchain/moralis/NFT data response`}_
+* __response__: 
+    ```
+    {"status" :number, "headers" :{string: string}, "data" :`blockchain/moralis/NFT data response`}
+    ```
 
     Sends the entire response from the Moralis API, including status and header.
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
 
 

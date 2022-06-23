@@ -16,25 +16,29 @@ Example B
 
 ### Input ports:
 
-* __response__: _{"status" :number, "headers" :{string: any}, "body" :string}_
+* __response__: 
+    ```
+    {"status" :number, "headers" :{string: any}, "body" :string}
+    ```
 
     Receives response that might contain an error.
 
 
 
-* __error msg__: _string_
-
+* __error msg__: `string`
     Receives error message to appear in `error`.
 
 
 
 ### Output ports:
 
-* __body__: _{"status" :number, "headers" :{string: any}, "body" :string}["body"]_
+* __body__: 
+    ```
+    {"status" :number, "headers" :{string: any}, "body" :string}["body"]
+    ```
 
 
 
-* __error__: _{"error" :string, optional "details" :any}_
-
+* __error__: `{"error" :string, optional "details" :any}`
 
 

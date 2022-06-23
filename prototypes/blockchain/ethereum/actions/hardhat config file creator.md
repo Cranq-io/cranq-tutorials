@@ -6,20 +6,21 @@ Creates config file for Hardhat based on the parameters.
 
 ### Input ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Receives script state.
 
 
 
-* __params__: _{"cwd" :string, "path" :string, "network" :string, "result-path" :string, "message" :string}_
+* __params__: 
+    ```
+    {"cwd" :string, "path" :string, "network" :string, "result-path" :string, "message" :string}
+    ```
 
 
 
 ### Output ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Sends updated script state.
 
 

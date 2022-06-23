@@ -4,21 +4,17 @@
 
 ### Input ports:
 
-* __text__: _any_
+* __text__: `any`
 
 
-
-* __lowercase__: _boolean_
-
+* __lowercase__: `boolean`
 
 
-* __separator__: _string_
-
+* __separator__: `string`
 
 
 ### Output ports:
 
-* __slug__: _any_
-
+* __slug__: `any`
 
 

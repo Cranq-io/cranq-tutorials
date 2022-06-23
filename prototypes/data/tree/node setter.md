@@ -6,27 +6,23 @@ Immutably stores the specified node on the specified path of the tree.
 
 ### Input ports:
 
-* __tree__: _(any[] or {string: any})_
-
+* __tree__: `(any[] or {string: any})`
     Tree data structure in which to store a node.
 
 
 
-* __path__: _(string or number)[]_
-
+* __path__: `(string or number)[]`
     Specifies the location of the node.
 
 
 
-* __node__: _any_
-
+* __node__: `any`
     The node to be stored in the tree.
 
 
 
 ### Output ports:
 
-* __tree__: _(any[] or {string: any})_
-
+* __tree__: `(any[] or {string: any})`
 
 

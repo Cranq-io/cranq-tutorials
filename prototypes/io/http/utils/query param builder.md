@@ -9,22 +9,19 @@ Example:
 
 ### Input ports:
 
-* __name__: _string_
-
+* __name__: `string`
     Receives the name of the query parameter.
 
 
 
-* __value__: _string_
-
+* __value__: `string`
     Receives the value of the query parameter.
 
 
 
 ### Output ports:
 
-* __param__: _string_
-
+* __param__: `string`
     Sends the serialized query parameter.
 
 

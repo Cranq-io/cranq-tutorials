@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __next__: _any_
-
+* __next__: `any`
 
 
 ### Output ports:
 
-* __assertion ID__: _any_
-
+* __assertion ID__: `any`
 
 

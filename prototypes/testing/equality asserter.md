@@ -4,17 +4,14 @@
 
 ### Input ports:
 
-* __expected__: _any_
+* __expected__: `any`
 
 
-
-* __actual__: _any_
-
+* __actual__: `any`
 
 
 ### Output ports:
 
-* __assertion__: _any_
-
+* __assertion__: `any`
 
 

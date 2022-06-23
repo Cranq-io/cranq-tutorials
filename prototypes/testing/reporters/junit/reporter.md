@@ -6,8 +6,7 @@ Compiles a JUnit test result report based on incoming assertions.
 
 ### Input ports:
 
-* __assertion__: _any_
-
+* __assertion__: `any`
     Individual assertion record with properties:
     * type
     * expected
@@ -19,15 +18,13 @@ Compiles a JUnit test result report based on incoming assertions.
 
 
 
-* __delay__: _any_
-
+* __delay__: `any`
     Maximum allowed delay between assertions in milliseconds.
 
 
 
 ### Output ports:
 
-* __xml__: _any_
-
+* __xml__: `any`
 
 

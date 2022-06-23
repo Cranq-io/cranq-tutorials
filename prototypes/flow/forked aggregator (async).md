@@ -20,40 +20,34 @@ Example:
 
 ### Input ports:
 
-* __release__: _any_
-
+* __release__: `any`
     Receives signal to release aggregated inputs. Independent of `data`.
 
 
 
-* __data__: _any_
-
+* __data__: `any`
     Receives the data to be forwarded to either output.
 
 
 
-* __true__: _any_
-
+* __true__: `any`
     Receives signal that corresponding `data` should be aggregated into `trues`.
 
 
 
-* __false__: _any_
-
+* __false__: `any`
     Receives signal that corresponding `data` should be aggregated into `falses`.
 
 
 
 ### Output ports:
 
-* __trues__: _any[]_
-
+* __trues__: `any[]`
     Sends the aggregated data, that was accompanied by signals via `true`.
 
 
 
-* __falses__: _any[]_
-
+* __falses__: `any[]`
     Sends the aggregated data, that was accompanied by signals via `false`.
 
 

@@ -6,17 +6,14 @@ Adds content type header to the received response.
 
 ### Input ports:
 
-* __response__: _`io/http/Response`_
+* __response__: ``io/http/Response``
 
 
-
-* __params__: _{optional "contentType" :("text" or "json")}_
-
+* __params__: `{optional "contentType" :("text" or "json")}`
 
 
 ### Output ports:
 
-* __response__: _`io/http/Response`_
-
+* __response__: ``io/http/Response``
 
 

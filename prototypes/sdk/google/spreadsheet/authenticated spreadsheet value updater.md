@@ -24,8 +24,7 @@ Example:
 
 ### Input ports:
 
-* __session Id__: _string_
-
+* __session Id__: `string`
     Receives the session id of the spreadsheet action.
     
     Example: 
@@ -33,8 +32,7 @@ Example:
 
 
 
-* __auth data__: _{"email" :string, "key" :string}_
-
+* __auth data__: `{"email" :string, "key" :string}`
     Receives the authentication data of service account.
     
     Example: 
@@ -46,8 +44,7 @@ Example:
 
 
 
-* __spreadsheet Id__: _string_
-
+* __spreadsheet Id__: `string`
     Receives the id of the spreadsheet to be updated.
     
     Example:
@@ -55,7 +52,10 @@ Example:
 
 
 
-* __update data__: _{"update meta data" :{string: any}, "values" :any[][]}_
+* __update data__: 
+    ```
+    {"update meta data" :{string: any}, "values" :any[][]}
+    ```
 
     {
       "update meta data": {
@@ -71,8 +71,7 @@ Example:
 
 ### Output ports:
 
-* __done__: _null_
-
+* __done__: `null`
     Sends null if the action was successful.
     
     Example:
@@ -80,8 +79,7 @@ Example:
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends the error which happened during the execution of the action.
     
     Example:.

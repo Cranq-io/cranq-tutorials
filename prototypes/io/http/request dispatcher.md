@@ -8,7 +8,10 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 ### Input ports:
 
-* __params__: _{"method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "url" :string, "headers" :{string: string}, optional "body" :string}_
+* __params__: 
+    ```
+    {"method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "url" :string, "headers" :{string: string}, optional "body" :string}
+    ```
 
     Receives parameters of the HTTP request.
     
@@ -27,7 +30,10 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 ### Output ports:
 
-* __response__: _{"status" :number, "headers" :{string: string}, "body" :string}_
+* __response__: 
+    ```
+    {"status" :number, "headers" :{string: string}, "body" :string}
+    ```
 
     Sends HTTP response object.
     
@@ -45,8 +51,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends error on failing to send or receive the request.
     
     Example:

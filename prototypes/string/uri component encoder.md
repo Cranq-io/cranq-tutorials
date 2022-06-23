@@ -10,16 +10,14 @@ Example:
 
 ### Input ports:
 
-* __string__: _any_
-
+* __string__: `any`
     Receives a string to be URI component-encoded.
 
 
 
 ### Output ports:
 
-* __encoded__: _string_
-
+* __encoded__: `string`
     Sends the URI component-encoded string.
 
 

@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __pre-report time__: _{string: any}_
-
+* __pre-report time__: `{string: any}`
 
 
 ### Output ports:
 
-* __seconds__: _number_
-
+* __seconds__: `number`
 
 

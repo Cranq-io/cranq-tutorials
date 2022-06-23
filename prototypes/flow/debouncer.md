@@ -14,14 +14,12 @@ Example:
 
 ### Input ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Receives signal to be debounced.
 
 
 
-* __delay__: _number_
-
+* __delay__: `number`
     Minimum delay in milliseconds between last signal received through `data` (input) and sent through `data` (output).
     
     Must be set as a parameter.
@@ -30,8 +28,7 @@ Example:
 
 ### Output ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Sends the debounced signal.
 
 

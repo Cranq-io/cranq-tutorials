@@ -14,22 +14,19 @@ Example B:
 
 ### Input ports:
 
-* __to true__: _any_
-
+* __to true__: `any`
     Receives signals to be evaluated to true.
 
 
 
-* __to false__: _any_
-
+* __to false__: `any`
     Receives signals to be evaluated to false.
 
 
 
 ### Output ports:
 
-* __boolean__: _boolean_
-
+* __boolean__: `boolean`
     Sends boolean depending on which input the signal was received through.
 
 

@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __template__: _string_
-
+* __template__: `string`
     The template to be filled
 
 
 
-* __params__: _{string: any}_
-
+* __params__: `{string: any}`
     The actual parameters used for filling the template
 
 
 
 ### Output ports:
 
-* __filled__: _string_
-
+* __filled__: `string`
     Sends the template filled with the given values from params.
 
 

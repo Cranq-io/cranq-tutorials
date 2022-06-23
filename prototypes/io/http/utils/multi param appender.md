@@ -12,28 +12,24 @@ Example:
 
 ### Input ports:
 
-* __values__: _string[]_
-
+* __values__: `string[]`
     Receives values associated with the same query parameter.
 
 
 
-* __key__: _string_
-
+* __key__: `string`
     Receives the key part of a key-value pair.
 
 
 
-* __params__: _{"key" :string, "value" :string}[]_
-
+* __params__: `{"key" :string, "value" :string}[]`
     Receives an array of single query params as key-value pairs.
 
 
 
 ### Output ports:
 
-* __params__: _{"key" :string, "value" :string}[]_
-
+* __params__: `{"key" :string, "value" :string}[]`
     Sends an array of single query params as key-value pairs.
 
 

@@ -11,16 +11,14 @@ Example:
 
 ### Input ports:
 
-* __number__: _number_
-
+* __number__: `number`
     The number to be converted.
 
 
 
 ### Output ports:
 
-* __string__: _string_
-
+* __string__: `string`
     Sends the serialized number.
 
 

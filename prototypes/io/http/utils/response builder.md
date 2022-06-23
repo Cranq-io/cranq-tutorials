@@ -12,8 +12,7 @@ Example:
 
 ### Input ports:
 
-* __body__: _string_
-
+* __body__: `string`
     Receives the body of the response.
     
     Example:
@@ -21,8 +20,7 @@ Example:
 
 
 
-* __status__: _number_
-
+* __status__: `number`
     Receives a HTTP status code.
     
     Example:
@@ -30,8 +28,7 @@ Example:
 
 
 
-* __headers__: _{string: string}_
-
+* __headers__: `{string: string}`
     Receives a record of HTTP headers.
     
     Example:
@@ -41,7 +38,10 @@ Example:
 
 ### Output ports:
 
-* __response__: _{"status" :number, "headers" :{string: string}, "body" :string}_
+* __response__: 
+    ```
+    {"status" :number, "headers" :{string: string}, "body" :string}
+    ```
 
     Sends the constructed HTTP response.
 

@@ -6,25 +6,20 @@ Example node, that demonstrates the usage of dictionary getter nodes.
 
 ### Input ports:
 
-* __run__: _any_
-
+* __run__: `any`
 
 
 ### Output ports:
 
-* __keys__: _any_
+* __keys__: `any`
 
 
-
-* __values__: _any_
-
+* __values__: `any`
 
 
-* __name&dept__: _any_
+* __name&dept__: `any`
 
 
-
-* __size__: _any_
-
+* __size__: `any`
 
 

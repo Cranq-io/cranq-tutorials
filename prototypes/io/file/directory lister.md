@@ -18,8 +18,7 @@ Example (failure):
 
 ### Input ports:
 
-* __path__: _string_
-
+* __path__: `string`
     Receives the path of the directory to list the content of.
     
     Example:
@@ -31,8 +30,7 @@ Example (failure):
 
 ### Output ports:
 
-* __child names__: _string[]_
-
+* __child names__: `string[]`
     Sends the names of files & directories under the specified path.
     
     Example:
@@ -43,8 +41,7 @@ Example (failure):
 
 
 
-* __bounced__: _string_
-
+* __bounced__: `string`
     Sends the path if the operation has failed.
     
     Example:
@@ -52,8 +49,7 @@ Example (failure):
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends error information if the operation has failed.
     
     Example: 

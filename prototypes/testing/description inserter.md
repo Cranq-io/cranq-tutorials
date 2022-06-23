@@ -6,17 +6,14 @@ Inserts description into list of descriptions on an assertion record.
 
 ### Input ports:
 
-* __assertion__: _{string: any}_
+* __assertion__: `{string: any}`
 
 
-
-* __description__: _any_
-
+* __description__: `any`
 
 
 ### Output ports:
 
-* __assertion__: _{string: any}_
-
+* __assertion__: `{string: any}`
 
 

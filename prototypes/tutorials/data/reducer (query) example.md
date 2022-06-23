@@ -6,13 +6,11 @@ Example wrapper node, that demonstrates the usage of the data/array/Reducer node
 
 ### Input ports:
 
-* __run__: _any_
-
+* __run__: `any`
 
 
 ### Output ports:
 
-* __reduced__: _any_
-
+* __reduced__: `any`
 
 

@@ -6,17 +6,14 @@ Example node, that demonstrates the usage of the flow/Splitter for splitting dic
 
 ### Input ports:
 
-* __run__: _any_
-
+* __run__: `any`
 
 
 ### Output ports:
 
-* __Employees__: _any_
+* __Employees__: `any`
 
 
-
-* __Departments__: _any_
-
+* __Departments__: `any`
 
 

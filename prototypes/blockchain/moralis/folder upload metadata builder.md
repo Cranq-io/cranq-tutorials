@@ -4,17 +4,18 @@
 
 ### Input ports:
 
-* __item URLs__: _string[]_
+* __item URLs__: `string[]`
 
 
-
-* __item names__: _string[]_
-
+* __item names__: `string[]`
 
 
 ### Output ports:
 
-* __item metadata__: _{"image" :string, "name" :string, "description" :string}[]_
+* __item metadata__: 
+    ```
+    {"image" :string, "name" :string, "description" :string}[]
+    ```
 
 
 

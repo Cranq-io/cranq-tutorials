@@ -10,13 +10,11 @@ Example:
 
 ### Input ports:
 
-* __csv__: _string_
-
+* __csv__: `string`
 
 
 ### Output ports:
 
-* __2D array__: _string[][]_
-
+* __2D array__: `string[][]`
 
 

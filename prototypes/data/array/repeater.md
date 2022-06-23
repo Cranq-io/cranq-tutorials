@@ -15,8 +15,7 @@ sent via `data`
 
 ### Input ports:
 
-* __array__: _any[]_
-
+* __array__: `any[]`
     Recieves array which specifies number of times to repeat data.
     
     Example:
@@ -24,8 +23,7 @@ sent via `data`
 
 
 
-* __data__: _any_
-
+* __data__: `any`
     Recieves data to be repeated.
     
     Example:
@@ -35,8 +33,7 @@ sent via `data`
 
 ### Output ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Sends repeated data with tag.
     
     Example:

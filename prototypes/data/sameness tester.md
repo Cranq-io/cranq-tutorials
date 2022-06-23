@@ -4,17 +4,14 @@
 
 ### Input ports:
 
-* __a__: _any_
+* __a__: `any`
 
 
-
-* __b__: _any_
-
+* __b__: `any`
 
 
 ### Output ports:
 
-* __same__: _any_
-
+* __same__: `any`
 
 

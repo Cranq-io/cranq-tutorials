@@ -4,17 +4,14 @@
 
 ### Input ports:
 
-* __tree__: _any_
+* __tree__: `any`
 
 
-
-* __path__: _any_
-
+* __path__: `any`
 
 
 ### Output ports:
 
-* __assertion__: _any_
-
+* __assertion__: `any`
 
 

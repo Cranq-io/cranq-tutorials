@@ -4,20 +4,17 @@
 
 ### Input ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Receives script state.
 
 
 
-* __cwd__: _string_
-
+* __cwd__: `string`
 
 
 ### Output ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Sends script state as it was written.
 
 

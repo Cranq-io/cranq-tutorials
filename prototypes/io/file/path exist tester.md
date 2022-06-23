@@ -6,13 +6,11 @@ Tests whether the specified path exists in the filesystem.
 
 ### Input ports:
 
-* __path__: _string_
-
+* __path__: `string`
 
 
 ### Output ports:
 
-* __exists__: _boolean_
-
+* __exists__: `boolean`
 
 

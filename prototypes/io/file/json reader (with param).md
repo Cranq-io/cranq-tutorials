@@ -6,21 +6,17 @@ Reads a JSON file from the specified path and outputs its content.
 
 ### Input ports:
 
-* __path__: _string_
+* __path__: `string`
 
 
-
-* __start__: _any_
-
+* __start__: `any`
 
 
 ### Output ports:
 
-* __data__: _any_
+* __data__: `any`
 
 
-
-* __bounced__: _string_
-
+* __bounced__: `string`
 
 

@@ -20,8 +20,7 @@ Example:
 
 ### Input ports:
 
-* __URL__: _string_
-
+* __URL__: `string`
     Receives the target of the HTML form post.
     
     Example:
@@ -29,8 +28,7 @@ Example:
 
 
 
-* __headers__: _{string: string}_
-
+* __headers__: `{string: string}`
     Receives request headers. 
     
     Example:
@@ -38,8 +36,7 @@ Example:
 
 
 
-* __form data__: _{string: (string or string[])}_
-
+* __form data__: `{string: (string or string[])}`
     Receives the form data to be posted.
     
     Example:
@@ -55,8 +52,7 @@ Example:
 
 ### Output ports:
 
-* __status__: _number_
-
+* __status__: `number`
     Sends HTTP response status code. Indicates whether the request has been  successfully completed.
     
     Example:
@@ -64,14 +60,12 @@ Example:
 
 
 
-* __headers__: _{string: string}_
-
+* __headers__: `{string: string}`
     Sends HTTP response headers.
 
 
 
-* __body__: _string_
-
+* __body__: `string`
     Sends HTTP response message body data.
     
     Example:
@@ -79,8 +73,7 @@ Example:
 
 
 
-* __errors__: _{"error" :string}_
-
+* __errors__: `{"error" :string}`
     Sends HTTP response communication error.
     
     

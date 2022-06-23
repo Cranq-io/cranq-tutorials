@@ -4,11 +4,9 @@
 
 ### Input ports:
 
-* __data__: _any_
+* __data__: `any`
 
 
-
-* __message__: _string_
-
+* __message__: `string`
 
 

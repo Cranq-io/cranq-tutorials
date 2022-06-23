@@ -12,22 +12,19 @@ Example:
 
 ### Input ports:
 
-* __string__: _string_
-
+* __string__: `string`
     The string to look for the substring in
 
 
 
-* __substring__: _string_
-
+* __substring__: `string`
     The string to find
 
 
 
 ### Output ports:
 
-* __contains__: _boolean_
-
+* __contains__: `boolean`
     Whether the string contains the substring
 
 

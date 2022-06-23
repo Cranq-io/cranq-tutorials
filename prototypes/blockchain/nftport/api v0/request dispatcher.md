@@ -6,40 +6,37 @@ Dispatches a POST request to one of the NFTPort API endpoints.
 
 ### Input ports:
 
-* __API key__: _string_
-
+* __API key__: `string`
     Receives the NFT port API key.
 
 
 
-* __URL__: _string_
-
+* __URL__: `string`
     Receives the target NFT port endpoint.
     
 
 
 
-* __body__: _string_
-
+* __body__: `string`
     Receives the post data.
 
 
 
-* __method__: _any_
-
+* __method__: `any`
 
 
 ### Output ports:
 
-* __data__: _any_
+* __data__: `any`
 
 
-
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
 
 
-* __response__: _{"status" :number, "headers" :{string: string}, "body" :string}_
+* __response__: 
+    ```
+    {"status" :number, "headers" :{string: string}, "body" :string}
+    ```
 
     Sends the reconstructed HTTP response.
 

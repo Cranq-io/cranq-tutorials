@@ -15,8 +15,7 @@ Example:
 
 ### Input ports:
 
-* __a__: _{string: string}_
-
+* __a__: `{string: string}`
     Receives the dictionary containing the keys to join and the values to join by.
     
     Example:
@@ -24,8 +23,7 @@ Example:
 
 
 
-* __b__: _{string: any}_
-
+* __b__: `{string: any}`
     Receives the dictionary containing the values to join and the keys to join by.
     
     Example:
@@ -35,8 +33,7 @@ Example:
 
 ### Output ports:
 
-* __joined__: _{string: {string: any}[string]}_
-
+* __joined__: `{string: {string: any}[string]}`
     Sends the resulting joined dictionary.
     
     Example:

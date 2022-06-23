@@ -26,8 +26,7 @@ destination: "/home/user1/dir1/bar.txt"
 
 ### Input ports:
 
-* __source path__: _string_
-
+* __source path__: `string`
     Receives the path of the file to rename.
     
     Example:
@@ -37,8 +36,7 @@ destination: "/home/user1/dir1/bar.txt"
 
 
 
-* __new name__: _string_
-
+* __new name__: `string`
     Receives the desired new file name.
     
     Example:
@@ -48,8 +46,7 @@ destination: "/home/user1/dir1/bar.txt"
 
 ### Output ports:
 
-* __bounced__: _any_
-
+* __bounced__: `any`
     Sends synced parameters if operation has failed.
     
     Example:
@@ -60,8 +57,7 @@ destination: "/home/user1/dir1/bar.txt"
 
 
 
-* __renamed__: _any_
-
+* __renamed__: `any`
     Sends synced parameters if operation has succeeded.
     
     Example:
@@ -72,8 +68,7 @@ destination: "/home/user1/dir1/bar.txt"
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends error information if the operation has failed.
     
     Example: 

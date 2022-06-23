@@ -6,13 +6,11 @@ Example wrapper node, that demonstrates the basic usage of the flow/Repeater nod
 
 ### Input ports:
 
-* __run__: _any_
-
+* __run__: `any`
 
 
 ### Output ports:
 
-* __output__: _any_
-
+* __output__: `any`
 
 

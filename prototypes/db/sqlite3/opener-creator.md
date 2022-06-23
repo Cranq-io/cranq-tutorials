@@ -6,17 +6,18 @@ Opens the specified SQLite database. When the database doesn't exist, creates it
 
 ### Input ports:
 
-* __params__: _{"dbId" :string, "filename" :string, "initSql" :string}_
+* __params__: 
+    ```
+    {"dbId" :string, "filename" :string, "initSql" :string}
+    ```
 
 
 
 ### Output ports:
 
-* __done__: _null_
+* __done__: `null`
 
 
-
-* __error__: _string_
-
+* __error__: `string`
 
 

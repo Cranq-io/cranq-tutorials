@@ -6,21 +6,18 @@ Tests whether a command was executed successfully
 
 ### Input ports:
 
-* __error__: _(string or null)_
-
+* __error__: `(string or null)`
     Error from a `system/Command runner` node.
 
 
 
-* __busy__: _any_
-
+* __busy__: `any`
     The "busy" signal of a `system/Command runner` node.
 
 
 
 ### Output ports:
 
-* __success__: _any_
-
+* __success__: `any`
 
 

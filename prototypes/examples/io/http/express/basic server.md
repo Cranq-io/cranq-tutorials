@@ -6,17 +6,14 @@ This example exposes a /status endpoint on port 3000 which accepts GET, POST, PU
 
 ### Input ports:
 
-* __start__: _any_
-
+* __start__: `any`
 
 
 ### Output ports:
 
-* __req body / query__: _any_
+* __req body / query__: `any`
 
 
-
-* __error__: _any_
-
+* __error__: `any`
 
 

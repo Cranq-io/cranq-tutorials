@@ -6,21 +6,17 @@ Records a single assertion into a preprocessed report JSON.
 
 ### Input ports:
 
-* __assertion__: _any_
+* __assertion__: `any`
 
 
-
-* __assertion ID__: _any_
-
+* __assertion ID__: `any`
 
 
-* __pre-report__: _any_
-
+* __pre-report__: `any`
 
 
 ### Output ports:
 
-* __pre-report__: _any_
-
+* __pre-report__: `any`
 
 

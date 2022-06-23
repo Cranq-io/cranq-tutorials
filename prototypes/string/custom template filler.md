@@ -14,8 +14,7 @@ Example:
 
 ### Input ports:
 
-* __template__: _string_
-
+* __template__: `string`
     Receives the template string to replace parameters in.
     
     Example:
@@ -23,8 +22,7 @@ Example:
 
 
 
-* __params__: _{string: any}_
-
+* __params__: `{string: any}`
     Receives the parameters to replace in the template.
     
     Example: 
@@ -32,8 +30,7 @@ Example:
 
 
 
-* __token start__: _string_
-
+* __token start__: `string`
     Receives the string that marks the start of the parameter placeholder (token) within the template.
     
     Example:
@@ -41,8 +38,7 @@ Example:
 
 
 
-* __token end__: _string_
-
+* __token end__: `string`
     Receives the string that marks the end of the parameter placholder (token) within the template.
     
     Example:
@@ -52,8 +48,7 @@ Example:
 
 ### Output ports:
 
-* __filled__: _string_
-
+* __filled__: `string`
     Sends the template string with replaced parameters.
     
     Example:
@@ -61,8 +56,7 @@ Example:
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
     Sends error in case any occurs during operation.
     
     Example: 

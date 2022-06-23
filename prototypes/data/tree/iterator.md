@@ -20,13 +20,15 @@ Example:
 
 ### Input ports:
 
-* __tree__: _(any[] or {string: any})_
-
+* __tree__: `(any[] or {string: any})`
     The tree data structure to iterate over on.
 
 
 
-* __query__: _(string or number or {"type" :"wildcard"} or {"type" :"options", "options" :(string[] or number[])})[]_
+* __query__: 
+    ```
+    (string or number or {"type" :"wildcard"} or {"type" :"options", "options" :(string[] or number[])})[]
+    ```
 
     Pattern for paths. Array of strings, numbers or expressions.
     Strings look for exact matches, numbers for array indices and expressions describe matching mechanisms.
@@ -41,26 +43,22 @@ Example:
 
 ### Output ports:
 
-* __path__: _(string or number)[]_
-
+* __path__: `(string or number)[]`
     Sends the current path in the iteration
 
 
 
-* __node__: _any_
-
+* __node__: `any`
     Sends the current node in the iteration
 
 
 
-* __tree__: _(any[] or {string: any})_
-
+* __tree__: `(any[] or {string: any})`
     Sends the entire tree
 
 
 
-* __done__: _null_
-
+* __done__: `null`
     Sends null when the iteration is done
 
 

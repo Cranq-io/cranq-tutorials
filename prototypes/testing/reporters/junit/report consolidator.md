@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __pre-report__: _any_
-
+* __pre-report__: `any`
 
 
 ### Output ports:
 
-* __JSON report__: _any_
-
+* __JSON report__: `any`
 
 

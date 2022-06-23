@@ -14,8 +14,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Input ports:
 
-* __a__: _{string: any}_
-
+* __a__: `{string: any}`
     Receives the dictionary to merge onto.
     
     Example:
@@ -23,8 +22,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 
 
-* __b__: _{string: any}_
-
+* __b__: `{string: any}`
     Receives the dictionary to merge with.
     
     Example:
@@ -34,8 +32,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Output ports:
 
-* __merged__: _({string: any} and {string: any})_
-
+* __merged__: `({string: any} and {string: any})`
     Sends the resulting merged dictionary.
     
     Example:

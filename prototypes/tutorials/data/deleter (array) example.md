@@ -6,13 +6,11 @@ Example node, that demonstrates the basic usage of array deleters
 
 ### Input ports:
 
-* __run__: _any_
-
+* __run__: `any`
 
 
 ### Output ports:
 
-* __array__: _any_
-
+* __array__: `any`
 
 

@@ -4,27 +4,27 @@
 
 ### Input ports:
 
-* __assertion ID__: _any_
-
+* __assertion ID__: `any`
     Receives individual fields for syncing.
 
 
 
-* __assertion__: _any_
-
+* __assertion__: `any`
     Receives individual fields for syncing.
 
 
 
-* __pre-report__: _any_
-
+* __pre-report__: `any`
     Receives individual fields for syncing.
 
 
 
 ### Output ports:
 
-* __context__: _{"assertion ID" :any, "assertion" :any, "pre-report" :any}_
+* __context__: 
+    ```
+    {"assertion ID" :any, "assertion" :any, "pre-report" :any}
+    ```
 
     The report context identifies an individual assertion by suite ID, case ID, and assertion ID.
     It also contains the preprocessed report and the assertion record.

@@ -23,19 +23,24 @@ Links:
 
 ### Input ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Receives script state.
 
 
 
-* __params__: _{"cwd" :string, "method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "route" :string, "app-id" :string}_
+* __params__: 
+    ```
+    {"cwd" :string, "method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "route" :string, "app-id" :string}
+    ```
 
     Receives method and route to match incoming requests against. Also specifies which running Express server instance to use via 'app-id'. The parameter 'app-id' must match the ID of a previously started Express server.
 
 
 
-* __response__: _{"status" :number, "headers" :{string: string}, "body" :any}_
+* __response__: 
+    ```
+    {"status" :number, "headers" :{string: string}, "body" :any}
+    ```
 
     Receives the response for a corresponding request prepared by the logic that connects `request` to `response`.
     
@@ -48,13 +53,15 @@ Links:
 
 ### Output ports:
 
-* __state__: _any_
-
+* __state__: `any`
     Sends updated script state.
 
 
 
-* __request__: _{"baseUrl" :string, "body" :any, "cookies" :any, "hostname" :string, "headers" :{string: string}, "ip" :string, "ips" :string[], "method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "originalUrl" :string, "params" :{string: string}, "path" :string, "protocol" :("http" or "https"), "query" :{string: any}, "route" :string, "secure" :boolean, "signedCookies" :any, "stale" :boolean, "subdomains" :string[], "xhr" :boolean}_
+* __request__: 
+    ```
+    {"baseUrl" :string, "body" :any, "cookies" :any, "hostname" :string, "headers" :{string: string}, "ip" :string, "ips" :string[], "method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "originalUrl" :string, "params" :{string: string}, "path" :string, "protocol" :("http" or "https"), "query" :{string: any}, "route" :string, "secure" :boolean, "signedCookies" :any, "stale" :boolean, "subdomains" :string[], "xhr" :boolean}
+    ```
 
     Sends incoming requests matching the route and method received via `params`.
 

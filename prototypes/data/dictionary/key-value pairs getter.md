@@ -13,8 +13,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/3_querying_data/
 
 ### Input ports:
 
-* __dict__: _{string: any}_
-
+* __dict__: `{string: any}`
     Receives a dictionary to extract the key-value pairs from.
     
     Example:
@@ -24,8 +23,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/3_querying_data/
 
 ### Output ports:
 
-* __key-value pairs__: _{"key" :string, "value" :{string: any}[string]}[]_
-
+* __key-value pairs__: `{"key" :string, "value" :{string: any}[string]}[]`
     Sends the extracted key-value pairs.
     
     Example:

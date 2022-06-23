@@ -21,8 +21,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/3_querying_data/
 
 ### Input ports:
 
-* __dict__: _{string: any}_
-
+* __dict__: `{string: any}`
     Receives the dictionary to get the value from.
     
     Example:
@@ -30,8 +29,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/3_querying_data/
 
 
 
-* __key__: _string_
-
+* __key__: `string`
     Receives the key corresponding to the value to get.
     
     Example:
@@ -39,8 +37,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/3_querying_data/
 
 
 
-* __default__: _{string: any}[string]_
-
+* __default__: `{string: any}[string]`
     Receives the default value to be sent when the requested key is absent.
     
     Must be parameter.
@@ -52,8 +49,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/3_querying_data/
 
 ### Output ports:
 
-* __value__: _{string: any}[string]_
-
+* __value__: `{string: any}[string]`
     Sends the value corresponding to the specified key, or, when not found, the specified default value.
     
     Example:

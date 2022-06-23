@@ -6,7 +6,10 @@ Logs received 4xx and 5xx responses with a custom message.
 
 ### Input ports:
 
-* __response__: _{"status" :number, "headers" :{string: string}, "body" :string}_
+* __response__: 
+    ```
+    {"status" :number, "headers" :{string: string}, "body" :string}
+    ```
 
     Receives request dispatcher response.
     
@@ -19,8 +22,7 @@ Logs received 4xx and 5xx responses with a custom message.
 
 
 
-* __message__: _string_
-
+* __message__: `string`
     Receives additional log message.
     
     Example: 

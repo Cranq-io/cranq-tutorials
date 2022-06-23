@@ -6,21 +6,21 @@ Retrieves multiple rows as a single array from the specified database.
 
 ### Input ports:
 
-* __params__: _{"dbId" :string, "sql" :string, optional "params" :(string or number)[]}_
+* __params__: 
+    ```
+    {"dbId" :string, "sql" :string, optional "params" :(string or number)[]}
+    ```
 
 
 
 ### Output ports:
 
-* __data__: _{string: any}[]_
+* __data__: `{string: any}[]`
 
 
-
-* __done__: _null_
-
+* __done__: `null`
 
 
-* __error__: _string_
-
+* __error__: `string`
 
 

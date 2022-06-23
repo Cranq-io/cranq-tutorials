@@ -10,21 +10,21 @@ https://docs.nftport.xyz/docs/nftport/b3A6MjQ1OTQxMDc-find-counterfeit-nf-ts-w-t
 
 ### Input ports:
 
-* __NFT ID__: _{"contractAddress" :string, "tokenId" :string}_
+* __NFT ID__: `{"contractAddress" :string, "tokenId" :string}`
 
 
-
-* __params__: _{"apiKey" :string, optional "chain" :("ethereum" or "polygon"), optional "page_number" :number, optional "page_size" :number, optional "threshold" :number}_
+* __params__: 
+    ```
+    {"apiKey" :string, optional "chain" :("ethereum" or "polygon"), optional "page_number" :number, optional "page_size" :number, optional "threshold" :number}
+    ```
 
 
 
 ### Output ports:
 
-* __file URLs__: _string[]_
+* __file URLs__: `string[]`
 
 
-
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
 
 

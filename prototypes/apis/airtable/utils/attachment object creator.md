@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __URL__: _string_
-
+* __URL__: `string`
 
 
 ### Output ports:
 
-* __attachment__: _{"url" :string}_
-
+* __attachment__: `{"url" :string}`
 
 

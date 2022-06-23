@@ -4,20 +4,17 @@
 
 ### Input ports:
 
-* __dict__: _{string: any}_
+* __dict__: `{string: any}`
 
 
-
-* __data__: _any_
-
+* __data__: `any`
     Data to be repeated
 
 
 
 ### Output ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Repeated data
 
 

@@ -13,8 +13,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/3_querying_data/
 
 ### Input ports:
 
-* __dict__: _{string: any}_
-
+* __dict__: `{string: any}`
     Receives the dictionary to count the number of items of.
     
     Example:
@@ -24,8 +23,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/3_querying_data/
 
 ### Output ports:
 
-* __size__: _number_
-
+* __size__: `number`
     Sends the calculated dictionary size.
     
     Example:

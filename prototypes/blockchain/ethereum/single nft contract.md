@@ -4,17 +4,18 @@
 
 ### Input ports:
 
-* __params__: _{"contract-name" :string, "token-name" :string, "token-symbol" :string}_
+* __params__: 
+    ```
+    {"contract-name" :string, "token-name" :string, "token-symbol" :string}
+    ```
 
 
 
 ### Output ports:
 
-* __contract text__: _string_
+* __contract text__: `string`
 
 
-
-* __contract name__: _any_
-
+* __contract name__: `any`
 
 

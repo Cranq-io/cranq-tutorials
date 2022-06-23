@@ -6,17 +6,14 @@ Example node, that demonstrates the usage of the data/array/Filter node
 
 ### Input ports:
 
-* __emps__: _any_
+* __emps__: `any`
 
 
-
-* __dept__: _any_
-
+* __dept__: `any`
 
 
 ### Output ports:
 
-* __emps__: _any_
-
+* __emps__: `any`
 
 

@@ -10,8 +10,7 @@ Example:
 
 ### Input ports:
 
-* __path__: _string_
-
+* __path__: `string`
     Receives the path to test whether it is a directory or not.
     
     Example:
@@ -23,8 +22,7 @@ Example:
 
 ### Output ports:
 
-* __is directory__: _boolean_
-
+* __is directory__: `boolean`
     Sends boolean value that indicates whether the specified path is a directory.
     
     Example:

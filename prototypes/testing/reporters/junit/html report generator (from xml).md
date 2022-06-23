@@ -6,8 +6,7 @@ Generates a HTML report of the specified JUnit XML, and saves it to the specifie
 
 ### Input ports:
 
-* __junit xml__: _any_
-
+* __junit xml__: `any`
     The JUnit-format XML content to generate the report for.
     
     Example:
@@ -15,22 +14,19 @@ Generates a HTML report of the specified JUnit XML, and saves it to the specifie
 
 
 
-* __report path__: _any_
-
+* __report path__: `any`
     The desired report path.
 
 
 
 ### Output ports:
 
-* __generated path__: _any_
-
+* __generated path__: `any`
     Indicates, that the report was generated successfully.
 
 
 
-* __bounced__: _any_
-
+* __bounced__: `any`
     Indicates, that the report has failed to generate.
 
 

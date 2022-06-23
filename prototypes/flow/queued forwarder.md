@@ -15,22 +15,19 @@ Example:
 
 ### Input ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Receives data to be forwarded.
 
 
 
-* __reference__: _any_
-
+* __reference__: `any`
     Receives signals that define the order of the forwarded signals, based on their tags.
 
 
 
 ### Output ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Sends forwarded data.
 
 

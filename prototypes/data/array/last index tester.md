@@ -4,17 +4,14 @@
 
 ### Input ports:
 
-* __array__: _any[]_
+* __array__: `any[]`
 
 
-
-* __index__: _number_
-
+* __index__: `number`
 
 
 ### Output ports:
 
-* __is last__: _boolean_
-
+* __is last__: `boolean`
 
 

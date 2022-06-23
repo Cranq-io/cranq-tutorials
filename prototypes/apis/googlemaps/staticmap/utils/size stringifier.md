@@ -4,13 +4,11 @@
 
 ### Input ports:
 
-* __size__: _[number,number]_
-
+* __size__: `[number,number]`
 
 
 ### Output ports:
 
-* __string__: _string_
-
+* __string__: `string`
 
 

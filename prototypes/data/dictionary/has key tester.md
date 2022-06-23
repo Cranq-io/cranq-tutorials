@@ -16,8 +16,7 @@ Example B:
 
 ### Input ports:
 
-* __dict__: _{string: any}_
-
+* __dict__: `{string: any}`
     Receives the dictionary to test.
     
     Example:
@@ -25,8 +24,7 @@ Example B:
 
 
 
-* __key__: _string_
-
+* __key__: `string`
     Receives the key to look for in the dictionary.
     
     Example:
@@ -36,8 +34,7 @@ Example B:
 
 ### Output ports:
 
-* __has__: _boolean_
-
+* __has__: `boolean`
     Sends a value indicating whether the dictionary has the expected key.
     
     Example:

@@ -11,8 +11,7 @@ Example:
 
 ### Input ports:
 
-* __array__: _any_
-
+* __array__: `any`
     Receives array to be splitted.
     
     Example:
@@ -20,8 +19,7 @@ Example:
 
 
 
-* __count__: _any_
-
+* __count__: `any`
     Receives the size of the columns of the 2D array.
     
     Example:
@@ -31,8 +29,7 @@ Example:
 
 ### Output ports:
 
-* __2D array__: _any_
-
+* __2D array__: `any`
     Sends the created 2D array.
     
     Example:

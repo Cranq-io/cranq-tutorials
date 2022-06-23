@@ -8,7 +8,10 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 ### Input ports:
 
-* __JSON req.__: _{"method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "url" :string, "headers" :{string: string}, optional "data" :any}_
+* __JSON req.__: 
+    ```
+    {"method" :("GET" or "POST" or "PUT" or "PATCH" or "DELETE"), "url" :string, "headers" :{string: string}, optional "data" :any}
+    ```
 
     Receives request with JSON body.
 
@@ -16,8 +19,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 ### Output ports:
 
-* __data__: _any_
-
+* __data__: `any`
     Sends HTTP response message body as data.
     
     Example:
@@ -30,13 +32,15 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 
 
-* __response__: _{"status" :number, "headers" :{string: any}, "body" :string}_
+* __response__: 
+    ```
+    {"status" :number, "headers" :{string: any}, "body" :string}
+    ```
 
     Sends original response.
 
 
 
-* __error__: _{"error" :string}_
-
+* __error__: `{"error" :string}`
 
 

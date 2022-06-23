@@ -6,25 +6,20 @@ Example node, that demonstrates the usage of array getter nodes.
 
 ### Input ports:
 
-* __run__: _any_
-
+* __run__: `any`
 
 
 ### Output ports:
 
-* __first__: _any_
+* __first__: `any`
 
 
-
-* __last__: _any_
-
+* __last__: `any`
 
 
-* __index_1__: _any_
+* __index_1__: `any`
 
 
-
-* __length__: _any_
-
+* __length__: `any`
 
 

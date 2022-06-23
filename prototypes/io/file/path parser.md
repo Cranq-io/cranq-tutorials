@@ -14,8 +14,7 @@ Example:
 
 ### Input ports:
 
-* __path__: _string_
-
+* __path__: `string`
     Receives the path to parse.
     
     Example:
@@ -28,7 +27,10 @@ Example:
 
 ### Output ports:
 
-* __components__: _{"directory" :string, "basename" :string, "extension" :string}_
+* __components__: 
+    ```
+    {"directory" :string, "basename" :string, "extension" :string}
+    ```
 
     Sends the resulting path components.
     
