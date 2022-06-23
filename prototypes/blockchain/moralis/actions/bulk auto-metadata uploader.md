@@ -1,6 +1,8 @@
-# Bulk auto-metadata uploader
+---
+description: blockchain/moralis/actions]
+---
 
-[blockchain/moralis/actions]
+# Bulk auto-metadata uploader
 
 Builds and uploads images meta data and stores the ipfs URLs in the state.
 

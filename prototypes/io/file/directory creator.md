@@ -1,6 +1,8 @@
-# Directory creator
+---
+description: io/file]
+---
 
-[io/file]
+# Directory creator
 
 Creates an empty directory under the specified path
 

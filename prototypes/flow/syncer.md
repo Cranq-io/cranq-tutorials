@@ -1,6 +1,8 @@
-# Syncer
+---
+description: flow]
+---
 
-[flow]
+# Syncer
 
 Bundles input signals that have the same tag. All inputs must receive exactly one signal for a given tag (or be a parameter) for the bundle (record or tuple, depending on the type of `fields`) to be sent.
 

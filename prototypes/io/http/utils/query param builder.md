@@ -1,6 +1,8 @@
-# Query param builder
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Query param builder
 
 Builds a single query param specified by a param name and a param value.
 

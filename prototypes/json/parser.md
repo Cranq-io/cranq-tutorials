@@ -1,6 +1,8 @@
-# Parser
+---
+description: json]
+---
 
-[json]
+# Parser
 
 Parses JSON.
 

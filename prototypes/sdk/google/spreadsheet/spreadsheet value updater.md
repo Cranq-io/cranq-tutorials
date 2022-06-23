@@ -1,6 +1,8 @@
-# Spreadsheet value updater
+---
+description: sdk/google/spreadsheet]
+---
 
-[sdk/google/spreadsheet]
+# Spreadsheet value updater
 
 Writes data to a single range of  a given spreadsheet.
 

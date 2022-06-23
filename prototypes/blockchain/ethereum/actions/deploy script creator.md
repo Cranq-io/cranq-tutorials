@@ -1,6 +1,8 @@
-# Deploy script creator
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Deploy script creator
 
 Creates the deploy script to deploy the contract using Hardhat.
 

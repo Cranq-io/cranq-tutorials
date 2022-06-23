@@ -1,6 +1,8 @@
-# Action result logger
+---
+description: scripting]
+---
 
-[scripting]
+# Action result logger
 
 ### Input ports:
 

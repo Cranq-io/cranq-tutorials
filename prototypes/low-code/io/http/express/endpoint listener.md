@@ -1,6 +1,8 @@
-# Endpoint listener
+---
+description: low-code/io/http/express]
+---
 
-[low-code/io/http/express]
+# Endpoint listener
 
 Opinionated low-code version of `io/http/express/Endpoint listener`.
 

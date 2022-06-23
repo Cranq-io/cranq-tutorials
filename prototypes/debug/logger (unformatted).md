@@ -1,6 +1,8 @@
-# Logger (unformatted)
+---
+description: debug]
+---
 
-[debug]
+# Logger (unformatted)
 
 Logs received data to the output, using default formatting options.
 

@@ -1,6 +1,8 @@
-# Status to params mapping creator
+---
+description: scripting]
+---
 
-[scripting]
+# Status to params mapping creator
 
 Creates mapping to be used with `scripting/Params copier` to map from a previous action's result to a param for a next action.
 

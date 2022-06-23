@@ -1,6 +1,8 @@
-# Buffering gate (async)
+---
+description: flow]
+---
 
-[flow]
+# Buffering gate (async)
 
 ### Input ports:
 

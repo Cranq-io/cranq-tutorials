@@ -1,6 +1,8 @@
-# Gate example
+---
+description: tutorials/flow]
+---
 
-[tutorials/flow]
+# Gate example
 
 Example node, that demonstrates the basic usage of the flow/Gate node
 

@@ -1,6 +1,8 @@
-# Record to AirTable record converter
+---
+description: apis/airtable/utils]
+---
 
-[apis/airtable/utils]
+# Record to AirTable record converter
 
 Converts plain record to an AirTable record.
 

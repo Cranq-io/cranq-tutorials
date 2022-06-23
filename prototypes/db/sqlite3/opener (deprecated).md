@@ -1,6 +1,8 @@
-# Opener (deprecated)
+---
+description: db/sqlite3]
+---
 
-[db/sqlite3]
+# Opener (deprecated)
 
 Opens the specified SQLite database.
 Mode is normally 6.

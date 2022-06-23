@@ -1,6 +1,8 @@
-# Paths getter
+---
+description: data/tree]
+---
 
-[data/tree]
+# Paths getter
 
 ### Input ports:
 

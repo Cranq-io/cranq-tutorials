@@ -1,6 +1,8 @@
-# Nodes setter
+---
+description: data/tree]
+---
 
-[data/tree]
+# Nodes setter
 
 Immutably stores the specified nodes on the specified paths of the tree.
 

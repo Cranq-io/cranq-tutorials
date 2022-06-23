@@ -1,6 +1,8 @@
-# Hardhat config file creator
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Hardhat config file creator
 
 Creates config file for Hardhat based on the parameters.
 

@@ -1,6 +1,8 @@
-# Express
+---
+description: io/http/express]
+---
 
-[io/http/express]
+# Express
 
 Core interface to Express.js. Use higher level nodes to interact with Express.
 

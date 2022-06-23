@@ -1,6 +1,8 @@
-# Transaction receipt getter
+---
+description: sdk/web3/eth]
+---
 
-[sdk/web3/eth]
+# Transaction receipt getter
 
 Sends receipt of a transaction by transaction hash.
 

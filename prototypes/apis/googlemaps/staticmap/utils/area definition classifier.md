@@ -1,6 +1,8 @@
-# Area definition classifier
+---
+description: apis/googlemaps/staticmap/utils]
+---
 
-[apis/googlemaps/staticmap/utils]
+# Area definition classifier
 
 ### Input ports:
 

@@ -1,6 +1,8 @@
-# Item deleter
+---
+description: data/array]
+---
 
-[data/array]
+# Item deleter
 
 Deletes item from the array at the specified index.
 

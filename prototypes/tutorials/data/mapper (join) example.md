@@ -1,6 +1,8 @@
-# Mapper (join) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Mapper (join) example
 
 Example wrapper node that demonstrates the usage of the data/array/Mapper node.
 

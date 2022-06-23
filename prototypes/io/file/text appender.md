@@ -1,6 +1,8 @@
-# Text appender
+---
+description: io/file]
+---
 
-[io/file]
+# Text appender
 
 Appends the input text to a file specified on `path`.
 

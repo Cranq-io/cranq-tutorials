@@ -1,6 +1,8 @@
-# Moving buffer
+---
+description: streaming]
+---
 
-[streaming]
+# Moving buffer
 
 Stores the last N inputs received via `sample` and sends them via `buffer`.
 

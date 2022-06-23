@@ -1,6 +1,8 @@
-# Directory lister
+---
+description: scripting/actions]
+---
 
-[scripting/actions]
+# Directory lister
 
 ### Input ports:
 

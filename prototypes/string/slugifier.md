@@ -1,6 +1,8 @@
-# Slugifier
+---
+description: string]
+---
 
-[string]
+# Slugifier
 
 ### Input ports:
 

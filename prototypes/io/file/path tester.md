@@ -1,6 +1,8 @@
-# Path tester
+---
+description: io/file]
+---
 
-[io/file]
+# Path tester
 
 Determines whether a file or directory exists under the specified path.
 

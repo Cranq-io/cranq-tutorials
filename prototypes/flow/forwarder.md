@@ -1,6 +1,8 @@
-# Forwarder
+---
+description: flow]
+---
 
-[flow]
+# Forwarder
 
 Forwards signal received via `data` (input) to `data` (output).
 

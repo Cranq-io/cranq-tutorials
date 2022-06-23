@@ -1,6 +1,8 @@
-# Contract verifier error handler
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Contract verifier error handler
 
 ### Input ports:
 

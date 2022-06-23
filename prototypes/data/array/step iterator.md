@@ -1,6 +1,8 @@
-# Step iterator
+---
+description: data/array]
+---
 
-[data/array]
+# Step iterator
 
 Iterates over the items of an array, asynchronously.
 

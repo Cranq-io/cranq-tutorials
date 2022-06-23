@@ -1,6 +1,8 @@
-# Request dispatcher
+---
+description: io/http]
+---
 
-[io/http]
+# Request dispatcher
 
 Dispatches HTTP request and outputs response or error.
 

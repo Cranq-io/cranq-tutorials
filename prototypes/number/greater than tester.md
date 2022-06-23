@@ -1,6 +1,8 @@
-# Greater than tester
+---
+description: number]
+---
 
-[number]
+# Greater than tester
 
 Checks if the value received on `value` is greater than the value received on `reference`. If the values are equal, it outputs false.
 

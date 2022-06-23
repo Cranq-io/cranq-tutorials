@@ -1,6 +1,8 @@
-# Merger
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Merger
 
 Merges dictionary `b` to dictionary `a`. Values of `a` will be ignored on key conflict.
 

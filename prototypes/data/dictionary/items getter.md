@@ -1,6 +1,8 @@
-# Items getter
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Items getter
 
 Retrieves multiple items' values from the dictionary by their keys, in the order of the keys provided.
 If any of the items are not found in the dictionary, a 'null' value will be sent in its place.

@@ -1,6 +1,8 @@
-# JSON parser
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# JSON parser
 
 Parses the JSON string representation of a dictionary.
 If the parsing is unsuccessful, the input is forwarded via `bounced`.

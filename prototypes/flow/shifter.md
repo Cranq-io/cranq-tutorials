@@ -1,6 +1,8 @@
-# Shifter
+---
+description: flow]
+---
 
-[flow]
+# Shifter
 
 Shifts incoming data back in time by releasing the previously received data on each input. 
 

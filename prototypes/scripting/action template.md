@@ -1,6 +1,8 @@
-# Action template
+---
+description: scripting]
+---
 
-[scripting]
+# Action template
 
 ### Input ports:
 

@@ -1,6 +1,8 @@
-# Item inserter
+---
+description: data/array]
+---
 
-[data/array]
+# Item inserter
 
 Inserts item into the array at the specified index.
 

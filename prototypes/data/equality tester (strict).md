@@ -1,6 +1,8 @@
-# Equality tester (strict)
+---
+description: data]
+---
 
-[data]
+# Equality tester (strict)
 
 Tests whether `a` and `b` are equal by reference. (Primitives by value.) 
 

@@ -1,6 +1,8 @@
-# API key inserter
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# API key inserter
 
 Inserts API key into a HTTP request header.
 

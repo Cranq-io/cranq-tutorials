@@ -1,6 +1,8 @@
-# Test suite name inserter
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Test suite name inserter
 
 ### Input ports:
 

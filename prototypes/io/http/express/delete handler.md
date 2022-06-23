@@ -1,6 +1,8 @@
-# DELETE handler
+---
+description: io/http/express]
+---
 
-[io/http/express]
+# DELETE handler
 
 Receives DELETE requests on the specified route and dispatches the corresponding response.
 

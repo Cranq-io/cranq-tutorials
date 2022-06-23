@@ -1,6 +1,8 @@
-# Current timestamp inserter
+---
+description: testing]
+---
 
-[testing]
+# Current timestamp inserter
 
 Inserts current timestamp into an assertion record. 
 

@@ -1,6 +1,8 @@
-# Daily rates getter
+---
+description: apis/fx/yahoo finance]
+---
 
-[apis/fx/yahoo finance]
+# Daily rates getter
 
 ### Input ports:
 

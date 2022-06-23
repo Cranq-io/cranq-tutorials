@@ -1,6 +1,8 @@
-# Template filler
+---
+description: string]
+---
 
-[string]
+# Template filler
 
 Substitutes parameters into a template.
 

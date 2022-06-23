@@ -1,6 +1,8 @@
-# Mapper (emps to dept) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Mapper (emps to dept) example
 
 Example node that demonstrates the usage of the data/array/Mapper node.
 

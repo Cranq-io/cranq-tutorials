@@ -1,6 +1,8 @@
-# Step iterator (manual tags)
+---
+description: data/array]
+---
 
-[data/array]
+# Step iterator (manual tags)
 
 Iterates over the items of an array asynchronously.
 

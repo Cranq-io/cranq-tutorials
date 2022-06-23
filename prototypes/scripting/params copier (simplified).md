@@ -1,6 +1,8 @@
-# Params copier (simplified)
+---
+description: scripting]
+---
 
-[scripting]
+# Params copier (simplified)
 
 ### Input ports:
 

@@ -1,6 +1,8 @@
-# Handlebar style template filler
+---
+description: string]
+---
 
-[string]
+# Handlebar style template filler
 
 Substitutes parameters into a template. Parameters are marked by Handlebars style tokens.
 

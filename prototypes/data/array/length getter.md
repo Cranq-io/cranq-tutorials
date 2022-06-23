@@ -1,6 +1,8 @@
-# Length getter
+---
+description: data/array]
+---
 
-[data/array]
+# Length getter
 
 Determines the length of the input array.
 

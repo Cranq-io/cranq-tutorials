@@ -1,6 +1,8 @@
-# Equality tester
+---
+description: boolean]
+---
 
-[boolean]
+# Equality tester
 
 Checks if boolean `a` is equal to boolean `b`.
 

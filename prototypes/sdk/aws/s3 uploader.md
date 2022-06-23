@@ -1,6 +1,8 @@
-# S3 uploader
+---
+description: sdk/AWS]
+---
 
-[sdk/AWS]
+# S3 uploader
 
 ### Input ports:
 

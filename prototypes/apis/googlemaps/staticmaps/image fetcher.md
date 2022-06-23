@@ -1,6 +1,8 @@
-# Image fetcher
+---
+description: apis/googlemaps/staticmaps]
+---
 
-[apis/googlemaps/staticmaps]
+# Image fetcher
 
 Fetches image of a specified area on a global map.
 

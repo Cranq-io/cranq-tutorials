@@ -1,6 +1,8 @@
-# Iterator example
+---
+description: tutorials/data/array]
+---
 
-[tutorials/data/array]
+# Iterator example
 
 Example node, that demonstrates the basic usage of the data/array/Iterator node over an array
 

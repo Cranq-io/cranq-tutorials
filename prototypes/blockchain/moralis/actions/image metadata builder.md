@@ -1,6 +1,8 @@
-# Image metadata builder
+---
+description: blockchain/moralis/actions]
+---
 
-[blockchain/moralis/actions]
+# Image metadata builder
 
 ### Input ports:
 

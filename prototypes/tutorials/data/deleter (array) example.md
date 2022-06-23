@@ -1,6 +1,8 @@
-# Deleter (array) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Deleter (array) example
 
 Example node, that demonstrates the basic usage of array deleters
 

@@ -1,6 +1,8 @@
-# Equality tester
+---
+description: number]
+---
 
-[number]
+# Equality tester
 
 Checks the received numbers for equality.
 

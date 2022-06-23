@@ -1,6 +1,8 @@
-# Power
+---
+description: number]
+---
 
-[number]
+# Power
 
 Performs a power arithmetical operation on the inputs. Sends base ^ exponent.
 

@@ -1,6 +1,8 @@
-# Directory lister (paths)
+---
+description: io/file]
+---
 
-[io/file]
+# Directory lister (paths)
 
 Non-recursively lists the paths of files & directories under the specified path.
 

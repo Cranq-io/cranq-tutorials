@@ -1,6 +1,8 @@
-# NFT details getter
+---
+description: blockchain/nftport/api v0]
+---
 
-[blockchain/nftport/api v0]
+# NFT details getter
 
 ### Input ports:
 

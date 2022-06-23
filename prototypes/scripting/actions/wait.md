@@ -1,6 +1,8 @@
-# Wait
+---
+description: scripting/actions]
+---
 
-[scripting/actions]
+# Wait
 
 ### Input ports:
 

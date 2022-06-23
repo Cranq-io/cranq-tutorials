@@ -1,6 +1,8 @@
-# Spreadsheet creator
+---
+description: sdk/google/spreadsheet]
+---
 
-[sdk/google/spreadsheet]
+# Spreadsheet creator
 
 Creates google spreadsheet on the given drive/folder.
 

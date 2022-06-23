@@ -1,6 +1,8 @@
-# Folder uploader
+---
+description: blockchain/moralis]
+---
 
-[blockchain/moralis]
+# Folder uploader
 
 Posts upload file data to  https://deep-index.moralis.io/api/v2/ipfs/uploadFolder endpoint
 

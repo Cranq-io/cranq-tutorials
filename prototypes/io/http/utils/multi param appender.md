@@ -1,6 +1,8 @@
-# Multi param appender
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Multi param appender
 
 Appends a query parameter with multiple values received via `key` and `values` to the array of single query params received via `params` (input), and sends the result via `params` (output).
 

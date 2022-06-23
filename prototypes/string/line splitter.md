@@ -1,6 +1,8 @@
-# Line splitter
+---
+description: string]
+---
 
-[string]
+# Line splitter
 
 Splits a string by lines.
 

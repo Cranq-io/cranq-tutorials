@@ -1,6 +1,8 @@
-# Basic server
+---
+description: examples/io/http/express]
+---
 
-[examples/io/http/express]
+# Basic server
 
 This example exposes a /status endpoint on port 3000 which accepts GET, POST, PUT, PATCH, and DELETE.
 

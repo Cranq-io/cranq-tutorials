@@ -1,6 +1,8 @@
-# Yahoo Finance
+---
+description: apis/fx]
+---
 
-[apis/fx]
+# Yahoo Finance
 
 ### Input ports:
 

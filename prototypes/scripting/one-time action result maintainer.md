@@ -1,6 +1,8 @@
-# One-time action result maintainer
+---
+description: scripting]
+---
 
-[scripting]
+# One-time action result maintainer
 
 ### Input ports:
 

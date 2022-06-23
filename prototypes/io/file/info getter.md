@@ -1,6 +1,8 @@
-# Info getter
+---
+description: io/file]
+---
 
-[io/file]
+# Info getter
 
 Reads common file system information of the file or directory, specified by `path`.
 

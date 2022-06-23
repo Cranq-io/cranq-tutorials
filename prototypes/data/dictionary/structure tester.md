@@ -1,6 +1,8 @@
-# Structure tester
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Structure tester
 
 Tests whether a dictionary  has the same structure as another one. Values are ignored.
 

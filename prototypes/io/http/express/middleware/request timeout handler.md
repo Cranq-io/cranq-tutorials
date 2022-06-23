@@ -1,6 +1,8 @@
-# Request timeout handler
+---
+description: io/http/express/middleware]
+---
 
-[io/http/express/middleware]
+# Request timeout handler
 
 Times out a request. If the request reaches the timeout it sends an Request Timeout status as response. 
 

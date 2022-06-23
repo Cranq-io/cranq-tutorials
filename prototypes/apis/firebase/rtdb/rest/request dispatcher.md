@@ -1,6 +1,8 @@
-# Request dispatcher
+---
+description: apis/firebase/rtdb/rest]
+---
 
-[apis/firebase/rtdb/rest]
+# Request dispatcher
 
 Dispatches an HTTP request for running a query in a Firebase Realtime Database via its REST API.
 

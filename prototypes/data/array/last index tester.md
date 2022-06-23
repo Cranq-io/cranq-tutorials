@@ -1,6 +1,8 @@
-# Last index tester
+---
+description: data/array]
+---
 
-[data/array]
+# Last index tester
 
 ### Input ports:
 

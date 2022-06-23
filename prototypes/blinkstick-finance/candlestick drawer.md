@@ -1,6 +1,8 @@
-# Candlestick drawer
+---
+description: blinkstick-finance]
+---
 
-[blinkstick-finance]
+# Candlestick drawer
 
 ### Input ports:
 

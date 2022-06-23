@@ -1,6 +1,8 @@
-# Runner
+---
+description: db/sqlite3]
+---
 
-[db/sqlite3]
+# Runner
 
 Runs a single SQL statement on the specified SQLite database, with the specified parameters.
 

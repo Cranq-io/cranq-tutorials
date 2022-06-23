@@ -1,6 +1,8 @@
-# Text reader
+---
+description: io/file]
+---
 
-[io/file]
+# Text reader
 
 Reads a text file from the specified path and outputs its content.
 

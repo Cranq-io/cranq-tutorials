@@ -1,6 +1,8 @@
-# Divider
+---
+description: number]
+---
 
-[number]
+# Divider
 
 Divides the received inputs. Bounces synced operands on division by zero.
 

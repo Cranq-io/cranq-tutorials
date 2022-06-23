@@ -1,6 +1,8 @@
-# Express endpoint creator (simplified)
+---
+description: scripting/actions]
+---
 
-[scripting/actions]
+# Express endpoint creator (simplified)
 
 Sets up a route for Express to receive requests on. Routes are expected to follow a format as per Express documentation.
 

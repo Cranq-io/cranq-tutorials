@@ -1,6 +1,8 @@
-# Inner joiner
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Inner joiner
 
 Joins dictionary 'b' to dictionary `a`, by matching the values of `a` to the keys of `b`.
 

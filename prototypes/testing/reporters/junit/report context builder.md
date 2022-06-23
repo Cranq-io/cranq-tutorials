@@ -1,6 +1,8 @@
-# Report context builder
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Report context builder
 
 ### Input ports:
 

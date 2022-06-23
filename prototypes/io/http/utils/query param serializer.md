@@ -1,6 +1,8 @@
-# Query param serializer
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Query param serializer
 
 Serializes the single query received via `param` as a key-value pair.
 

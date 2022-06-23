@@ -1,6 +1,8 @@
-# JSON listener
+---
+description: io/http/express]
+---
 
-[io/http/express]
+# JSON listener
 
 Starts an express server set up for handling requests and also responding with JSON bodies.
 

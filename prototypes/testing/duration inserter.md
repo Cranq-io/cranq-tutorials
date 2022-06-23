@@ -1,6 +1,8 @@
-# Duration inserter
+---
+description: testing]
+---
 
-[testing]
+# Duration inserter
 
 Inserts test duration into a list of durations on an assertion record.
 

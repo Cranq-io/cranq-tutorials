@@ -1,6 +1,8 @@
-# Environment variables getter with fallback
+---
+description: system]
+---
 
-[system]
+# Environment variables getter with fallback
 
 Gets a list variable from either the system environment by name or the provided fallback default values. Sends a dictionary with a dictionary of names that have been resolved either way.
 

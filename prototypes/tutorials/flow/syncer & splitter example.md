@@ -1,6 +1,8 @@
-# Syncer & splitter example
+---
+description: tutorials/flow]
+---
 
-[tutorials/flow]
+# Syncer & splitter example
 
 Example node, that demonstrates the basic usage of the flow/Syncer & flow/Splitter nodes
 

@@ -1,6 +1,8 @@
-# Closer
+---
+description: db/sqlite3]
+---
 
-[db/sqlite3]
+# Closer
 
 Closes the specified SQLite database.
 

@@ -1,6 +1,8 @@
-# Condition example
+---
+description: tutorials/boolean]
+---
 
-[tutorials/boolean]
+# Condition example
 
 Example node, that demonstrates the basic usage of the flow/Condition node
 

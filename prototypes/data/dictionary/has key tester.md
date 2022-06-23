@@ -1,6 +1,8 @@
-# Has key tester
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Has key tester
 
 Tests whether a dictionary has a specific key.
 

@@ -1,6 +1,8 @@
-# Binary reader
+---
+description: io/file]
+---
 
-[io/file]
+# Binary reader
 
 Reads binary files Base64 encoded.
 

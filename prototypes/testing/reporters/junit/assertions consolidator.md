@@ -1,6 +1,8 @@
-# Assertions consolidator
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Assertions consolidator
 
 ### Input ports:
 

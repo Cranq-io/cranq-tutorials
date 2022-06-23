@@ -1,6 +1,8 @@
-# Item getter with default
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Item getter with default
 
 Retrieves an item's value by its key from a dictionary.
 If the item is not found, the specified default value is sent.

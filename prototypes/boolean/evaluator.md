@@ -1,6 +1,8 @@
-# Evaluator
+---
+description: boolean]
+---
 
-[boolean]
+# Evaluator
 
 Determines whether the input is truthy or falsy.
 

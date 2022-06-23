@@ -1,6 +1,8 @@
-# Bearer token inserter
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Bearer token inserter
 
 Inserts bearer token into a HTTP request header.
 

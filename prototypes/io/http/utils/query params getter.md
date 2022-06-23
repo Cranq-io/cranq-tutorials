@@ -1,6 +1,8 @@
-# Query params getter
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Query params getter
 
 Retrieves the 'query' component of an HTTP request.
 

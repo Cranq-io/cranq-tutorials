@@ -1,6 +1,8 @@
-# Serializer example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Serializer example
 
 Example node, that demonstrates the basic usage of the json/Serializer node.
 

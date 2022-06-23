@@ -1,6 +1,8 @@
-# Key-value pairs getter
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Key-value pairs getter
 
 Gets the key-value pairs from the dictionary as an array.
 

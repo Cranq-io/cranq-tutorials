@@ -1,6 +1,8 @@
-# Contract folder structure creator
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Contract folder structure creator
 
 ### Input ports:
 

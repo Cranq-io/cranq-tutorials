@@ -1,6 +1,8 @@
-# Sameness tester
+---
+description: data]
+---
 
-[data]
+# Sameness tester
 
 ### Input ports:
 

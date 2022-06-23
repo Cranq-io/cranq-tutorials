@@ -1,6 +1,8 @@
-# Unsuccessfull http response logger
+---
+description: debug]
+---
 
-[debug]
+# Unsuccessfull http response logger
 
 Logs received 4xx and 5xx responses with a custom message.
 

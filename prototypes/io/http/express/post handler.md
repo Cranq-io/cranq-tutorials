@@ -1,6 +1,8 @@
-# POST handler
+---
+description: io/http/express]
+---
 
-[io/http/express]
+# POST handler
 
 Receives POST requests on the specified route and dispatches the corresponding response.
 

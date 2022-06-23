@@ -1,6 +1,8 @@
-# Trimmer
+---
+description: string]
+---
 
-[string]
+# Trimmer
 
 Removes whitespace from both ends of  `string` input.
 

@@ -1,6 +1,8 @@
-# Time-based moving buffer
+---
+description: streaming]
+---
 
-[streaming]
+# Time-based moving buffer
 
 Stores the "value" property of samples received in the last `length` seconds and sends them via `buffer`.
 

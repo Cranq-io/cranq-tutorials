@@ -1,6 +1,8 @@
-# JSON response error detector
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# JSON response error detector
 
 Wraps failed HTTP response into an error, including a message.
 

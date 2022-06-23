@@ -1,6 +1,8 @@
-# Builder (key-value pairs)
+---
+description: data/invertible dictionary]
+---
 
-[data/invertible dictionary]
+# Builder (key-value pairs)
 
 ### Input ports:
 

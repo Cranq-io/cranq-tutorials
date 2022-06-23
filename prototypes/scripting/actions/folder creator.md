@@ -1,6 +1,8 @@
-# Folder creator
+---
+description: scripting/actions]
+---
 
-[scripting/actions]
+# Folder creator
 
 ### Input ports:
 

@@ -1,6 +1,8 @@
-# Values tester
+---
+description: data/tree]
+---
 
-[data/tree]
+# Values tester
 
 Tests for deep equality for `tree` and `reference`.
 

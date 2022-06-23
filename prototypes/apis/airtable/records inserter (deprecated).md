@@ -1,6 +1,8 @@
-# Records inserter (deprecated)
+---
+description: apis/airtable]
+---
 
-[apis/airtable]
+# Records inserter (deprecated)
 
 Inserts a list of records into the specified AirTable table.
 If the table already contains data, the records are appended.

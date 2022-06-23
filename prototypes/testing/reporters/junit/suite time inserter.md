@@ -1,6 +1,8 @@
-# Suite time inserter
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Suite time inserter
 
 ### Input ports:
 

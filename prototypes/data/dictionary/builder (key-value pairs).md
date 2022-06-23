@@ -1,6 +1,8 @@
-# Builder (key-value pairs)
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Builder (key-value pairs)
 
 Builds a dictionary based on an array of objects with key & value properties.
 

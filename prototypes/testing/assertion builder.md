@@ -1,6 +1,8 @@
-# Assertion builder
+---
+description: testing]
+---
 
-[testing]
+# Assertion builder
 
 Builds an assertion record.
 

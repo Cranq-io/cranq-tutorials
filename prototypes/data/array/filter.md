@@ -1,6 +1,8 @@
-# Filter
+---
+description: data/array]
+---
 
-[data/array]
+# Filter
 
 Filters array. External node(s) receive each item and decide whether to include them in the result.
 

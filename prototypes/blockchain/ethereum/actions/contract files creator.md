@@ -1,6 +1,8 @@
-# Contract files creator
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Contract files creator
 
 ### Input ports:
 

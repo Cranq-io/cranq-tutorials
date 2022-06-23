@@ -1,6 +1,8 @@
-# Flattener
+---
+description: data/array]
+---
 
-[data/array]
+# Flattener
 
 Flattens a 2D array into a  1 D array with.
 

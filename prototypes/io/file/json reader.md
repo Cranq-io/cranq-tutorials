@@ -1,6 +1,8 @@
-# JSON reader
+---
+description: io/file]
+---
 
-[io/file]
+# JSON reader
 
 Reads a JSON file from the specified path and outputs its content.
 

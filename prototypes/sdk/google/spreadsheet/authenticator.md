@@ -1,6 +1,8 @@
-# Authenticator
+---
+description: sdk/google/spreadsheet]
+---
 
-[sdk/google/spreadsheet]
+# Authenticator
 
 Authenticates the service user to use google spreadsheet drive.
 

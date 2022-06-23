@@ -1,6 +1,8 @@
-# Global regex matcher
+---
+description: string]
+---
 
-[string]
+# Global regex matcher
 
 Executes a global regex pattern match.
 

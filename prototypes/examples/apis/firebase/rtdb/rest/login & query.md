@@ -1,6 +1,8 @@
-# Login & query
+---
+description: examples/apis/firebase/rtdb/rest]
+---
 
-[examples/apis/firebase/rtdb/rest]
+# Login & query
 
 Demonstrates basic authentication and querying in a Firebase Realtime Database. Requires an API key and a database URL. (Obtained from the Firebase console's "Project Overview" and "Realtime Database" tabs.)
 

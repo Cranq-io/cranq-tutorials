@@ -1,6 +1,8 @@
-# Splitter
+---
+description: string]
+---
 
-[string]
+# Splitter
 
 Splits the  value received on `string` by the value received on `separator`.
 

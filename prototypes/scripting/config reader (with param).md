@@ -1,6 +1,8 @@
-# Config reader (with param)
+---
+description: scripting]
+---
 
-[scripting]
+# Config reader (with param)
 
 ### Input ports:
 

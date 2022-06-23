@@ -1,6 +1,8 @@
-# Queued forwarder
+---
+description: flow]
+---
 
-[flow]
+# Queued forwarder
 
 Forwards data received via `data` in the order defined by the tags of the signals received via `reference`.
 

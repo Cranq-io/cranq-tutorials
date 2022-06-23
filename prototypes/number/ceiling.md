@@ -1,6 +1,8 @@
-# Ceiling
+---
+description: number]
+---
 
-[number]
+# Ceiling
 
 Returns the number rounded up to the nearest integer.
 

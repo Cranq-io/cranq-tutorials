@@ -1,6 +1,8 @@
-# Forked aggregator (async)
+---
+description: flow]
+---
 
-[flow]
+# Forked aggregator (async)
 
 Aggregates data received via `data` into two output arrays, depending on whether a corresponding arbitrary input is received via `true` or `false`.
 

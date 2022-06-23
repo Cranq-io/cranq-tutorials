@@ -1,6 +1,8 @@
-# Response splitter
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Response splitter
 
 Splits a canonical HTTP response into its components: HTTP status, headers, and body.
 

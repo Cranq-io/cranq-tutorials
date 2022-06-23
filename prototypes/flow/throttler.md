@@ -1,6 +1,8 @@
-# Throttler
+---
+description: flow]
+---
 
-[flow]
+# Throttler
 
 Throttles the received signal, forwarding only `count` number of signals in `delay` milliseconds.
 

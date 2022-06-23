@@ -1,6 +1,8 @@
-# Single NFT contract
+---
+description: blockchain/ethereum]
+---
 
-[blockchain/ethereum]
+# Single NFT contract
 
 ### Input ports:
 

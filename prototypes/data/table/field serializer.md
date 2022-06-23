@@ -1,6 +1,8 @@
-# Field serializer
+---
+description: data/table]
+---
 
-[data/table]
+# Field serializer
 
 Serializes field values in the table received via `table`.
 

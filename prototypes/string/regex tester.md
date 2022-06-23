@@ -1,6 +1,8 @@
-# Regex tester
+---
+description: string]
+---
 
-[string]
+# Regex tester
 
 Tests whether the input string matches a regular expression.
 

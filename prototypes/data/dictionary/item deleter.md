@@ -1,6 +1,8 @@
-# Item deleter
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Item deleter
 
 Deletes an item from a dictionary by its key. 
 If the item is not found, the original dictionary is forwarded.

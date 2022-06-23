@@ -1,6 +1,8 @@
-# Smart contract deployer (simplified)
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Smart contract deployer (simplified)
 
 Creates and deploys an Ethereum smart contract based on the parameters.
 Using Alchemy to interact with the Ethereum network.

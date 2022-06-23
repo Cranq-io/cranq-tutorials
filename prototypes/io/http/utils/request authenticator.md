@@ -1,6 +1,8 @@
-# Request authenticator
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Request authenticator
 
 Authenticates request using the provided authentication method.
 

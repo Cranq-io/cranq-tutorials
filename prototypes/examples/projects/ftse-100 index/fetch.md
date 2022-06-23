@@ -1,6 +1,8 @@
-# Fetch
+---
+description: examples/projects/FTSE-100 Index]
+---
 
-[examples/projects/FTSE-100 Index]
+# Fetch
 
 ### Input ports:
 

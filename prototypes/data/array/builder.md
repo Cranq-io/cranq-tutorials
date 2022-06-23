@@ -1,6 +1,8 @@
-# Builder
+---
+description: data/array]
+---
 
-[data/array]
+# Builder
 
 Builds an array of identical items.
 

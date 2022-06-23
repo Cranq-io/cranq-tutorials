@@ -1,6 +1,8 @@
-# Deploy script runner
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Deploy script runner
 
 ### Input ports:
 

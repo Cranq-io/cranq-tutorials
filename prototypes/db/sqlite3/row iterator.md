@@ -1,6 +1,8 @@
-# Row iterator
+---
+description: db/sqlite3]
+---
 
-[db/sqlite3]
+# Row iterator
 
 Retrieves multiple rows one by one from the specified database.
 

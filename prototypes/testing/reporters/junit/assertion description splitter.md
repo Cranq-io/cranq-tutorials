@@ -1,6 +1,8 @@
-# Assertion description splitter
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Assertion description splitter
 
 ### Input ports:
 

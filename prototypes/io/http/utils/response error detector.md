@@ -1,6 +1,8 @@
-# Response error detector
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Response error detector
 
 Wraps failed HTTP response into an error, including a message.
 

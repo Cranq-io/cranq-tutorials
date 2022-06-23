@@ -1,6 +1,8 @@
-# Test case name inserter
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Test case name inserter
 
 ### Input ports:
 

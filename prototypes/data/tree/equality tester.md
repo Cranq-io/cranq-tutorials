@@ -1,6 +1,8 @@
-# Equality tester
+---
+description: data/tree]
+---
 
-[data/tree]
+# Equality tester
 
 Tests whether the tree equals the reference (same structure and same values).
 

@@ -1,6 +1,8 @@
-# Has path tester
+---
+description: data/tree]
+---
 
-[data/tree]
+# Has path tester
 
 Tests whether a path is found in the specified tree data structure.
 

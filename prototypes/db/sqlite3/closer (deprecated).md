@@ -1,6 +1,8 @@
-# Closer (deprecated)
+---
+description: db/sqlite3]
+---
 
-[db/sqlite3]
+# Closer (deprecated)
 
 Closes the specified SQLite database.
 

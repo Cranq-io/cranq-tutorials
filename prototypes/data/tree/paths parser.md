@@ -1,6 +1,8 @@
-# Paths parser
+---
+description: data/tree]
+---
 
-[data/tree]
+# Paths parser
 
 ### Input ports:
 

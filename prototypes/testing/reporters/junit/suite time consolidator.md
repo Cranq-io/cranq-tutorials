@@ -1,6 +1,8 @@
-# Suite time consolidator
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Suite time consolidator
 
 ### Input ports:
 

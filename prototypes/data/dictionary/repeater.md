@@ -1,6 +1,8 @@
-# Repeater
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Repeater
 
 ### Input ports:
 

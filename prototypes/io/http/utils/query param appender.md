@@ -1,6 +1,8 @@
-# Query param appender
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Query param appender
 
 Appends a single or array query param received via `param` to the received list of single query `params` in a key-value pair format.
 

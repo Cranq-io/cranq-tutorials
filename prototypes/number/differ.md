@@ -1,6 +1,8 @@
-# Differ
+---
+description: number]
+---
 
-[number]
+# Differ
 
 Sends the difference of the last two numbers received. The (n-1)th number will be subtracted from the nth number.
 

@@ -1,6 +1,8 @@
-# Yahoo Finance historical adjusted closed price & timestamp getter
+---
+description: apis/fx]
+---
 
-[apis/fx]
+# Yahoo Finance historical adjusted closed price & timestamp getter
 
 ### Input ports:
 

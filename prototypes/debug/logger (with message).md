@@ -1,6 +1,8 @@
-# Logger (with message)
+---
+description: debug]
+---
 
-[debug]
+# Logger (with message)
 
 ### Input ports:
 

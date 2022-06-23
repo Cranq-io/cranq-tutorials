@@ -1,6 +1,8 @@
-# Iterator
+---
+description: data/array]
+---
 
-[data/array]
+# Iterator
 
 Iterates through items of an array.
 

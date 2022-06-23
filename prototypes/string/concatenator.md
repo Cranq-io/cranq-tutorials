@@ -1,6 +1,8 @@
-# Concatenator
+---
+description: string]
+---
 
-[string]
+# Concatenator
 
 Concatenates two strings together.
 

@@ -1,6 +1,8 @@
-# Authenticator
+---
+description: sdk/google/drive]
+---
 
-[sdk/google/drive]
+# Authenticator
 
 Authenticates the service user to use google drive.
 

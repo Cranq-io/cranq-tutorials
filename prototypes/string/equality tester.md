@@ -1,6 +1,8 @@
-# Equality tester
+---
+description: string]
+---
 
-[string]
+# Equality tester
 
 Checks if the string received on `a` is equal to string received via `b`.
 

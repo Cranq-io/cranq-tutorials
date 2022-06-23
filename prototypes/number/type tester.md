@@ -1,6 +1,8 @@
-# Type tester
+---
+description: number]
+---
 
-[number]
+# Type tester
 
 Tells whether the received value on `data` is a number.
 

@@ -1,6 +1,8 @@
-# File appender
+---
+description: scripting/actions]
+---
 
-[scripting/actions]
+# File appender
 
 ### Input ports:
 

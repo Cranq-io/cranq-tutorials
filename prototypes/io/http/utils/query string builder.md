@@ -1,6 +1,8 @@
-# Query string builder
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Query string builder
 
 Builds a query string by serializing the received dictionary as query params.
 

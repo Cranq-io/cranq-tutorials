@@ -1,6 +1,8 @@
-# Setter (dictionary) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Setter (dictionary) example
 
 Example node, that demonstrates the basic usage of the dictionary setters
 

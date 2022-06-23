@@ -1,6 +1,8 @@
-# Request dispatcher (deprecated)
+---
+description: io/http]
+---
 
-[io/http]
+# Request dispatcher (deprecated)
 
 Use `io/http/Request dispatcher` instead.
 

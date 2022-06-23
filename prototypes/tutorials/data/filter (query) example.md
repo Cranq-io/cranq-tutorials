@@ -1,6 +1,8 @@
-# Filter (query) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Filter (query) example
 
 Example node, that demonstrates the usage of the data/array/Filter node.
 

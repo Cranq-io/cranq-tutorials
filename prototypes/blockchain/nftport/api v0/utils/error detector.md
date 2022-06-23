@@ -1,6 +1,8 @@
-# Error detector
+---
+description: blockchain/nftport/api v0/utils]
+---
 
-[blockchain/nftport/api v0/utils]
+# Error detector
 
 Detects errors in the JSON response of NFTPort API endpoints.
 

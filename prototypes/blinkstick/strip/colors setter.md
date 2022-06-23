@@ -1,6 +1,8 @@
-# Colors setter
+---
+description: blinkstick/strip]
+---
 
-[blinkstick/strip]
+# Colors setter
 
 ### Input ports:
 

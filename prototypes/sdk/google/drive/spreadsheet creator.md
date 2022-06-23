@@ -1,6 +1,8 @@
-# Spreadsheet creator
+---
+description: sdk/google/drive]
+---
 
-[sdk/google/drive]
+# Spreadsheet creator
 
 Creates new spreadsheet on the given shared folder.
 

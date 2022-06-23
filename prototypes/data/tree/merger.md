@@ -1,6 +1,8 @@
-# Merger
+---
+description: data/tree]
+---
 
-[data/tree]
+# Merger
 
 Merges two tree data structures. On conflict, the relevant paths / values of `b` take precedence.
 

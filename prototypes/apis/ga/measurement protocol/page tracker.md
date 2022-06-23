@@ -1,6 +1,8 @@
-# Page tracker
+---
+description: apis/ga/measurement protocol]
+---
 
-[apis/ga/measurement protocol]
+# Page tracker
 
 Tracks page views via Google Analytics Measurement Protocol.
 https://developers.google.com/analytics/devguides/collection/protocol/v1/devguide

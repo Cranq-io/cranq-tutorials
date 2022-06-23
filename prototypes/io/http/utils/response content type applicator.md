@@ -1,6 +1,8 @@
-# Response content type applicator
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Response content type applicator
 
 Adds content type header to the received response.
 

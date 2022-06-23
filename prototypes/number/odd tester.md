@@ -1,6 +1,8 @@
-# Odd tester
+---
+description: number]
+---
 
-[number]
+# Odd tester
 
 Tells whether a number is odd.
 

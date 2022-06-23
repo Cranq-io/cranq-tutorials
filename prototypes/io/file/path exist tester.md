@@ -1,6 +1,8 @@
-# Path exist tester
+---
+description: io/file]
+---
 
-[io/file]
+# Path exist tester
 
 Tests whether the specified path exists in the filesystem.
 

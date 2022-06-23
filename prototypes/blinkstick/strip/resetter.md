@@ -1,6 +1,8 @@
-# Resetter
+---
+description: blinkstick/strip]
+---
 
-[blinkstick/strip]
+# Resetter
 
 ### Input ports:
 

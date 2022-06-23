@@ -1,6 +1,8 @@
-# Mapper (query) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Mapper (query) example
 
 Example wrapper node that demonstrates the usage of the data/array/Mapper node.
 

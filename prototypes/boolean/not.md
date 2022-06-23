@@ -1,6 +1,8 @@
-# Not
+---
+description: boolean]
+---
 
-[boolean]
+# Not
 
 Performs a boolean NOT operation on the value received via input `a`.
 

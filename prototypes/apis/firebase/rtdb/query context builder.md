@@ -1,6 +1,8 @@
-# Query context builder
+---
+description: apis/firebase/rtdb]
+---
 
-[apis/firebase/rtdb]
+# Query context builder
 
 Builds a Firebase Realtime Database query context from a Firebase ID token and a database URL (found on the Firebase Realtime Database console) to be passed around among related data querying and manipulation nodes.
 

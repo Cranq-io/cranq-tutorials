@@ -1,6 +1,8 @@
-# Regex matcher
+---
+description: string]
+---
 
-[string]
+# Regex matcher
 
 Matches a string to a non-global regular expression, and returns substrings that match the regular expression's groups.
 

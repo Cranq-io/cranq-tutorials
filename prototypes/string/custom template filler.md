@@ -1,6 +1,8 @@
-# Custom template filler
+---
+description: string]
+---
 
-[string]
+# Custom template filler
 
 Substitutes parameters into a template. Parameter placeholder's (token) start/end can be customized.
 

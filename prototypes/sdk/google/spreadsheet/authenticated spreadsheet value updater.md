@@ -1,6 +1,8 @@
-# Authenticated spreadsheet value updater
+---
+description: sdk/google/spreadsheet]
+---
 
-[sdk/google/spreadsheet]
+# Authenticated spreadsheet value updater
 
 Authenticates the service user and  updates dedicated spreadsheet.
 

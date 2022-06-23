@@ -1,6 +1,8 @@
-# PUT handler
+---
+description: io/http/express]
+---
 
-[io/http/express]
+# PUT handler
 
 Receives PUT requests on the specified route and dispatches the corresponding response.
 

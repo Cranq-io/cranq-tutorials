@@ -1,6 +1,8 @@
-# Joiner
+---
+description: string]
+---
 
-[string]
+# Joiner
 
 Joins an ordered list of strings into a single string.
 

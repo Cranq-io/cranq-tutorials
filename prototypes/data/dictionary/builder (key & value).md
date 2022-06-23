@@ -1,6 +1,8 @@
-# Builder (key & value)
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Builder (key & value)
 
 Builds a dictionary based on an array of keys and a single value for all items.
 

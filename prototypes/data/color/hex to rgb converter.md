@@ -1,6 +1,8 @@
-# Hex to RGB converter
+---
+description: data/color]
+---
 
-[data/color]
+# Hex to RGB converter
 
 ### Input ports:
 

@@ -1,6 +1,8 @@
-# Candlestick generator
+---
+description: blinkstick-finance]
+---
 
-[blinkstick-finance]
+# Candlestick generator
 
 ### Input ports:
 

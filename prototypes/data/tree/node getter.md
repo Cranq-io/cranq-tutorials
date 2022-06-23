@@ -1,6 +1,8 @@
-# Node getter
+---
+description: data/tree]
+---
 
-[data/tree]
+# Node getter
 
 Retrieves the node at the specified path of the tree.
 

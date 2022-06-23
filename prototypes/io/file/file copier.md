@@ -1,6 +1,8 @@
-# File copier
+---
+description: io/file]
+---
 
-[io/file]
+# File copier
 
 Copies a file specified by the path in `source` to the path in `destination`.
 

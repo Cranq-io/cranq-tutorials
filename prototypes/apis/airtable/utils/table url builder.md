@@ -1,6 +1,8 @@
-# Table URL builder
+---
+description: apis/airtable/utils]
+---
 
-[apis/airtable/utils]
+# Table URL builder
 
 Builds a URL for an AirTable table.
 

@@ -1,6 +1,8 @@
-# Logger
+---
+description: debug]
+---
 
-[debug]
+# Logger
 
 Logs received data and tag to the output. Formats data as JSON.
 

@@ -1,6 +1,8 @@
-# JUnit reporter example
+---
+description: examples/api testing/junit reporter]
+---
 
-[examples/api testing/junit reporter]
+# JUnit reporter example
 
 ### Input ports:
 

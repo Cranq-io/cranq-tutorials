@@ -1,6 +1,8 @@
-# Keys getter
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Keys getter
 
 Gets all keys from the dictionary as an array.
 

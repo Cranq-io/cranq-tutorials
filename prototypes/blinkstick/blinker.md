@@ -1,6 +1,8 @@
-# Blinker
+---
+description: blinkstick]
+---
 
-[blinkstick]
+# Blinker
 
 ### Input ports:
 

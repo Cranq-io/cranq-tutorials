@@ -1,6 +1,8 @@
-# Historical rates getter
+---
+description: apis/fx/yahoo finance]
+---
 
-[apis/fx/yahoo finance]
+# Historical rates getter
 
 ### Input ports:
 

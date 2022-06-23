@@ -1,6 +1,8 @@
-# Lowercaser
+---
+description: string]
+---
 
-[string]
+# Lowercaser
 
 Converts `string`  to lower case.
 

@@ -1,6 +1,8 @@
-# Subtractor
+---
+description: number]
+---
 
-[number]
+# Subtractor
 
 Takes the difference of the value received on `a` and the value received on `b`.
 

@@ -1,6 +1,8 @@
-# Iterator
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Iterator
 
 Iterates through items of a dictionary.
 

@@ -1,6 +1,8 @@
-# Less or equal than tester
+---
+description: number]
+---
 
-[number]
+# Less or equal than tester
 
 Tests whether the value is less or equal than the reference.
 

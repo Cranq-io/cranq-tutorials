@@ -1,6 +1,8 @@
-# Switch
+---
+description: flow]
+---
 
-[flow]
+# Switch
 
 Routes data received via `data` to one of the outputs matching the value in `values`, or to `other` otherwise.
 

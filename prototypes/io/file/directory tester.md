@@ -1,6 +1,8 @@
-# Directory tester
+---
+description: io/file]
+---
 
-[io/file]
+# Directory tester
 
 Determines whether the specified path points to a directory.
 

@@ -1,6 +1,8 @@
-# Case time consolidator
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Case time consolidator
 
 ### Input ports:
 

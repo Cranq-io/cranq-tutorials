@@ -1,6 +1,8 @@
-# Record inserter
+---
+description: apis/airtable]
+---
 
-[apis/airtable]
+# Record inserter
 
 Inserts a single records into the specified AirTable table.
 The input received on parameter `record` must match the target table schema.

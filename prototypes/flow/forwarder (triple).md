@@ -1,6 +1,8 @@
-# Forwarder (triple)
+---
+description: flow]
+---
 
-[flow]
+# Forwarder (triple)
 
 Forwards all 3 received signals in the order of the names of the ports.
 

@@ -1,6 +1,8 @@
-# Polling example
+---
+description: tutorials/flow]
+---
 
-[tutorials/flow]
+# Polling example
 
 Example node, that demonstrates a basic polling scenario
 

@@ -1,6 +1,8 @@
-# Bulk image uploader
+---
+description: blockchain/moralis/actions]
+---
 
-[blockchain/moralis/actions]
+# Bulk image uploader
 
 Uploads multiple images and place them in a folder directory and stores the ipfs URLs in the state.
 

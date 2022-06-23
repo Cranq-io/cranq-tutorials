@@ -1,6 +1,8 @@
-# Error response generator
+---
+description: low-code/io/http]
+---
 
-[low-code/io/http]
+# Error response generator
 
 Generates a default error response based on the error received from an `io/http/express/Endpoint listener`.
 

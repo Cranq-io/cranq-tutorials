@@ -1,6 +1,8 @@
-# Content type middleware applicator
+---
+description: io/http/express/utils]
+---
 
-[io/http/express/utils]
+# Content type middleware applicator
 
 Tells the Express app identified by `app ID` to use a middleware that corresponds to the request's content type.
 

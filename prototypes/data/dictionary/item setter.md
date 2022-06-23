@@ -1,6 +1,8 @@
-# Item setter
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Item setter
 
 Sets an item's value by its key in a dictionary.
 If the item is not found, it will be created.

@@ -1,6 +1,8 @@
-# Middlewares applicator
+---
+description: io/http/express]
+---
 
-[io/http/express]
+# Middlewares applicator
 
 Applies multiple Express middlewares.
 

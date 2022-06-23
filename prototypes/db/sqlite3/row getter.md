@@ -1,6 +1,8 @@
-# Row getter
+---
+description: db/sqlite3]
+---
 
-[db/sqlite3]
+# Row getter
 
 Retrieves a single row from the specified database.
 

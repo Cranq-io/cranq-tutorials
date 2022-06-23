@@ -1,6 +1,8 @@
-# Failure message builder
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Failure message builder
 
 ### Input ports:
 

@@ -1,6 +1,8 @@
-# Item appender
+---
+description: data/array]
+---
 
-[data/array]
+# Item appender
 
 Appends item to the array.
 

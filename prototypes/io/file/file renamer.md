@@ -1,6 +1,8 @@
-# File renamer
+---
+description: io/file]
+---
 
-[io/file]
+# File renamer
 
 Renames a file specified by the path in `source path` to the new file name in `new name`.
 

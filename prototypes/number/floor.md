@@ -1,6 +1,8 @@
-# Floor
+---
+description: number]
+---
 
-[number]
+# Floor
 
 Returns the number rounded down to the nearest integer.
 

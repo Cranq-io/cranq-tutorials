@@ -1,6 +1,8 @@
-# Express route creator
+---
+description: scripting/actions]
+---
 
-[scripting/actions]
+# Express route creator
 
 Sets up an API endpoint using Express. An express server must be started in the script before the flow gets to this one.
 

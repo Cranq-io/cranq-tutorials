@@ -1,6 +1,8 @@
-# Minting files creator
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Minting files creator
 
 ### Input ports:
 

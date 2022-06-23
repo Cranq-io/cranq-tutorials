@@ -1,6 +1,8 @@
-# Spreadsheet
+---
+description: sdk/google]
+---
 
-[sdk/google]
+# Spreadsheet
 
 Works with google spreadsheet using the googleapis sdk.
 

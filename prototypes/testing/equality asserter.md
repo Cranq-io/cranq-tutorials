@@ -1,6 +1,8 @@
-# Equality asserter
+---
+description: testing]
+---
 
-[testing]
+# Equality asserter
 
 ### Input ports:
 

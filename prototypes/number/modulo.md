@@ -1,6 +1,8 @@
-# Modulo
+---
+description: number]
+---
 
-[number]
+# Modulo
 
 Takes modulo of 'a' and 'b'. Bounces synced operands on division by zero.
 

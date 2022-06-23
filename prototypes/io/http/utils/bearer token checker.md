@@ -1,6 +1,8 @@
-# Bearer token checker
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Bearer token checker
 
 Checks for the presence of the specified bearer token in the submitted request headers. Forwards request body only when found.
 

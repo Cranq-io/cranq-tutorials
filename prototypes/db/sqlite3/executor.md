@@ -1,6 +1,8 @@
-# Executor
+---
+description: db/sqlite3]
+---
 
-[db/sqlite3]
+# Executor
 
 Executes all queries in the received SQL script.
 

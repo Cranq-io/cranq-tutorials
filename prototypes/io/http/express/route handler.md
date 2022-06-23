@@ -1,6 +1,8 @@
-# Route handler
+---
+description: io/http/express]
+---
 
-[io/http/express]
+# Route handler
 
 Receives requests on the specified route and dispatches the corresponding response.
 You may also consider method specific route handlers for easier use.

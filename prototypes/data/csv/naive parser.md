@@ -1,6 +1,8 @@
-# Naive parser
+---
+description: data/csv]
+---
 
-[data/csv]
+# Naive parser
 
 Parses CSV naively. (Only commas, all values will be strings, quotes not recognized.)
 

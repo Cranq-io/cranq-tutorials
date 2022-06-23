@@ -1,6 +1,8 @@
-# URL-encoded request builder
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# URL-encoded request builder
 
 Builds a URL-encoded request record with data to be sent as the request's body.
 

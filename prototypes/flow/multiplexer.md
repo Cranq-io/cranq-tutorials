@@ -1,6 +1,8 @@
-# Multiplexer
+---
+description: flow]
+---
 
-[flow]
+# Multiplexer
 
 Forwards data received via dynamic inputs to `multiplexed`, wrapped in a record which carries both the data and the ID of the port (field) that it was received through.
 

@@ -1,6 +1,8 @@
-# Paths joiner
+---
+description: io/file]
+---
 
-[io/file]
+# Paths joiner
 
 Joins an array of path parts to a common base
 

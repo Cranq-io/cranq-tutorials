@@ -1,6 +1,8 @@
-# Action finished tester
+---
+description: scripting]
+---
 
-[scripting]
+# Action finished tester
 
 Tests whether there's a result recorded on the specified result path of the state.
 

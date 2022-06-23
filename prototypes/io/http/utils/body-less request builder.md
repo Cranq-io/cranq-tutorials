@@ -1,6 +1,8 @@
-# Body-less request builder
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Body-less request builder
 
 Builds a HTTP request that has no body.
 

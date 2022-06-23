@@ -1,6 +1,8 @@
-# Record deleter
+---
+description: apis/airtable]
+---
 
-[apis/airtable]
+# Record deleter
 
 Deletes a single record from an AirTable table.
 

@@ -1,6 +1,8 @@
-# HTML report generator (from xml)
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# HTML report generator (from xml)
 
 Generates a HTML report of the specified JUnit XML, and saves it to the specified path.
 

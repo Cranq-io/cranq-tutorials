@@ -1,6 +1,8 @@
-# Repeater
+---
+description: data/array]
+---
 
-[data/array]
+# Repeater
 
 Repeats the input data for each item in the array.
 

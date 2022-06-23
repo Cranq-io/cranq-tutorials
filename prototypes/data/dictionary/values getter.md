@@ -1,6 +1,8 @@
-# Values getter
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Values getter
 
 Gets all values from the dictionary as an array.
 

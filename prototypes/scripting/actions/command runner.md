@@ -1,6 +1,8 @@
-# Command runner
+---
+description: scripting/actions]
+---
 
-[scripting/actions]
+# Command runner
 
 Runs an OS command.
 

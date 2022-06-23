@@ -1,6 +1,8 @@
-# Open file in default app
+---
+description: os/shell]
+---
 
-[os/shell]
+# Open file in default app
 
 ### Input ports:
 

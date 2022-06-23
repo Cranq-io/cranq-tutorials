@@ -1,6 +1,8 @@
-# Tag extractor
+---
+description: flow]
+---
 
-[flow]
+# Tag extractor
 
 Maps the signal received via `data` to its tag.
 

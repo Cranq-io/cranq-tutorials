@@ -1,6 +1,8 @@
-# Matched command runner
+---
+description: system]
+---
 
-[system]
+# Matched command runner
 
 Runs the received command and matches standard output against the specified regular expression.
 

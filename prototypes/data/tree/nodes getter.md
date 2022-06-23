@@ -1,6 +1,8 @@
-# Nodes getter
+---
+description: data/tree]
+---
 
-[data/tree]
+# Nodes getter
 
 Retrieves multiple nodes from a tree.
 

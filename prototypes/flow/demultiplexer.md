@@ -1,6 +1,8 @@
-# Demultiplexer
+---
+description: flow]
+---
 
-[flow]
+# Demultiplexer
 
 Forwards the data property of the received multiplexed signal to the output port matching the corresponding port ID (field).
 

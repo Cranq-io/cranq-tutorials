@@ -1,6 +1,8 @@
-# Single param appender
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Single param appender
 
 Appends a single query parameter received via `key` and `value` to the array of single query params received via `params` (input), and sends the result via `params` (output).
 

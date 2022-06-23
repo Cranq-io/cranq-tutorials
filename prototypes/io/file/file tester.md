@@ -1,6 +1,8 @@
-# File tester
+---
+description: io/file]
+---
 
-[io/file]
+# File tester
 
 Determines whether the the specified path points to a file.
 

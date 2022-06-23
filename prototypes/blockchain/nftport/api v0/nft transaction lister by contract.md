@@ -1,6 +1,8 @@
-# NFT transaction lister by contract
+---
+description: blockchain/nftport/api v0]
+---
 
-[blockchain/nftport/api v0]
+# NFT transaction lister by contract
 
 Retrieves a list of transfers matching the specified contract address and token ID using the NFTPort API. Also returns the original API response for additional information.
 

@@ -1,6 +1,8 @@
-# Type tester
+---
+description: boolean]
+---
 
-[boolean]
+# Type tester
 
 Checks whether the `data` input is a boolean.
 

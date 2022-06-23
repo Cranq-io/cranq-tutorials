@@ -1,6 +1,8 @@
-# URL search params serializer
+---
+description: io/http]
+---
 
-[io/http]
+# URL search params serializer
 
 Serializes URL search parameters.
 

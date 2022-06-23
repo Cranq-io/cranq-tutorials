@@ -1,6 +1,8 @@
-# Fork
+---
+description: flow]
+---
 
-[flow]
+# Fork
 
 Forwards input data to one of two outputs, depending on the condition.
 

@@ -1,6 +1,8 @@
-# Yahoo index getter
+---
+description: apis/fx]
+---
 
-[apis/fx]
+# Yahoo index getter
 
 ### Input ports:
 

@@ -1,6 +1,8 @@
-# Iteration aggregator
+---
+description: data/array]
+---
 
-[data/array]
+# Iteration aggregator
 
 ### Input ports:
 

@@ -1,6 +1,8 @@
-# JSON request builder
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# JSON request builder
 
 Builds a JSON request record with data to be sent as the request's body.
 

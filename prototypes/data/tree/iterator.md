@@ -1,6 +1,8 @@
-# Iterator
+---
+description: data/tree]
+---
 
-[data/tree]
+# Iterator
 
 Iterates over nodes in a tree (deeply nested object) structure, as specified by the query.
 The `query` acts as a filter for the iteration. It could hold strings for object keys, numbers for array indices, or objects describing either catch-all or a set of keys to include.

@@ -1,6 +1,8 @@
-# Records to AirTable records converter
+---
+description: apis/airtable/utils]
+---
 
-[apis/airtable/utils]
+# Records to AirTable records converter
 
 Converts plain list of records (table) to a list of AirTable records.
 

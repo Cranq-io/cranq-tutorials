@@ -1,6 +1,8 @@
-# Or
+---
+description: boolean]
+---
 
-[boolean]
+# Or
 
 Performs a boolean OR operation on the received values via inputs `a` and `b`.
 

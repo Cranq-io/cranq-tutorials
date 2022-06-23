@@ -1,6 +1,8 @@
-# Node setter (mutable)
+---
+description: data/tree]
+---
 
-[data/tree]
+# Node setter (mutable)
 
 Sets a node at the specified path of the tree. Mutates input.
 

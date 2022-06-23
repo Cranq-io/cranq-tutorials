@@ -1,6 +1,8 @@
-# Forwarder (quadruple)
+---
+description: flow]
+---
 
-[flow]
+# Forwarder (quadruple)
 
 Forwards all 4 received signals in the order of the names of the ports.
 

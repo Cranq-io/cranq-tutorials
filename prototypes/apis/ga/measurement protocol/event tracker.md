@@ -1,6 +1,8 @@
-# Event tracker
+---
+description: apis/ga/measurement protocol]
+---
 
-[apis/ga/measurement protocol]
+# Event tracker
 
 Tracks events via Google Analytics Measurement Protocol.
 https://developers.google.com/analytics/devguides/collection/protocol/v1/devguide

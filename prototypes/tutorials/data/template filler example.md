@@ -1,6 +1,8 @@
-# Template filler example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Template filler example
 
 Example node, that demonstrates the usage of the string/Template filler node.
 

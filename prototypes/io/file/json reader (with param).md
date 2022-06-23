@@ -1,6 +1,8 @@
-# JSON reader (with param)
+---
+description: io/file]
+---
 
-[io/file]
+# JSON reader (with param)
 
 Reads a JSON file from the specified path and outputs its content.
 

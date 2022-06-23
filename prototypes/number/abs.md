@@ -1,6 +1,8 @@
-# Abs
+---
+description: number]
+---
 
-[number]
+# Abs
 
 Returns the absolute value of the input number.
 

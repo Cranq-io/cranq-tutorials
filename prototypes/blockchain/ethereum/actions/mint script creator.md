@@ -1,6 +1,8 @@
-# Mint script creator
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Mint script creator
 
 ### Input ports:
 

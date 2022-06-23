@@ -1,6 +1,8 @@
-# Line writer (conditional)
+---
+description: io/stdio]
+---
 
-[io/stdio]
+# Line writer (conditional)
 
 Writes a line to the standard output when the condition is true.
 

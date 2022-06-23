@@ -1,6 +1,8 @@
-# Contains tester
+---
+description: string]
+---
 
-[string]
+# Contains tester
 
 Tests whether the value received via `string` contains the value received via `substring`.
 

@@ -1,6 +1,8 @@
-# Splitter
+---
+description: data/array]
+---
 
-[data/array]
+# Splitter
 
 Create 2D array from 1D array.
 

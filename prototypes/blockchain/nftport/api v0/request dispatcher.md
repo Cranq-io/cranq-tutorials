@@ -1,6 +1,8 @@
-# Request dispatcher
+---
+description: blockchain/nftport/api v0]
+---
 
-[blockchain/nftport/api v0]
+# Request dispatcher
 
 Dispatches a POST request to one of the NFTPort API endpoints.
 

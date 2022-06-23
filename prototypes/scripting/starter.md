@@ -1,6 +1,8 @@
-# Starter
+---
+description: scripting]
+---
 
-[scripting]
+# Starter
 
 Starts a script, by reading the persisted state, or if there is none, initializes an blank state.
 

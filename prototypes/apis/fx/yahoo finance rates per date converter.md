@@ -1,6 +1,8 @@
-# Yahoo Finance rates per date converter
+---
+description: apis/fx]
+---
 
-[apis/fx]
+# Yahoo Finance rates per date converter
 
 ### Input ports:
 

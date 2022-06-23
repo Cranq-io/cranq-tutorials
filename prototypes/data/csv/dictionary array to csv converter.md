@@ -1,6 +1,8 @@
-# Dictionary array to csv converter
+---
+description: data/csv]
+---
 
-[data/csv]
+# Dictionary array to csv converter
 
 Formats a dictionary array as a csv string. Does not support multi-level dictionaries.
 

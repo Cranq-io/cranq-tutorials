@@ -1,6 +1,8 @@
-# Anonymous login
+---
+description: apis/firebase/auth/rest]
+---
 
-[apis/firebase/auth/rest]
+# Anonymous login
 
 Logs in a Firebase user anonymously.
 

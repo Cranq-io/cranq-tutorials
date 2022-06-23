@@ -1,6 +1,8 @@
-# Path serializer
+---
+description: data/tree]
+---
 
-[data/tree]
+# Path serializer
 
 Serializes tree path, producing a canonically formatted path string.
 Canonical tree paths are dot-separated, with dots inside components escaped with a backslash.

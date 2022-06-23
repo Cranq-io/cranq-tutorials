@@ -1,6 +1,8 @@
-# Multiplier
+---
+description: number]
+---
 
-[number]
+# Multiplier
 
 Multiplies two numbers together.
 

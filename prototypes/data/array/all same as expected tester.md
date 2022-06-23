@@ -1,6 +1,8 @@
-# All same as expected tester
+---
+description: data/array]
+---
 
-[data/array]
+# All same as expected tester
 
 Tests whether all elements of an array are the same as the expected value.
 

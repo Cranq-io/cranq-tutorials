@@ -1,6 +1,8 @@
-# Serializer
+---
+description: json]
+---
 
-[json]
+# Serializer
 
 ### Input ports:
 

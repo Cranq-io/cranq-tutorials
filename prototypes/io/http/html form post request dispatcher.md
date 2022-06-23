@@ -1,6 +1,8 @@
-# HTML Form POST request dispatcher
+---
+description: io/http]
+---
 
-[io/http]
+# HTML Form POST request dispatcher
 
 Dispatches HTML form POST request and outputs response or error.
 

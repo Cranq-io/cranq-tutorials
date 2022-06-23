@@ -1,6 +1,8 @@
-# Has keys tester
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Has keys tester
 
 Tests whether the key set of the dictionary contains the expected keys.
 

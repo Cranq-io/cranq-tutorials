@@ -1,6 +1,8 @@
-# Test cases consolidator
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Test cases consolidator
 
 ### Input ports:
 

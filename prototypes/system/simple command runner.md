@@ -1,6 +1,8 @@
-# Simple command runner
+---
+description: system]
+---
 
-[system]
+# Simple command runner
 
 ### Input ports:
 

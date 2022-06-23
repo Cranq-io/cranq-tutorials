@@ -1,6 +1,8 @@
-# Tag trimmer
+---
+description: flow]
+---
 
-[flow]
+# Tag trimmer
 
 Trims the last iterable (colon-separated) section of the tag on the signal received via `data`.
 

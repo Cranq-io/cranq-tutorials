@@ -1,6 +1,8 @@
-# Gate
+---
+description: flow]
+---
 
-[flow]
+# Gate
 
 Forwards signal received via `data` when corresponding signal received via `open` is true.
 

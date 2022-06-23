@@ -1,6 +1,8 @@
-# Pageview params builder
+---
+description: apis/ga/measurement protocol]
+---
 
-[apis/ga/measurement protocol]
+# Pageview params builder
 
 Builds raw "pageview" parameter set for Google Analytics Measurement Protocol request.
 

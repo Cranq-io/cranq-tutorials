@@ -1,6 +1,8 @@
-# Contains tester
+---
+description: data/array]
+---
 
-[data/array]
+# Contains tester
 
 Tests whether the array contains a given item
 

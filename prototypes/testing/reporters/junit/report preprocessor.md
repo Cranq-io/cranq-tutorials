@@ -1,6 +1,8 @@
-# Report preprocessor
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Report preprocessor
 
 ### Input ports:
 

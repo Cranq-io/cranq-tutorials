@@ -1,6 +1,8 @@
-# Size stringifier
+---
+description: apis/googlemaps/staticmap/utils]
+---
 
-[apis/googlemaps/staticmap/utils]
+# Size stringifier
 
 ### Input ports:
 

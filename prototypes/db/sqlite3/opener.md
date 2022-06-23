@@ -1,6 +1,8 @@
-# Opener
+---
+description: db/sqlite3]
+---
 
-[db/sqlite3]
+# Opener
 
 Opens the specified SQLite database.
 Mode is normally 6.

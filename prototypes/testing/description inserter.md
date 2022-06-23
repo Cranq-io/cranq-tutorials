@@ -1,6 +1,8 @@
-# Description inserter
+---
+description: testing]
+---
 
-[testing]
+# Description inserter
 
 Inserts description into list of descriptions on an assertion record.
 

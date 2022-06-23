@@ -1,6 +1,8 @@
-# NFT data getter
+---
+description: blockchain/moralis/api v2]
+---
 
-[blockchain/moralis/api v2]
+# NFT data getter
 
 Retrieves information of the NFT for the specified contract and token ID using the Moralis API. Also returns the original API response for additional information.
 

@@ -1,6 +1,8 @@
-# Output formatter
+---
+description: debug]
+---
 
-[debug]
+# Output formatter
 
 Formats output based on received data and a custom message.
 

@@ -1,6 +1,8 @@
-# w3w to canonic coordinates
+---
+description: apis/what3words/utils]
+---
 
-[apis/what3words/utils]
+# w3w to canonic coordinates
 
 ### Input ports:
 

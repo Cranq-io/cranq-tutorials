@@ -1,6 +1,8 @@
-# Sqlite3
+---
+description: db/sqlite3]
+---
 
-[db/sqlite3]
+# Sqlite3
 
 Generic SQLite 3 integration node.
 This is an internal node. Use specific SQLite nodes instead.

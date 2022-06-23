@@ -1,6 +1,8 @@
-# Reducer (sum of emp salary) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Reducer (sum of emp salary) example
 
 Example node, that demonstrates the usage of the data/array/Reducer node
 

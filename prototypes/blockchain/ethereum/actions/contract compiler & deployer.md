@@ -1,6 +1,8 @@
-# Contract compiler & deployer
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Contract compiler & deployer
 
 Compiles and deploys a smart contract
 

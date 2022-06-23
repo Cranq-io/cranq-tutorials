@@ -1,6 +1,8 @@
-# Has same length tester
+---
+description: data/array]
+---
 
-[data/array]
+# Has same length tester
 
 Tests whether two arrays have the same length
 

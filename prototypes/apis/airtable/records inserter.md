@@ -1,6 +1,8 @@
-# Records inserter
+---
+description: apis/airtable]
+---
 
-[apis/airtable]
+# Records inserter
 
 Inserts up to 10 records into the specified AirTable table.
 The input received on parameter `records` must match the target table schema.

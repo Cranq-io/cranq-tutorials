@@ -1,6 +1,8 @@
-# GET handler
+---
+description: io/http/express]
+---
 
-[io/http/express]
+# GET handler
 
 Receives GET requests on the specified route and dispatches the corresponding response.
 

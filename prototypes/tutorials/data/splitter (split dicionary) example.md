@@ -1,6 +1,8 @@
-# Splitter (split dicionary) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Splitter (split dicionary) example
 
 Example node, that demonstrates the usage of the flow/Splitter for splitting dictionaries by keys.
 

@@ -1,6 +1,8 @@
-# Path joiner
+---
+description: io/file]
+---
 
-[io/file]
+# Path joiner
 
 Joins the specified relative path to a base path in an operating system-specific manner.
 

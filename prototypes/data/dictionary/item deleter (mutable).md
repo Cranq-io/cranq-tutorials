@@ -1,6 +1,8 @@
-# Item deleter (mutable)
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Item deleter (mutable)
 
 Deletes an item from the dictionary by its key.
 Mutates input.

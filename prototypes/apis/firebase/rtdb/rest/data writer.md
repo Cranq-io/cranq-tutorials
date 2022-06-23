@@ -1,6 +1,8 @@
-# Data writer
+---
+description: apis/firebase/rtdb/rest]
+---
 
-[apis/firebase/rtdb/rest]
+# Data writer
 
 Creates or replaces a data entry  identified by 'path', in a Firebase Realtime Database.
 

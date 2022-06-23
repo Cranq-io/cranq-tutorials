@@ -1,6 +1,8 @@
-# Deleter (dictionary) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Deleter (dictionary) example
 
 Example node, that demonstrates the basic usage of dictionary deleters
 

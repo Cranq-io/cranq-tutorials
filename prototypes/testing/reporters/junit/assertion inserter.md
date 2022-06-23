@@ -1,6 +1,8 @@
-# Assertion inserter
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Assertion inserter
 
 Writes temporary assertions into the preprocessed JUnit output.
 

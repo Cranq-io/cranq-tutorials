@@ -1,6 +1,8 @@
-# Contract file creator
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Contract file creator
 
 Creates the smart contract as file based on the parameters.
 

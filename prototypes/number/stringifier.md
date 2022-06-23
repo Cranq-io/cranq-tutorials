@@ -1,6 +1,8 @@
-# Stringifier
+---
+description: number]
+---
 
-[number]
+# Stringifier
 
 Serializes the given number to a string.
 

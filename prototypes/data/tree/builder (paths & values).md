@@ -1,6 +1,8 @@
-# Builder (paths & values)
+---
+description: data/tree]
+---
 
-[data/tree]
+# Builder (paths & values)
 
 Constructs a tree data structure based on the path-value pairs received via `paths` and `values`.
 

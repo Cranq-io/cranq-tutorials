@@ -1,6 +1,8 @@
-# NFT minter (simplified)
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# NFT minter (simplified)
 
 ### Input ports:
 

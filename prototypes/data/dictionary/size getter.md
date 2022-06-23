@@ -1,6 +1,8 @@
-# Size getter
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Size getter
 
 Gets the number of items in the dictionary.
 

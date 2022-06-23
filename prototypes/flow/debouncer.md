@@ -1,6 +1,8 @@
-# Debouncer
+---
+description: flow]
+---
 
-[flow]
+# Debouncer
 
 Debounces signals received through `data`.
 

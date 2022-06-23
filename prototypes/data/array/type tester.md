@@ -1,6 +1,8 @@
-# Type tester
+---
+description: data/array]
+---
 
-[data/array]
+# Type tester
 
 Tells whether the input is an array.
 

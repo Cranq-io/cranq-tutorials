@@ -1,6 +1,8 @@
-# Concatenator
+---
+description: data/array]
+---
 
-[data/array]
+# Concatenator
 
 Concatenates two arrays.
 

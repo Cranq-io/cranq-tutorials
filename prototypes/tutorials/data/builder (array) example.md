@@ -1,6 +1,8 @@
-# Builder (array) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Builder (array) example
 
 Example node, that demonstrates the basic usage of array builders
 

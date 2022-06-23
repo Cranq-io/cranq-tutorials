@@ -1,6 +1,8 @@
-# First record extractor
+---
+description: apis/airtable/utils]
+---
 
-[apis/airtable/utils]
+# First record extractor
 
 Extracts the first record from an AirTable API response.
 

@@ -1,6 +1,8 @@
-# File mover
+---
+description: io/file]
+---
 
-[io/file]
+# File mover
 
 Moves a file specified by the path in `source` to the path in `destination`.
 

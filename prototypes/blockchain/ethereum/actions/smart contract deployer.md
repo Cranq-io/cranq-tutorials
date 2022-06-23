@@ -1,6 +1,8 @@
-# Smart contract deployer
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Smart contract deployer
 
 ### Input ports:
 

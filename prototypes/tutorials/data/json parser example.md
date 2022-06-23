@@ -1,6 +1,8 @@
-# JSON parser example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# JSON parser example
 
 Example node that demonstrates the usage of the data/dictionary/JSON parser node.
 

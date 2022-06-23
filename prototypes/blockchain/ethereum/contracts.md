@@ -1,6 +1,8 @@
-# Contracts
+---
+description: blockchain/ethereum]
+---
 
-[blockchain/ethereum]
+# Contracts
 
 ### Input ports:
 

@@ -1,6 +1,8 @@
-# Middleware applicator
+---
+description: io/http/express]
+---
 
-[io/http/express]
+# Middleware applicator
 
 Applies a known middleware to the specified express app.
 

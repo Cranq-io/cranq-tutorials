@@ -1,6 +1,8 @@
-# Command runner
+---
+description: system]
+---
 
-[system]
+# Command runner
 
 Runs the received command string with the received options.
 

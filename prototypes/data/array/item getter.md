@@ -1,6 +1,8 @@
-# Item getter
+---
+description: data/array]
+---
 
-[data/array]
+# Item getter
 
 Retrieves item from the specified index.
 If the item is not found, the inputs are sent via `not found`.

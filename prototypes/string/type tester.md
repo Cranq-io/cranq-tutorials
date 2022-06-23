@@ -1,6 +1,8 @@
-# Type tester
+---
+description: string]
+---
 
-[string]
+# Type tester
 
 Tells whether the input is a string.
 

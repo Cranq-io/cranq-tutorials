@@ -1,6 +1,8 @@
-# Builder (keys & values)
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Builder (keys & values)
 
 Builds a dictionary based on matching arrays of keys and values. Items are constructed from the same indices of the input arrays.
 

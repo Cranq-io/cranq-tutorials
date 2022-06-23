@@ -1,6 +1,8 @@
-# Flattener
+---
+description: data/tree]
+---
 
-[data/tree]
+# Flattener
 
 Flattens a tree into a flat dictionary with keys created by prepending parent keys and a delimiter to child keys recursively.
 

@@ -1,6 +1,8 @@
-# Response builder
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Response builder
 
 Builds a response structure out of its components: HTTP status, headers, and body.
 

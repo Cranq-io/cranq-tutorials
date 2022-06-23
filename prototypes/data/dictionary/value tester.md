@@ -1,6 +1,8 @@
-# Value tester
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Value tester
 
 Tests whether the value of  a certain `key` in a dictionary equals to the `value` provided.
 

@@ -1,6 +1,8 @@
-# Case decorator
+---
+description: testing]
+---
 
-[testing]
+# Case decorator
 
 Decorates assertion records with description and duration.
 

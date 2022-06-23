@@ -1,6 +1,8 @@
-# Path deleter
+---
+description: io/file]
+---
 
-[io/file]
+# Path deleter
 
 Deletes the specified path recursively, and forced.
 

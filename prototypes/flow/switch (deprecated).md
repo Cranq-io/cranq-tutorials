@@ -1,6 +1,8 @@
-# Switch (deprecated)
+---
+description: flow]
+---
 
-[flow]
+# Switch (deprecated)
 
 Use `flow/Splitter` or `flow/Switch` instead.
 

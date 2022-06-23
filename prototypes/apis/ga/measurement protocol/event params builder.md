@@ -1,6 +1,8 @@
-# Event params builder
+---
+description: apis/ga/measurement protocol]
+---
 
-[apis/ga/measurement protocol]
+# Event params builder
 
 Builds raw "event" parameter set for Google Analytics Measurement Protocol request.
 

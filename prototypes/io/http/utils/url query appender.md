@@ -1,6 +1,8 @@
-# URL query appender
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# URL query appender
 
 Appends a query string based on the query parameters to the specified URLs.
 

@@ -1,6 +1,8 @@
-# Email login
+---
+description: apis/firebase/auth/rest]
+---
 
-[apis/firebase/auth/rest]
+# Email login
 
 Logs in a Firebase user by their email & password.
 

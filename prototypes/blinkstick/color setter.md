@@ -1,6 +1,8 @@
-# Color setter
+---
+description: blinkstick]
+---
 
-[blinkstick]
+# Color setter
 
 Sets an RGB color on the specified LED.
 

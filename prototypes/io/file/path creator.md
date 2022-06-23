@@ -1,6 +1,8 @@
-# Path creator
+---
+description: io/file]
+---
 
-[io/file]
+# Path creator
 
 Creates a path in the filesystem.
 

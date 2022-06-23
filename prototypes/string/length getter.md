@@ -1,6 +1,8 @@
-# Length getter
+---
+description: string]
+---
 
-[string]
+# Length getter
 
 Determines the length of the value received on `string`.
 

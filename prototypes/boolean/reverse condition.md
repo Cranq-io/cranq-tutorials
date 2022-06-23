@@ -1,6 +1,8 @@
-# Reverse condition
+---
+description: boolean]
+---
 
-[boolean]
+# Reverse condition
 
 Turns binary independent signals into a boolean.
 

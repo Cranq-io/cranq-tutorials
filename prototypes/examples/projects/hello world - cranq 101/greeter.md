@@ -1,6 +1,8 @@
-# Greeter
+---
+description: examples/projects/Hello World - Cranq 101]
+---
 
-[examples/projects/Hello World - Cranq 101]
+# Greeter
 
 ### Input ports:
 

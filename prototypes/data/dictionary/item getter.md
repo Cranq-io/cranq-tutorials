@@ -1,6 +1,8 @@
-# Item getter
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Item getter
 
 Retrieves an item's value by its key from a dictionary.
 If the item is not found, the inputs are sent via `not found`.

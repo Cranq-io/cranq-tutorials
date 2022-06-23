@@ -1,6 +1,8 @@
-# Forwarder (double)
+---
+description: flow]
+---
 
-[flow]
+# Forwarder (double)
 
 Forwards both received signals in the order of the names of the ports.
 

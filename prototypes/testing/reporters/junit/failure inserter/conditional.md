@@ -1,6 +1,8 @@
-# conditional
+---
+description: testing/reporters/junit/Failure inserter]
+---
 
-[testing/reporters/junit/Failure inserter]
+# conditional
 
 ### Input ports:
 

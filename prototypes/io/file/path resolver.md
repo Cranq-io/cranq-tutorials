@@ -1,6 +1,8 @@
-# Path resolver
+---
+description: io/file]
+---
 
-[io/file]
+# Path resolver
 
 Resolves a file system path into a fully qualified one relative to the current working directory.
 

@@ -1,6 +1,8 @@
-# Response success detector
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Response success detector
 
 Detects whether a HTTP response was successful based on its status code.
 

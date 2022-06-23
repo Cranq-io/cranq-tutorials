@@ -1,6 +1,8 @@
-# Store (async)
+---
+description: data]
+---
 
-[data]
+# Store (async)
 
 Stores data and sends it via `data` when read. When the store is empty, read attempts will be buffered until the store gets initialized via `data`.
 

@@ -1,6 +1,8 @@
-# Minting dependencies installer
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Minting dependencies installer
 
 ### Input ports:
 

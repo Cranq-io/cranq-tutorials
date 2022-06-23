@@ -1,6 +1,8 @@
-# JSON writer
+---
+description: io/file]
+---
 
-[io/file]
+# JSON writer
 
 ### Input ports:
 

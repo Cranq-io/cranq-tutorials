@@ -1,6 +1,8 @@
-# Request body getter
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Request body getter
 
 Retrieves the 'body' component of an HTTP request.
 

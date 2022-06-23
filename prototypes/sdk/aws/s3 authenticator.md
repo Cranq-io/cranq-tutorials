@@ -1,6 +1,8 @@
-# S3 authenticator
+---
+description: sdk/AWS]
+---
 
-[sdk/AWS]
+# S3 authenticator
 
 ### Input ports:
 

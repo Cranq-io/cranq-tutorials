@@ -1,6 +1,8 @@
-# Wrapper
+---
+description: data/array]
+---
 
-[data/array]
+# Wrapper
 
 Wraps input in a 1-element array
 

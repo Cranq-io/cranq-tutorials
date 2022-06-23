@@ -1,6 +1,8 @@
-# Min picker
+---
+description: number]
+---
 
-[number]
+# Min picker
 
 Picks the minimum out of two numbers.
 

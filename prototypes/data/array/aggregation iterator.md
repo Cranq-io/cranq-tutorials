@@ -1,6 +1,8 @@
-# Aggregation iterator
+---
+description: data/array]
+---
 
-[data/array]
+# Aggregation iterator
 
 Iterates through items of an array, specifically for the purpose of being aggregated later.
 

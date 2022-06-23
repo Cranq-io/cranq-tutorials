@@ -1,6 +1,8 @@
-# JSON request dispatcher (deprecated)
+---
+description: io/http]
+---
 
-[io/http]
+# JSON request dispatcher (deprecated)
 
 Dispatches HTTP request, expects response as JSON, parses it and outputs it as data. Outputs error if failed.
 

@@ -1,6 +1,8 @@
-# Filter example
+---
+description: tutorials/data/array]
+---
 
-[tutorials/data/array]
+# Filter example
 
 Example node, that demonstrates the basic usage of the data/array/Filter node over an array
 

@@ -1,6 +1,8 @@
-# Parser
+---
+description: number]
+---
 
-[number]
+# Parser
 
 Converts a string to number. If the string cannot be converted to number, it will be bounced.
 

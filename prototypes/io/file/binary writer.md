@@ -1,6 +1,8 @@
-# Binary writer
+---
+description: io/file]
+---
 
-[io/file]
+# Binary writer
 
 ### Input ports:
 

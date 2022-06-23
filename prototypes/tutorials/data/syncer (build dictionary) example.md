@@ -1,6 +1,8 @@
-# Syncer (build dictionary) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Syncer (build dictionary) example
 
 Example node, that demonstrates the building of dictionaries with the flow/Syncer. Provides the "repository" dataset for further examples.
 

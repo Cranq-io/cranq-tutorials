@@ -1,6 +1,8 @@
-# Authenticator
+---
+description: examples/api testing/junit reporter]
+---
 
-[examples/api testing/junit reporter]
+# Authenticator
 
 ### Input ports:
 

@@ -1,6 +1,8 @@
-# File creator
+---
+description: scripting/actions]
+---
 
-[scripting/actions]
+# File creator
 
 ### Input ports:
 

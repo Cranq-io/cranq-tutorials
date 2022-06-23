@@ -1,6 +1,8 @@
-# Rows getter
+---
+description: db/sqlite3]
+---
 
-[db/sqlite3]
+# Rows getter
 
 Retrieves multiple rows as a single array from the specified database.
 

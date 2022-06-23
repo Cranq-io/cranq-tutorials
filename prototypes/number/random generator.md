@@ -1,6 +1,8 @@
-# Random generator
+---
+description: number]
+---
 
-[number]
+# Random generator
 
 Generates a random number, that is greater than or equal to a specified minimum, and less than or equal to the specified maximum value.
 

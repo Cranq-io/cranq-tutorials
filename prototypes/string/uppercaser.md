@@ -1,6 +1,8 @@
-# Uppercaser
+---
+description: string]
+---
 
-[string]
+# Uppercaser
 
 Converts `string`  to uppercase.
 

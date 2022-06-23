@@ -1,6 +1,8 @@
-# Bulk records inserter
+---
+description: apis/airtable]
+---
 
-[apis/airtable]
+# Bulk records inserter
 
 Inserts multiple records into the specified AirTable table.
 The input received on parameter `records` must match the target table schema.

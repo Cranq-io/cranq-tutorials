@@ -1,6 +1,8 @@
-# Delayer
+---
+description: flow]
+---
 
-[flow]
+# Delayer
 
 Forwards each signal received via `data` (input) after waiting as many milliseconds as received or specified by `delay`.
 

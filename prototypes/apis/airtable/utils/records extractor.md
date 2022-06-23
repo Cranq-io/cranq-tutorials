@@ -1,6 +1,8 @@
-# Records extractor
+---
+description: apis/airtable/utils]
+---
 
-[apis/airtable/utils]
+# Records extractor
 
 Extracts all records from an AirTable API response.
 

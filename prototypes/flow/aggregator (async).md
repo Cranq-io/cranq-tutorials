@@ -1,6 +1,8 @@
-# Aggregator (async)
+---
+description: flow]
+---
 
-[flow]
+# Aggregator (async)
 
 Aggregates inputs into an array until released.
 

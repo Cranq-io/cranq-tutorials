@@ -1,6 +1,8 @@
-# Text writer
+---
+description: io/file]
+---
 
-[io/file]
+# Text writer
 
 Writes the input text to the specified path as a text file.
 

@@ -1,6 +1,8 @@
-# Query params flattener
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Query params flattener
 
 Flattens query parameters received via `params` expressed as a dictionary, into an array of single query parameters as key-value pairs sent via `flattened`.
 

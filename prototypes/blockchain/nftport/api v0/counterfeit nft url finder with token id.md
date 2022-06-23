@@ -1,6 +1,8 @@
-# Counterfeit NFT URL finder with token ID
+---
+description: blockchain/nftport/api v0]
+---
 
-[blockchain/nftport/api v0]
+# Counterfeit NFT URL finder with token ID
 
 Retrieves list of file URLs for duplicate (i.e. counterfeit) NFTs.
 

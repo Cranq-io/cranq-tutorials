@@ -1,6 +1,8 @@
-# Path parser
+---
+description: data/tree]
+---
 
-[data/tree]
+# Path parser
 
 Parses a canonical string representation of a tree path. Tree paths are dot-separated, and dots in components are escaped with backslash.
 

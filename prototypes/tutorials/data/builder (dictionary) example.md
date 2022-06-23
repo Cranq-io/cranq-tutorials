@@ -1,6 +1,8 @@
-# Builder (dictionary) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Builder (dictionary) example
 
 Example node, that demonstrates the basic usage of dictionary builders
 

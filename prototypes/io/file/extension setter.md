@@ -1,6 +1,8 @@
-# Extension setter
+---
+description: io/file]
+---
 
-[io/file]
+# Extension setter
 
 Sets the extension on the received path.
 

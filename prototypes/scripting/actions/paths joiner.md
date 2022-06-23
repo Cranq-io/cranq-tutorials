@@ -1,6 +1,8 @@
-# Paths joiner
+---
+description: scripting/actions]
+---
 
-[scripting/actions]
+# Paths joiner
 
 ### Input ports:
 

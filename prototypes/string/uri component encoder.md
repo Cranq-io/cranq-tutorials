@@ -1,6 +1,8 @@
-# URI component encoder
+---
+description: string]
+---
 
-[string]
+# URI component encoder
 
 URI component-encodes the received string.
 

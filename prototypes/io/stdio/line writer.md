@@ -1,6 +1,8 @@
-# Line writer
+---
+description: io/stdio]
+---
 
-[io/stdio]
+# Line writer
 
 Writes a line to standard output.
 

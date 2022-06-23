@@ -1,6 +1,8 @@
-# Request dispatcher
+---
+description: apis/firebase/auth/rest]
+---
 
-[apis/firebase/auth/rest]
+# Request dispatcher
 
 ### Input ports:
 

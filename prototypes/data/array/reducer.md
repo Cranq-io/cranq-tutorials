@@ -1,6 +1,8 @@
-# Reducer
+---
+description: data/array]
+---
 
-[data/array]
+# Reducer
 
 Reduces array. External node(s) receive the partial result and each item and send back a new partial result.
 

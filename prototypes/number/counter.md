@@ -1,6 +1,8 @@
-# Counter
+---
+description: number]
+---
 
-[number]
+# Counter
 
 Counts the received input signals.
 

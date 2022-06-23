@@ -1,6 +1,8 @@
-# JSON parser
+---
+description: data/array]
+---
 
-[data/array]
+# JSON parser
 
 Parses a JSON string to  array.
 

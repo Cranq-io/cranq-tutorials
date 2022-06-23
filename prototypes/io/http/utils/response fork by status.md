@@ -1,6 +1,8 @@
-# Response fork by status
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Response fork by status
 
 Forwards `response` to either `on match` or `on mismatch` depending on whether the response matches the HTTP status received via `status`.
 

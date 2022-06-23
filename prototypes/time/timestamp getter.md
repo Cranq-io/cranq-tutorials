@@ -1,6 +1,8 @@
-# Timestamp getter
+---
+description: time]
+---
 
-[time]
+# Timestamp getter
 
 Gets current timestamp
 

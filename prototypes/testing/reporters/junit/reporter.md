@@ -1,6 +1,8 @@
-# Reporter
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Reporter
 
 Compiles a JUnit test result report based on incoming assertions.
 

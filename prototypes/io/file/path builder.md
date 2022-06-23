@@ -1,6 +1,8 @@
-# Path builder
+---
+description: io/file]
+---
 
-[io/file]
+# Path builder
 
 Constructs an operating system specific path of the specified segments.
 

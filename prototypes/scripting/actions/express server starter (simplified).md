@@ -1,6 +1,8 @@
-# Express server starter (simplified)
+---
+description: scripting/actions]
+---
 
-[scripting/actions]
+# Express server starter (simplified)
 
 Starts an express server on the specified port and with the specified middlewares.
 

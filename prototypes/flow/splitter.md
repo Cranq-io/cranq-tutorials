@@ -1,6 +1,8 @@
-# Splitter
+---
+description: flow]
+---
 
-[flow]
+# Splitter
 
 Splits data received via `unsplit` by fields / indexes.
 

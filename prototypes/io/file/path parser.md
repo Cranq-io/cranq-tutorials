@@ -1,6 +1,8 @@
-# Path parser
+---
+description: io/file]
+---
 
-[io/file]
+# Path parser
 
 Parses a file system path into its components.
 

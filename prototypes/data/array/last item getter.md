@@ -1,6 +1,8 @@
-# Last item getter
+---
+description: data/array]
+---
 
-[data/array]
+# Last item getter
 
 Retrieves last item of the array.
 

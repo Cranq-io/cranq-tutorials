@@ -1,6 +1,8 @@
-# Deleter
+---
+description: io/file]
+---
 
-[io/file]
+# Deleter
 
 Deletes a file or directory specified by the path input.
 

@@ -1,6 +1,8 @@
-# Words to coordinates
+---
+description: apis/what3words]
+---
 
-[apis/what3words]
+# Words to coordinates
 
 Converts what3words word triple to geo coordinates.
 

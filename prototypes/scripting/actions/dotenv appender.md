@@ -1,6 +1,8 @@
-# Dotenv appender
+---
+description: scripting/actions]
+---
 
-[scripting/actions]
+# Dotenv appender
 
 ### Input ports:
 

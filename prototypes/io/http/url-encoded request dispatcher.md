@@ -1,6 +1,8 @@
-# URL-encoded request dispatcher
+---
+description: io/http]
+---
 
-[io/http]
+# URL-encoded request dispatcher
 
 Dispatches HTTP request with an URL encoded body, expects response as JSON, parses it and outputs it as data. Outputs error if failed.
 

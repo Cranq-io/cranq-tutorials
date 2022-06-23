@@ -1,6 +1,8 @@
-# Command success tester
+---
+description: system/utils]
+---
 
-[system/utils]
+# Command success tester
 
 Tests whether a command was executed successfully
 

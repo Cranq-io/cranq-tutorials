@@ -1,6 +1,8 @@
-# Midnight getter
+---
+description: date]
+---
 
-[date]
+# Midnight getter
 
 ### Input ports:
 

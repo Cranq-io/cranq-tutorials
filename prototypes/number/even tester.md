@@ -1,6 +1,8 @@
-# Even tester
+---
+description: number]
+---
 
-[number]
+# Even tester
 
 Tells whether a number is even.
 

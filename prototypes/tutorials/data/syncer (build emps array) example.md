@@ -1,6 +1,8 @@
-# Syncer (build emps array) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Syncer (build emps array) example
 
 Example node, that demonstrates the building of arrays with the flow/Syncer. Provides the "emps" dataset for further examples.
 

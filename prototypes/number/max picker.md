@@ -1,6 +1,8 @@
-# Max picker
+---
+description: number]
+---
 
-[number]
+# Max picker
 
 Picks the maximum out of two numbers.
 

@@ -1,6 +1,8 @@
-# Greater or equal than tester
+---
+description: number]
+---
 
-[number]
+# Greater or equal than tester
 
 Tests whether the value is greater or equal than the reference.
 

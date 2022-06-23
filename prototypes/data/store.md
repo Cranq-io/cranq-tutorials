@@ -1,6 +1,8 @@
-# Store
+---
+description: data]
+---
 
-[data]
+# Store
 
 Stores data and sends it via `data` when read. When the store is empty, any attempt to read the contents will result in a signal sent out via `not found`.
 

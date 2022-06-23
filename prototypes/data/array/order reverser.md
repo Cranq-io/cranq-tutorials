@@ -1,6 +1,8 @@
-# Order reverser
+---
+description: data/array]
+---
 
-[data/array]
+# Order reverser
 
 Reverses the order of items in the received array.
 

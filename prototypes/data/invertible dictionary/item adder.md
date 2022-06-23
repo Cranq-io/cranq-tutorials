@@ -1,6 +1,8 @@
-# Item adder
+---
+description: data/invertible dictionary]
+---
 
-[data/invertible dictionary]
+# Item adder
 
 Adds an item to an invertible dictionary. Invertible dictionaries can have multiple values assigned to a single key.
 

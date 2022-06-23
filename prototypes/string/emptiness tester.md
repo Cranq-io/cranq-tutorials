@@ -1,6 +1,8 @@
-# Emptiness tester
+---
+description: string]
+---
 
-[string]
+# Emptiness tester
 
 Tells whether the value received on `string` is empty.
 

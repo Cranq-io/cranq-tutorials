@@ -1,6 +1,8 @@
-# Action maintainer
+---
+description: scripting]
+---
 
-[scripting]
+# Action maintainer
 
 ### Input ports:
 

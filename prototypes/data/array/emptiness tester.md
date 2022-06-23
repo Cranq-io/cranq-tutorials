@@ -1,6 +1,8 @@
-# Emptiness tester
+---
+description: data/array]
+---
 
-[data/array]
+# Emptiness tester
 
 Tests whether array is empty.
 

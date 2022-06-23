@@ -1,6 +1,8 @@
-# Slicer
+---
+description: data/array]
+---
 
-[data/array]
+# Slicer
 
 Slices a section out of an array.
 

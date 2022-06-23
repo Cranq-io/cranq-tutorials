@@ -1,6 +1,8 @@
-# Depot
+---
+description: flow]
+---
 
-[flow]
+# Depot
 
 Forwards signal received through `data` when corresponding signal was received via `trigger`.
 

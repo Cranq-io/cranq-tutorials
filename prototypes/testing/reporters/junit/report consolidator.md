@@ -1,6 +1,8 @@
-# Report consolidator
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Report consolidator
 
 ### Input ports:
 

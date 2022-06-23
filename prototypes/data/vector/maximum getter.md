@@ -1,6 +1,8 @@
-# Maximum getter
+---
+description: data/vector]
+---
 
-[data/vector]
+# Maximum getter
 
 ### Input ports:
 

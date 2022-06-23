@@ -1,6 +1,8 @@
-# Burst tester
+---
+description: flow/utils]
+---
 
-[flow/utils]
+# Burst tester
 
 Sends true on the last signal in bursts of `length` length.
 

@@ -1,6 +1,8 @@
-# Item prepender
+---
+description: data/array]
+---
 
-[data/array]
+# Item prepender
 
 Inserts item into the beginning of the  array.
 Example: 

@@ -1,6 +1,8 @@
-# Suites consolidator
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Suites consolidator
 
 ### Input ports:
 

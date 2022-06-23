@@ -1,6 +1,8 @@
-# Type tester
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# Type tester
 
 Tells whether the `data` provided is a dictionary.
 

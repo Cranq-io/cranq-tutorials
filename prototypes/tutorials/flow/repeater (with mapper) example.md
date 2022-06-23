@@ -1,6 +1,8 @@
-# Repeater (with mapper) example
+---
+description: tutorials/flow]
+---
 
-[tutorials/flow]
+# Repeater (with mapper) example
 
 Example node, that demonstrates the basic usage of the flow/Repeater node, providing external input to a data/array/Mapper
 

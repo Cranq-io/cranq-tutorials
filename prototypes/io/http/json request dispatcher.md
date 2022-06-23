@@ -1,6 +1,8 @@
-# JSON request dispatcher
+---
+description: io/http]
+---
 
-[io/http]
+# JSON request dispatcher
 
 Dispatches HTTP request, expects response as JSON, parses it and outputs it as data. Outputs error if failed.
 

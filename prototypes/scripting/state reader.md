@@ -1,6 +1,8 @@
-# State reader
+---
+description: scripting]
+---
 
-[scripting]
+# State reader
 
 Reads the contents of "state.json", or, when absent, forwards the received `state`. The initial state is required to contain the current working directory (cwd) on the specified path.
 

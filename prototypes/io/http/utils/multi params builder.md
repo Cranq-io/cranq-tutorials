@@ -1,6 +1,8 @@
-# Multi params builder
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Multi params builder
 
 Builds an array of single query parameters as key-value pairs based on the key received via `key` and the values received via `values`.
 

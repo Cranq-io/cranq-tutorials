@@ -1,6 +1,8 @@
-# Starter
+---
+description: flow]
+---
 
-[flow]
+# Starter
 
 Sends the signal null@"start" asynchronously right after the node was created at runtime.
 

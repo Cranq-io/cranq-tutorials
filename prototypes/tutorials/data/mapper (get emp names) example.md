@@ -1,6 +1,8 @@
-# Mapper (get emp names) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Mapper (get emp names) example
 
 Example node that demonstrates the usage of the data/array/Mapper node.
 

@@ -1,6 +1,8 @@
-# Environment variable getter with fallback
+---
+description: system]
+---
 
-[system]
+# Environment variable getter with fallback
 
 Gets a variable from the system environment by name or the provided fallback if not found
 

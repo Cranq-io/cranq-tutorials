@@ -1,6 +1,8 @@
-# Contract dependencies installer
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Contract dependencies installer
 
 ### Input ports:
 

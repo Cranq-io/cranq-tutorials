@@ -1,6 +1,8 @@
-# Data pusher
+---
+description: apis/firebase/rtdb/rest]
+---
 
-[apis/firebase/rtdb/rest]
+# Data pusher
 
 Adds a new data entry to a Firebase Realtime Database under 'parent path'.
 Returns the path of the new entry.

@@ -1,6 +1,8 @@
-# Time node to seconds
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Time node to seconds
 
 ### Input ports:
 

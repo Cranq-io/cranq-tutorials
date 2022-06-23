@@ -1,6 +1,8 @@
-# Assertion duration getter
+---
+description: testing]
+---
 
-[testing]
+# Assertion duration getter
 
 Determines the time between the start of a test case (or suite) and a specific assertion.
 

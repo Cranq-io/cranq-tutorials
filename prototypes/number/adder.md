@@ -1,6 +1,8 @@
-# Adder
+---
+description: number]
+---
 
-[number]
+# Adder
 
 Performs an addition operation on the input values.
 

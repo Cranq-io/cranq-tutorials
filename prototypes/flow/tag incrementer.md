@@ -1,6 +1,8 @@
-# Tag incrementer
+---
+description: flow]
+---
 
-[flow]
+# Tag incrementer
 
 Increments the iterable (colon-separated) part of the received signal's tag.
 

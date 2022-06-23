@@ -1,6 +1,8 @@
-# Records deleter
+---
+description: apis/airtable]
+---
 
-[apis/airtable]
+# Records deleter
 
 ### Input ports:
 

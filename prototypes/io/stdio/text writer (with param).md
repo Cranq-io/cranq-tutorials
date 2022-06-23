@@ -1,6 +1,8 @@
-# Text writer (with param)
+---
+description: io/stdio]
+---
 
-[io/stdio]
+# Text writer (with param)
 
 ### Input ports:
 

@@ -1,6 +1,8 @@
-# Condition
+---
+description: boolean]
+---
 
-[boolean]
+# Condition
 
 Sends either on the `true` or the `false` output port, depending on the input value received on the `boolean` port.
 

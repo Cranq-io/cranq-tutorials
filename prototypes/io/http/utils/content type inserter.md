@@ -1,6 +1,8 @@
-# Content type inserter
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Content type inserter
 
 Inserts content type into a HTTP request header.
 

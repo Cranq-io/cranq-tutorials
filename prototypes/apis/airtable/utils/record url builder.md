@@ -1,6 +1,8 @@
-# Record URL builder
+---
+description: apis/airtable/utils]
+---
 
-[apis/airtable/utils]
+# Record URL builder
 
 Builds a URL for record in an AirTable table.
 

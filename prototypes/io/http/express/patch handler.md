@@ -1,6 +1,8 @@
-# PATCH handler
+---
+description: io/http/express]
+---
 
-[io/http/express]
+# PATCH handler
 
 Receives PATCH requests on the specified route and dispatches the corresponding response.
 

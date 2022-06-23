@@ -1,6 +1,8 @@
-# Getter (dictionary) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Getter (dictionary) example
 
 Example node, that demonstrates the usage of dictionary getter nodes.
 

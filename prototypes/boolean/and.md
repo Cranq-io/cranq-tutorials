@@ -1,6 +1,8 @@
-# And
+---
+description: boolean]
+---
 
-[boolean]
+# And
 
 Performs a boolean AND operation on the values received via inputs `a` and `b`.
 

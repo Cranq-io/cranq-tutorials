@@ -1,6 +1,8 @@
-# Fork example
+---
+description: tutorials/flow]
+---
 
-[tutorials/flow]
+# Fork example
 
 Example node, that demonstrates the basic usage of the flow/Fork node
 

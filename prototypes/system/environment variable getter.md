@@ -1,6 +1,8 @@
-# Environment variable getter
+---
+description: system]
+---
 
-[system]
+# Environment variable getter
 
 Gets a variable from the system environment by name
 

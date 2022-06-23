@@ -1,6 +1,8 @@
-# Authenticated spreadsheet creator
+---
+description: sdk/google/drive]
+---
 
-[sdk/google/drive]
+# Authenticated spreadsheet creator
 
 Authenticates the service user and creates new spreadsheet on the given shared folder.
 

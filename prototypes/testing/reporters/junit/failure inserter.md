@@ -1,6 +1,8 @@
-# Failure inserter
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Failure inserter
 
 ### Input ports:
 

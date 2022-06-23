@@ -1,6 +1,8 @@
-# Record fetcher
+---
+description: apis/airtable]
+---
 
-[apis/airtable]
+# Record fetcher
 
 Fetches a single record from an AirTable table.
 

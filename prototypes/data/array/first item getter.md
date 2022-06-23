@@ -1,6 +1,8 @@
-# First item getter
+---
+description: data/array]
+---
 
-[data/array]
+# First item getter
 
 Retrieves first item of the array.
 

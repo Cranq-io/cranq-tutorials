@@ -1,6 +1,8 @@
-# Setter (array) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Setter (array) example
 
 Example node, that demonstrates the basic usage of array setters
 

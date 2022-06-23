@@ -1,6 +1,8 @@
-# Assertion recorder
+---
+description: testing/reporters/junit]
+---
 
-[testing/reporters/junit]
+# Assertion recorder
 
 Records a single assertion into a preprocessed report JSON.
 

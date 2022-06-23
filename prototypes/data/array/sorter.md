@@ -1,6 +1,8 @@
-# Sorter
+---
+description: data/array]
+---
 
-[data/array]
+# Sorter
 
 Sorts an array according to the specified reference array (`params`["order"]).
 

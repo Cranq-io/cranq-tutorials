@@ -1,6 +1,8 @@
-# Created NFT lister
+---
+description: blockchain/nftport/api v0]
+---
 
-[blockchain/nftport/api v0]
+# Created NFT lister
 
 Retrieves a list of NFTs created by the specified address, using the NFTPort API.
 

@@ -1,6 +1,8 @@
-# Reducer (query) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Reducer (query) example
 
 Example wrapper node, that demonstrates the usage of the data/array/Reducer node
 

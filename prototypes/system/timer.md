@@ -1,6 +1,8 @@
-# Timer
+---
+description: system]
+---
 
-[system]
+# Timer
 
 Sets a timer which triggers `done` port after as many milliseconds as received or specified by `delay.  Timer can be canceled with ˙stop` (input).
 

@@ -1,6 +1,8 @@
-# JSON serializer
+---
+description: data/dictionary]
+---
 
-[data/dictionary]
+# JSON serializer
 
 Serializes a dictionary to its JSON string representation.
 

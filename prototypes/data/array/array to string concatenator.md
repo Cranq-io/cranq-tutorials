@@ -1,6 +1,8 @@
-# Array to string concatenator
+---
+description: data/array]
+---
 
-[data/array]
+# Array to string concatenator
 
 Concatenates an array to string, using the specified delimiter.
 

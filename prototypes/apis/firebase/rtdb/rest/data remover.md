@@ -1,6 +1,8 @@
-# Data remover
+---
+description: apis/firebase/rtdb/rest]
+---
 
-[apis/firebase/rtdb/rest]
+# Data remover
 
 Removes the data entry identified by 'path', from a Firebase Realtime Database.
 

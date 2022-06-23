@@ -1,6 +1,8 @@
-# Same array length asserter
+---
+description: testing]
+---
 
-[testing]
+# Same array length asserter
 
 ### Input ports:
 

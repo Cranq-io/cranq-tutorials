@@ -1,6 +1,8 @@
-# Getter (array) example
+---
+description: tutorials/data]
+---
 
-[tutorials/data]
+# Getter (array) example
 
 Example node, that demonstrates the usage of array getter nodes.
 

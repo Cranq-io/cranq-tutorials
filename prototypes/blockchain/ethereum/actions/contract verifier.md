@@ -1,6 +1,8 @@
-# Contract verifier
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Contract verifier
 
 ### Input ports:
 

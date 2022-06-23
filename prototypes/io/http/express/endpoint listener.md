@@ -1,6 +1,8 @@
-# Endpoint listener
+---
+description: io/http/express]
+---
 
-[io/http/express]
+# Endpoint listener
 
 Sets up a listener on an HTTP route. Starts an Express server if one is not started yet.
 

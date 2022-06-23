@@ -1,6 +1,8 @@
-# GET request dispatcher
+---
+description: blockchain/nftport/api v0]
+---
 
-[blockchain/nftport/api v0]
+# GET request dispatcher
 
 Dispatches a GET request to one of the NFTPort API endpoints.
 

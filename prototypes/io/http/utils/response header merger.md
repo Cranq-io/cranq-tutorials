@@ -1,6 +1,8 @@
-# Response header merger
+---
+description: io/http/utils]
+---
 
-[io/http/utils]
+# Response header merger
 
 Merges the specified response headers into the response.
 

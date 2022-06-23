@@ -1,6 +1,8 @@
-# Data updater
+---
+description: apis/firebase/rtdb/rest]
+---
 
-[apis/firebase/rtdb/rest]
+# Data updater
 
 Updates multiple data entries (fields) under 'path', in a Firebase Realtime Database.
 

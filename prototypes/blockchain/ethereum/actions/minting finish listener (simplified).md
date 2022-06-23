@@ -1,6 +1,8 @@
-# Minting finish listener (simplified)
+---
+description: blockchain/ethereum/actions]
+---
 
-[blockchain/ethereum/actions]
+# Minting finish listener (simplified)
 
 ### Input ports:
 

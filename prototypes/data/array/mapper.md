@@ -1,6 +1,8 @@
-# Mapper
+---
+description: data/array]
+---
 
-[data/array]
+# Mapper
 
 Maps array. External node(s) receive each item and send back a mapped item.
 
