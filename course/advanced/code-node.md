@@ -53,8 +53,15 @@ Each of the parameters are javascript object.
 
 * data: is the received data, it can came from the instance of the port, or with the signal.
 * tag: this is the unique identifier of the signal. Check [this](../basics/103/#tag) for more details.
-* outputs: contains all output ports name as a key with an empty function as a value. Mostly use at the input ports.
-* params: all the input ports which are not receiving signal are represented here. key is the name of the input port, value is the value of it.
+* outputs: contains all output ports name as a key with a function as a value.&#x20;
+  * The first parameter is a callback function which can modified the returned data.
+  *   The second one  is the unique tag
+
+      * NB: Always have to pass the "tag" if you modified the output port function. &#x20;
+
+      `outputs.out(moment(data, "YYYYMMDD").fromNow(), tag);`&#x20;
+
+      params: all the input ports which are not receiving signal are represented here. key is the name of the input port, value is the value of it.
 * state: common state of the node instance. During the execution and iteration it can store and keep data    Eg.: data/array/Reducer > reduce&#x20;
 * shared: common state of the all the node which inherited from the same prototype.  ???
 
