@@ -575,6 +575,7 @@
       * [Case time consolidator](<testing/reporters/junit/case time consolidator.md>)
       * [Case time inserter](<testing/reporters/junit/case time inserter.md>)
       * [Failure inserter](<testing/reporters/junit/failure inserter.md>)
+        * [conditional](<testing/reporters/junit/failure inserter/conditional.md>)
       * [Failure message builder](<testing/reporters/junit/failure message builder.md>)
       * [Failures consolidator](<testing/reporters/junit/failures consolidator.md>)
       * [HTML report generator (from file)](<testing/reporters/junit/html report generator (from file).md>)
