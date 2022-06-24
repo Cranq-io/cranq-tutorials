@@ -1,4 +1,4 @@
-# ✏ Code node
+# ✏ Creating code nodes
 
 You can implement custom code node in javascript language. _Most cases can be handled with a structure node. Please try to avoid creating new code nodes if possible._  &#x20;
 
