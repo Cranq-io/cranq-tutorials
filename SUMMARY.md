@@ -3,7 +3,7 @@
 * [👋 Introduction](README.md)
   * [What is CRANQ?](readme/101.md)
   * [🐣 Getting started](readme/102.md)
-* [🎓 Video course](video-course.md)
+* [📺 Video course](video-course.md)
 * [📖 Reference](course/README.md)
   * [🐣 Basics](course/basics/README.md)
     * [Connection](course/basics/connection.md)
