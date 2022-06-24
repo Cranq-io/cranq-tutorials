@@ -13,7 +13,7 @@ Example:
 
 ### Input ports:
 
-* __headers__: `{string: string}`
+* __headers__: ` {string: string} `
 
     Recieves request headers. It is  used to describe a resource, or the behavior of the server or the client.
     
@@ -23,7 +23,7 @@ Example:
     }
 
 
-* __token__: `string`
+* __token__: ` string `
 
     Receives the string token to be inserted into the Authorization header as Bearer token.
     The token is usually used in base64 encoded form.
@@ -34,7 +34,7 @@ Example:
 
 ### Output ports:
 
-* __headers__: `{string: string}`
+* __headers__: ` {string: string} `
 
     Sends the received request headers with the authorization header added to it.
     

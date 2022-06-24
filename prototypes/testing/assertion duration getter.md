@@ -8,14 +8,14 @@ Determines the time between the start of a test case (or suite) and a specific a
 
 ### Input ports:
 
-* __assertion__: `any`
+* __assertion__: ` any `
 
 
-* __start__: `any`
+* __start__: ` any `
 
 ### Output ports:
 
-* __duration__: `any`
+* __duration__: ` any `
 
     In milliseconds
 

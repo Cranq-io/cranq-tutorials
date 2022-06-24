@@ -6,17 +6,17 @@ description: [testing/reporters/junit]
 
 ### Input ports:
 
-* __assertion ID__: `any`
+* __assertion ID__: ` any `
 
     Receives individual fields for syncing.
 
 
-* __assertion__: `any`
+* __assertion__: ` any `
 
     Receives individual fields for syncing.
 
 
-* __pre-report__: `any`
+* __pre-report__: ` any `
 
     Receives individual fields for syncing.
 

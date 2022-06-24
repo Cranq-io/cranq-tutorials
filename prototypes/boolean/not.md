@@ -13,13 +13,13 @@ Example:
 
 ### Input ports:
 
-* __a__: `boolean`
+* __a__: ` boolean `
 
     The value to be negated.
 
 ### Output ports:
 
-* __not__: `boolean`
+* __not__: ` boolean `
 
     Sends the negated value of the input `a`.
 

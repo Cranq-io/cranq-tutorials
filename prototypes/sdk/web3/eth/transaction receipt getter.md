@@ -35,7 +35,7 @@ Example:
 
 ### Input ports:
 
-* __transaction hash & provider__: `{"transaction_hash" :string, "provider" :string}`
+* __transaction hash & provider__: ` {"transaction_hash" :string, "provider" :string} `
 
     Receives transaction hash & web3 provider.
     
@@ -81,5 +81,5 @@ Example:
     
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 

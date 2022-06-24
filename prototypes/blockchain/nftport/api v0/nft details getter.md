@@ -6,13 +6,13 @@ description: [blockchain/nftport/api v0]
 
 ### Input ports:
 
-* __API key__: `string`
+* __API key__: ` string `
 
 
-* __contract address__: `string`
+* __contract address__: ` string `
 
 
-* __token ID__: `string`
+* __token ID__: ` string `
 
 
 * __params__: 
@@ -34,5 +34,5 @@ description: [blockchain/nftport/api v0]
     ```
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 

@@ -6,12 +6,12 @@ description: [data/array]
 
 ### Input ports:
 
-* __array__: `any[]`
+* __array__: ` any[] `
 
 
-* __index__: `number`
+* __index__: ` number `
 
 ### Output ports:
 
-* __is last__: `boolean`
+* __is last__: ` boolean `
 

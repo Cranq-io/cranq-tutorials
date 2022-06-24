@@ -6,16 +6,16 @@ description: [apis/airtable/utils]
 
 ### Input ports:
 
-* __API key__: `string`
+* __API key__: ` string `
 
 
-* __base ID__: `string`
+* __base ID__: ` string `
 
 
-* __table name__: `string`
+* __table name__: ` string `
 
 
-* __AT record__: `{"fields" :{string: any}}`
+* __AT record__: ` {"fields" :{string: any}} `
 
     Record as is sent to / received from the AirTable API.
 

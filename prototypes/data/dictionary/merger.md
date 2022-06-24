@@ -16,7 +16,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Input ports:
 
-* __a__: `{string: any}`
+* __a__: ` {string: any} `
 
     Receives the dictionary to merge onto.
     
@@ -24,7 +24,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
     { "first": 1, "third": 0 }
 
 
-* __b__: `{string: any}`
+* __b__: ` {string: any} `
 
     Receives the dictionary to merge with.
     
@@ -33,7 +33,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Output ports:
 
-* __merged__: `({string: any} and {string: any})`
+* __merged__: ` ({string: any} and {string: any}) `
 
     Sends the resulting merged dictionary.
     

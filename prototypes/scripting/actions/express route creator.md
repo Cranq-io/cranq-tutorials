@@ -10,7 +10,7 @@ See `scripting/actions/Express server starter`.
 
 ### Input ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Receives script state.
 
@@ -28,7 +28,7 @@ See `scripting/actions/Express server starter`.
 
 ### Output ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Sends updated script state.
 

@@ -6,8 +6,8 @@ description: [io/stdio]
 
 ### Input ports:
 
-* __text__: `string`
+* __text__: ` string `
 
 
-* __start__: `any`
+* __start__: ` any `
 

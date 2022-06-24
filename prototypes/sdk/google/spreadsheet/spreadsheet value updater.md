@@ -17,7 +17,7 @@ Example:
 
 ### Input ports:
 
-* __session Id__: `string`
+* __session Id__: ` string `
 
     Receives the session id of the spreadsheet action.
     
@@ -25,7 +25,7 @@ Example:
     "spreadsheet_session"
 
 
-* __spreadsheet Id__: `string`
+* __spreadsheet Id__: ` string `
 
     Receives the id of the spreadsheet to be updated.
     
@@ -52,7 +52,7 @@ Example:
     }
 
 
-* __values__: `any[][]`
+* __values__: ` any[][] `
 
     Receives the new cell values to update.
     It contains arrays of the row values.
@@ -65,7 +65,7 @@ Example:
 
 ### Output ports:
 
-* __done__: `null`
+* __done__: ` null `
 
     Sends null if the action was successful.
     
@@ -73,7 +73,7 @@ Example:
     null
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
     Sends the error which happened during the execution of the action.
     

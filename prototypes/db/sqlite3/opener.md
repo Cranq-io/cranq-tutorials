@@ -17,8 +17,8 @@ Mode is normally 6.
 
 ### Output ports:
 
-* __done__: `null`
+* __done__: ` null `
 
 
-* __error__: `string`
+* __error__: ` string `
 

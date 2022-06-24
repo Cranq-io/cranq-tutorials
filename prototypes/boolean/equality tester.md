@@ -14,18 +14,18 @@ Example:
 
 ### Input ports:
 
-* __a__: `boolean`
+* __a__: ` boolean `
 
     First operand
 
 
-* __b__: `boolean`
+* __b__: ` boolean `
 
     Second operand
 
 ### Output ports:
 
-* __equal__: `boolean`
+* __equal__: ` boolean `
 
     Sends true if the provided values are equal, false otherwise.
 

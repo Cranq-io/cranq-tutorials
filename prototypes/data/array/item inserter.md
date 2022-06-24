@@ -17,7 +17,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/2_constructing_d
 
 ### Input ports:
 
-* __array__: `any[]`
+* __array__: ` any[] `
 
     Recieves array to insert into.
     
@@ -25,7 +25,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/2_constructing_d
     [1,2,3]
 
 
-* __index__: `number`
+* __index__: ` number `
 
     Recieves index at which to insert.
     
@@ -33,7 +33,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/2_constructing_d
     1
 
 
-* __item__: `any`
+* __item__: ` any `
 
     Recieves item to be inserted.
     
@@ -42,7 +42,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/2_constructing_d
 
 ### Output ports:
 
-* __array__: `any[][number][]`
+* __array__: ` any[][number][] `
 
     Sends array with specified item inserted.
     

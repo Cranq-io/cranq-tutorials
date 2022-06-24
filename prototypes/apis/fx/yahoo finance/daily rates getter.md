@@ -6,7 +6,7 @@ description: [apis/fx/yahoo finance]
 
 ### Input ports:
 
-* __symbol__: `string`
+* __symbol__: ` string `
 
     Receives ticker symbol.
     
@@ -14,7 +14,7 @@ description: [apis/fx/yahoo finance]
     "DIS"
 
 
-* __from__: `number`
+* __from__: ` number `
 
     Receives start date timestamp for querying data.
     
@@ -22,7 +22,7 @@ description: [apis/fx/yahoo finance]
     1486598400
 
 
-* __to__: `number`
+* __to__: ` number `
 
     Receives end date timestamp for querying data.
     
@@ -39,10 +39,10 @@ description: [apis/fx/yahoo finance]
 
 ### Output ports:
 
-* __rates per date__: `{string: number}`
+* __rates per date__: ` {string: number} `
 
     Sent the rates of the symbol per interval
 
 
-* __error__: `{"error" :"Service unavailable"}`
+* __error__: ` {"error" :"Service unavailable"} `
 

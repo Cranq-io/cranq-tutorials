@@ -41,7 +41,7 @@ Example:
 
 ### Output ports:
 
-* __path__: `string`
+* __path__: ` string `
 
     Sends the resulting path.
     

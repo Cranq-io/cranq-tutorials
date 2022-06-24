@@ -6,9 +6,9 @@ description: [testing/reporters/junit]
 
 ### Input ports:
 
-* __assertion__: `any`
+* __assertion__: ` any `
 
 ### Output ports:
 
-* __message__: `any`
+* __message__: ` any `
 

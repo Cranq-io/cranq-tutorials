@@ -13,7 +13,7 @@ Example:
 
 ### Input ports:
 
-* __headers__: `{string: string}`
+* __headers__: ` {string: string} `
 
     Recieves request headers. It is  used to describe a resource, or the behavior of the server or the client.
     
@@ -23,7 +23,7 @@ Example:
     }
 
 
-* __content type__: `string`
+* __content type__: ` string `
 
     Receives the content type to be inserted into the headers.
     
@@ -35,7 +35,7 @@ Example:
 
 ### Output ports:
 
-* __headers__: `{string: string}`
+* __headers__: ` {string: string} `
 
     Sends the received request headers with the content type header added to it.
     

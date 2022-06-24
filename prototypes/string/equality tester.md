@@ -14,18 +14,18 @@ Example:
 
 ### Input ports:
 
-* __a__: `string`
+* __a__: ` string `
 
     The first string
 
 
-* __b__: `string`
+* __b__: ` string `
 
     The second string
 
 ### Output ports:
 
-* __equal__: `boolean`
+* __equal__: ` boolean `
 
     Sends true if the two strings are the same, false otherwise.
 

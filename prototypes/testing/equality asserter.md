@@ -6,12 +6,12 @@ description: [testing]
 
 ### Input ports:
 
-* __expected__: `any`
+* __expected__: ` any `
 
 
-* __actual__: `any`
+* __actual__: ` any `
 
 ### Output ports:
 
-* __assertion__: `any`
+* __assertion__: ` any `
 

@@ -6,10 +6,10 @@ description: [scripting]
 
 ### Input ports:
 
-* __path__: `string`
+* __path__: ` string `
 
 
-* __start__: `any`
+* __start__: ` any `
 
 ### Output ports:
 

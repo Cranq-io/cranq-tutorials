@@ -9,9 +9,9 @@ Uses https://www.npmjs.com/package/junit-xml.
 
 ### Input ports:
 
-* __json__: `any`
+* __json__: ` any `
 
 ### Output ports:
 
-* __xml__: `any`
+* __xml__: ` any `
 

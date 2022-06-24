@@ -8,13 +8,13 @@ Builds a HTTP request that has no body.
 
 ### Input ports:
 
-* __method__: `("GET" or "POST" or "PUT" or "PATCH" or "DELETE")`
+* __method__: ` ("GET" or "POST" or "PUT" or "PATCH" or "DELETE") `
 
 
-* __URL__: `string`
+* __URL__: ` string `
 
 
-* __headers__: `{string: string}`
+* __headers__: ` {string: string} `
 
 ### Output ports:
 

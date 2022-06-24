@@ -6,14 +6,14 @@ description: [testing/reporters/junit]
 
 ### Input ports:
 
-* __assertion__: `{string: any}`
+* __assertion__: ` {string: any} `
 
 ### Output ports:
 
-* __case name__: `{string: any}[number]`
+* __case name__: ` {string: any}[number] `
 
     Last item of the array
 
 
-* __suite name__: `string`
+* __suite name__: ` string `
 

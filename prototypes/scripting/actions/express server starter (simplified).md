@@ -14,7 +14,7 @@ Repeatable action.
 
 ### Input ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Receives script state.
 
@@ -38,7 +38,7 @@ Repeatable action.
 
 ### Output ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Sends updates script state.
 

@@ -12,13 +12,13 @@ Example:
 
 ### Input ports:
 
-* __request__: `{"query" :{string: (string or string[])}}`
+* __request__: ` {"query" :{string: (string or string[])}} `
 
     Receives an HTTP request that has query params.
 
 ### Output ports:
 
-* __query__: `{string: (string or string[])}`
+* __query__: ` {string: (string or string[])} `
 
     Sends the 'query' component of the received request.
 

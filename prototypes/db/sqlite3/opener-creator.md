@@ -15,8 +15,8 @@ Opens the specified SQLite database. When the database doesn't exist, creates it
 
 ### Output ports:
 
-* __done__: `null`
+* __done__: ` null `
 
 
-* __error__: `string`
+* __error__: ` string `
 

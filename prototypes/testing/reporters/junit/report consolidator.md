@@ -6,9 +6,9 @@ description: [testing/reporters/junit]
 
 ### Input ports:
 
-* __pre-report__: `any`
+* __pre-report__: ` any `
 
 ### Output ports:
 
-* __JSON report__: `any`
+* __JSON report__: ` any `
 

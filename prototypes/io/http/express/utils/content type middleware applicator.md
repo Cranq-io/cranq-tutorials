@@ -16,7 +16,7 @@ Example A:
 
 ### Input ports:
 
-* __app ID__: `string`
+* __app ID__: ` string `
 
     Identifies the Express app to apply the middleware on.
 
@@ -28,11 +28,11 @@ Example A:
 
 ### Output ports:
 
-* __app ID__: `string`
+* __app ID__: ` string `
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
 
-* __done__: `any`
+* __done__: ` any `
 

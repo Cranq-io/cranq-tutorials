@@ -13,8 +13,8 @@ description: [apis/googlemaps/staticmap/utils]
 
 ### Output ports:
 
-* __center area__: `{"center" :[number,number], "zoom" :number}`
+* __center area__: ` {"center" :[number,number], "zoom" :number} `
 
 
-* __unknown__: `any`
+* __unknown__: ` any `
 

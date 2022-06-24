@@ -8,12 +8,12 @@ Closes the specified SQLite database.
 
 ### Input ports:
 
-* __params__: `{"db-id" :string}`
+* __params__: ` {"db-id" :string} `
 
 ### Output ports:
 
-* __done__: `null`
+* __done__: ` null `
 
 
-* __error__: `string`
+* __error__: ` string `
 

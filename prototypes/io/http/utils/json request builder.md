@@ -10,16 +10,16 @@ For body-less requests, see `io/http/utils/Body-less request builder`.
 
 ### Input ports:
 
-* __method__: `("GET" or "POST" or "PUT" or "PATCH" or "DELETE")`
+* __method__: ` ("GET" or "POST" or "PUT" or "PATCH" or "DELETE") `
 
 
-* __url__: `string`
+* __url__: ` string `
 
 
-* __headers__: `{string: string}`
+* __headers__: ` {string: string} `
 
 
-* __data__: `any`
+* __data__: ` any `
 
 ### Output ports:
 

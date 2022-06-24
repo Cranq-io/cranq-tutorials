@@ -6,7 +6,7 @@ description: [scripting/actions]
 
 ### Input ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Receives script state.
 
@@ -18,7 +18,7 @@ description: [scripting/actions]
 
 ### Output ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Sends updated script state.
 

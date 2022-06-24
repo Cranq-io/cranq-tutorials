@@ -28,7 +28,7 @@ destination: "home/user1/dir2/bar.txt"
 
 ### Input ports:
 
-* __source__: `string`
+* __source__: ` string `
 
     Receives the path of the source file to move.
     
@@ -38,7 +38,7 @@ destination: "home/user1/dir2/bar.txt"
     (To keep the application portable use "/" as path separator.)
 
 
-* __destination__: `string`
+* __destination__: ` string `
 
     Receives the path of the desired target file.
     
@@ -49,7 +49,7 @@ destination: "home/user1/dir2/bar.txt"
 
 ### Output ports:
 
-* __bounced__: `{"source" :string, "destination" :string}`
+* __bounced__: ` {"source" :string, "destination" :string} `
 
     Sends synced parameters if operation has failed.
     
@@ -60,7 +60,7 @@ destination: "home/user1/dir2/bar.txt"
     }
 
 
-* __moved__: `{"source" :string, "destination" :string}`
+* __moved__: ` {"source" :string, "destination" :string} `
 
     Sends synced parameters if operation has succeeded.
     
@@ -71,7 +71,7 @@ destination: "home/user1/dir2/bar.txt"
     }
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
     Sends error information if the operation has failed.
     

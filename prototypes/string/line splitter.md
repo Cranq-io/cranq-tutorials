@@ -17,7 +17,7 @@ line3"
 
 ### Input ports:
 
-* __string__: `string`
+* __string__: ` string `
 
     Receives the string to split by lines.
     
@@ -28,7 +28,7 @@ line3"
 
 ### Output ports:
 
-* __lines__: `string[]`
+* __lines__: ` string[] `
 
     Emits the array of lines.
     

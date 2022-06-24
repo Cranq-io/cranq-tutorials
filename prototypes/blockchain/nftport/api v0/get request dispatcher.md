@@ -8,10 +8,10 @@ Dispatches a GET request to one of the NFTPort API endpoints.
 
 ### Input ports:
 
-* __API key__: `string`
+* __API key__: ` string `
 
 
-* __URL__: `string`
+* __URL__: ` string `
 
     [Inherited from port `url` of `dispatch request`] 
     Receives the target of the HTTP request. Also called "resource" 
@@ -21,10 +21,10 @@ Dispatches a GET request to one of the NFTPort API endpoints.
 
 ### Output ports:
 
-* __data__: `any`
+* __data__: ` any `
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
 
 * __response__: 

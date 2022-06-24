@@ -13,7 +13,7 @@ Example:
 
 ### Input ports:
 
-* __path__: `string`
+* __path__: ` string `
 
     Receives the path to resolve to absolute path.
     
@@ -26,7 +26,7 @@ Example:
 
 ### Output ports:
 
-* __resolved__: `string`
+* __resolved__: ` string `
 
     Sends the resolved absolute path.
     

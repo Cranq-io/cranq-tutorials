@@ -12,7 +12,7 @@ https://docs.nftport.xyz/docs/nftport/b3A6MjQ1OTQxMDc-find-counterfeit-nf-ts-w-t
 
 ### Input ports:
 
-* __NFT ID__: `{"contractAddress" :string, "tokenId" :string}`
+* __NFT ID__: ` {"contractAddress" :string, "tokenId" :string} `
 
 
 * __params__: 
@@ -22,8 +22,8 @@ https://docs.nftport.xyz/docs/nftport/b3A6MjQ1OTQxMDc-find-counterfeit-nf-ts-w-t
 
 ### Output ports:
 
-* __file URLs__: `string[]`
+* __file URLs__: ` string[] `
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 

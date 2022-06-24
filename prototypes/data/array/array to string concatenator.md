@@ -8,7 +8,7 @@ Concatenates an array to string, using the specified delimiter.
 
 ### Input ports:
 
-* __array__: `any[]`
+* __array__: ` any[] `
 
     Receives array to be concatenated.
     
@@ -16,7 +16,7 @@ Concatenates an array to string, using the specified delimiter.
     ["A", "B", "C"]
 
 
-* __delimiter__: `string`
+* __delimiter__: ` string `
 
     Receives the delimiter to use between array elements.
     
@@ -25,7 +25,7 @@ Concatenates an array to string, using the specified delimiter.
 
 ### Output ports:
 
-* __concatenated__: `string`
+* __concatenated__: ` string `
 
     Sends the concatenated array.
     

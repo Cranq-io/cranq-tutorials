@@ -35,5 +35,5 @@ Possible error responses:
 
 ### Output ports:
 
-* __request__: ``io/http/Request``
+* __request__: `` `io/http/Request` ``
 

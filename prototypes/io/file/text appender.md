@@ -28,7 +28,7 @@ Example (failure):
 
 ### Input ports:
 
-* __path__: `string`
+* __path__: ` string `
 
     Receives the path of the file to append text to.
     
@@ -38,7 +38,7 @@ Example (failure):
     (To keep the application portable use "/" as path separator.)
 
 
-* __text__: `string`
+* __text__: ` string `
 
     Receives the text to append to the specified file.
     
@@ -47,7 +47,7 @@ Example (failure):
 
 ### Output ports:
 
-* __bounced__: `any`
+* __bounced__: ` any `
 
     Sends synced parameters if operation has failed.
     
@@ -58,7 +58,7 @@ Example (failure):
     }
 
 
-* __written__: `any`
+* __written__: ` any `
 
     Sends synced parameters if operation has succeeded..
     
@@ -69,7 +69,7 @@ Example (failure):
     }
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
     Sends error information if the operation has failed.
     

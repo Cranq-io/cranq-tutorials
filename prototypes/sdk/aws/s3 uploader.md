@@ -6,7 +6,7 @@ description: [sdk/AWS]
 
 ### Input ports:
 
-* __session id__: `string`
+* __session id__: ` string `
 
     Receives the id of the S3 session.
     
@@ -14,7 +14,7 @@ description: [sdk/AWS]
     "s3-session-id"
 
 
-* __bucket name__: `string`
+* __bucket name__: ` string `
 
     Receives the name of the S3 bucket to upload to.
     
@@ -22,7 +22,7 @@ description: [sdk/AWS]
     "buckat-name"
 
 
-* __file name__: `any`
+* __file name__: ` any `
 
     Receives the name of the file  to be uploaded.
     
@@ -30,7 +30,7 @@ description: [sdk/AWS]
     "test.tx"
 
 
-* __file content__: `any`
+* __file content__: ` any `
 
     Receives the content of the file  to be uploaded.
     
@@ -56,5 +56,5 @@ description: [sdk/AWS]
     } 
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 

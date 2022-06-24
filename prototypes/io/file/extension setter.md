@@ -13,7 +13,7 @@ Example:
 
 ### Input ports:
 
-* __path__: `string`
+* __path__: ` string `
 
     Receives the path to set the extension on.
     
@@ -23,7 +23,7 @@ Example:
     (To keep the application portable use "/" as path separator.)
 
 
-* __extension__: `string`
+* __extension__: ` string `
 
     Receives the extension to set on `path`.
     
@@ -32,7 +32,7 @@ Example:
 
 ### Output ports:
 
-* __path__: `string`
+* __path__: ` string `
 
     Sends the resulting path.
     

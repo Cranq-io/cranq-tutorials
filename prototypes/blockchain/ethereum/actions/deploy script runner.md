@@ -12,13 +12,13 @@ description: [blockchain/ethereum/actions]
     ```
 
 
-* __state__: `any`
+* __state__: ` any `
 
     Receives script state.
 
 ### Output ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Sends updated script state.
 

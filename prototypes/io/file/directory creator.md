@@ -13,7 +13,7 @@ Example:
 
 ### Input ports:
 
-* __path__: `string`
+* __path__: ` string `
 
     Receives the path of the  directory to create.
     
@@ -24,7 +24,7 @@ Example:
 
 ### Output ports:
 
-* __created__: `string`
+* __created__: ` string `
 
     Sends the path if the operation has succeeded.
     
@@ -34,7 +34,7 @@ Example:
     
 
 
-* __bounced__: `string`
+* __bounced__: ` string `
 
     Sends the path if the operation has failed.
     
@@ -42,7 +42,7 @@ Example:
     "/home/user1/newdir"
 
 
-* __error__: `{"message" :string}`
+* __error__: ` {"message" :string} `
 
     Sends error information if the operation has failed.
     

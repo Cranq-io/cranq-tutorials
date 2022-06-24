@@ -8,5 +8,5 @@ Generates a HTML report of the specified JUnit XML, and opens it in the default 
 
 ### Input ports:
 
-* __junit xml__: `any`
+* __junit xml__: ` any `
 

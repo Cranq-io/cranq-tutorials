@@ -26,13 +26,13 @@ Creates the smart contract as file based on the parameters.
     }
 
 
-* __state__: `any`
+* __state__: ` any `
 
     Receives script state.
 
 ### Output ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Sends updated script state.
 

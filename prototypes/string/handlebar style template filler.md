@@ -14,7 +14,7 @@ Example:
 
 ### Input ports:
 
-* __template__: `string`
+* __template__: ` string `
 
     Receives the template string to replace parameters in.
     
@@ -22,7 +22,7 @@ Example:
     "Hello {{subject}}!"
 
 
-* __params__: `{string: any}`
+* __params__: ` {string: any} `
 
     Receives the parameters to replace in the template.
     
@@ -31,7 +31,7 @@ Example:
 
 ### Output ports:
 
-* __filled__: `string`
+* __filled__: ` string `
 
     Sends the template string with replaced parameters.
     
@@ -39,7 +39,7 @@ Example:
     "Hello world!"
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
     Sends error in case any occurs during operation.
     

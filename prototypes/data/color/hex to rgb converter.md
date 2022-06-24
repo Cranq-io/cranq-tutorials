@@ -6,9 +6,9 @@ description: [data/color]
 
 ### Input ports:
 
-* __hex__: `any`
+* __hex__: ` any `
 
 ### Output ports:
 
-* __RGB__: `any`
+* __RGB__: ` any `
 

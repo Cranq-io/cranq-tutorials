@@ -20,7 +20,7 @@ Example (failure):
 
 ### Input ports:
 
-* __path__: `string`
+* __path__: ` string `
 
     Receives the path of the file to read content of as text.
     
@@ -31,7 +31,7 @@ Example (failure):
 
 ### Output ports:
 
-* __text__: `string`
+* __text__: ` string `
 
     Sends the text content read from the file specified by `path`.
     
@@ -39,7 +39,7 @@ Example (failure):
     "Hello World"
 
 
-* __bounced__: `string`
+* __bounced__: ` string `
 
     Sends the path if the operation has failed.
     
@@ -47,7 +47,7 @@ Example (failure):
     "/home/user1/dir1/foo.txt"
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
     Sends error information if the operation has failed.
     

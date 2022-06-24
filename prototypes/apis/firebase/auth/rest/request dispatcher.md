@@ -6,7 +6,7 @@ description: [apis/firebase/auth/rest]
 
 ### Input ports:
 
-* __action__: `any`
+* __action__: ` any `
 
     Identifies account action in the Google Identity Toolkit API.
     
@@ -24,21 +24,21 @@ description: [apis/firebase/auth/rest]
     "delete"
 
 
-* __API key__: `any`
+* __API key__: ` any `
 
 
-* __data__: `any`
+* __data__: ` any `
 
 ### Output ports:
 
-* __ID token__: `any`
+* __ID token__: ` any `
 
 
-* __user ID__: `any`
+* __user ID__: ` any `
 
 
-* __error__: `any`
+* __error__: ` any `
 
 
-* __auth context__: `any`
+* __auth context__: ` any `
 

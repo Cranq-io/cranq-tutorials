@@ -16,7 +16,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Input ports:
 
-* __item__: `any`
+* __item__: ` any `
 
     Receives item to be added to the array.
     
@@ -24,7 +24,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
     "Foo"
 
 
-* __count__: `number`
+* __count__: ` number `
 
     Receives the number of times the item is to be add to the array.
     
@@ -33,7 +33,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Output ports:
 
-* __array__: `any[]`
+* __array__: ` any[] `
 
     Sends the built array.
     

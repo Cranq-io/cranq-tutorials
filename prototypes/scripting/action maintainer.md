@@ -6,7 +6,7 @@ description: [scripting]
 
 ### Input ports:
 
-* __action result__: `any`
+* __action result__: ` any `
 
 
 * __params__: 
@@ -15,13 +15,13 @@ description: [scripting]
     ```
 
 
-* __state__: `any`
+* __state__: ` any `
 
     Receives script state.
 
 ### Output ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Sends script state as it was written.
 

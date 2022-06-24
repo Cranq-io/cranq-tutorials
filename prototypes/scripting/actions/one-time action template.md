@@ -8,7 +8,7 @@ Template for creating actions that run only once during the execution of the scr
 
 ### Input ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Receives script state.
 
@@ -20,7 +20,7 @@ Template for creating actions that run only once during the execution of the scr
 
 ### Output ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Sends updated script state.
 

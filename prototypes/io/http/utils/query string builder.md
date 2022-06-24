@@ -12,13 +12,13 @@ Example:
 
 ### Input ports:
 
-* __params__: `{string: (string or string[])}`
+* __params__: ` {string: (string or string[])} `
 
     Receives query parameters to be serialized as a dictionary.
 
 ### Output ports:
 
-* __query__: `string`
+* __query__: ` string `
 
     Sends HTTP query string.
 

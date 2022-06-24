@@ -22,13 +22,13 @@ Creates the deploy script to deploy the contract using Hardhat.
     }
 
 
-* __state__: `any`
+* __state__: ` any `
 
     Receives script state.
 
 ### Output ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Sends updated script state.
 

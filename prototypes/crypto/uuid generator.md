@@ -6,9 +6,9 @@ description: [crypto]
 
 ### Input ports:
 
-* __v4__: `any`
+* __v4__: ` any `
 
 ### Output ports:
 
-* __uuid__: `any`
+* __uuid__: ` any `
 

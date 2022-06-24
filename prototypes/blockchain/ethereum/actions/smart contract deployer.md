@@ -6,7 +6,7 @@ description: [blockchain/ethereum/actions]
 
 ### Input ports:
 
-* __state__: `any`
+* __state__: ` any `
 
 
 * __params__: 
@@ -16,7 +16,7 @@ description: [blockchain/ethereum/actions]
 
 ### Output ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Example: 
     {

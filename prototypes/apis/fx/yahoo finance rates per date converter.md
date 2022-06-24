@@ -6,7 +6,7 @@ description: [apis/fx]
 
 ### Input ports:
 
-* __timestamps__: `any[]`
+* __timestamps__: ` any[] `
 
     [Inherited from port `array` of `create rates per date mapping`] 
     Receives array to be reduced.
@@ -15,7 +15,7 @@ description: [apis/fx]
     ["A", "B", "C"]
 
 
-* __prices__: `any[]`
+* __prices__: ` any[] `
 
     [Inherited from port `array` of `iterate over adjusted close prices`] 
     Recieves array to be iterated over.
@@ -26,7 +26,7 @@ description: [apis/fx]
 
 ### Output ports:
 
-* __rates per date__: `any[][number]`
+* __rates per date__: ` any[][number] `
 
     [Inherited from port `reduced` of `create rates per date mapping`] 
     Sends the reduced array.

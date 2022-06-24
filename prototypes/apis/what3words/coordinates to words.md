@@ -6,7 +6,7 @@ description: [apis/what3words]
 
 ### Input ports:
 
-* __coordinates__: `[number,number]`
+* __coordinates__: ` [number,number] `
 
     Receives the coordinates to be converted to what3words.
     
@@ -36,5 +36,5 @@ description: [apis/what3words]
     ```
 
 
-* __error__: `{"error" :string, optional "details" :any}`
+* __error__: ` {"error" :string, optional "details" :any} `
 

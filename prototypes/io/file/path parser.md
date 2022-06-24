@@ -16,7 +16,7 @@ Example:
 
 ### Input ports:
 
-* __path__: `string`
+* __path__: ` string `
 
     Receives the path to parse.
     

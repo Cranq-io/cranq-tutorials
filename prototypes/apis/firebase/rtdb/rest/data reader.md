@@ -8,13 +8,13 @@ Reads the data entry identified by 'path', from a Firebase Realtime Database.
 
 ### Input ports:
 
-* __query context__: `any`
+* __query context__: ` any `
 
     idToken
     dbUrl
 
 
-* __path__: `any`
+* __path__: ` any `
 
     Identifies data entry to be read.
     
@@ -22,13 +22,13 @@ Reads the data entry identified by 'path', from a Firebase Realtime Database.
 
 ### Output ports:
 
-* __data__: `any`
+* __data__: ` any `
 
 
-* __error__: `any`
+* __error__: ` any `
 
 
-* __query context__: `any`
+* __query context__: ` any `
 
     idToken
     dbUrl

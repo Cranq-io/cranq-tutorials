@@ -24,23 +24,23 @@ Example b) signal order:
 
 ### Input ports:
 
-* __1__: `any`
+* __1__: ` any `
 
     Receives signal or takes parameter to be sent out first.
 
 
-* __2__: `any`
+* __2__: ` any `
 
     Receives signal or takes parameter to be sent out second.
 
 ### Output ports:
 
-* __1__: `any`
+* __1__: ` any `
 
     Forwards signal received via `1` (input).
 
 
-* __2__: `any`
+* __2__: ` any `
 
     Forwards signal received via `2` (input). Does not send before `1` (output).
 

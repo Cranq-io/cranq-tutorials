@@ -6,12 +6,12 @@ description: [json]
 
 ### Input ports:
 
-* __data__: `any`
+* __data__: ` any `
 
 
-* __pretty__: `any`
+* __pretty__: ` any `
 
 ### Output ports:
 
-* __json__: `any`
+* __json__: ` any `
 

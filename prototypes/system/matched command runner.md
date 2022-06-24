@@ -12,19 +12,19 @@ Sends empty array on no match.
 
 ### Input ports:
 
-* __cwd__: `any`
+* __cwd__: ` any `
 
     Receives individual fields for syncing.
 
 
-* __command__: `string`
+* __command__: ` string `
 
 
-* __regex__: `string`
+* __regex__: ` string `
 
 ### Output ports:
 
-* __groups__: `string[]`
+* __groups__: ` string[] `
 
     Matched RegEx groups
 

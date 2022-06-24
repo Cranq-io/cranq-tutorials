@@ -16,11 +16,11 @@ This is an internal node. Use specific SQLite nodes instead.
 
 ### Output ports:
 
-* __data__: `any`
+* __data__: ` any `
 
 
-* __done__: `null`
+* __done__: ` null `
 
 
-* __error__: `string`
+* __error__: ` string `
 

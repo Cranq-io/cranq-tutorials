@@ -26,7 +26,7 @@ Example B
     Receives response that might contain an error.
 
 
-* __error msg__: `string`
+* __error msg__: ` string `
 
     Receives error message to appear in `error`.
 
@@ -38,5 +38,5 @@ Example B
     ```
 
 
-* __error__: `{"error" :string, optional "details" :any}`
+* __error__: ` {"error" :string, optional "details" :any} `
 

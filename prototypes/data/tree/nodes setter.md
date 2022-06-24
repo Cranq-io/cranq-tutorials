@@ -26,7 +26,7 @@ Example:
 
 ### Input ports:
 
-* __tree__: `any`
+* __tree__: ` any `
 
     Receives tree data structure in which to store a node.
     
@@ -34,7 +34,7 @@ Example:
     {"a": "a"}
 
 
-* __paths__: `(string[] or number[])[]`
+* __paths__: ` (string[] or number[])[] `
 
     Receives the location of the nodes.
     
@@ -45,7 +45,7 @@ Example:
     ]
 
 
-* __nodes__: `any[]`
+* __nodes__: ` any[] `
 
     Receives nodes to be stored in the tree.
     
@@ -54,7 +54,7 @@ Example:
 
 ### Output ports:
 
-* __tree__: `any`
+* __tree__: ` any `
 
     Sends updated tree data structure.
     

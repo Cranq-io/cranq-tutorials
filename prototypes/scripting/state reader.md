@@ -8,19 +8,19 @@ Reads the contents of "state.json", or, when absent, forwards the received `stat
 
 ### Input ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Receives initial script state.
 
 
-* __config__: `{"working-folder" :string}`
+* __config__: ` {"working-folder" :string} `
 
 
-* __params__: `{"cwd-path" :(string or number)[]}`
+* __params__: ` {"cwd-path" :(string or number)[]} `
 
 ### Output ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Receives script state read from path.
 

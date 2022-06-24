@@ -14,18 +14,18 @@ Example:
 
 ### Input ports:
 
-* __a__: `number`
+* __a__: ` number `
 
     The first operand of the subtraction
 
 
-* __b__: `number`
+* __b__: ` number `
 
     The second operand of the subtraction
 
 ### Output ports:
 
-* __diff__: `number`
+* __diff__: ` number `
 
     Sends the difference of 'a' from 'b'
 

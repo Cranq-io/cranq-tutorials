@@ -14,7 +14,7 @@ Example:
 
 ### Input ports:
 
-* __session Id__: `string`
+* __session Id__: ` string `
 
     Receives the session id of the drive action.
     
@@ -22,7 +22,7 @@ Example:
     "drive_session"
 
 
-* __email__: `string`
+* __email__: ` string `
 
     Receives the email address of the service account.
     
@@ -30,7 +30,7 @@ Example:
     "email@email.com"
 
 
-* __key__: `string`
+* __key__: ` string `
 
     Receives the private key of the service account.
     
@@ -39,7 +39,7 @@ Example:
 
 ### Output ports:
 
-* __done__: `null`
+* __done__: ` null `
 
     Sends null if the action was successful.
     
@@ -47,7 +47,7 @@ Example:
     null
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
     Sends the error which happened during the execution of the action.
     

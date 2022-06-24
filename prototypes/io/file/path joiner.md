@@ -13,7 +13,7 @@ Example:
 
 ### Input ports:
 
-* __base__: `string`
+* __base__: ` string `
 
     Receives the base path to concatenate onto.
     
@@ -23,7 +23,7 @@ Example:
     (To keep the application portable use "/" as path separator.)
 
 
-* __relative__: `string`
+* __relative__: ` string `
 
     Receives the path relative to `base`.
     
@@ -34,7 +34,7 @@ Example:
 
 ### Output ports:
 
-* __joined__: `string`
+* __joined__: ` string `
 
     Sends the resulting path.
     

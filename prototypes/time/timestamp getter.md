@@ -8,9 +8,9 @@ Gets current timestamp
 
 ### Input ports:
 
-* __get__: `any`
+* __get__: ` any `
 
 ### Output ports:
 
-* __timestamp__: `any`
+* __timestamp__: ` any `
 

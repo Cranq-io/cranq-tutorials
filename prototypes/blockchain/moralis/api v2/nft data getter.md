@@ -13,15 +13,15 @@ https://admin.moralis.io/web3Api
 
 ### Input ports:
 
-* __API key__: `string`
+* __API key__: ` string `
 
 
-* __address__: `string`
+* __address__: ` string `
 
     Receives the contract address for a token.
 
 
-* __token ID__: `string`
+* __token ID__: ` string `
 
     Receives the identifier of the token in the context of its governing contract.
 
@@ -40,7 +40,7 @@ https://admin.moralis.io/web3Api
 
 ### Output ports:
 
-* __NFT data__: ``blockchain/moralis/NFT data``
+* __NFT data__: `` `blockchain/moralis/NFT data` ``
 
     Sends a list of NFT transfers as returned by the Moralis API
 
@@ -53,5 +53,5 @@ https://admin.moralis.io/web3Api
     Sends the entire response from the Moralis API, including status and header.
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 

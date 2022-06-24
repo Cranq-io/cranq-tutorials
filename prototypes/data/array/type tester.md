@@ -12,7 +12,7 @@ Example:
 
 ### Input ports:
 
-* __data__: `any[]`
+* __data__: ` any[] `
 
     Receives data to test if its type is array.
     
@@ -21,7 +21,7 @@ Example:
 
 ### Output ports:
 
-* __is array__: `boolean`
+* __is array__: ` boolean `
 
     Sends if the type of the recieved `data` is array.
     

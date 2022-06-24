@@ -12,7 +12,7 @@ Example:
 
 ### Input ports:
 
-* __string__: `string`
+* __string__: ` string `
 
     Receives string to be converted to lower case.
     
@@ -21,7 +21,7 @@ Example:
 
 ### Output ports:
 
-* __lowercase__: `string`
+* __lowercase__: ` string `
 
     Sends `string` converted to lower case.
     

@@ -12,20 +12,20 @@ Bounces command and options when the node is already in the state of executing a
 
 ### Input ports:
 
-* __command__: `string`
+* __command__: ` string `
 
 
-* __options__: `{"cwd" :string, "env" :{string: string}}`
+* __options__: ` {"cwd" :string, "env" :{string: string}} `
 
 ### Output ports:
 
-* __stdout__: `string`
+* __stdout__: ` string `
 
 
-* __stderr__: `string`
+* __stderr__: ` string `
 
 
-* __error__: `(string or null)`
+* __error__: ` (string or null) `
 
     Null on success.
 
@@ -38,5 +38,5 @@ Bounces command and options when the node is already in the state of executing a
     The received command and options when the node is still executing another command.
 
 
-* __bounced__: `any`
+* __bounced__: ` any `
 

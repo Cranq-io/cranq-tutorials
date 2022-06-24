@@ -14,18 +14,18 @@ Example:
 
 ### Input ports:
 
-* __a__: `number`
+* __a__: ` number `
 
     The first value to pick the max from
 
 
-* __b__: `number`
+* __b__: ` number `
 
     The second value to pick the max from
 
 ### Output ports:
 
-* __max__: `number`
+* __max__: ` number `
 
     Sends the maximum of the provided two values.
 

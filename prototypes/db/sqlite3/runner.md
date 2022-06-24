@@ -18,14 +18,14 @@ https://www.sqlite.org/syntax.html
 
 ### Output ports:
 
-* __done__: `string`
+* __done__: ` string `
 
 
-* __last ID__: `string`
+* __last ID__: ` string `
 
 
-* __changes__: `number`
+* __changes__: ` number `
 
 
-* __error__: `string`
+* __error__: ` string `
 

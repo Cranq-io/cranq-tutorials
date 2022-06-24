@@ -6,8 +6,8 @@ description: [debug]
 
 ### Input ports:
 
-* __data__: `any`
+* __data__: ` any `
 
 
-* __message__: `string`
+* __message__: ` string `
 

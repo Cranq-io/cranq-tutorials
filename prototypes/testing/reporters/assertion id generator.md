@@ -6,9 +6,9 @@ description: [testing/reporters]
 
 ### Input ports:
 
-* __next__: `any`
+* __next__: ` any `
 
 ### Output ports:
 
-* __assertion ID__: `any`
+* __assertion ID__: ` any `
 

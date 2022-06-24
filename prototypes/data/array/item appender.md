@@ -13,7 +13,7 @@ Example:
 
 ### Input ports:
 
-* __array__: `any[]`
+* __array__: ` any[] `
 
     Receives array to append item to.
     
@@ -21,7 +21,7 @@ Example:
     [1,2,3]
 
 
-* __item__: `any`
+* __item__: ` any `
 
     Receives item to append to the array.
     
@@ -30,7 +30,7 @@ Example:
 
 ### Output ports:
 
-* __array__: `any[]`
+* __array__: ` any[] `
 
     Sends the new array with the appended item.
     

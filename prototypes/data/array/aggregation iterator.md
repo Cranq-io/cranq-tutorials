@@ -8,7 +8,7 @@ Iterates through items of an array, specifically for the purpose of being aggreg
 
 ### Input ports:
 
-* __array__: `any[]`
+* __array__: ` any[] `
 
     Recieves array to be iterated over.
     
@@ -17,7 +17,7 @@ Iterates through items of an array, specifically for the purpose of being aggreg
 
 ### Output ports:
 
-* __item__: `any[][number]`
+* __item__: ` any[][number] `
 
     Sends current item.
     
@@ -25,7 +25,7 @@ Iterates through items of an array, specifically for the purpose of being aggreg
     1
 
 
-* __is last__: `boolean`
+* __is last__: ` boolean `
 
     Sends flag whether current item is the last one.
     

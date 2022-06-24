@@ -24,7 +24,7 @@ See also:
 
 ### Input ports:
 
-* __data__: `any`
+* __data__: ` any `
 
     Receives signal with iterable tag.
     
@@ -32,12 +32,12 @@ See also:
 
 ### Output ports:
 
-* __data__: `any`
+* __data__: ` any `
 
     Sends signal with data identical to the one received via `data`, but with incremented tag.
 
 
-* __bounced__: `any`
+* __bounced__: ` any `
 
     Forwards the signal received through `data` when its tag was not iterable.
 

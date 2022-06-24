@@ -13,13 +13,13 @@ Example:
 
 ### Input ports:
 
-* __string__: `string`
+* __string__: ` string `
 
     The string
 
 ### Output ports:
 
-* __length__: `number`
+* __length__: ` number `
 
     The length of the string.
 

@@ -8,7 +8,7 @@ Compiles and deploys a smart contract
 
 ### Input ports:
 
-* __state__: `any`
+* __state__: ` any `
 
 
 * __params__: 
@@ -18,5 +18,5 @@ Compiles and deploys a smart contract
 
 ### Output ports:
 
-* __state__: `any`
+* __state__: ` any `
 

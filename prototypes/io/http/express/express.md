@@ -51,12 +51,12 @@ Core interface to Express.js. Use higher level nodes to interact with Express.
     Sends the request processed by  defined handlers. Can be used to post-process the request.
 
 
-* __done__: `null`
+* __done__: ` null `
 
     Event triggered when the specified action has been executed.
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
     Sends error information in case the specified action could not be successfully executed.
     

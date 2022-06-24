@@ -8,9 +8,9 @@ Example node, that demonstrates the basic usage of the dictionary setters
 
 ### Input ports:
 
-* __run__: `any`
+* __run__: ` any `
 
 ### Output ports:
 
-* __dict__: `any`
+* __dict__: ` any `
 

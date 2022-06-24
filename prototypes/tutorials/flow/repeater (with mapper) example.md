@@ -8,12 +8,12 @@ Example node, that demonstrates the basic usage of the flow/Repeater node, provi
 
 ### Input ports:
 
-* __array__: `any`
+* __array__: ` any `
 
 
-* __value__: `any`
+* __value__: ` any `
 
 ### Output ports:
 
-* __output__: `any`
+* __output__: ` any `
 

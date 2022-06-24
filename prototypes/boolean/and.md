@@ -14,18 +14,18 @@ Example:
 
 ### Input ports:
 
-* __a__: `boolean`
+* __a__: ` boolean `
 
     Receives the first operand.
 
 
-* __b__: `boolean`
+* __b__: ` boolean `
 
     Receives the second operand.
 
 ### Output ports:
 
-* __and__: `boolean`
+* __and__: ` boolean `
 
     Sends the result of the logical AND operation.
 

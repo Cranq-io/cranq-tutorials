@@ -6,9 +6,9 @@ description: [testing/reporters/junit]
 
 ### Input ports:
 
-* __context__: `(any[] or {string: any})`
+* __context__: ` (any[] or {string: any}) `
 
 ### Output ports:
 
-* __context__: `any`
+* __context__: ` any `
 

@@ -15,7 +15,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Input ports:
 
-* __dict__: `any`
+* __dict__: ` any `
 
     Receives the dictionary to serialize.
     
@@ -24,7 +24,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Output ports:
 
-* __json__: `any`
+* __json__: ` any `
 
     Sends the JSON string representation of the provided dictionary.
     

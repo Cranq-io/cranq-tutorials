@@ -25,11 +25,11 @@ Fetches image of a specified area on a global map.
 
 ### Output ports:
 
-* __image__: `string`
+* __image__: ` string `
 
 
-* __response__: `any`
+* __response__: ` any `
 
 
-* __error__: `{"error" :string, optional "details" :any}`
+* __error__: ` {"error" :string, optional "details" :any} `
 

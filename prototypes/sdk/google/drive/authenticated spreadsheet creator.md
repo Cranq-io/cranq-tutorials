@@ -27,7 +27,7 @@ Example:
 
 ### Input ports:
 
-* __session Id__: `string`
+* __session Id__: ` string `
 
     Receives the session id of the drive action.
     
@@ -35,7 +35,7 @@ Example:
     "drive_session"
 
 
-* __auth data__: `{"email" :string, "key" :string}`
+* __auth data__: ` {"email" :string, "key" :string} `
 
     Receives the authentication data of service account.
     
@@ -71,7 +71,7 @@ Example:
 
 ### Output ports:
 
-* __done__: `{"fileid" :string}`
+* __done__: ` {"fileid" :string} `
 
     Sends the generated fileid.
     
@@ -79,7 +79,7 @@ Example:
     {"fileid": "1_ewweewweFileID"}
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
     Sends the error which happened during the execution of the action.
     

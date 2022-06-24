@@ -29,7 +29,7 @@ Example C:
 
 ### Input ports:
 
-* __dict__: `{string: any}`
+* __dict__: ` {string: any} `
 
     Receives the dictionary to test.
     
@@ -37,7 +37,7 @@ Example C:
     { "first": 1, "third": 3, "fifth": 5 }
 
 
-* __structure__: `{string: any}`
+* __structure__: ` {string: any} `
 
     Receives the dictionary with the reference structure, to which the comparison will be made.
     
@@ -45,7 +45,7 @@ Example C:
     { "first": 0, "fifth": 0 }
 
 
-* __strict__: `boolean`
+* __strict__: ` boolean `
 
     Receives whether extra keys in `dict` are allowed.
     
@@ -54,7 +54,7 @@ Example C:
 
 ### Output ports:
 
-* __matches__: `boolean`
+* __matches__: ` boolean `
 
     Sends a value indicating whether the dictionary matches the structure.
     

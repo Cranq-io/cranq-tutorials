@@ -20,23 +20,23 @@ Example (divide by zero):
 
 ### Input ports:
 
-* __a__: `number`
+* __a__: ` number `
 
     The counter part of the fraction.
 
 
-* __b__: `number`
+* __b__: ` number `
 
     Denominator part of the fraction.
 
 ### Output ports:
 
-* __fraction__: `number`
+* __fraction__: ` number `
 
     The fraction of the received numbers.
 
 
-* __bounced__: `{"a" :number, "b" :number}`
+* __bounced__: ` {"a" :number, "b" :number} `
 
     Sends synced inputs on error.
 

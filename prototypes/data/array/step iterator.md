@@ -14,7 +14,7 @@ Subsequent items will be sent out on receiving signals on `next`, with increment
 
 ### Input ports:
 
-* __array__: `any[]`
+* __array__: ` any[] `
 
     Sets up iteration and sends out the first item and index 0 with an iterable tag based on the original tag.
     
@@ -24,7 +24,7 @@ Subsequent items will be sent out on receiving signals on `next`, with increment
     [1,2,3]
 
 
-* __next__: `any`
+* __next__: ` any `
 
     Triggers sending out the next item and index, or, when there are no more items, the done signal.
     
@@ -37,7 +37,7 @@ Subsequent items will be sent out on receiving signals on `next`, with increment
 
 ### Output ports:
 
-* __item__: `any[][number]`
+* __item__: ` any[][number] `
 
     Sends the next item in the array.
     
@@ -47,7 +47,7 @@ Subsequent items will be sent out on receiving signals on `next`, with increment
     1
 
 
-* __index__: `number`
+* __index__: ` number `
 
     Sends the next index in the array.
     
@@ -57,7 +57,7 @@ Subsequent items will be sent out on receiving signals on `next`, with increment
     0
 
 
-* __done__: `any[]`
+* __done__: ` any[] `
 
     Sends out the iterated array when there are no more items in the array and a signal received through `next`, or, when an array is received through `array` that has one or 0 items.
     
@@ -67,7 +67,7 @@ Subsequent items will be sent out on receiving signals on `next`, with increment
     [1,2,3]
 
 
-* __bounced__: `any`
+* __bounced__: ` any `
 
     Sends any `next` signal that didn't satisfy the iterable tag requirement.
     

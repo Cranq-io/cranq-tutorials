@@ -15,7 +15,7 @@ Dispatches HTTP request with an URL encoded body, expects response as JSON, pars
 
 ### Output ports:
 
-* __data__: `any`
+* __data__: ` any `
 
     Sends HTTP response message body as data.
     
@@ -36,5 +36,5 @@ Dispatches HTTP request with an URL encoded body, expects response as JSON, pars
     Sends original response.
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 

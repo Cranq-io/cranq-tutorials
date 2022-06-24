@@ -47,7 +47,7 @@ Examples:
 
 ### Input ports:
 
-* __request__: `any`
+* __request__: ` any `
 
     Receives the request.
 
@@ -60,7 +60,7 @@ Examples:
     Receives the response.
 
 
-* __timeout__: `number`
+* __timeout__: ` number `
 
     Receives the timeout in milliseconds.
     

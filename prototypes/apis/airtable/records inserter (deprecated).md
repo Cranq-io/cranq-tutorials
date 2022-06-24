@@ -13,28 +13,28 @@ https://airtable.com/api/meta
 
 ### Input ports:
 
-* __base ID__: `string`
+* __base ID__: ` string `
 
     Receives the AirTable BaseID parameter.
 
 
-* __table name__: `string`
+* __table name__: ` string `
 
     Receives the table name to insert the records into.
 
 
-* __API key__: `string`
+* __API key__: ` string `
 
     Receives the API key to authenticate with.
 
 
-* __table__: `{string: any}[]`
+* __table__: ` {string: any}[] `
 
     Receives the table of data to insert.
 
 ### Output ports:
 
-* __response body__: `typeof `AirtableResponse``
+* __response body__: `` typeof `AirtableResponse` ``
 
     Outputs the response from AirTable.
 

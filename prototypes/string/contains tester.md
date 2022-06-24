@@ -14,18 +14,18 @@ Example:
 
 ### Input ports:
 
-* __string__: `string`
+* __string__: ` string `
 
     The string to look for the substring in
 
 
-* __substring__: `string`
+* __substring__: ` string `
 
     The string to find
 
 ### Output ports:
 
-* __contains__: `boolean`
+* __contains__: ` boolean `
 
     Whether the string contains the substring
 

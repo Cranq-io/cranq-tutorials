@@ -6,9 +6,9 @@ description: [testing/reporters/junit]
 
 ### Input ports:
 
-* __pre-report__: `(any[] or {string: any})`
+* __pre-report__: ` (any[] or {string: any}) `
 
 ### Output ports:
 
-* __pre-report__: `any`
+* __pre-report__: ` any `
 

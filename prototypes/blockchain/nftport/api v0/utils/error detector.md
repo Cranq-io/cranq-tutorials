@@ -16,16 +16,16 @@ Example B)
 
 ### Input ports:
 
-* __data__: `{"response" :("OK" or "NOK"), "error" :string}`
+* __data__: ` {"response" :("OK" or "NOK"), "error" :string} `
 
     Receives parsed response body from an NFTPort API endpoint.
 
 
-* __status__: `number`
+* __status__: ` number `
 
     Receives HTTP status from NFTPort API response.
 
 ### Output ports:
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 

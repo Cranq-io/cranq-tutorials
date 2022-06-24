@@ -12,17 +12,17 @@ https://docs.nftport.xyz/docs/nftport/b3A6MjQ1OTQxMDc-find-counterfeit-nf-ts-w-t
 
 ### Input ports:
 
-* __API key__: `string`
+* __API key__: ` string `
 
     Receives the NFTPort API key.
 
 
-* __contract address__: `string`
+* __contract address__: ` string `
 
     Receives the address of the NFT.
 
 
-* __token ID__: `any`
+* __token ID__: ` any `
 
     Receives the token ID of the NFT.
 
@@ -38,11 +38,11 @@ https://docs.nftport.xyz/docs/nftport/b3A6MjQ1OTQxMDc-find-counterfeit-nf-ts-w-t
 
 ### Output ports:
 
-* __similar NFTs__: ``blockchain/nftport/api v0/SimilarNft`[]`
+* __similar NFTs__: `` `blockchain/nftport/api v0/SimilarNft`[] ``
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
 
-* __response__: `any`
+* __response__: ` any `
 

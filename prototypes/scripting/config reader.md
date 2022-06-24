@@ -6,9 +6,9 @@ description: [scripting]
 
 ### Input ports:
 
-* __path__: `string`
+* __path__: ` string `
 
 ### Output ports:
 
-* __config__: `{string: any}`
+* __config__: ` {string: any} `
 

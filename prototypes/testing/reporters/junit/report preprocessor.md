@@ -6,12 +6,12 @@ description: [testing/reporters/junit]
 
 ### Input ports:
 
-* __assertion__: `any`
+* __assertion__: ` any `
 
 
-* __delay__: `any`
+* __delay__: ` any `
 
 ### Output ports:
 
-* __pre-report__: `any`
+* __pre-report__: ` any `
 

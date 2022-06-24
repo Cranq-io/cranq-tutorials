@@ -8,7 +8,7 @@ Generates a default error response based on the error received from an `io/http/
 
 ### Input ports:
 
-* __error__: `{"error" :"incorrect bearer token"}`
+* __error__: ` {"error" :"incorrect bearer token"} `
 
 ### Output ports:
 

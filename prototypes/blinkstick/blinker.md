@@ -6,15 +6,15 @@ description: [blinkstick]
 
 ### Input ports:
 
-* __color__: `any`
+* __color__: ` any `
 
 
-* __delay__: `any`
+* __delay__: ` any `
 
 
-* __repeats__: `any`
+* __repeats__: ` any `
 
 ### Output ports:
 
-* __done__: `any`
+* __done__: ` any `
 

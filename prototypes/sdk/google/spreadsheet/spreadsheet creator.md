@@ -35,7 +35,7 @@ Example:
 
 ### Input ports:
 
-* __auth data__: `{"email" :string, "key" :string}`
+* __auth data__: ` {"email" :string, "key" :string} `
 
     Receives the authentication data of service account.
     
@@ -88,7 +88,7 @@ Example:
 
 ### Output ports:
 
-* __done__: `null`
+* __done__: ` null `
 
     Sends null if the action was successful.
     
@@ -96,7 +96,7 @@ Example:
     null
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
     Sends the error which happened during the execution of the action.
     

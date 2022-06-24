@@ -20,13 +20,13 @@ See also:
 
 ### Input ports:
 
-* __data__: `any`
+* __data__: ` any `
 
     Receives the signal to be nested.
 
 ### Output ports:
 
-* __data__: `any`
+* __data__: ` any `
 
     Sends signal with data identical to the one received via `data`, but with nested tag.
 

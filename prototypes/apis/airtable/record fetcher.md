@@ -8,7 +8,7 @@ Fetches a single record from an AirTable table.
 
 ### Input ports:
 
-* __record ID__: `string`
+* __record ID__: ` string `
 
     Receives the identifier of the record relative to an AirTable table.
 
@@ -20,7 +20,7 @@ Fetches a single record from an AirTable table.
 
 ### Output ports:
 
-* __record__: `{string: any}`
+* __record__: ` {string: any} `
 
     Sends the retrieved AirTable record.
 
@@ -41,5 +41,5 @@ Fetches a single record from an AirTable table.
     Sends the entire response from the AirTable API without modification.
 
 
-* __error__: `{"error" :string, optional "details" :any}`
+* __error__: ` {"error" :string, optional "details" :any} `
 

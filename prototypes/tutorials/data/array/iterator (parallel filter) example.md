@@ -8,9 +8,9 @@ Example node, that demonstrates parallel filtering with the data/array/Iterator 
 
 ### Input ports:
 
-* __run__: `any`
+* __run__: ` any `
 
 ### Output ports:
 
-* __output__: `any`
+* __output__: ` any `
 

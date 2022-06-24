@@ -8,22 +8,22 @@ Builds an assertion record.
 
 ### Input ports:
 
-* __success__: `any`
+* __success__: ` any `
 
     Receives individual fields for syncing.
 
 
-* __actual__: `any`
+* __actual__: ` any `
 
     Receives individual fields for syncing.
 
 
-* __expected__: `any`
+* __expected__: ` any `
 
     Receives individual fields for syncing.
 
 
-* __type__: `any`
+* __type__: ` any `
 
 ### Output ports:
 

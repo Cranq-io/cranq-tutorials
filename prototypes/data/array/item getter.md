@@ -22,7 +22,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 
 ### Input ports:
 
-* __array__: `any[]`
+* __array__: ` any[] `
 
     Recieves array to retrieve item from.
     
@@ -30,7 +30,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
     [1,2]
 
 
-* __index__: `number`
+* __index__: ` number `
 
     Recieves index which identifies item to be retrieved in the array.
     
@@ -39,7 +39,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 
 ### Output ports:
 
-* __item__: `any[][number]`
+* __item__: ` any[][number] `
 
     Sends item at the specified index.
     
@@ -47,5 +47,5 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
     2
 
 
-* __not found__: `{"array" :any[], "index" :number}`
+* __not found__: ` {"array" :any[], "index" :number} `
 

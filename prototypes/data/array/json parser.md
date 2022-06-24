@@ -17,7 +17,7 @@ B.
 
 ### Input ports:
 
-* __json__: `string`
+* __json__: ` string `
 
     Recieves JSON string.
     
@@ -26,7 +26,7 @@ B.
 
 ### Output ports:
 
-* __parsed__: `any[]`
+* __parsed__: ` any[] `
 
     Sends the parsed array.
     
@@ -34,7 +34,7 @@ B.
     [1,2]
 
 
-* __bounced__: `string`
+* __bounced__: ` string `
 
     In case of error during parsing or when the result of the parseisng is not array it sends the `json` input string.
     

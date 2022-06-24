@@ -6,9 +6,9 @@ description: [apis/googlemaps/staticmap/utils]
 
 ### Input ports:
 
-* __size__: `[number,number]`
+* __size__: ` [number,number] `
 
 ### Output ports:
 
-* __string__: `string`
+* __string__: ` string `
 

@@ -6,21 +6,21 @@ description: [data/array]
 
 ### Input ports:
 
-* __array__: `any[]`
+* __array__: ` any[] `
 
 
-* __mapped item__: `any`
+* __mapped item__: ` any `
 
 ### Output ports:
 
-* __mapped__: `any[]`
+* __mapped__: ` any[] `
 
 
-* __item__: `any[][number]`
+* __item__: ` any[][number] `
 
 
-* __done__: `any`
+* __done__: ` any `
 
 
-* __bounced__: `any`
+* __bounced__: ` any `
 

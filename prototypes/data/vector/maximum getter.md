@@ -6,11 +6,11 @@ description: [data/vector]
 
 ### Input ports:
 
-* __vector__: `any[]`
+* __vector__: ` any[] `
 
     Array of numbers
 
 ### Output ports:
 
-* __max__: `any[][number]`
+* __max__: ` any[][number] `
 

@@ -9,7 +9,7 @@ Canonical tree paths are dot-separated, with dots inside components escaped with
 
 ### Input ports:
 
-* __path__: `(string or number)[]`
+* __path__: ` (string or number)[] `
 
     Receives tree path. (Array of strings and numbers.)
     
@@ -17,7 +17,7 @@ Canonical tree paths are dot-separated, with dots inside components escaped with
 
 ### Output ports:
 
-* __serialized__: `string`
+* __serialized__: ` string `
 
     Sends a serialized tree path in canonical format.
     

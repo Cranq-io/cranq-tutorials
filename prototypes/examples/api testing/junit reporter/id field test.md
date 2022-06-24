@@ -6,12 +6,12 @@ description: [examples/api testing/junit reporter]
 
 ### Input ports:
 
-* __description__: `any`
+* __description__: ` any `
 
 
-* __user__: `any`
+* __user__: ` any `
 
 ### Output ports:
 
-* __assertion__: `any`
+* __assertion__: ` any `
 

@@ -13,8 +13,8 @@ description: [blockchain/ethereum]
 
 ### Output ports:
 
-* __contract text__: `string`
+* __contract text__: ` string `
 
 
-* __contract name__: `any`
+* __contract name__: ` any `
 

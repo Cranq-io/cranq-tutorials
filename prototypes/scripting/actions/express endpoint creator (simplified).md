@@ -25,7 +25,7 @@ Links:
 
 ### Input ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Receives script state.
 
@@ -52,7 +52,7 @@ Links:
 
 ### Output ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Sends updated script state.
 

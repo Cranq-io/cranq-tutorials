@@ -12,7 +12,7 @@ Example:
 
 ### Input ports:
 
-* __path__: `string`
+* __path__: ` string `
 
     Receives the path to test whether it is a file or not.
     
@@ -23,7 +23,7 @@ Example:
 
 ### Output ports:
 
-* __is file__: `boolean`
+* __is file__: ` boolean `
 
     Boolean value that indicates, whether the specified path is a file.
     

@@ -18,13 +18,13 @@ Example (negative number):
 
 ### Input ports:
 
-* __number__: `number`
+* __number__: ` number `
 
     The number to be rounded.
 
 ### Output ports:
 
-* __rounded__: `number`
+* __rounded__: ` number `
 
     Sends the nearest integer to the number.
 

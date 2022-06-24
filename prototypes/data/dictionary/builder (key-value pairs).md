@@ -17,7 +17,7 @@ https://github.com/Cranq-io/cranq-tutorials/tree/main/reference/2_constructing_d
 
 ### Input ports:
 
-* __key-value pairs__: `{"key" :string, "value" :any}[]`
+* __key-value pairs__: ` {"key" :string, "value" :any}[] `
 
     Receives objects having key & value properties.
     

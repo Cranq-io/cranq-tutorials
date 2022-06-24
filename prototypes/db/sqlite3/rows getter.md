@@ -15,11 +15,11 @@ Retrieves multiple rows as a single array from the specified database.
 
 ### Output ports:
 
-* __data__: `{string: any}[]`
+* __data__: ` {string: any}[] `
 
 
-* __done__: `null`
+* __done__: ` null `
 
 
-* __error__: `string`
+* __error__: ` string `
 

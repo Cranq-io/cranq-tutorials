@@ -12,7 +12,7 @@ https://airtable.com/api/meta
 
 ### Input ports:
 
-* __record__: `{string: any}`
+* __record__: ` {string: any} `
 
     Receives a single record to be inserted into AirTable.
 
@@ -24,7 +24,7 @@ https://airtable.com/api/meta
 
 ### Output ports:
 
-* __record__: `{string: any}`
+* __record__: ` {string: any} `
 
     Sends the record that was successfully inserted into AirTable.
 
@@ -45,5 +45,5 @@ https://airtable.com/api/meta
     Sends the entire response from the AirTable API without modification.
 
 
-* __error__: `{"error" :string, optional "details" :any}`
+* __error__: ` {"error" :string, optional "details" :any} `
 

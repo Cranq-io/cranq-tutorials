@@ -6,9 +6,9 @@ description: [date]
 
 ### Input ports:
 
-* __date__: `any`
+* __date__: ` any `
 
 ### Output ports:
 
-* __UNIX epoch__: `any`
+* __UNIX epoch__: ` any `
 

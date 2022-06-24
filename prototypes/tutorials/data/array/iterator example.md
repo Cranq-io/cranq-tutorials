@@ -8,9 +8,9 @@ Example node, that demonstrates the basic usage of the data/array/Iterator node 
 
 ### Input ports:
 
-* __run__: `any`
+* __run__: ` any `
 
 ### Output ports:
 
-* __output__: `any`
+* __output__: ` any `
 

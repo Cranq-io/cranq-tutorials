@@ -12,7 +12,7 @@ Example:
 
 ### Input ports:
 
-* __variable names__: `string[]`
+* __variable names__: ` string[] `
 
     Receives a list of variable names to be resolved from the environment.
     
@@ -20,7 +20,7 @@ Example:
     ["Var1", "Var2"]
 
 
-* __default values__: `{string: string}`
+* __default values__: ` {string: string} `
 
     Receives optional default values for undefined environment variables.
     
@@ -29,7 +29,7 @@ Example:
 
 ### Output ports:
 
-* __resolved variables__: `{string: string}`
+* __resolved variables__: ` {string: string} `
 
     Sends the dictionary of resolved environment variables as a name:value dictionary.
     

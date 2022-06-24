@@ -14,18 +14,18 @@ Example:
 
 ### Input ports:
 
-* __a__: `number`
+* __a__: ` number `
 
     The first value to pick the minimum from
 
 
-* __b__: `number`
+* __b__: ` number `
 
     The second value to pick the minimum from
 
 ### Output ports:
 
-* __min__: `number`
+* __min__: ` number `
 
     Sends the minimum of the provided values.
 

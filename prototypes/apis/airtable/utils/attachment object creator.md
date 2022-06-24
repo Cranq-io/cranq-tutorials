@@ -6,9 +6,9 @@ description: [apis/airtable/utils]
 
 ### Input ports:
 
-* __URL__: `string`
+* __URL__: ` string `
 
 ### Output ports:
 
-* __attachment__: `{"url" :string}`
+* __attachment__: ` {"url" :string} `
 

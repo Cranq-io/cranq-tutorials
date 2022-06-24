@@ -11,7 +11,7 @@ https://what3words.com
 
 ### Input ports:
 
-* __words__: `[string,string,string]`
+* __words__: ` [string,string,string] `
 
     Receives a word triple that identifies any 3m x 3m area on the surface of the Earth.
     
@@ -42,5 +42,5 @@ https://what3words.com
     ```
 
 
-* __error__: `{"error" :string, optional "details" :any}`
+* __error__: ` {"error" :string, optional "details" :any} `
 

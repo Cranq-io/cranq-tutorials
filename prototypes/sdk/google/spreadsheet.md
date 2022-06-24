@@ -28,7 +28,7 @@ Works with google spreadsheet using the googleapis sdk.
 
 ### Output ports:
 
-* __done__: `any`
+* __done__: ` any `
 
     Sends the result fo the action.
     
@@ -36,7 +36,7 @@ Works with google spreadsheet using the googleapis sdk.
     null
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
     Sends the error which happened during the execution of the action.
     

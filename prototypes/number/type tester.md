@@ -18,13 +18,13 @@ Example (receives a number):
 
 ### Input ports:
 
-* __data__: `any`
+* __data__: ` any `
 
     the value to be tested.
 
 ### Output ports:
 
-* __is number__: `boolean`
+* __is number__: ` boolean `
 
     Sends true if the data is a number, false otherwise.
 

@@ -6,7 +6,7 @@ description: [scripting]
 
 ### Input ports:
 
-* __action result__: `boolean`
+* __action result__: ` boolean `
 
 
 * __params__: 
@@ -15,14 +15,14 @@ description: [scripting]
     ```
 
 
-* __state__: `any`
+* __state__: ` any `
 
     Receives script state.
 
 ### Output ports:
 
-* __state (action not started)__: `any`
+* __state (action not started)__: ` any `
 
 
-* __state (action finished)__: `any`
+* __state (action finished)__: ` any `
 

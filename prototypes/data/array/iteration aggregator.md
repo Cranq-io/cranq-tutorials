@@ -6,14 +6,14 @@ description: [data/array]
 
 ### Input ports:
 
-* __data__: `any`
+* __data__: ` any `
 
     Receives data items to be aggregated.
     
     Signal tag is expected to have an index. (From iteration)
 
 
-* __release__: `boolean`
+* __release__: ` boolean `
 
     Receives flag whether to release aggregated inputs. Must be provided for each `data` input signal.
     
@@ -21,7 +21,7 @@ description: [data/array]
 
 ### Output ports:
 
-* __aggregated__: `any[]`
+* __aggregated__: ` any[] `
 
     Sends the aggregated data.
     

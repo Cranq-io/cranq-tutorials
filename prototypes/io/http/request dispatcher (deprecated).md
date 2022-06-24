@@ -12,7 +12,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 ### Input ports:
 
-* __method__: `("GET" or "POST" or "PUT" or "PATCH" or "DELETE")`
+* __method__: ` ("GET" or "POST" or "PUT" or "PATCH" or "DELETE") `
 
     Receives http method. Indicates the desired action to be performed for a given target or resource.
     
@@ -20,7 +20,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
     "GET"
 
 
-* __URL__: `string`
+* __URL__: ` string `
 
     Receives the target of the HTTP request. Also called "resource" 
     
@@ -28,7 +28,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
     "https://jsonplaceholder.typicode.com/todos/1"
 
 
-* __headers__: `{string: string}`
+* __headers__: ` {string: string} `
 
     Receives request headers. It is  used to describe a resource, or the behavior of the server or the client.
     
@@ -38,7 +38,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
     }
 
 
-* __body__: `string`
+* __body__: ` string `
 
     Receives the http request body. Some requests send data to the server in order to update it. In case of GET or DELETE request the body should be empty (will be ignored).
     
@@ -47,7 +47,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
 
 ### Output ports:
 
-* __status__: `number`
+* __status__: ` number `
 
     Sends http response status code. Indicates whether the request has been  successfully completed.
     
@@ -55,7 +55,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
     200
 
 
-* __headers__: `{string: string}`
+* __headers__: ` {string: string} `
 
     Sends http response headers.
     
@@ -67,7 +67,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
     
 
 
-* __body__: `string`
+* __body__: ` string `
 
     Sends http response message body data.
     
@@ -76,7 +76,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/tree/main/http_request
     }"
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
     Sends http response communication error.
     

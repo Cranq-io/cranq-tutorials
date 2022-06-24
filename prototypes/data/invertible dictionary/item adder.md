@@ -8,15 +8,15 @@ Adds an item to an invertible dictionary. Invertible dictionaries can have multi
 
 ### Input ports:
 
-* __dict__: `{string: any[]}`
+* __dict__: ` {string: any[]} `
 
 
-* __key__: `string`
+* __key__: ` string `
 
 
-* __value__: `{string: any[]}[string][number]`
+* __value__: ` {string: any[]}[string][number] `
 
 ### Output ports:
 
-* __dict__: `{string: any[]}`
+* __dict__: ` {string: any[]} `
 

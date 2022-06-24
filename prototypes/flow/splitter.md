@@ -26,7 +26,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/1_applicat
 
 ### Input ports:
 
-* __fields__: `(string[] or number[])`
+* __fields__: ` (string[] or number[]) `
 
     Sets a list of output port names matching property names in the data received via `unsplit`.
     
@@ -36,7 +36,7 @@ More: https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/1_applicat
     ["a", "b"]
 
 
-* __unsplit__: `({string: any} or any[])`
+* __unsplit__: ` ({string: any} or any[]) `
 
     Receives records or tuples to be split into individual items.
     

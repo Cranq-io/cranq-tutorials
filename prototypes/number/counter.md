@@ -15,13 +15,13 @@ Example:
 
 ### Input ports:
 
-* __trigger__: `any`
+* __trigger__: ` any `
 
     The input signals to be counted
 
 ### Output ports:
 
-* __count__: `number`
+* __count__: ` number `
 
     Total count of the signals received.
 

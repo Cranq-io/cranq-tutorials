@@ -8,9 +8,9 @@ Example node that demonstrates the usage of the data/dictionary/JSON parser node
 
 ### Input ports:
 
-* __run__: `any`
+* __run__: ` any `
 
 ### Output ports:
 
-* __output__: `any`
+* __output__: ` any `
 

@@ -12,7 +12,7 @@ Example:
 
 ### Input ports:
 
-* __array__: `any[]`
+* __array__: ` any[] `
 
     Recieves array to reserve.
     
@@ -21,7 +21,7 @@ Example:
 
 ### Output ports:
 
-* __reversed__: `any[]`
+* __reversed__: ` any[] `
 
     Sends reversed array.
     

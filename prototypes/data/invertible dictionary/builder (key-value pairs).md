@@ -6,7 +6,7 @@ description: [data/invertible dictionary]
 
 ### Input ports:
 
-* __key-value pairs__: `{"key" :string, "value" :any}[]`
+* __key-value pairs__: ` {"key" :string, "value" :any}[] `
 
 ### Output ports:
 

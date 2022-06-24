@@ -14,7 +14,7 @@ Example:
 
 ### Input ports:
 
-* __body__: `string`
+* __body__: ` string `
 
     Receives the body of the response.
     
@@ -22,7 +22,7 @@ Example:
     "OK"
 
 
-* __status__: `number`
+* __status__: ` number `
 
     Receives a HTTP status code.
     
@@ -30,7 +30,7 @@ Example:
     200
 
 
-* __headers__: `{string: string}`
+* __headers__: ` {string: string} `
 
     Receives a record of HTTP headers.
     

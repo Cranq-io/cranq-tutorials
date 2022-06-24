@@ -13,13 +13,13 @@ Example:
 
 ### Input ports:
 
-* __number__: `number`
+* __number__: ` number `
 
     Input value
 
 ### Output ports:
 
-* __abs__: `number`
+* __abs__: ` number `
 
     The absolute value of the input.
 

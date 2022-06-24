@@ -8,15 +8,15 @@ Matches a string to a non-global regular expression, and returns substrings that
 
 ### Input ports:
 
-* __regex__: `string`
+* __regex__: ` string `
 
 
-* __string__: `string`
+* __string__: ` string `
 
 ### Output ports:
 
-* __groups__: `(string[] or null)`
+* __groups__: ` (string[] or null) `
 
 
-* __not found__: `any`
+* __not found__: ` any `
 

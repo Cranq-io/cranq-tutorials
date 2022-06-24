@@ -13,7 +13,7 @@ Example:
 
 ### Input ports:
 
-* __array__: `any`
+* __array__: ` any `
 
     Receives array to be tested.
     
@@ -21,7 +21,7 @@ Example:
     [1,2,3]
 
 
-* __expected__: `any`
+* __expected__: ` any `
 
     Receives the expected value that all elements of the array will be tested against.
     
@@ -30,7 +30,7 @@ Example:
 
 ### Output ports:
 
-* __same__: `boolean`
+* __same__: ` boolean `
 
     Sends whether all elements of the `array` are the same as the `expected` value.
     

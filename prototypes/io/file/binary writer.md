@@ -6,15 +6,15 @@ description: [io/file]
 
 ### Input ports:
 
-* __path__: `string`
+* __path__: ` string `
 
 
-* __base64__: `string`
+* __base64__: ` string `
 
 ### Output ports:
 
-* __written__: `null`
+* __written__: ` null `
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 

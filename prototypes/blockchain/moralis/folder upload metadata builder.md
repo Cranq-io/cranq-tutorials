@@ -6,10 +6,10 @@ description: [blockchain/moralis]
 
 ### Input ports:
 
-* __item URLs__: `string[]`
+* __item URLs__: ` string[] `
 
 
-* __item names__: `string[]`
+* __item names__: ` string[] `
 
 ### Output ports:
 

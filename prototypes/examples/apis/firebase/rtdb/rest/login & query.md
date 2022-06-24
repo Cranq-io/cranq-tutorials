@@ -21,19 +21,19 @@ For the example to work the Firebase project must allow anonymous login and data
 
 ### Input ports:
 
-* __API key__: `any`
+* __API key__: ` any `
 
 
-* __DB URL__: `any`
+* __DB URL__: ` any `
 
 ### Output ports:
 
-* __data__: `any`
+* __data__: ` any `
 
     Sends forwarded data.
 
 
-* __error__: `any`
+* __error__: ` any `
 
     Sends forwarded data.
 

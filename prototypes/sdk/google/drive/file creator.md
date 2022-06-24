@@ -20,7 +20,7 @@ Example:
 
 ### Input ports:
 
-* __session Id__: `string`
+* __session Id__: ` string `
 
     Receives the session id of the drive action.
     
@@ -28,7 +28,7 @@ Example:
     "drive_session"
 
 
-* __file meta data__: `{string: any}`
+* __file meta data__: ` {string: any} `
 
     Receives the metadata of the file creation.
     
@@ -57,7 +57,7 @@ Example:
     
 
 
-* __supports all drives__: `boolean`
+* __supports all drives__: ` boolean `
 
     Receives `supportsAllDrives` parameter whether create should support both drives and shared drives.
     
@@ -66,7 +66,7 @@ Example:
 
 ### Output ports:
 
-* __done__: `{"fileid" :string}`
+* __done__: ` {"fileid" :string} `
 
     Sends the result fo the action.
     
@@ -74,7 +74,7 @@ Example:
     {"fileid": "1_ewweewweFileID"}
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
     Sends the error which happened during the execution of the action.
     

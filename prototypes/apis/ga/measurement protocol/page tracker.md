@@ -9,24 +9,24 @@ https://developers.google.com/analytics/devguides/collection/protocol/v1/devguid
 
 ### Input ports:
 
-* __tracking ID__: `any`
+* __tracking ID__: ` any `
 
 
-* __client ID__: `any`
+* __client ID__: ` any `
 
 
-* __hostname__: `any`
+* __hostname__: ` any `
 
 
-* __page__: `any`
+* __page__: ` any `
 
 
-* __title__: `any`
+* __title__: ` any `
 
 ### Output ports:
 
-* __done__: `any`
+* __done__: ` any `
 
 
-* __error__: `any`
+* __error__: ` any `
 

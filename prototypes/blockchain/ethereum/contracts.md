@@ -12,12 +12,12 @@ description: [blockchain/ethereum]
     ```
 
 
-* __params__: `any`
+* __params__: ` any `
 
 ### Output ports:
 
-* __contract text__: `string`
+* __contract text__: ` string `
 
 
-* __contract name__: `any`
+* __contract name__: ` any `
 

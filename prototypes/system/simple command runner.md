@@ -6,16 +6,16 @@ description: [system]
 
 ### Input ports:
 
-* __command__: `string`
+* __command__: ` string `
 
     Command to be executed. Must be valid in the context of the current OS.
     
     It's recommended to verify the OS before attempting to execute.
 
 
-* __cwd__: `string`
+* __cwd__: ` string `
 
 ### Output ports:
 
-* __success__: `boolean`
+* __success__: ` boolean `
 

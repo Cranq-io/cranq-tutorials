@@ -11,7 +11,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 
 ### Input ports:
 
-* __array__: `any[]`
+* __array__: ` any[] `
 
     Receives array to be reduced.
     
@@ -19,7 +19,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
     ["A", "B", "C"]
 
 
-* __initial__: `any[][number]`
+* __initial__: ` any[][number] `
 
     Receives initial value for the reduced array
     
@@ -27,7 +27,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
     ""
 
 
-* __part reduced__: `any[][number]`
+* __part reduced__: ` any[][number] `
 
     Receives reduced array before the current (by tag) item.
     
@@ -36,7 +36,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
 
 ### Output ports:
 
-* __reduced__: `any[][number]`
+* __reduced__: ` any[][number] `
 
     Sends the reduced array.
     
@@ -44,7 +44,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
     "ABC"
 
 
-* __item__: `any[][number]`
+* __item__: ` any[][number] `
 
     Sends the current item.
     
@@ -52,7 +52,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/3_querying_data/
     "C"
 
 
-* __part reduced__: `any[][number]`
+* __part reduced__: ` any[][number] `
 
     Sends reduced array after the current (by tag) item.
     

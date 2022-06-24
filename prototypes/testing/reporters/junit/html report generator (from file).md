@@ -8,7 +8,7 @@ Generates an HTML report of the specified JUnit XML file, and saves it to the sp
 
 ### Input ports:
 
-* __junit xml path__: `any`
+* __junit xml path__: ` any `
 
     The path to the JUnit XML file to generate the report for.
     
@@ -16,7 +16,7 @@ Generates an HTML report of the specified JUnit XML file, and saves it to the sp
     "C:\\folder\\report.xml"
 
 
-* __report path__: `any`
+* __report path__: ` any `
 
     The desired report path.
     
@@ -25,12 +25,12 @@ Generates an HTML report of the specified JUnit XML file, and saves it to the sp
 
 ### Output ports:
 
-* __generated path__: `any`
+* __generated path__: ` any `
 
     Indicates, that the report was generated successfully.
 
 
-* __bounced__: `any`
+* __bounced__: ` any `
 
     Indicates, that the report has failed to generate.
 

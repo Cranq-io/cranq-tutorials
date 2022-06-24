@@ -12,7 +12,7 @@ Example:
 
 ### Input ports:
 
-* __path__: `string`
+* __path__: ` string `
 
     Receives the path to test whether it exists or not.
     
@@ -25,7 +25,7 @@ Example:
 
 ### Output ports:
 
-* __exists__: `boolean`
+* __exists__: ` boolean `
 
     Sends boolean value that indicates whether a file or directory exists under the specified path.
     

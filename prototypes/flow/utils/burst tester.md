@@ -17,12 +17,12 @@ Example:
 
 ### Input ports:
 
-* __data__: `any`
+* __data__: ` any `
 
     Receives the burst signals.
 
 
-* __length__: `number`
+* __length__: ` number `
 
     Burst length to be detected.
     
@@ -30,7 +30,7 @@ Example:
 
 ### Output ports:
 
-* __is last__: `boolean`
+* __is last__: ` boolean `
 
     Sends true on the last signal in the burst, false otherwise.
 

@@ -13,18 +13,18 @@ Example:
 
 ### Input ports:
 
-* __boolean__: `boolean`
+* __boolean__: ` boolean `
 
     Input condition value
 
 ### Output ports:
 
-* __true__: `null`
+* __true__: ` null `
 
     Sends null if the input value is true.
 
 
-* __false__: `null`
+* __false__: ` null `
 
     Sends null if the input value is false.
 

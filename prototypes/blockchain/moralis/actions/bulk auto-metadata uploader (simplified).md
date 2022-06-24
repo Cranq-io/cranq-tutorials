@@ -65,7 +65,7 @@ Example:
 
 ### Input ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Receives script state.
     
@@ -106,7 +106,7 @@ Example:
 
 ### Output ports:
 
-* __state__: `any`
+* __state__: ` any `
 
     Sends updated script state.
     

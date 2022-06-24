@@ -14,7 +14,7 @@ Example:
 
 ### Input ports:
 
-* __array__: `any[]`
+* __array__: ` any[] `
 
     Recieves array look for the item in.
     
@@ -22,7 +22,7 @@ Example:
     [1,2]
 
 
-* __item__: `any`
+* __item__: ` any `
 
     Recieves item to find in the array.
     
@@ -31,7 +31,7 @@ Example:
 
 ### Output ports:
 
-* __contains__: `boolean`
+* __contains__: ` boolean `
 
     Sends whether the `item` was found in the `array`.
     

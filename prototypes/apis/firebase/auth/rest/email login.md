@@ -10,26 +10,26 @@ User must be signed up, and email authentication must be enabled for the relevan
 
 ### Input ports:
 
-* __API key__: `any`
+* __API key__: ` any `
 
 
-* __email__: `any`
+* __email__: ` any `
 
 
-* __password__: `any`
+* __password__: ` any `
 
 ### Output ports:
 
-* __ID token__: `any`
+* __ID token__: ` any `
 
 
-* __user ID__: `any`
+* __user ID__: ` any `
 
 
-* __error__: `any`
+* __error__: ` any `
 
 
-* __auth context__: `any`
+* __auth context__: ` any `
 
     idToken
     email

@@ -21,8 +21,8 @@ Sets up a listener on an HTTP route. Starts an Express server if one is not star
 
 ### Output ports:
 
-* __request__: ``io/http/Request``
+* __request__: `` `io/http/Request` ``
 
 
-* __error__: `any`
+* __error__: ` any `
 

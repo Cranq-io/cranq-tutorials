@@ -6,9 +6,9 @@ description: [blinkstick/strip]
 
 ### Input ports:
 
-* __start__: `any`
+* __start__: ` any `
 
 ### Output ports:
 
-* __done__: `any`
+* __done__: ` any `
 

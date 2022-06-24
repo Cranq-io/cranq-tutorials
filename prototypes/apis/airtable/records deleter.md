@@ -6,7 +6,7 @@ description: [apis/airtable]
 
 ### Input ports:
 
-* __record IDs__: `string[]`
+* __record IDs__: ` string[] `
 
     Receives list of record identifiers relative to an AirTable table.
 
@@ -18,7 +18,7 @@ description: [apis/airtable]
 
 ### Output ports:
 
-* __data__: `{"deleted" :boolean, "id" :string[][number]}[]`
+* __data__: ` {"deleted" :boolean, "id" :string[][number]}[] `
 
 
 * __response__: 
@@ -29,5 +29,5 @@ description: [apis/airtable]
     Sends the entire response from the AirTable API without modification.
 
 
-* __error__: `{"error" :string, optional "details" :any}`
+* __error__: ` {"error" :string, optional "details" :any} `
 

@@ -6,9 +6,9 @@ description: [data/tree]
 
 ### Input ports:
 
-* __tree__: `any`
+* __tree__: ` any `
 
 ### Output ports:
 
-* __paths__: `(string or number)[][]`
+* __paths__: ` (string or number)[][] `
 

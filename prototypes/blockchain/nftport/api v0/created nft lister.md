@@ -12,12 +12,12 @@ https://docs.nftport.xyz/docs/nftport/b3A6MzA2ODYzMjM-retrieve-nf-ts-created-by-
 
 ### Input ports:
 
-* __API key__: `string`
+* __API key__: ` string `
 
     Receives the NFTPort API key.
 
 
-* __creator address__: `string`
+* __creator address__: ` string `
 
     Receives the address of the NFT creator.
 
@@ -33,12 +33,12 @@ https://docs.nftport.xyz/docs/nftport/b3A6MzA2ODYzMjM-retrieve-nf-ts-created-by-
 
 ### Output ports:
 
-* __nfts__: ``blockchain/nftport/api v0/CreatorNft`[]`
+* __nfts__: `` `blockchain/nftport/api v0/CreatorNft`[] ``
 
     Sends the list of NFTs associated with a given creator.
 
 
-* __response__: `any`
+* __response__: ` any `
 
 
 * __error__: 

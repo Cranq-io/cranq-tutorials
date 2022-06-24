@@ -13,13 +13,13 @@ Example:
 
 ### Input ports:
 
-* __params__: `{string: (string or string[])}`
+* __params__: ` {string: (string or string[])} `
 
     Receives query parameters as dictionary.
 
 ### Output ports:
 
-* __flattened__: `{"key" :string, "value" :string}[]`
+* __flattened__: ` {"key" :string, "value" :string}[] `
 
     Sends query parameter key-value pairs individually.
 

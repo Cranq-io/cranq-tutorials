@@ -16,7 +16,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/2_constructing_d
 
 ### Input ports:
 
-* __a__: `any[]`
+* __a__: ` any[] `
 
     Receives array `a` to concatenate.
     
@@ -24,7 +24,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/2_constructing_d
     [1,2]
 
 
-* __b__: `any[]`
+* __b__: ` any[] `
 
     Receives array `b` to concatenate.
     
@@ -33,7 +33,7 @@ https://github.com/Cranq-io/cranq-tutorials/blob/main/reference/2_constructing_d
 
 ### Output ports:
 
-* __concatenated__: `(any[] or any[])`
+* __concatenated__: ` (any[] or any[]) `
 
     Sends the concatenated array.
     

@@ -8,12 +8,12 @@ Parses JSON.
 
 ### Input ports:
 
-* __json__: `string`
+* __json__: ` string `
 
 ### Output ports:
 
-* __parsed__: `any`
+* __parsed__: ` any `
 
 
-* __bounced__: `string`
+* __bounced__: ` string `
 

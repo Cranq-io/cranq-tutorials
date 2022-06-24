@@ -24,7 +24,7 @@ Example (failure):
 
 ### Input ports:
 
-* __path__: `string`
+* __path__: ` string `
 
     Receives the path of the file to read content of as JSON.
     
@@ -35,7 +35,7 @@ Example (failure):
 
 ### Output ports:
 
-* __data__: `{string: any}`
+* __data__: ` {string: any} `
 
     Sends the parsed JSON content read from the file specified by `path`.
     
@@ -48,7 +48,7 @@ Example (failure):
     
 
 
-* __bounced__: `string`
+* __bounced__: ` string `
 
     Sends the path if the operation has failed.
     
@@ -56,7 +56,7 @@ Example (failure):
     "/home/user1/dir1/foo.json"
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
     Sends error information if the operation has failed.
     

@@ -13,12 +13,12 @@ https://docs.nftport.xyz/docs/nftport/b3A6MzAxNDQ3NzY-retrieve-transactions-by-c
 
 ### Input ports:
 
-* __API key__: `string`
+* __API key__: ` string `
 
     Receives the NFTPort API key.
 
 
-* __address__: `string`
+* __address__: ` string `
 
     Receives the contract address for a token.
 
@@ -33,16 +33,16 @@ https://docs.nftport.xyz/docs/nftport/b3A6MzAxNDQ3NzY-retrieve-transactions-by-c
     https://docs.nftport.xyz/docs/nftport/b3A6MzAxNDQ3NzY-retrieve-transactions-by-contract#Query-Parameters
 
 
-* __token ID__: `string`
+* __token ID__: ` string `
 
     Receives the identifier of the token in the context of its governing contract.
 
 ### Output ports:
 
-* __transactions__: ``blockchain/nftport/NFT transaction`[]`
+* __transactions__: `` `blockchain/nftport/NFT transaction`[] ``
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
 
 * __response__: 

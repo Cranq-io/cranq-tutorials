@@ -6,7 +6,7 @@ description: [sdk/AWS]
 
 ### Input ports:
 
-* __session id__: `string`
+* __session id__: ` string `
 
     Receives the id of the S3 session.
     
@@ -14,7 +14,7 @@ description: [sdk/AWS]
     "s3-session-id"
 
 
-* __access key id__: `string`
+* __access key id__: ` string `
 
     Receives the AWS user's access key id.
     
@@ -22,7 +22,7 @@ description: [sdk/AWS]
     "23478207027842073230762374023 "
 
 
-* __secret access key__: `string`
+* __secret access key__: ` string `
 
     Receives the AWS user's secret access key.
     
@@ -31,12 +31,12 @@ description: [sdk/AWS]
 
 ### Output ports:
 
-* __done__: `null`
+* __done__: ` null `
 
     It is triggered if the authentication was successful.
 
 
-* __error__: `{"error" :string}`
+* __error__: ` {"error" :string} `
 
     Sends error information in case the authenticatiomn was not successful.
 
