@@ -2,7 +2,7 @@
 
 The node is _the_ unit of processing in CRANQ. It takes data from [signals](signal.md) and [parameters](parameter.md) through input [ports](port.md), processes the data, and sends the result via output ports.
 
-Most nodes have internal _structure_ made up of _child_ nodes and [connections](connection.md) between them. Some nodes are implemented using text code (like JavaScript), but we rarely need to [create or edit them](../advanced/code-node.md).
+Most nodes have internal _structure_ made up of _child_ nodes and [connections](connection.md) between them. Some nodes are implemented using text code (like JavaScript), but we rarely need to [create or edit them](../../how-to/advanced/code-node.md).
 
 ### Prototypes and instances
 
