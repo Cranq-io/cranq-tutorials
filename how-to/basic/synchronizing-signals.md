@@ -1,6 +1,6 @@
 # Synchronizing signals
 
-[Signals](broken-reference) in CRANQ are assumed to be asynchronous by default. It does not matter in what (chronological) order a node receives its inputs, as long as they bear the same [tag](broken-reference). If they do, they can be treated as a single signal onwards.
+[Signals](../../course/basics/signal.md) in CRANQ are assumed to be asynchronous by default. It does not matter in what (chronological) order a node receives its inputs, as long as they bear the same [tag](../../course/basics/tag.md). If they do, they can be treated as a single signal onwards.
 
 In any CRANQ program, signals are zipping around all the time, so synchronizing concurrent ones into [records](../../course/advanced/data-types.md#record) is one of the most common operations.&#x20;
 

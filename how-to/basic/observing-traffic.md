@@ -7,5 +7,5 @@ CRANQ code is a graph - so it seems natural for all kinds of data to be overlaid
 Moreover, the data flowing through connections can also be observed by opening a "Traffic viewer" window from the connection's context menu, displaying the last signal transmitted over that particular connection (data and tag). By having a few of these traffic viewers open you can monitor the transformation of data through the nodes in view.
 
 {% hint style="info" %}
-[Currently](../../roadmap.md#types-traffic-viewers), traffic viewers can only display data as JSON.
+[Currently](../../roadmap.md#typed-traffic-viewers), traffic viewers can only display data as JSON.
 {% endhint %}

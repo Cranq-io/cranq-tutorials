@@ -1,2 +1,2 @@
-# 🎓 Video course
+# 📺 Video course
 
