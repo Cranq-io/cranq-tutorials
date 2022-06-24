@@ -1,7 +1,11 @@
-# ✏ Namespace
+# Namespace
 
-Since the [CRANQ repo](repo.md) is the _one_ place for storing CRANQ code, and components are made to be reusable individually, it makes sense to organize them into a hierarchy of _namespaces_.
+Namespaces provide an organizing principle for the [repo](repo.md).
+
+The full name of any node prototype, up to the last "/" (forward slash) character, is the namespace. For example, in the prototype name `apis/airtable/Record fetcher`, the namespace is "apis/airtable", and the name is "Record fetcter".
+
+Each forward slash in the full prototype name establishes a namespace, so in the previous example, the namespace "apis/airtable" belongs to the namespace "api".
 
 {% hint style="info" %}
-You can have your own namespace, eg. `#mycorp`, co-existing with the public repository, by [mapping](../../how-to/advanced/mapping-paths-to-namespaces.md) your own namespace to a folder path.
+Creating a namespace is as simple as creating a node with the namespace in the name.
 {% endhint %}

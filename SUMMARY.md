@@ -8,7 +8,7 @@
   * [🐣 Basics](course/basics/README.md)
     * [Connection](course/basics/connection.md)
     * [Dataflow programming](course/basics/dataflow-programming.md)
-    * [✏ Namespace](course/basics/namespace.md)
+    * [Namespace](course/basics/namespace.md)
     * [Node](course/basics/node.md)
     * [Parameter](course/basics/parameter.md)
     * [Port](course/basics/port.md)
