@@ -1,10 +1,4 @@
----
-description: >-
-  Covers CRANQ's public node repository. Why it's necessary, what its advantages
-  are, how it's populated.
----
-
-# 103: The CRANQ repo
+# Repo
 
 The centerpiece of CRANQ's innovation is the _repo_: it takes the gobal database of editable code of [GitHub](https://github.com), the universal reusability of [npm](http://npmjs.com) packages, and the ease of use of [Zapier](https://zapier.com) connectors, and blends them into an global, extensible component library that is accessible right from the CRANQ app.
 
@@ -21,19 +15,3 @@ Unlike _Zapier_, the CRANQ repo is extensible without limit. Building new API in
 Unlike _Zapier_ triggers, apps, and actions, CRANQ components are editable with sophisticated version control.
 
 The CRANQ repo aspires to be the place where all future code will be stored and accessed with ease.
-
-## Namespaces
-
-Since the CRANQ repo is the _one_ place for storing CRANQ code, and components are made to be reusable individually, it makes sense to organize them into a hierarchy of _namespaces_.
-
-{% hint style="info" %}
-You can have your own namespace, eg. `#mycorp`, co-existing with the public repository, by [mapping](../../how-to/mapping-paths-to-namespaces.md) your own namespace to a folder path.
-{% endhint %}
-
-Read more about namespaces [here](../../advanced/namespaces.md).
-
-## Storage
-
-Currently the repo is stored as a set of files - one JSON for each node prototype. This comes with a number of advantages, the best of them being that CRANQ code can fit into existing software development workflows. You can use your usual version control system, eg. [Git](https://git-scm.com/), while still treating the repo as a singular database by CRANQ internally.
-
-:wrench: Because version control is very important to any software development work, and the cloud-based repository does not yet exist, CRANQ supports mapping multiple paths in the file system to [custom namespaces](../../how-to/mapping-paths-to-namespaces.md). This offers an easy and transparent way to blend public and private domains of CRANQ code into a single, extended repository.

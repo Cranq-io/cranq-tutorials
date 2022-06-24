@@ -17,7 +17,7 @@ But some others we're still working on. This is a collection of features from ou
 
 ## Cloud-based repo
 
-As introduced in the [Basics course](course/basics/104/#storage), the repo is stored as a set of JSON files. The natural progression of CRANQ however requires the repo to become a high performance database, so that we can find things much faster, and make versioning completely transparent for those that don't need or don't want to rely on Git.
+As introduced in the [Basics course](broken-reference), the repo is stored as a set of JSON files. The natural progression of CRANQ however requires the repo to become a high performance database, so that we can find things much faster, and make versioning completely transparent for those that don't need or don't want to rely on Git.
 
 ## Recommendation engine
 
