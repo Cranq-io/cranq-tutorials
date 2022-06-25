@@ -9,3 +9,7 @@ Each forward slash in the full prototype name establishes a namespace, so in the
 {% hint style="info" %}
 Creating a namespace is as simple as creating a node with the namespace in the name.
 {% endhint %}
+
+{% hint style="info" %}
+You may explore the namespace structure of the repo in the [Prototype reference](https://app.gitbook.com/o/jqy4x7TrVn5hgjCsanfM/s/OmQPjVtTIrv8THOJrdC8/ "mention") section of the documentation.
+{% endhint %}
