@@ -1,6 +1,6 @@
 # Connecting nodes
 
-While dragging components on the canvas doesn't require much [explanation](../../course/basics/102/), connecting components might get tricky when dealing with _iteration_ and _aggregation_.
+While dragging components on the canvas doesn't require much [explanation](../../readme/102.md), connecting components might get tricky when dealing with _iteration_ and _aggregation_.
 
 {% hint style="info" %}
 During iteration we break down lists or sets and send out each item as an individual signal. Aggregation is the opposite: we receive multiple signals, collect them, and send the result as a signle signal.

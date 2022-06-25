@@ -2,7 +2,8 @@
 
 A connection _transmits_ [signals](signal.md) from an output port to the connected input port. It also _propagates_ the [parameter](parameter.md) set on a parent node's input port to input ports of connected child nodes.
 
-When transmitting, connected output ports receive the signals immediately as they appear on the sender's output port.
+* When transmitting, connected output ports receive the signals immediately as they appear on the sender's output port.
+* When propagating parameters, inherted parameter values get set on connected input ports as you enter them.
 
 ## One-to-many and many-to-one
 
@@ -20,4 +21,6 @@ The order of sending signals through one-to-many connections, and the order of r
 
 {% hint style="info" %}
 Traffic flowing through connections [can be observed](../../how-to/basic/observing-traffic.md) by right clicking on the connection and selecting "Show traffic".
+
+<img src="../../.gitbook/assets/Screenshot 2022-06-25 at 13.59.27.png" alt="" data-size="original">
 {% endhint %}
