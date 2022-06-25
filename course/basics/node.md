@@ -2,7 +2,15 @@
 
 The node is _the_ unit of processing in CRANQ. It takes data from [signals](signal.md) and [parameters](parameter.md) through input [ports](port.md), processes the data, and sends the result via output ports.
 
-Most nodes have internal _structure_ made up of _child_ nodes and [connections](connection.md) between them. Some nodes are implemented using text code (like JavaScript), but we rarely need to [create or edit them](../advanced/code-node.md).
+Most nodes have internal _structure_ made up of _child_ nodes and [connections](connection.md) between them.
+
+![Internal structure of a node](<../../.gitbook/assets/Screenshot 2022-06-25 at 14.22.50.png>)
+
+Some nodes are implemented using text code (like JavaScript), but we rarely need to [create or edit them](../advanced/code-node.md). Business logic in CRANQ programs tends to exist _in the connections_, rather than in code. It's fair to say that CRANQ code _is_ the connections.
+
+{% hint style="info" %}
+If you took away all the connections and grouping from a CRANQ program, only a bunch of fundamental (code) nodes would remain.&#x20;
+{% endhint %}
 
 ### Prototypes and instances
 
