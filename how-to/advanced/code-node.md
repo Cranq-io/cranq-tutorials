@@ -52,7 +52,7 @@ Each of the parameters are javascript object.
 ```
 
 * data: is the received data, we want to send.
-* tag: this is the unique identifier of the signal. Check [this](broken-reference) for more details.
+* tag: this is the unique identifier of the signal. Check [this](../../course/103.md#tag) for more details.
 *   outputs: contains all output ports name as a key with a function as a value.&#x20;
 
     * The first parameter is a callback function which can modified the returned data.

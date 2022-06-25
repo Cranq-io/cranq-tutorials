@@ -4,7 +4,7 @@ description: Your journey to CRANQ mastery starts here.
 
 # 👋 Introduction
 
-Do you want to make coding quicker? Do you want to show and demonstrate your code in a more visual way? CRANQ is a new way to program in a visual way, that lets you work a lot faster, and with fewer bugs than text code. CRANQ's IDE is fully integrated with its repository, and designed for building in a simple but flexible visual programming paradigm.
+Do you want to make coding quicker? Do you want to show, and demonstrate your code in a more visual way? CRANQ is a new way to program that lets you work a lot faster, and with fewer bugs than text code. CRANQ's IDE is fully integrated with its repository, and designed for building in a simple, but flexible graphical programming paradigm.
 
 {% embed url="https://www.youtube.com/watch?v=3d_NrmSWzTA" %}
 It's easy to start building with CRANQ!
