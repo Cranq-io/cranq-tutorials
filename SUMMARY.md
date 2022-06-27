@@ -5,7 +5,6 @@
   * [🐣 Getting started](readme/102.md)
 * [📺 Video course](video-course.md)
 * [📖 Reference](course/README.md)
-  * [102: Nodes & connections](course/103.md)
   * [🐣 Basics](course/basics/README.md)
     * [Connection](course/basics/connection.md)
     * [Dataflow programming](course/basics/dataflow-programming.md)
