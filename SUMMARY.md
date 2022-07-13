@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Welcome, Future CRANQ-er!](README.md)
-* [📺 Crash course](crash-course.md)
+* [📺 Crash course](video-course.md)
 * [📖 Reference](course/README.md)
   * [🐣 Basics](course/basics/README.md)
     * [Connection](course/basics/connection.md)
