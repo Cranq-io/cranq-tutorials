@@ -1,3 +1,3 @@
 # Table of contents
 
-* [CRANQ reference course](README.md)
+* [👋 Welcome, Future CRANQ-er!](README.md)
