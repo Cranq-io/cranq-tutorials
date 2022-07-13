@@ -2,21 +2,23 @@
 description: Your journey to CRANQ mastery starts here.
 ---
 
-# 👋 Introduction
+# 👋 Welcome, Future CRANQ-er!
 
-Do you want to make coding quicker? Do you want to show, and demonstrate your code in a more visual way? CRANQ is a new way to program that lets you work a lot faster, and with fewer bugs than text code. CRANQ's IDE is fully integrated with its repository, and designed for building in a simple, but flexible graphical programming paradigm.
+CRANQ is the new IDE for building perfectly composable, visual code faster, using an integrated repo.  Want to build at lightning speed? CRANQ is the first IDE designed to make it easy to re-use existing code.  Want to collaborate better with others? CRANQ's code is visual, so you can show what you are doing, and quickly understand what the code of others.  And lastly, if you hate debugging, get ready to use the first debugger that makes problem solving and snagging a joy with an intuitive visual interface.
 
 {% embed url="https://www.youtube.com/watch?v=3d_NrmSWzTA" %}
 It's easy to start building with CRANQ!
 {% endembed %}
 
-CRANQ doesn't need a lot of prior programming experience. Follow the tutorials in this section and pretty soon you will be shipping functionality like a pro.
+CRANQ is a framework and visual IDE for dataflow programming. It has a visual interface, but compiles to  [Node.js](https://nodejs.org/) Javascript, ready to upload to your infrastructure as a Docker image or npm package.&#x20;
+
+CRANQ doesn't need a lot of prior programming experience. Follow our tutorials and pretty soon you will be shipping functionality like a pro.
 
 Oh, by the way, you're using the Basic package right now, and there's nothing to pay.
 
 ## Your Roadmap
 
 1. Head over to the [CRANQ website](https://cranq.io), and download CRANQ for your platform, if you haven't already! It's easy, just click 'Download' in the hp top nav, and then open the file.
-2. Move on to the [CRANQ 101](https://docs.cranq.io/101) video course at the base of the page to learn the basics!
+2. Move on to the CRASH COURSE linked at the base of this page to learn the basics!
 3. Look up specific reference questions in our comprehensive database. You 'll find a ton of information in there that will help you to solve problems
 4. Give us a shout on our [Discord Channel](https://discord.gg/UgsjNtZW65) if you need further help!

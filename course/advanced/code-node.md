@@ -26,7 +26,7 @@ When you add code to the node, you add code to the init function, or the the cle
 * Init will always run before the code of the port. It works like a constructor.&#x20;
 * Cleanup will run after the input port(s) code executed. ???
 
-![](../../.gitbook/assets/image.png)&#x20;
+![](<../../.gitbook/assets/image (2).png>)&#x20;
 
 #### Parameters of the node functions
 
@@ -43,7 +43,7 @@ Each of the parameters are javascript object.
 
 ### Adding code to the port(s)
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 #### Parameters of the port(s) function
 
@@ -67,7 +67,7 @@ Each of the parameters are javascript object.
 * state: common state of the node instance. During the execution and iteration it can store and keep data    Eg.: data/array/Reducer > reduce&#x20;
 * shared: common state of the all the node which inherited from the same prototype.  ???
 
-
+in case of spread ports there is one more parameter in the list called "input". It contains the input port name itself.
 
 ## Target
 
@@ -77,7 +77,7 @@ Code can compile to different target. Right now CRANQ support the following targ
 * ES6 (vanilla)
 * ES6 (node.js)
 
-![](<../../.gitbook/assets/image (2).png>)&#x20;
+![](<../../.gitbook/assets/image (2) (1).png>)&#x20;
 
 When compile a project have to be careful that the code which added was written in the specified format, and on compile we chose that specified one. Nodes and ports can have multiple target, but each of the connected nodes and ports code part has to be implemented on the targeted language. Otherwise CRANQ will throw error at compile time.
 
