@@ -1,6 +1,6 @@
 # Namespace
 
-Namespaces provide an organizing principle for the [repo](broken-reference).
+Namespaces provide an organizing principle for the [repo](repo.md).
 
 The full name of any node prototype, up to the last "/" (forward slash) character, is the namespace. For example, in the prototype name `apis/airtable/Record fetcher`, the namespace is "apis/airtable", and the name is "Record fetcter".
 

@@ -2,7 +2,7 @@
 
 The tag identifies the _origin_ of a signal.
 
-The concept of the tag is the secret sauce in CRANQ's flavor of [dataflow programming](broken-reference). Its primary purpose is [synchronization](broken-reference) of signals that "go together". For instance, in the case of a node that adds two numbers together (eg. `number/Adder`), the two independent input signals must be recognized as a pair, so the node can calculate their sum. In cases like that, the output inherits the tag of the correspondig inputs.
+The concept of the tag is the secret sauce in CRANQ's flavor of [dataflow programming](dataflow-programming.md). Its primary purpose is synchronization of signals that "go together". For instance, in the case of a node that adds two numbers together (eg. `number/Adder`), the two independent input signals must be recognized as a pair, so the node can calculate their sum. In cases like that, the output inherits the tag of the correspondig inputs.
 
 :wrench: The tag serves other purposes, eg. indicating signal multiplicity at runtime. Typically, nodes that iterate over an array or dictionary, emit signals for each iteration with unique tags, so that synchronization of those signals remain consistent.
 

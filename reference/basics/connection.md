@@ -1,6 +1,6 @@
 # Connection
 
-A connection _transmits_ [signals](broken-reference) from an output port to the connected input port. It also _propagates_ the [parameter](broken-reference) set on a parent node's input port to input ports of connected child nodes.
+A connection _transmits_ [signals](signal.md) from an output port to the connected input port. It also _propagates_ the [parameter](parameter.md) set on a parent node's input port to input ports of connected child nodes.
 
 * When transmitting, connected output ports receive the signals immediately as they appear on the sender's output port.
 * When propagating parameters, inherted parameter values get set on connected input ports as you enter them.
@@ -20,7 +20,7 @@ The order of sending signals through one-to-many connections, and the order of r
 ![One-to-many and many-to-one](<../../.gitbook/assets/Screenshot 2022-06-25 at 13.39.27.png>)
 
 {% hint style="info" %}
-Traffic flowing through connections [can be observed](broken-reference) by right clicking on the connection and selecting "Show traffic".
+Traffic flowing through connections can be observed by right clicking on the connection and selecting "Show traffic".
 
 ![](<../../.gitbook/assets/Screenshot 2022-06-25 at 13.59.27.png>)
 {% endhint %}
