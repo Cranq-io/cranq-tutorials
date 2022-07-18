@@ -13,7 +13,7 @@ You can create [npm ](https://www.npmjs.com/)package from your CRANQ program.
 ![](../../.gitbook/assets/Compilation.gif)
 
 {% hint style="info" %}
-Compilation is only successful when all the code nodes of the project have implementation for the compilation target. If the project contains node which doesn't have implementation of the selected target a notification appersa about the issue.\
+Compilation is only successful when all the code nodes of the project have implementation for the compilation target. If the project contains node which doesn't have implementation of the selected target a notification appers about the issue.\
 \
 
 {% endhint %}
