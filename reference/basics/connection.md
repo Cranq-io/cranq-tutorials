@@ -1,9 +1,13 @@
 # Connection
 
-A connection _transmits_ [signals](signal.md) from an output port to the connected input port. It also _propagates_ the [parameter](parameter.md) set on a parent node's input port to input ports of connected child nodes.
+A connection _transmits_ [signals](signal.md) between [ports](port.md). For connections between _sibling nodes_, an output port is always connected to one or more input ports. For connections between _parent and child_, connections go either from the parents' inputs to children's inputs, or children's outputs to the parent's outputs.
+
+Connections going from the parent's input port to children's input ports _propagate_ the [parameter](parameter.md) set on the parent's port to the connected ports.
 
 * When transmitting, connected output ports receive the signals immediately as they appear on the sender's output port.
-* When propagating parameters, inherted parameter values get set on connected input ports as you enter them.
+* When propagating parameters, inherited parameter values get set on connected input ports as you enter them.
+
+![Connection between nodes](<../../.gitbook/assets/Screenshot 2022-07-18 at 13.07.18.png>) ![Connection from parent to child](<../../.gitbook/assets/Screenshot 2022-07-18 at 13.07.18 copy.png>)
 
 ## One-to-many and many-to-one
 

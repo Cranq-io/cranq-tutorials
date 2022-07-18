@@ -1,8 +1,10 @@
 # Repo
 
-The centerpiece of CRANQ's innovation is the _repo_: it takes the gobal database of editable code of [GitHub](https://github.com), the universal reusability of [npm](http://npmjs.com) packages, and the ease of use of [Zapier](https://zapier.com) connectors, and blends them into an global, extensible component library that is accessible right from the CRANQ app.
+The centerpiece of CRANQ's innovation is the _Repo_: it takes the gobal database of editable code of [GitHub](https://github.com), the universal reusability of [npm](http://npmjs.com) packages, and the ease of use of [Zapier](https://zapier.com) connectors, and blends them into an global, extensible component library that is accessible right from the CRANQ app.
 
-:wrench: Unlike _GitHub_, the code you find in the CRANQ repo can be put to use right away. The repo is integrated into the IDE, and all CRANQ components share a common makeup of interface and internal structure. This allows you to just drag-and-drop anything from the repo right into your program.
+![Searchable contents of the Repo](<../../.gitbook/assets/Screenshot 2022-07-18 at 15.48.35.png>)
+
+:wrench: Unlike _GitHub_, the code you find in the CRANQ repo can be put to use right away. The Repo is integrated into the IDE, and all CRANQ components share a common makeup of interface and internal structure. This allows you to just drag-and-drop anything from the Repo right into your program.
 
 :wrench: Unlike code on _GitHub_, CRANQ code is an _actual database_ - the representations of hierarchical dataflow graphs - and thus, is a much richer medium than text code for expressing what components are expected to do.
 

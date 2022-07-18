@@ -20,9 +20,11 @@ Reusing nodes is very important because that's how we speed up development both 
 
 Reusable nodes are called _prototype_s.
 
-When we add a node from the repo, we're actually reusing a node. A node in the repo is therefore always a prototype - and when dragged to the canvas it becomes an _instance_ of a node.
+When we add a node from the Repo, we're actually reusing a node. A node in the Repo is therefore always a prototype - and when dragged to the canvas it becomes an _instance_ of a node.
 
-Node instances inherit every property of the prototype - ports, data types, structure, and code - but in addition to these, they can also have [parameter](parameter.md) values set on input ports. Instances can only exist in the context of a parent node, whereas prototypes live in the repo without context.
+![Prototypes in the Repo](<../../.gitbook/assets/Screenshot 2022-07-18 at 15.49.58.png>) ![Instances on the Canvas](<../../.gitbook/assets/Screenshot 2022-07-18 at 15.50.15.png>)
+
+Node instances inherit every property of the prototype - ports, data types, structure, and code - but in addition to these, they can also have [parameter](parameter.md) values set on input ports. Instances can only exist in the context of a parent node, whereas prototypes live in the Repo without context.
 
 {% hint style="info" %}
 If you've used [Sketch](https://www.sketch.com/) or [Figma](https://www.figma.com/) before, this concept may already be familiar. In Sketch, reusable elements are called _symbols_; in Figma - _components_, and they work pretty much the same way as prototypes do in CRANQ.
