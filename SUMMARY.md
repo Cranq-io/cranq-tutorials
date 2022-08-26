@@ -2,6 +2,7 @@
 
 * [👋 Welcome, Future CRANQ-er!](README.md)
 * [📺 Crash course](crash-course.md)
+* [🔀 Data manipulation](data-manipulation.md)
 * [📖 Reference](reference/README.md)
   * [🐣 Basics](reference/basics/README.md)
     * [Connection](reference/basics/connection.md)
