@@ -1,4 +1,4 @@
-# 🔀 Data manipulation
+# 🔀 Data Manipulation
 
 ## Lesson 1: Mapping
 
@@ -8,7 +8,7 @@ The first lesson in data manipulation introduces mapping - the most frequent dat
 Lesson 1
 {% endembed %}
 
-## Lesson 2: Building and joining dictionaries
+## Lesson 2: Building and Joining Dictionaries
 
 Though not strictly fundamental transformations, these ways of merging lists are very common. In the provided example they’re used for replacing the keys of a dictionary.
 
@@ -16,7 +16,7 @@ Though not strictly fundamental transformations, these ways of merging lists are
 Lesson 2
 {% endembed %}
 
-## Lesson 3: Mapping with external data
+## Lesson 3: Mapping with External Data
 
 This lesson takes you deeper into the realm of mapping, where items of the result depend on more than just the original items. Without it, it would be difficult to convert each currency to USD, given that rates and amounts are stored in a separate dictionary.
 
