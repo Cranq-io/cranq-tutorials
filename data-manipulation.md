@@ -1,3 +1,9 @@
+---
+description: >-
+  Now we're going to access an API, and substantively change the format of the
+  output.
+---
+
 # 🔀 Data Manipulation
 
 ## Lesson 1: Mapping
