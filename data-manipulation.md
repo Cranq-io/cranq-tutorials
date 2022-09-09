@@ -51,3 +51,5 @@ Lesson 5
 Now it's time to name your code, and group it, in a way that it's  easy for yourself, or others, to understand and maintain.  This final lesson in the Data Manipulation series shows off one of CRANQ's best features, the ability to create comprehensible code
 
 {% embed url="https://www.youtube.com/watch?v=71_bH6lWrNE" %}
+Lesson 6
+{% endembed %}
