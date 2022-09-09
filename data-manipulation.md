@@ -1,7 +1,7 @@
 ---
 description: >-
-  Now we're going to access an API, and substantively change the format of the
-  output.
+  Now we're going to access an API, and manipulate the outputted json.  Then we
+  will organise our code so that we, and others, can navigate it easily.
 ---
 
 # 🔀 Data Manipulation
@@ -40,8 +40,14 @@ Lesson 4
 
 ## Lesson 5: Filtering
 
-The final lesson in this course introduces filtering - removing items from arrays and dictionaries. Some special items need special treatment! For example, converting USDT to USDT.
+This lesson introduces filtering - removing items from arrays and dictionaries. Some special items need special treatment! For example, converting USDT to USDT.
 
 {% embed url="https://youtu.be/-8PAyoeIgf4" %}
 Lesson 5
 {% endembed %}
+
+## Lesson 6:  Organising Our Code
+
+Now it's time to name your code, and group it, in a way that it's  easy for yourself, or others, to understand and maintain.  This final lesson in the Data Manipulation series shows off one of CRANQ's best features, the ability to create comprehensible code
+
+{% embed url="https://www.youtube.com/watch?v=71_bH6lWrNE" %}
