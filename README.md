@@ -2,11 +2,13 @@
 description: Your journey to CRANQ mastery starts here.
 ---
 
-# 👋 Welcome, Future CRANQ-er!
+# 👋 Welcome, Future CRANQer!
 
-CRANQ is the new IDE for building perfectly composable, visual code faster, using an integrated repo.  Want to build at lightning speed? CRANQ is the first IDE designed to make it easy to re-use existing code.  Want to collaborate better with others? CRANQ's code is visual, so you can show what you are doing, and quickly understand what the code of others.  And lastly, if you hate debugging, get ready to use the first debugger that makes problem solving and snagging a joy with an intuitive visual interface.
+CRANQ is the place to build perfectly composable, visual code faster, using an integrated repo.  Want to build at lightning speed? CRANQ is the first IDE designed to make it easy to re-use existing code.  Want to collaborate better with others? CRANQ's code is visual, so you can show what you are doing, and quickly understand what the code of others.  And lastly, if you hate debugging, get ready to use the first debugger that makes snagging a joy with an intuitive visual interface.
 
-{% embed url="https://www.youtube.com/watch?v=XBvLocHJzgA" %}
+{% embed url="https://youtu.be/KqgqNywxE8U" %}
+CRANQ Intro
+{% endembed %}
 
 CRANQ is a framework and visual IDE for dataflow programming. It has a visual interface, but compiles to  [Node.js](https://nodejs.org/) Javascript, ready to upload to your infrastructure as a Docker image or npm package.&#x20;
 
