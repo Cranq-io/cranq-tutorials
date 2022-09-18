@@ -14,3 +14,5 @@
     * [Repo](reference/basics/repo.md)
     * [Signal](reference/basics/signal.md)
     * [Tag](reference/basics/tag.md)
+* [🧑🍳 How to](how-to/README.md)
+  * [Using environment variables](how-to/using-environment-variables.md)
