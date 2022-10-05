@@ -3,6 +3,7 @@
 * [👋 Welcome, Future CRANQer!](README.md)
 * [📺 Crash Course](crash-course.md)
 * [🔀 Data Manipulation](data-manipulation.md)
+* [⬆ Updating an AirTable With Exchange Rates](updating-an-airtable-with-exchange-rates.md)
 * [📖 Reference](reference/README.md)
   * [🐣 Basics](reference/basics/README.md)
     * [Connection](reference/basics/connection.md)
@@ -16,3 +17,5 @@
     * [Tag](reference/basics/tag.md)
 * [🧑🍳 How to](how-to/README.md)
   * [Using environment variables](how-to/using-environment-variables.md)
+* [Page 2](page-2.md)
+* [Page 1](page-1.md)
