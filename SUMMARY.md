@@ -1,7 +1,7 @@
 # Table of contents
 
-* [👋 Welcome, Future CRANQer!](README.md)
-* [📺 Our Crash Course](our-crash-course.md)
+* [👋 Welcome to Your Low-Code Future](README.md)
+* [📺 The CRANQ Crash Course](the-cranq-crash-course.md)
 * [🔀 Data Manipulation](data-manipulation.md)
 * [⬆ Build an Exchange Rate Tracker with CRANQ and AirTable](build-an-exchange-rate-tracker-with-cranq-and-airtable.md)
 * [📖 Reference](reference/README.md)

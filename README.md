@@ -1,8 +1,10 @@
 ---
-description: Your journey to CRANQ mastery starts here.
+description: Build whatever you want, faster, better.
 ---
 
-# 👋 Welcome, Future CRANQer!
+# 👋 Welcome to Your Low-Code Future
+
+Some people predict that text coding as we know it today will die out completely within a decade.   We at CRANQ don't have a view on that, but we are building an IDE where you can build whatever you aspire to, without writing a line of text code.  Join us, and build professional skills for the next phase of coding.
 
 CRANQ is the place to build perfectly composable, visual code faster, using an integrated repo.  Want to build at lightning speed? CRANQ is the first IDE designed to make it easy to re-use existing code.  Want to collaborate better with others? CRANQ's code is visual, so you can show what you are doing, and quickly understand what the code of others.  And lastly, if you hate debugging, get ready to use the first debugger that makes snagging a joy with an intuitive visual interface.
 
