@@ -1,5 +1,5 @@
 ---
-description: Build whatever you want, faster, better, without text code.
+description: CRANQ helps you build whatever you want, faster, better, without text code.
 ---
 
 # 🚀 Welcome to Your Low-Code Future
