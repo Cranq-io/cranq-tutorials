@@ -4,7 +4,7 @@ description: >-
   will organise our code so that we, and others, can navigate it easily.
 ---
 
-# 🔀 Data Manipulation
+# 🔀 Manipulate Data to Value a Portfolio of Crypto
 
 ## Lesson 1: Mapping
 
@@ -46,7 +46,7 @@ This lesson introduces filtering - removing items from arrays and dictionaries. 
 Lesson 5
 {% endembed %}
 
-## Lesson 6:  Organising Our Code
+## Lesson 6: Organising Our Code
 
 Now it's time to name your code, and group it, in a way that it's  easy for yourself, or others, to understand and maintain.  This final lesson in the Data Manipulation series shows off one of CRANQ's best features, the ability to create comprehensible code
 
