@@ -1,14 +1,15 @@
 ---
 description: >-
-  These four videos will start you building production-quality custom services
-  without any coding.
+  In these four videos, CRANQ's Inventor Dan Stocker will get you building
+  production-quality custom services without any coding.  You're on your way to
+  your low-code future!
 ---
 
-# 📺 Crash course
+# 📺 Our Crash Course
 
 ## Lesson 1: Your First CRANQ App
 
-You're going to be amazed how quickly you can be up and running on CRANQ.  Let's start with the CRANQ canvas, how to add nodes and connect them.  We're also going to access an open Yahoo Finance API.
+You're going to be amazed how quickly you can be up and running on CRANQ, even if you have absolutely no prior coding experience.  Let's start with the CRANQ canvas, how to add nodes, and connect them.  We're also going to access an open Yahoo Finance API.
 
 {% embed url="https://youtu.be/WwaKRkLTcEY" %}
 Lesson 1
@@ -32,7 +33,9 @@ Lesson 3
 
 ## Lesson 4: The Sync Node
 
-We've generated some useful real-time exchange rate information.  Now let's combine it into a Dictionary with the Sync node.
+We've generated some useful real-time exchange rate information.  Now let's combine it into a Dictionary with the Sync node.\
+\
+What will you build next?  Tell us about it on our [Discord channel](https://discord.com/invite/UgsjNtZW65).
 
 {% embed url="https://youtu.be/fkVtS82NitM" %}
 Lesson 4
