@@ -16,8 +16,6 @@ CRANQ is a framework and visual IDE for dataflow programming. It has a visual in
 
 CRANQ doesn't need a lot of prior programming experience. Follow our tutorials and pretty soon you will be shipping functionality like a pro.  Oh, by the way, you're using the Basic package right now, and there's nothing to pay.
 
-##
-
 ## Your Roadmap
 
 1. Head over to the [CRANQ website](https://cranq.io), and download CRANQ for your platform, if you haven't already! It's easy, just click 'Download' in the hp top nav, and then open the file.
