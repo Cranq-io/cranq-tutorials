@@ -9,7 +9,9 @@ description: >-
 
 ## Intro
 
-This project is going to help you master some fundamental skills in CRANQ!  We're going to pull data from the Yahoo Finance API, and insert it into AirTable, all with low-code.  Then we're going to map that data, and continuously update it, so we could make a trading alert, for example.  Along the way, we'll also work on using variables and buffers.  In this first video in the series, we'll look at a completed version of the programme we will build.
+This project is going to help you master some fundamental skills in CRANQ!  We're going to pull data from the Yahoo Finance API, and insert it into AirTable, all with low-code.  Then we're going to map that data, and continuously update it, so we could make a trading alert, for example.  Along the way, we'll also work on using variables and buffers. &#x20;
+
+In this first video in the series, we'll look at a completed version of the programme we will build.
 
 {% embed url="https://youtu.be/kINDoJgXRnU" %}
 
