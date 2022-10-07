@@ -6,17 +6,17 @@ description: Build whatever you want, faster, better.
 
 Some people predict that text coding as we know it today will die out completely within a decade.   We at CRANQ don't have a view on that, but we are building an IDE where you can build whatever you aspire to, without writing a line of text code.  Join us, and build professional skills for the next phase of coding.
 
-CRANQ is the place to build perfectly composable, visual code faster, using an integrated repo.  Want to build at lightning speed? CRANQ is the first IDE designed to make it easy to re-use existing code.  Want to collaborate better with others? CRANQ's code is visual, so you can show what you are doing, and quickly understand what the code of others.  And lastly, if you hate debugging, get ready to use the first debugger that makes snagging a joy with an intuitive visual interface.
-
 {% embed url="https://youtu.be/KqgqNywxE8U" %}
 CRANQ Intro
 {% endembed %}
 
+CRANQ is the place to build perfectly composable, visual code faster, using an integrated repo.  Want to build at lightning speed? CRANQ is the first IDE designed to make it easy to re-use existing code.  Want to collaborate better with others? CRANQ's code is visual, so you can show what you are doing, and quickly understand what the code of others.  And lastly, if you hate debugging, get ready to use the first debugger that makes snagging a joy with an intuitive visual interface.
+
 CRANQ is a framework and visual IDE for dataflow programming. It has a visual interface, but compiles to  [Node.js](https://nodejs.org/) Javascript, ready to upload to your infrastructure as a Docker image or npm package.&#x20;
 
-CRANQ doesn't need a lot of prior programming experience. Follow our tutorials and pretty soon you will be shipping functionality like a pro.
+CRANQ doesn't need a lot of prior programming experience. Follow our tutorials and pretty soon you will be shipping functionality like a pro.  Oh, by the way, you're using the Basic package right now, and there's nothing to pay.
 
-Oh, by the way, you're using the Basic package right now, and there's nothing to pay.
+##
 
 ## Your Roadmap
 
