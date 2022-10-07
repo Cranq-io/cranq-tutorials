@@ -4,6 +4,7 @@
 * [📺 The CRANQ Crash Course](crash-course.md)
 * [⬆ Build an Exchange Rate Tracker with CRANQ and AirTable](build-an-exchange-rate-tracker-with-cranq-and-airtable.md)
 * [🔀 Manipulate Data to Value a Portfolio of Crypto](manipulate-data-to-value-a-portfolio-of-crypto.md)
+* [Using Environment Variables](using-environment-variables.md)
 * [📚 Reference](reference/basics/README.md)
   * [Connection](reference/basics/connection.md)
   * [Dataflow programming](reference/basics/dataflow-programming.md)
