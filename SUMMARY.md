@@ -3,7 +3,7 @@
 * [👋 Welcome, Future CRANQer!](README.md)
 * [📺 Crash Course](crash-course.md)
 * [🔀 Data Manipulation](data-manipulation.md)
-* [⬆ Build an Exchange Rate Tracker in AirTable](updating-an-airtable-with-exchange-rates.md)
+* [⬆ Build an Exchange Rate Tracker with CRANQ and AirTable](build-an-exchange-rate-tracker-with-cranq-and-airtable.md)
 * [📖 Reference](reference/README.md)
   * [🐣 Basics](reference/basics/README.md)
     * [Connection](reference/basics/connection.md)
