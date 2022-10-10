@@ -14,6 +14,8 @@ This project is going to help you master some fundamental skills in CRANQ!  We'r
 In this first video in the series, we'll look at a completed version of the programme we will build.
 
 {% embed url="https://youtu.be/kINDoJgXRnU" %}
+Introduction and overview
+{% endembed %}
 
 ## Getting an Exchange Rate and Inserting it into Airtable
 
@@ -22,6 +24,12 @@ We will use the Yahoo Finance API to get prices, then we will convert them into 
 {% embed url="https://youtu.be/bYmi5NBcMfM" %}
 Getting Rates and Inserting Them
 {% endembed %}
+
+Since we made the video, we renamed the 'records' input port on the the Bulk Records Inserter to the 'AT records' port for clarity
+
+![](<../.gitbook/assets/image (26).png>)![](<../.gitbook/assets/image (27).png>)
+
+
 
 ## Updating the Exchange Rates and Creating a Loop
 
