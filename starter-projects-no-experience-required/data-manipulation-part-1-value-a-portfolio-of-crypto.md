@@ -4,11 +4,13 @@ description: >-
   will organise our code so that we, and others, can navigate it easily.
 ---
 
-# 🔀 Manipulate Data to Value a Portfolio of Crypto
+# 🔀 Data Manipulation Part 1: Value a Portfolio of Crypto
+
+This two-part course will take you on quite a journey, starting with Part 1, and the fundamentals of data transformation using CRANQ.  We will then progress to Part 2, and building a REST API so that you, and others, can access your application from the web.
 
 ## Lesson 1: Mapping
 
-The first lesson in data manipulation introduces mapping - the most frequent dataflow alternative to loops through determining the USD exchange rates of each currency in a crypto wallet.
+The first lesson in the Data Manipulation introduces mapping - the most frequent dataflow alternative to loops through determining the USD exchange rates of each currency in a crypto wallet.
 
 {% embed url="https://youtu.be/O2uCFVrhCq8" %}
 Lesson 1
