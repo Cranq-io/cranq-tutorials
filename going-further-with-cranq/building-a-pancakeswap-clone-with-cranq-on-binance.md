@@ -5,7 +5,7 @@ description: >-
   requires a lot of testing.
 ---
 
-# Building a PancakeSwap Clone with CRANQ on BINANCE
+# 🥞 Building a PancakeSwap Clone with CRANQ on BINANCE
 
 ## Summary and Outline
 
