@@ -8,6 +8,7 @@
   * [🔀 Data Manipulation Part 2:  Build a REST API](starter-projects-no-experience-required/data-manipulation-part-2-build-a-rest-api.md)
 * [💪 Going Further with CRANQ](going-further-with-cranq/README.md)
   * [💱 Building a UniSwap Clone with CRANQ](going-further-with-cranq/building-a-uniswap-clone-with-cranq.md)
+  * [Building a PancakeSwap Clone with CRANQ on BINANCE](going-further-with-cranq/building-a-pancakeswap-clone-with-cranq-on-binance.md)
   * [❓ Using Environment Variables](going-further-with-cranq/using-environment-variables.md)
 * [📚 Reference](reference/basics/README.md)
   * [Connection](reference/basics/connection.md)
