@@ -10,10 +10,6 @@ description: >-
 [building-a-uniswap-clone-with-cranq-on-eth-by-js-mastery.md](building-a-uniswap-clone-with-cranq-on-eth-by-js-mastery.md)
 {% endcontent-ref %}
 
-{% content-ref url="building-a-pancakeswap-clone-with-cranq-on-binance.md" %}
-[building-a-pancakeswap-clone-with-cranq-on-binance.md](building-a-pancakeswap-clone-with-cranq-on-binance.md)
-{% endcontent-ref %}
-
 {% content-ref url="using-environment-variables.md" %}
 [using-environment-variables.md](using-environment-variables.md)
 {% endcontent-ref %}
