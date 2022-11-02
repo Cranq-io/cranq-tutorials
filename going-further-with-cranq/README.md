@@ -6,8 +6,8 @@ description: >-
 
 # 💪 Going Further with CRANQ
 
-{% content-ref url="building-a-uniswap-clone-with-cranq.md" %}
-[building-a-uniswap-clone-with-cranq.md](building-a-uniswap-clone-with-cranq.md)
+{% content-ref url="building-a-uniswap-clone-with-cranq-on-eth-by-js-mastery.md" %}
+[building-a-uniswap-clone-with-cranq-on-eth-by-js-mastery.md](building-a-uniswap-clone-with-cranq-on-eth-by-js-mastery.md)
 {% endcontent-ref %}
 
 {% content-ref url="using-environment-variables.md" %}
