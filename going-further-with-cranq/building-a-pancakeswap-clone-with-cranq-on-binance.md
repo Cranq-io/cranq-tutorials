@@ -54,3 +54,13 @@ In this video, you will learn:
 
 {% embed url="https://youtu.be/mf8GwtRNShc" %}
 
+## Part 2
+
+In this video, we'll do some testing etc.:
+
+* Extending deployment with high level nodes that create test tokens
+* Populates the DEX with sample token pair pools
+* Creating initialization data using elementary CRANQ nodes
+* Shows how hierarchical logic is organized in CRANQ
+
+{% embed url="https://youtu.be/E-sjN_0DDPE" %}
