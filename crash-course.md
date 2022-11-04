@@ -11,7 +11,7 @@ description: >-
 
 You're going to be amazed how quickly you can be up and running on CRANQ, even if you have absolutely no prior coding experience.  Let's start with the CRANQ canvas, how to add nodes, and connect them.  We're also going to access an open Yahoo Finance API.
 
-{% embed url="https://youtu.be/WwaKRkLTcEY" %}
+{% embed url="https://www.youtube.com/watch?t=14s&v=UMmb_ZLPba4" %}
 Lesson 1
 {% endembed %}
 
@@ -19,7 +19,7 @@ Lesson 1
 
 You've successfully accessed an API and retrieved the ETH exchange rate.  Now it's time to make a currency converter, and group CRANQ nodes into logical processes.
 
-{% embed url="https://youtu.be/aHGJnjsy6M8" %}
+{% embed url="https://www.youtube.com/watch?t=6s&v=XsF4wekGZhg" %}
 Lesson 2
 {% endembed %}
 
@@ -27,9 +27,11 @@ Lesson 2
 
 We're all set with ETH,  now let's add a couple more tokens.  Along the way, we're going to find out about node Prototypes and Instances inside CRANQ.
 
-{% embed url="https://youtu.be/BDp5OjeNeCI" %}
+{% embed url="https://www.youtube.com/watch?v=t0e_9NrkYSI" %}
 Lesson 3
 {% endembed %}
+
+
 
 ## Lesson 4: The Sync Node
 

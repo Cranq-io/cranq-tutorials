@@ -15,7 +15,7 @@ description: >-
 [data-manipulation-part-1-value-a-portfolio-of-crypto.md](data-manipulation-part-1-value-a-portfolio-of-crypto.md)
 {% endcontent-ref %}
 
-{% content-ref url="data-manipulation-part-2-build-a-rest-api.md" %}
-[data-manipulation-part-2-build-a-rest-api.md](data-manipulation-part-2-build-a-rest-api.md)
+{% content-ref url="data-manipulation-part-2-build-a-rest-api-for-your-portfolio-app.md" %}
+[data-manipulation-part-2-build-a-rest-api-for-your-portfolio-app.md](data-manipulation-part-2-build-a-rest-api-for-your-portfolio-app.md)
 {% endcontent-ref %}
 

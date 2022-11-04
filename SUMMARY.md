@@ -4,7 +4,7 @@
 * [📺 The CRANQ Crash Course](crash-course.md)
 * [🐣 Starter Projects:  No Experience Required](starter-projects-no-experience-required/README.md)
   * [🔀 Data Manipulation Part 1: Value a Portfolio of Crypto](starter-projects-no-experience-required/data-manipulation-part-1-value-a-portfolio-of-crypto.md)
-  * [🔀 Data Manipulation Part 2:  Build a REST API](starter-projects-no-experience-required/data-manipulation-part-2-build-a-rest-api.md)
+  * [🔀 Data Manipulation Part 2:  Build a REST API for Your Portfolio App](starter-projects-no-experience-required/data-manipulation-part-2-build-a-rest-api-for-your-portfolio-app.md)
   * [📈 Build an Exchange Rate Tracker with CRANQ and AirTable](starter-projects-no-experience-required/build-an-exchange-rate-tracker-with-cranq-and-airtable.md)
 * [💪 Going Further with CRANQ](going-further-with-cranq/README.md)
   * [🥞 Building a PancakeSwap Clone with CRANQ on BINANCE](going-further-with-cranq/building-a-pancakeswap-clone-with-cranq-on-binance.md)
