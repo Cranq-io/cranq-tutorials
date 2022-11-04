@@ -4,7 +4,9 @@ description: CRANQ helps you build whatever you want, faster, better, without te
 
 # 🚀 Welcome to Your Low-Code Future
 
-Some people predict that text coding as we know it today will die out completely within a decade.   We at CRANQ don't have a view on that, but we are building an IDE where you can build whatever you aspire to, without writing a line of text code.  Join us, and build professional skills for the next, great phase of coding.
+Some people predict that text coding as we know it today will die out completely within a decade.   We at CRANQ don't have a view on that, but we are building an IDE where you can build whatever you aspire to, without writing a line of text code.  \
+\
+Join us, and build your professional skills for the next phase of coding.  We're here to help, so come find us on our [Discord server](https://discord.com/invite/UgsjNtZW65).
 
 {% embed url="https://youtu.be/KqgqNywxE8U" %}
 CRANQ Intro
