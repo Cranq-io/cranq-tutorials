@@ -39,6 +39,6 @@ We've generated some useful real-time exchange rate information.  Now let's comb
 \
 What will you build next?  Tell us about it on our [Discord channel](https://discord.com/invite/UgsjNtZW65).
 
-{% embed url="https://youtu.be/fkVtS82NitM" %}
+{% embed url="https://www.youtube.com/watch?v=QNz3eHVecCU" %}
 Lesson 4
 {% endembed %}

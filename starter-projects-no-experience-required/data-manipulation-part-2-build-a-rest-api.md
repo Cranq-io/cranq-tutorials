@@ -2,7 +2,7 @@
 description: Want your app to be usable from the Web?  It's time to build an API.
 ---
 
-# 🔀 Data Manipulation Part 2:  Build a REST API
+# 🔀 Data Manipulation Part 2:  Build a REST API for Your Portfolio App
 
 This course assumes you have completed [Data Manipulation Part 1](data-manipulation-part-1-value-a-portfolio-of-crypto.md), and uses the project from that course as a starting point. &#x20;
 
