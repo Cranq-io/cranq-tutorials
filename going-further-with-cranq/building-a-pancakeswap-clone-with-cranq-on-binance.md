@@ -41,7 +41,7 @@ Discord: [https://cranq.io/go/discord](https://cranq.io/go/discord)\
 
 Ready to start?
 
-## Part 1
+## Part 1:  Deploy the Clone
 
 In this video, you will learn:
 
@@ -54,7 +54,7 @@ In this video, you will learn:
 
 {% embed url="https://youtu.be/mf8GwtRNShc" %}
 
-## Part 2
+## Part 2:   Test liquidity, and funding pools
 
 In this video, we'll do some testing etc.:
 
@@ -64,3 +64,22 @@ In this video, we'll do some testing etc.:
 * Shows how hierarchical logic is organized in CRANQ
 
 {% embed url="https://youtu.be/E-sjN_0DDPE" %}
+Part 2
+{% endembed %}
+
+## Part 3:  Use the DEX via Web2 UI, and test on local node
+
+
+
+In this video you will:
+
+* Download a minimalistic Web2 UI, based on a popular framework
+* Configure and run it on Binance test chain
+* Make some test token trades using a browser wallet plugin
+* Install and configure a local test chain to avoid faucet limitation
+* Set up the wallet to work with the local node, add local accounts and configure it to see the created local test assets.
+* Configure the Cranq app and UI to use the local chain and the deployed local router
+
+{% embed url="https://www.youtube.com/watch?t=15s&v=Ydu-s4L5CKE" %}
+Part 3
+{% endembed %}
