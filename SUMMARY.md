@@ -3,7 +3,7 @@
 * [🚀 Welcome to Your Low-Code Future](README.md)
 * [📺 The CRANQ Crash Course](crash-course.md)
 * [🐣 Starter Projects:  No Experience Required](starter-projects-no-experience-required/README.md)
-  * [🔀 Data Manipulation: Value a Portfolio of Crypto](starter-projects-no-experience-required/data-manipulation-value-a-portfolio-of-crypto.md)
+  * [🔀 Data Manipulation: Value a Portfolio of Crypto](starter-projects-no-experience-required/data-manipulation-part-1-value-a-portfolio-of-crypto.md)
   * [↕ Wrapping Your CRANQ Code in a REST API](starter-projects-no-experience-required/data-manipulation-part-2-build-a-rest-api.md)
   * [📈 Build an Exchange Rate Tracker with CRANQ and AirTable](starter-projects-no-experience-required/build-an-exchange-rate-tracker-with-cranq-and-airtable.md)
 * [💪 Going Further with CRANQ](going-further-with-cranq/README.md)

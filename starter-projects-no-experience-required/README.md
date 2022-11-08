@@ -11,8 +11,8 @@ description: >-
 [build-an-exchange-rate-tracker-with-cranq-and-airtable.md](build-an-exchange-rate-tracker-with-cranq-and-airtable.md)
 {% endcontent-ref %}
 
-{% content-ref url="data-manipulation-value-a-portfolio-of-crypto.md" %}
-[data-manipulation-value-a-portfolio-of-crypto.md](data-manipulation-value-a-portfolio-of-crypto.md)
+{% content-ref url="data-manipulation-part-1-value-a-portfolio-of-crypto.md" %}
+[data-manipulation-part-1-value-a-portfolio-of-crypto.md](data-manipulation-part-1-value-a-portfolio-of-crypto.md)
 {% endcontent-ref %}
 
 {% content-ref url="data-manipulation-part-2-build-a-rest-api.md" %}

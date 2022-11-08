@@ -4,9 +4,9 @@ description: >-
   will organise our code so that we, and others, can navigate it easily.
 ---
 
-# 🔀 Data Manipulation Part 1: Value a Portfolio of Crypto
+# 🔀 Data Manipulation: Value a Portfolio of Crypto
 
-This two-part course will take you on quite a journey, starting with Part 1, and the fundamentals of data transformation using CRANQ.  We will then progress to Part 2, and building a REST API so that you, and others, can access your application from the web.
+This two-part course will take you on quite a journey:  Start with the modules on this page, and the fundamentals of data transformation using CRANQ.  We will then progress to [wrapping your code in a REST API](data-manipulation-part-2-build-a-rest-api.md), so that you, and others, can access your application from the web.
 
 ## Lesson 1: Mapping
 
