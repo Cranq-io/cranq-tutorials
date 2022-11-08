@@ -10,6 +10,8 @@
   * [🥞 Building a PancakeSwap Clone with CRANQ on BINANCE](going-further-with-cranq/building-a-pancakeswap-clone-with-cranq-on-binance.md)
   * [💱 Building a UniSwap Clone with CRANQ on ETH (by JS Mastery)](going-further-with-cranq/building-a-uniswap-clone-with-cranq-on-eth-by-js-mastery.md)
   * [❓ Using Environment Variables](going-further-with-cranq/using-environment-variables.md)
+* [🌐 Web 3](web-3/README.md)
+  * [Setting up Ganache with Metamask](web-3/setting-up-ganache-with-metamask.md)
 * [📚 Reference](reference/basics/README.md)
   * [Connection](reference/basics/connection.md)
   * [Dataflow programming](reference/basics/dataflow-programming.md)

@@ -27,7 +27,7 @@ Getting Rates and Inserting Them
 
 Since we made the video, we renamed the 'records' input port on the the Bulk Records Inserter to the 'AT records' port for clarity
 
-![](<../.gitbook/assets/image (26).png>)![](<../.gitbook/assets/image (27).png>)
+![](<../.gitbook/assets/image (26) (1).png>)![](<../.gitbook/assets/image (27).png>)
 
 
 

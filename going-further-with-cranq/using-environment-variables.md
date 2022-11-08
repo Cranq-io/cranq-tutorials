@@ -24,13 +24,13 @@ In the following example, we'll focus on two environment variables: "API\_KEY" a
 
 Find `system/Environment variables getter with fallback` in the repo, drag it onto the canvas, then click on the `default values` port and set an empty dictionary.
 
-<img src="../.gitbook/assets/image (6).png" alt="" data-size="original">![](<../.gitbook/assets/image (1).png>)
+<img src="../.gitbook/assets/image (6) (1).png" alt="" data-size="original">![](<../.gitbook/assets/image (1) (1).png>)
 
 ### **2. Drag a store node onto the canvas**
 
 Find `data/Store` in the repo and drag it onto the canvas. This will hold the list of variable names. Then, click on the `data` input port and set the value to the list of environment variable names: `["API_KEY", "PRIVATE_KEY"]`.
 
-![](<../.gitbook/assets/image (7).png>)![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (7) (1).png>)![](<../.gitbook/assets/image (12) (1).png>)
 
 ### **3. Connect nodes**
 
@@ -40,7 +40,7 @@ Then, connect the <mark style="color:orange;">`data`</mark> output of <mark styl
 
 Finally, connect the <mark style="color:orange;">`resolved variables`</mark> output of the <mark style="color:blue;">`environment variable getter...`</mark> node to the <mark style="color:green;">`data`</mark> input of the <mark style="color:blue;">`logger`</mark> node. This will allow us to see the environment variables' values in the output window.
 
-![](<../.gitbook/assets/image (4).png>)![](<../.gitbook/assets/image (13).png>)![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (4) (1).png>)![](<../.gitbook/assets/image (13) (1).png>)![](<../.gitbook/assets/image (5) (1).png>)
 
 ## **The .env file**
 
