@@ -2,9 +2,9 @@
 description: Want your app to be usable from the Web?  It's time to build an API.
 ---
 
-# 🔀 Data Manipulation Part 2:  Build a REST API for Your Portfolio App
+# ↕ Wrapping Your CRANQ Code in a REST API
 
-This course assumes you have completed [Data Manipulation Part 1](data-manipulation-part-1-value-a-portfolio-of-crypto.md), and uses the project from that course as a starting point. &#x20;
+This course uses the code created in [Data Manipulation Part 1](data-manipulation-part-1-value-a-portfolio-of-crypto.md) as a starting point, but is intended as an instruction manual for wrapping any kind of CRANQ code in an API. &#x20;
 
 ## Lesson 1:  Building a Read-Only API for Our Portfolio
 
