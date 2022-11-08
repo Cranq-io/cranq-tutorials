@@ -36,6 +36,8 @@
     * [✏ Using external npm package](course/advanced/using-external-npm-package.md)
     * [✏ Creating code nodes](course/advanced/code-node.md)
     * [Building data structure](how-to/advanced/building-data-structure.md)
+* [🌐 Web 3](web-3/README.md)
+  * [Setting up Ganache with Metamask](web-3/setting-up-ganache-with-metamask.md)
 * [🏭 Projects](projects.md)
 * [🛬 Roadmap](roadmap.md)
 * [❓ FAQ](faq.md)

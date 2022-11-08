@@ -18,4 +18,4 @@ Compilation is only successful when all the code nodes of the project have imple
 
 {% endhint %}
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)

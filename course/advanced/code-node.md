@@ -26,7 +26,7 @@ When you add code to the node, you add code to the init function, or the the cle
 * Init will always run before the code of the port. It works like a constructor.&#x20;
 * Cleanup will run after the input port(s) code executed. ???
 
-![](<../../.gitbook/assets/image (2).png>)&#x20;
+![](<../../.gitbook/assets/image (2) (2).png>)&#x20;
 
 #### Parameters of the node functions
 
@@ -43,7 +43,7 @@ Each of the parameters are javascript object.
 
 ### Adding code to the port(s)
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 #### Parameters of the port(s) function
 
