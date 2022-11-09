@@ -1,6 +1,16 @@
-# Setting up Ganache with Metamask
+---
+description: Having trouble getting test ETH?  Might be time to try Ganache.
+---
 
+# 🍫 Setting up Ganache with Metamask
 
+Ganache is a development tool in the Truffle Suite and is used for setting up a personal Ethereum Blockchain to deploy contracts, develop your applications, and run tests. MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain.  Getting test ETH is a nightmare these days so we recommend using local network for development. In a local network, there is no ETH limitation, and you don't have to wait for transactions to complete. \
+\
+In this tutorial we will install and setup Ganache and import your Ganache account to Metamask. When you are done you can:
+
+* Sign Ganache transactions from Metamask
+* Check your (Ganache) assets in Metamask
+* Check every (Ganache) transaction which affected your wallet in Metamask
 
 ## Steps
 
