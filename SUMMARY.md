@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🚀 Welcome to Your Low-Code Future](README.md)
-* [🎉 Getting Started With CRANQ](getting-started-with-cranq.md)
+* [👍 Getting Started With CRANQ](crash-course.md)
 * [🐣 Starter Projects:  No Experience Required](starter-projects-no-experience-required/README.md)
   * [🔀 Data Manipulation: Value a Portfolio of Crypto](starter-projects-no-experience-required/data-manipulation-part-1-value-a-portfolio-of-crypto.md)
   * [↕ Wrapping Your CRANQ Code in a REST API](starter-projects-no-experience-required/data-manipulation-part-2-build-a-rest-api.md)

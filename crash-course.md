@@ -5,7 +5,7 @@ description: >-
   your low-code future!
 ---
 
-# 🎉 Getting Started With CRANQ
+# 👍 Getting Started With CRANQ
 
 ## Lesson 1: Your First CRANQ App
 
