@@ -5,7 +5,7 @@ description: >-
   using a loop
 ---
 
-# 📈 Build an Exchange Rate Tracker with CRANQ and AirTable
+# 📈 Using AirTable w/ CRANQ
 
 ## Project Overview
 
