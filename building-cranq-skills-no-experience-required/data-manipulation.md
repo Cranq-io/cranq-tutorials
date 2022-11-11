@@ -4,9 +4,9 @@ description: >-
   will organise our code so that we, and others, can navigate it easily.
 ---
 
-# 🔢 Data Whiz:  Learn to Collect, Manipulate and Analyse Data from APIs
+# 🔢 Data Manipulation
 
-This two-part course will take you on quite a journey:  Start with the modules on this page, and the fundamentals of data transformation using CRANQ.  We will then progress to [wrapping your code in a REST API](wrapping-your-cranq-code-in-a-rest-api.md), so that you, and others, can access your application from the web.
+This two-part course will take you on quite a journey:  Start with the modules on this page, and the fundamentals of data transformation using CRANQ.  We will then progress to [wrapping your code in a REST API](../starter-projects-no-experience-required/data-manipulation-part-2-build-a-rest-api.md), so that you, and others, can access your application from the web.
 
 ## Lesson 1: Mapping
 

@@ -7,15 +7,15 @@ description: >-
 
 # 🐣 Building CRANQ Skills:  No Experience Required
 
-{% content-ref url="build-an-exchange-rate-tracker-with-cranq-and-airtable.md" %}
-[build-an-exchange-rate-tracker-with-cranq-and-airtable.md](build-an-exchange-rate-tracker-with-cranq-and-airtable.md)
+{% content-ref url="../starter-projects-no-experience-required/build-an-exchange-rate-tracker-with-cranq-and-airtable.md" %}
+[build-an-exchange-rate-tracker-with-cranq-and-airtable.md](../starter-projects-no-experience-required/build-an-exchange-rate-tracker-with-cranq-and-airtable.md)
 {% endcontent-ref %}
 
-{% content-ref url="data-whiz-learn-to-collect-manipulate-and-analyse-data-from-apis.md" %}
-[data-whiz-learn-to-collect-manipulate-and-analyse-data-from-apis.md](data-whiz-learn-to-collect-manipulate-and-analyse-data-from-apis.md)
+{% content-ref url="data-manipulation.md" %}
+[data-manipulation.md](data-manipulation.md)
 {% endcontent-ref %}
 
-{% content-ref url="wrapping-your-cranq-code-in-a-rest-api.md" %}
-[wrapping-your-cranq-code-in-a-rest-api.md](wrapping-your-cranq-code-in-a-rest-api.md)
+{% content-ref url="../starter-projects-no-experience-required/data-manipulation-part-2-build-a-rest-api.md" %}
+[data-manipulation-part-2-build-a-rest-api.md](../starter-projects-no-experience-required/data-manipulation-part-2-build-a-rest-api.md)
 {% endcontent-ref %}
 
