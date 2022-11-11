@@ -7,8 +7,8 @@ description: >-
 
 # 🐣 Building CRANQ Skills:  No Experience Required
 
-{% content-ref url="../starter-projects-no-experience-required/build-an-exchange-rate-tracker-with-cranq-and-airtable.md" %}
-[build-an-exchange-rate-tracker-with-cranq-and-airtable.md](../starter-projects-no-experience-required/build-an-exchange-rate-tracker-with-cranq-and-airtable.md)
+{% content-ref url="using-airtable-w-cranq.md" %}
+[using-airtable-w-cranq.md](using-airtable-w-cranq.md)
 {% endcontent-ref %}
 
 {% content-ref url="data-manipulation.md" %}
