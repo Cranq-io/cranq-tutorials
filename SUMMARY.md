@@ -4,6 +4,7 @@
 * [👍 Getting Started With CRANQ](crash-course.md)
 * [🐣 Building CRANQ Skills:  No Experience Required](building-cranq-skills-no-experience-required/README.md)
   * [🔢 Data Manipulation](building-cranq-skills-no-experience-required/data-manipulation.md)
+  * [Build a Full-Stack Waiting List w/ CRANQ, AirTable, Mailjet and Bubble](building-cranq-skills-no-experience-required/build-a-full-stack-waiting-list-w-cranq-airtable-mailjet-and-bubble.md)
   * [↕ Wrapping Your CRANQ Code in a REST API](starter-projects-no-experience-required/data-manipulation-part-2-build-a-rest-api.md)
   * [📈 Using AirTable w/ CRANQ](starter-projects-no-experience-required/build-an-exchange-rate-tracker-with-cranq-and-airtable.md)
 * [💪 Going Further with CRANQ](going-further-with-cranq/README.md)
