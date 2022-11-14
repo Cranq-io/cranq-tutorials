@@ -11,6 +11,10 @@ description: >-
 [data-manipulation.md](data-manipulation.md)
 {% endcontent-ref %}
 
+{% content-ref url="build-a-full-stack-waiting-list-w-cranq-airtable-mailjet-and-bubble.md" %}
+[build-a-full-stack-waiting-list-w-cranq-airtable-mailjet-and-bubble.md](build-a-full-stack-waiting-list-w-cranq-airtable-mailjet-and-bubble.md)
+{% endcontent-ref %}
+
 {% content-ref url="../starter-projects-no-experience-required/data-manipulation-part-2-build-a-rest-api.md" %}
 [data-manipulation-part-2-build-a-rest-api.md](../starter-projects-no-experience-required/data-manipulation-part-2-build-a-rest-api.md)
 {% endcontent-ref %}
