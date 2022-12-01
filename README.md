@@ -21,6 +21,6 @@ CRANQ doesn't need a lot of prior programming experience. Follow our tutorials a
 ## Your Roadmap
 
 1. Head over to the [CRANQ website](https://cranq.io), and download CRANQ for your platform, if you haven't already! It's easy, just click 'Download' in the hp top nav, and then open the file.
-2. Move on to the CRASH COURSE linked at the base of this page to learn the basics!
+2. Move on to the Getting Started With CRANQ course linked at the base of this page to learn the basics!
 3. Look up specific reference questions in our comprehensive database. You 'll find a ton of information in there that will help you to solve problems
 4. Give us a shout on our [Discord Channel](https://discord.gg/UgsjNtZW65) if you need further help!
