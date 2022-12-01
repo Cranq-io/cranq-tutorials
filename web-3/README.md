@@ -8,6 +8,10 @@
 [building-a-uniswap-clone-with-cranq-on-eth-by-js-mastery.md](building-a-uniswap-clone-with-cranq-on-eth-by-js-mastery.md)
 {% endcontent-ref %}
 
+{% content-ref url="build-an-nft-finder-site-with-cranq-and-bubble.md" %}
+[build-an-nft-finder-site-with-cranq-and-bubble.md](build-an-nft-finder-site-with-cranq-and-bubble.md)
+{% endcontent-ref %}
+
 {% content-ref url="setting-up-ganache-with-metamask.md" %}
 [setting-up-ganache-with-metamask.md](setting-up-ganache-with-metamask.md)
 {% endcontent-ref %}
