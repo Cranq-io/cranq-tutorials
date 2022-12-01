@@ -1,10 +1,10 @@
 ---
 description: >-
-  Got something cool coming?  Let people join the queue with this waiting list
-  for your site.
+  Got a cool new product coming?  Let people join the queue with this waiting
+  list for your site.
 ---
 
-# Build a Full-Stack Waiting List w/ CRANQ, AirTable, Mailjet and Bubble
+# ⏱ Build a Full-Stack Waiting List w/ CRANQ, AirTable, Mailjet and Bubble
 
 Code along with Andras as he uses CRANQ, AirTable, MailJet & Bubble to build a full-stack Waiting List solution.  CRANQ uses this same code for our cloud version waiting list on [CRANQ](https://cranq.io).
 
