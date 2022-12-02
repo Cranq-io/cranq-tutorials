@@ -11,6 +11,7 @@
   * [❓ Using Environment Variables](going-further-with-cranq/using-environment-variables.md)
 * [🌐 Web 3](web-3/README.md)
   * [🥞 Building a PancakeSwap Clone with CRANQ on BINANCE](web-3/building-a-pancakeswap-clone-with-cranq-on-binance.md)
+  * [💸 Send ETH to a List of Addresses](web-3/send-eth-to-a-list-of-addresses.md)
   * [💱 Building a UniSwap Clone with CRANQ on ETH (by JS Mastery)](web-3/building-a-uniswap-clone-with-cranq-on-eth-by-js-mastery.md)
   * [🔍 Build an NFT Finder Site with CRANQ and Bubble](web-3/build-an-nft-finder-site-with-cranq-and-bubble.md)
   * [🍫 Setting up Ganache with Metamask](web-3/setting-up-ganache-with-metamask.md)
