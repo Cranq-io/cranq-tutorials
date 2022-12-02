@@ -4,6 +4,10 @@
 [building-a-pancakeswap-clone-with-cranq-on-binance.md](building-a-pancakeswap-clone-with-cranq-on-binance.md)
 {% endcontent-ref %}
 
+{% content-ref url="send-eth-to-a-list-of-addresses.md" %}
+[send-eth-to-a-list-of-addresses.md](send-eth-to-a-list-of-addresses.md)
+{% endcontent-ref %}
+
 {% content-ref url="building-a-uniswap-clone-with-cranq-on-eth-by-js-mastery.md" %}
 [building-a-uniswap-clone-with-cranq-on-eth-by-js-mastery.md](building-a-uniswap-clone-with-cranq-on-eth-by-js-mastery.md)
 {% endcontent-ref %}
