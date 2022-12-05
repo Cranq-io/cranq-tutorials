@@ -11,8 +11,8 @@ description: >-
 
 You're going to be amazed how quickly you can be up and running on CRANQ, even if you have absolutely no prior coding experience.  Let's start with the CRANQ canvas, how to add nodes, and connect them.  We're also going to access an open Yahoo Finance API.
 
-{% embed url="https://www.youtube.com/watch?t=14s&v=UMmb_ZLPba4" %}
-Lesson 1
+{% embed url="https://youtu.be/o8cNweLOsGQ" %}
+Learn Low-Code with CRANQ
 {% endembed %}
 
 ## Lesson 2: Processing Data and Grouping Nodes
