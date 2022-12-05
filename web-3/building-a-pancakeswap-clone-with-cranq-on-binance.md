@@ -52,7 +52,7 @@ In this video, you will learn:
 * How you can use CRANQ and a blockchain explorer side-by-side to follow the deployment process in real time
 * Best practice for deploying dependent contracts, and spotting where errors may happen
 
-{% embed url="https://youtu.be/mf8GwtRNShc" %}
+{% embed url="https://youtu.be/KNRmpBcL9hY" %}
 
 ## Part 2:   Test liquidity, and funding pools
 
