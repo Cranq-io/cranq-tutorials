@@ -52,7 +52,7 @@ The values are empty, because there are no such environment variables set up yet
 
 To create a .env file, first open the CRANQ folder via the Help menu.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Open the CRANQ folder</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Open the CRANQ folder</p></figcaption></figure>
 
 Make note of the absolute path, and using a text or code editor, save the .env file there with the following content:
 
@@ -63,7 +63,7 @@ PRIVATE_KEY=My private key
 
 Once saved, head back to CRANQ, and re-run the program. This time we'll see the values we just added to the .env file.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Values read from .env file</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Values read from .env file</p></figcaption></figure>
 
 ## **Sharing environment variables with other projects**
 
@@ -75,7 +75,7 @@ CRANQ uses the same .env file across projects, so you don't have to do anything 
 
 The .env file works great in the CRANQ app, but CRANQ programs are ultimately meant to be run independently from the CRANQ app, where you want to access the actual environment variables, not the contents of a .env file.The good news is that you can do it without any extra effort. CRANQ programs compiled to NodeJS get the real environment variables through the same nodes. All you have to do is compile your CRANQ program, and then, run it or use it as an NPM dependency in your JavaScript project.To compile, simply select "Compile" / "NodeJS" from the menu, and save the zipped NPM package.
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FOAyvGDT2zXMtcUTDVXAy%2Fuploads%2FfxSeBu3rSZtgpPhw3FQ4%2FScreenshot%202022-09-18%20at%2013.58.58.png?alt=media\&token=74e80aa1-c178-4db5-8bc4-a5a6e841bb18)![](<../.gitbook/assets/image (10).png>)
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FOAyvGDT2zXMtcUTDVXAy%2Fuploads%2FfxSeBu3rSZtgpPhw3FQ4%2FScreenshot%202022-09-18%20at%2013.58.58.png?alt=media\&token=74e80aa1-c178-4db5-8bc4-a5a6e841bb18)![](<../.gitbook/assets/image (10) (1).png>)
 
 After compiling this program, unzipping, installing dependencies, and running it through node, you'll likely see the same output as when we ran it from CRANQ for the first time.\
 \
