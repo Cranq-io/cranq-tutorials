@@ -9,6 +9,7 @@
   * [📈 Using AirTable w/ CRANQ](starter-projects-no-experience-required/build-an-exchange-rate-tracker-with-cranq-and-airtable.md)
 * [💪 Going Further with CRANQ](going-further-with-cranq/README.md)
   * [❓ Using Environment Variables](going-further-with-cranq/using-environment-variables.md)
+  * [🗣 Use the OpenAI API for a Voice-Message to JIRA Ticket App](going-further-with-cranq/use-the-openai-api-for-a-voice-message-to-jira-ticket-app.md)
 * [🌐 Web 3](web-3/README.md)
   * [🥞 Building a PancakeSwap Clone with CRANQ on BINANCE](web-3/building-a-pancakeswap-clone-with-cranq-on-binance.md)
   * [💸 Send ETH to a List of Addresses](web-3/send-eth-to-a-list-of-addresses.md)
