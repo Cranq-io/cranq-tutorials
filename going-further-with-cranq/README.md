@@ -9,7 +9,3 @@ description: >-
 {% content-ref url="using-environment-variables.md" %}
 [using-environment-variables.md](using-environment-variables.md)
 {% endcontent-ref %}
-
-{% content-ref url="use-the-openai-api-for-a-voice-message-to-jira-ticket-app.md" %}
-[use-the-openai-api-for-a-voice-message-to-jira-ticket-app.md](use-the-openai-api-for-a-voice-message-to-jira-ticket-app.md)
-{% endcontent-ref %}
