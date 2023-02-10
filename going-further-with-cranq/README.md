@@ -12,6 +12,6 @@ CRANQ makes it easy to build new applications by connecting APIs, and doing data
 [use-the-openai-api-for-a-voice-message-to-jira-ticket-app.md](use-the-openai-api-for-a-voice-message-to-jira-ticket-app.md)
 {% endcontent-ref %}
 
-{% content-ref url="../building-with-ai/build-an-ai-powered-whatsapp-voice-messaging-bot.md" %}
-[build-an-ai-powered-whatsapp-voice-messaging-bot.md](../building-with-ai/build-an-ai-powered-whatsapp-voice-messaging-bot.md)
+{% content-ref url="../building-with-ai/use-the-openai-api-to-build-a-whatsapp-voice-messaging-bot.md" %}
+[use-the-openai-api-to-build-a-whatsapp-voice-messaging-bot.md](../building-with-ai/use-the-openai-api-to-build-a-whatsapp-voice-messaging-bot.md)
 {% endcontent-ref %}

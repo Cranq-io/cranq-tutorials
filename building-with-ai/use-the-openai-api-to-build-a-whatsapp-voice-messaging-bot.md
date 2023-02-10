@@ -4,7 +4,7 @@ description: >-
   WhatsApp, Azure and OpenAI APIs to deliver a magical interaction.
 ---
 
-# 🦜 Use the OpenAI API to Build a WhatsApp Voice Messaging Bot
+# 🦜 Build an AI-Powered WhatsApp Voice Messaging Bot
 
 We will use the WhatsApp API, Azure Speech, and the chatGPT / OpenAI API to build a powerful AI chatbot that you can VM from Whatsapp, and receive an AI voice response. Amaze your friends, and the world, with this cool project, and at the same time build your CRANQ low-code skills.
 
