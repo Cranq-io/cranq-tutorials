@@ -52,7 +52,7 @@ The values are empty, because there are no such environment variables set up yet
 
 To create a .env file, first open the CRANQ folder via the Help menu.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Open the CRANQ folder</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/menuHelp.png" alt=""><figcaption></figcaption></figure>
 
 Make note of the absolute path, and using a text or code editor, save the .env file there with the following content:
 
@@ -63,7 +63,7 @@ PRIVATE_KEY=My private key
 
 Once saved, head back to CRANQ, and re-run the program. This time we'll see the values we just added to the .env file.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Values read from .env file</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/envgetter.png" alt=""><figcaption></figcaption></figure>
 
 ## **Sharing environment variables with other projects**
 

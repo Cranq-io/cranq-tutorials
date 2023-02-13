@@ -99,4 +99,4 @@ In this tutorial we will install and setup Ganache and import your Ganache accou
           ![](<../.gitbook/assets/image (18).png>)
        6. Enter your private key and import\
           \
-          ![](<../.gitbook/assets/image (7).png>)\
+          ![](<../.gitbook/assets/image (7) (2).png>)\
