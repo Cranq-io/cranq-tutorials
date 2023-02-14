@@ -11,6 +11,10 @@ description: >-
 [data-manipulation.md](data-manipulation.md)
 {% endcontent-ref %}
 
+{% content-ref url="a-telegram-bot-in-15-minutes.md" %}
+[a-telegram-bot-in-15-minutes.md](a-telegram-bot-in-15-minutes.md)
+{% endcontent-ref %}
+
 {% content-ref url="build-a-full-stack-waiting-list-w-cranq-airtable-mailjet-and-bubble.md" %}
 [build-a-full-stack-waiting-list-w-cranq-airtable-mailjet-and-bubble.md](build-a-full-stack-waiting-list-w-cranq-airtable-mailjet-and-bubble.md)
 {% endcontent-ref %}
