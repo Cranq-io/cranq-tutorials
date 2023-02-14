@@ -1,5 +1,5 @@
 ---
-description: Surprisingly easy
+description: The Botfather is going to make you an offer you can't refuse...
 ---
 
 # 🤖 A Telegram Bot in 15 Minutes
