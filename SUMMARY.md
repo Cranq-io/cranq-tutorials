@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🚀 Welcome to Your Low-Code Future](README.md)
+* [🚀 It's Easy to Build AI-Powered Apps with CRANQ Low-Code](README.md)
 * [👍 Getting Started With CRANQ](crash-course.md)
 * [🐣 Building CRANQ Skills:  No Experience Required](building-cranq-skills-no-experience-required/README.md)
   * [🔢 Data Manipulation](building-cranq-skills-no-experience-required/data-manipulation.md)
