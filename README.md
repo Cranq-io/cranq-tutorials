@@ -6,7 +6,7 @@ description: CRANQ helps you get on the AI wave fast, without text code.
 
 The release of chatGPT's OpenAI API is sparking a transformation of business models in every corner of the digital economy.  Entrepreneurs are using OpenAI's API to reinvent existing processes, and are getting traction fast.  The key to making it in this new economy is seeing the opportunity, and addressing it quickly.
 
-CRANQ helps you to ship your AI-powered app fast, even if you are new to coding.  Simply download the app, and follow the lessons in the '[Get Started with CRANQ](crash-course.md)' section.  cRANQ is very intuitive, and you will be amazed by what you can achieve after just a few coding sessions.\
+CRANQ helps you to ship your AI-powered app fast, even if you are new to coding.  We provide you with great API connectors, from OpenAI and WhatsApp, to Discord.  Simply download the app, and follow the lessons in the '[Get Started with CRANQ](crash-course.md)' section.  CRANQ is very intuitive, and you will be amazed by what you can achieve after just a few coding sessions.\
 \
 Join us, and build your professional skills for the next phase of coding.  We're here to help, so come find us on our [Discord server](https://discord.com/invite/UgsjNtZW65).
 
