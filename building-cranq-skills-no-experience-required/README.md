@@ -7,6 +7,8 @@ description: >-
 
 # 🐣 Building CRANQ Skills:  No Experience Required
 
+Or maybe you want to get started working on OpenAI projects?  If so, head on over to[ Building with AI](../going-further-with-cranq/).
+
 {% content-ref url="data-manipulation.md" %}
 [data-manipulation.md](data-manipulation.md)
 {% endcontent-ref %}
