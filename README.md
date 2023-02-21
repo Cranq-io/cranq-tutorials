@@ -1,20 +1,16 @@
 ---
-description: CRANQ helps you create AI-powered functionality fast, without text code.
+description: CRANQ helps you create AI-powered functionality fast, without text code
 ---
 
 # 🚀 Building w/ Low-Code and AI?  Start Here
 
-OpenAI's API is your opportunity to reinvent lucrative processes across the digital economy, if you move fast.  CRANQ helps you to build astonishing AI-powered prototypes in low-code, and turn them into solid production-grade.
+The AI era is upon us, and if you want to stay relevant and take advantage of AI opportunities, then building skills in AI and Low-Code is essential.  CRANQ is easy to learn, even if you are a complete newcomer to coding.
 
-CRANQ helps you to ship your AI-powered app fast, even if you are new to coding.  We provide you with great API connectors, from OpenAI and WhatsApp, to Discord.  Simply download the app, and follow the lessons in the '[Get Started with CRANQ](crash-course.md)' section.  CRANQ is very intuitive, and you will be amazed by what you can achieve after just a few coding sessions.\
-\
-Join us, and build your professional skills for the next phase of coding.  We're here to help, so come find us on our [Discord server](https://discord.com/invite/UgsjNtZW65).
+The video below is a short intro to how CRANQ works.
 
 {% embed url="https://youtu.be/KqgqNywxE8U" %}
 CRANQ Intro
 {% endembed %}
-
-CRANQ is a framework and visual IDE for dataflow programming. It has a visual interface, but compiles to  [Node.js](https://nodejs.org/) Javascript, ready to upload to your infrastructure as a Docker image or npm package.&#x20;
 
 CRANQ doesn't need a lot of prior programming experience. Follow our tutorials and pretty soon you will be shipping functionality like a pro.  Oh, by the way, you're using the Basic package right now, and there's nothing to pay.
 
