@@ -12,8 +12,8 @@ In these projects, we're going to use CRANQ's OpenAI nodes to deliver surprising
 [prompt-chatgpt-to-return-structured-data.md](../building-with-ai/prompt-chatgpt-to-return-structured-data.md)
 {% endcontent-ref %}
 
-{% content-ref url="use-the-openai-api-for-a-voice-message-to-jira-ticket-app.md" %}
-[use-the-openai-api-for-a-voice-message-to-jira-ticket-app.md](use-the-openai-api-for-a-voice-message-to-jira-ticket-app.md)
+{% content-ref url="../building-with-ai/build-a-voice-message-to-jira-ticket-app-w-openai.md" %}
+[build-a-voice-message-to-jira-ticket-app-w-openai.md](../building-with-ai/build-a-voice-message-to-jira-ticket-app-w-openai.md)
 {% endcontent-ref %}
 
 {% content-ref url="../building-with-ai/use-the-openai-api-to-build-a-whatsapp-voice-messaging-bot.md" %}

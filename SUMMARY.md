@@ -10,7 +10,7 @@
   * [📈 Using AirTable w/ CRANQ](starter-projects-no-experience-required/build-an-exchange-rate-tracker-with-cranq-and-airtable.md)
 * [💪 Building with AI](going-further-with-cranq/README.md)
   * [👨🏫 Prompt chatGPT to return structured data](building-with-ai/prompt-chatgpt-to-return-structured-data.md)
-  * [🗣 Use the OpenAI API for a Voice-Message-to-JIRA-Ticket App](going-further-with-cranq/use-the-openai-api-for-a-voice-message-to-jira-ticket-app.md)
+  * [🗣 Build a Voice-Message-to-JIRA-Ticket App w/ OpenAI](building-with-ai/build-a-voice-message-to-jira-ticket-app-w-openai.md)
   * [🦜 Build an AI-Powered WhatsApp Voice Messaging Bot](building-with-ai/use-the-openai-api-to-build-a-whatsapp-voice-messaging-bot.md)
 * [🔧 Toolbox](toolbox/README.md)
   * [👬 The Dictionary Inner Joiner](toolbox/the-dictionary-inner-joiner.md)
