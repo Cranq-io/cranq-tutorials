@@ -49,7 +49,7 @@ In this tutorial we will install and setup Ganache and import your Ganache accou
        ![](<../.gitbook/assets/image (31).png>)
     3. Select Networks\
        \
-       ![](<../.gitbook/assets/image (2).png>)
+       ![](<../.gitbook/assets/image (2) (1).png>)
     4. Click on Add Network\
        \
        ![](<../.gitbook/assets/image (32).png>)
@@ -70,8 +70,8 @@ In this tutorial we will install and setup Ganache and import your Ganache accou
              \
              ![](<../.gitbook/assets/image (28).png>)
           2. **Type the suggested chain id which is 1337.**\
-             ****\
-             ****![](../.gitbook/assets/image.png)****
+             \
+             ![](<../.gitbook/assets/image (37).png>)
        4. Set the Currency symbol\
           \
 

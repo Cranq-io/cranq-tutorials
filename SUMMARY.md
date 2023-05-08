@@ -15,6 +15,7 @@
 * [🔧 Toolbox](toolbox/README.md)
   * [👬 The Dictionary Inner Joiner](toolbox/the-dictionary-inner-joiner.md)
   * [❓ Using Environment Variables](going-further-with-cranq/using-environment-variables.md)
+  * [Creating code nodes](toolbox/creating-code-nodes.md)
 * [🌐 Web 3](web-3/README.md)
   * [🥞 Building a PancakeSwap Clone with CRANQ on BINANCE](web-3/building-a-pancakeswap-clone-with-cranq-on-binance.md)
   * [💸 Send ETH to a List of Addresses](web-3/send-eth-to-a-list-of-addresses.md)

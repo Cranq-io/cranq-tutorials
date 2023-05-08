@@ -39,15 +39,15 @@ Steps
       `};`
    5. run the following command in this folder from a terminal to start your local hardhat network:\
       `npx hardhat node`\
-      ``\
-      ``On your terminal you'll see displayed the RPC url of the local HardHat network and 20 newly created accounts. Like on the below screenshot:\
       \
-      <img src="../.gitbook/assets/image (1).png" alt="" data-size="original">\
+      On your terminal you'll see displayed the RPC url of the local HardHat network and 20 newly created accounts. Like on the below screenshot:\
+      \
+      <img src="../.gitbook/assets/image (1) (3).png" alt="" data-size="original">\
       \
       You'll need these information in the later steps.
    6. follow on with setting up MetaMask as shown from point 11 of our tutorial about [Setting up Ganache with MetaMask](setting-up-ganache-with-metamask.md) \
       Parameters of the custom network will be slightly different:\
-      ![](<../.gitbook/assets/image (10).png>)
+      ![](<../.gitbook/assets/image (10) (2).png>)
       * RPC URL: [http://127.0.0.1:8545/](http://127.0.0.1:8545/)
       * Chain ID: 31337
 

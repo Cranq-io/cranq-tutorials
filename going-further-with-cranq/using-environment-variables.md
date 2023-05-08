@@ -46,7 +46,7 @@ Finally, connect the <mark style="color:orange;">`resolved variables`</mark> out
 
 Upon first run, you'll likely see something like this on the output:
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 The values are empty, because there are no such environment variables set up yet. And even if there were, the CRANQ app doesn't actually read from the real environment. It reads environment variables from a _.env_ file stored in the CRANQ folder. This way you have more control over these variables during the development process. (Once the program is compiled to NodeJS it will read the actual environment, but more on that later.)
 
