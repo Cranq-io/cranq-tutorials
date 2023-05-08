@@ -80,7 +80,7 @@ For example:
 * `fields` value `[0,1,2]` will result in ports `0, 1, 2`, and will yield an array with 3 elements
 * `fields` value `["a","b","c"]` will result in ports `a, b, c`, and will produce a dictionary with 3 elements
 
-_****_
+
 
 ### Example - Building arrays with values
 

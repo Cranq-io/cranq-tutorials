@@ -11,5 +11,5 @@ Creating a namespace is as simple as creating a node with the namespace in the n
 {% endhint %}
 
 {% hint style="info" %}
-You may explore the namespace structure of the repo in the [Prototype reference](https://app.gitbook.com/o/jqy4x7TrVn5hgjCsanfM/s/OmQPjVtTIrv8THOJrdC8/ "mention") section of the documentation.
+You may explore the namespace structure of the repo in the [Repo reference](http://localhost:5000/o/jqy4x7TrVn5hgjCsanfM/s/OmQPjVtTIrv8THOJrdC8/ "mention") section of the documentation.
 {% endhint %}

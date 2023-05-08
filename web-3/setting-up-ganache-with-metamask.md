@@ -54,8 +54,8 @@
              \
              ![](<../.gitbook/assets/image (13).png>)
           2. **Type the suggested chain id which is 1337.**\
-             ****\
-             ****![](<../.gitbook/assets/image (23).png>)
+             \
+             ![](<../.gitbook/assets/image (23).png>)
        4. Set the Currency symbol\
           \
           ![](<../.gitbook/assets/image (27).png>)

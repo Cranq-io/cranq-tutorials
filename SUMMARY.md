@@ -33,7 +33,7 @@
     * [Using version control](how-to/advanced/using-version-control.md)
     * [✏ Mapping paths to namespaces](how-to/advanced/mapping-paths-to-namespaces.md)
     * [✏ Wrapping SDKs](how-to/advanced/wrapping-sdks.md)
-    * [✏ Using external npm package](course/advanced/using-external-npm-package.md)
+    * [✏ Using external NPM packages](how-to/advanced/using-external-npm-packages.md)
     * [✏ Creating code nodes](course/advanced/code-node.md)
     * [Building data structure](how-to/advanced/building-data-structure.md)
 * [🌐 Web 3](web-3/README.md)
