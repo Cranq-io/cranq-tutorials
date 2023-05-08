@@ -2,7 +2,7 @@
 description: How to add external NPM packages to a code node.
 ---
 
-# ✏ Using external NPM packages
+# Using external NPM packages
 
 _Keep in mind, that most use cases can be handled with a structure node. Please try to avoid creating new code nodes if possible._
 
@@ -26,7 +26,7 @@ _Keep in mind, that most use cases can be handled with a structure node. Please 
 
 We'll go though the following example: our new code node will receive a date in the format "YYYYMMDD", and return number of years between that date and today.
 
-1. First, add an input and an output port to the node.
+1. First, add an input and an output port to the node. (Click the tiny "+" button on each side of the node.)
 2. Click to the "in" port.
 3. In the inspector panel, select the "Code" tab add copy the following code into the editor:
 

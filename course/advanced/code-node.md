@@ -1,77 +1,81 @@
-# ✏ Creating code nodes
+# Creating code nodes
 
-You can implement custom code node in javascript language. _Most cases can be handled with a structure node. Please try to avoid creating new code nodes if possible._  &#x20;
+You can implement custom code nodes in CRANQ using the JavaScript language.
 
-## How to create a code Node
+_Keep in mind, that most use cases can be handled with a structure node. Please try to avoid creating new code nodes if possible._  &#x20;
 
-1. Right click on the canvas “Add node”.
-2. On the pop up window bottom left click “New Code Node” button.
+## Create a code Node
+
+1. Start out with a blank project: only the "start" and "log" nodes should be on the canvas.
+2. Right click on the canvas, then select “Add node”.
+3. In the bottom left corner of the pop up window, click “New Code Node”.
 
 ![](../../.gitbook/assets/add\_code\_node.gif)
 
 ## Add ports to the node
 
-Add an input and an output port to the Node:&#x20;
+Add one input and one output port to the node by clicking the "add port" buttons on both sides.&#x20;
 
 ![](../../.gitbook/assets/add\_ports\_to\_node.gif)
 
-## Where to write code&#x20;
+## Where to write your JS code&#x20;
 
-In case of code nodes you can add custom javascript to the node and to the input port(s).&#x20;
+You can implement input ports using JavaScript, as well as the initialization and cleanup of entire nodes. Note that once you've added code to a new node, it becomes a "code node", and you won't be able to add internal structure to it anymore. (Ie. it can't be converted to a "structure node".)
 
-### Adding code to the node
+In each case, you only type in the body of a function. The arguments are pre-defined for each case below, and the return value is always `void`.
 
-When you add code to the node, you add code to the init function, or the the cleanup function.&#x20;
+### Implementing initialization and cleanup
 
-* Init will always run before the code of the port. It works like a constructor.&#x20;
-* Cleanup will run after the input port(s) code executed. ???
+These are lifecycle hooks that every node in a CRANQ program will run. After activating a node by clicking on its body (center), you'll find its code editor fields on the "Code" tab of the ispector panel.
+
+* `init` runs on creating the node instance. This is where you initialize the node's state, or register things in the node's shared (static) state. "Init" is similar to a class' constructor.
+* `cleanup` is not used at the moment. It's reserved for cleaning up resources on live recompilation of a project.
 
 ![](<../../.gitbook/assets/image (2) (2).png>)&#x20;
 
-#### Parameters of the node functions
+#### Function arguments
+
+The signature for both `init` and `cleanup` is:
 
 ```javascript
 (outputs, params, state, shared) => void
 ```
 
-Each of the parameters are javascript object.
+Where
 
-* outputs:  contains all output ports name as a key with an empty function as a value. Mostly use at the input ports.
-* params:  all the input ports which are not receiving signal are represented here. key is the name of the input port, value is the value of it.
-* state: common state of the node instance. During the execution and iteration it can store and keep data    Eg.: data/array/Reducer > reduce&#x20;
-* shared: common state of the all the node which inherited from the same prototype.  ???
+* `outputs` gives you access to the output ports in case you need to send a signal right away, eg. signalling some error. This example assumes your node has an output port called "out": \`outputs.out("Hello", null)\`.
+* `params` lists all input ports that have a value assigned to them, indexed by the name of the input, so initialization / cleanup can take those value into account. You can assign values to input ports on the "Instance" tab of the inspector panel.
+* `state` an object that is accessible throughout the entire life cycle of the node instance. It's the place where you typically accumulate or cache data. It's especially important when converting spatial signals to temporal and vice versa, eg. aggregation, mapping, reducing, etc.
+* `shared` an object that is accessible to all instances of the same prototype throughout their entire life cycle. It's mostly used when integrating NPM packages with an OOP SDK, for looking up class instances by ID.
 
-### Adding code to the port(s)
+### Implementing input ports
+
+Most of the actual (JS) code in a CRANQ app resides in input ports of code nodes. This is where nodes do their processing and invoke other nodes by sending signals through their outputs.
+
+After activating an input port by clicking on it, you'll find its code editor field on the "Code" tab of the inspector panel.
 
 ![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
-#### Parameters of the port(s) function
+#### Function arguments
 
 ```javascript
 (data, tag, outputs, params, state, shared) => void
 ```
 
-* data: is the received data, we want to send.
-* tag: this is the unique identifier of the signal. Check [this](broken-reference) for more details.
-*   outputs: contains all output ports name as a key with a function as a value.&#x20;
+* `data` is the data part of the received signal
+* `tag` is the tag part of the received signal. The tag identifies a signal's origin.
+* `outputs` gives you access to the output ports. It's an object of functions, indexed by the name of the output port. Each output function sends data through the corresponding output. The arguments of output functions are:
+  * `data` the data part of the signal being sent
+  * `tag` the tag part of the signal being sent
+* `params` lists all input ports that have a value assigned to them, indexed by the name of the input.
+* `state` an object that is accessible throughout the entire life cycle of the node instance
+* `shared` an object that is accessible to all instances of the same prototype throughout their entire life cycle
 
-    * The first parameter is a callback function which can modified the returned data.
-    *   The second one  is the unique tag
-
-        * NB: Always have to pass the "tag" if you modified the output port function. &#x20;
-
-        `outputs.out(moment(data, "YYYYMMDD").fromNow(), tag);`&#x20;
-
-
-* params: all the input ports which are not receiving signal are represented here. key is the name of the input port, value is the value of it.
-* state: common state of the node instance. During the execution and iteration it can store and keep data    Eg.: data/array/Reducer > reduce&#x20;
-* shared: common state of the all the node which inherited from the same prototype.  ???
-
-in case of spread ports there is one more parameter in the list called "input". It contains the input port name itself.
+In case of spread ports there is one more parameter in the list called `input`. It contains the unique name of the port in the spread group.
 
 ## Target
 
-Code can compile to different target. Right now CRANQ support the following targets:&#x20;
+Code can compile to different targets. Right now CRANQ supports the following targets:&#x20;
 
 * ES6 (browser)
 * ES6 (vanilla)
@@ -79,7 +83,7 @@ Code can compile to different target. Right now CRANQ support the following targ
 
 ![](<../../.gitbook/assets/image (2) (1).png>)&#x20;
 
-When compile a project have to be careful that the code which added was written in the specified format, and on compile we chose that specified one. Nodes and ports can have multiple target, but each of the connected nodes and ports code part has to be implemented on the targeted language. Otherwise CRANQ will throw error at compile time.
+When creating code nodes, be mindful of what targets you want your node to work in. CRANQ programs that incorporate your code can only be compiled to targets you provided implementation for. Otherwise CRANQ will raise an error at compile time.
 
 ![](../../.gitbook/assets/compile\_to\_node.gif)
 
