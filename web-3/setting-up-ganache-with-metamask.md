@@ -30,29 +30,29 @@ In this tutorial we will install and setup Ganache and import your Ganache accou
    ![](<../.gitbook/assets/image (20).png>)
 7. Select 127.0.0.1 as HOSTNAME\
    \
-   ![](<../.gitbook/assets/image (25).png>)
+   ![](<../.gitbook/assets/image (25) (1).png>)
 8. Switch off AUTOMINE toggle\
    \
-   ![](<../.gitbook/assets/image (35).png>)
+   ![](<../.gitbook/assets/image (35) (1).png>)
 9. Set MINING BLOCK TIME to 10\
    \
-   ![](<../.gitbook/assets/image (4).png>)
+   ![](<../.gitbook/assets/image (4) (2).png>)
 10. Click on SAVE AND RESTART\
     \
     ![](<../.gitbook/assets/image (5).png>)
 11. Setting up ganache network in Metamask
     1. Open Metamask\
        \
-       ![](<../.gitbook/assets/image (6).png>)
+       ![](<../.gitbook/assets/image (6) (2).png>)
     2. Select Settings\
        \
-       ![](<../.gitbook/assets/image (31) (1).png>)
+       ![](<../.gitbook/assets/image (31) (1) (1).png>)
     3. Select Networks\
        \
        ![](<../.gitbook/assets/image (2) (1).png>)
     4. Click on Add Network\
        \
-       ![](<../.gitbook/assets/image (32) (1).png>)
+       ![](<../.gitbook/assets/image (32) (1) (1).png>)
        1. Set the Network Name e.g ganache\
           \
 
@@ -62,7 +62,7 @@ In this tutorial we will install and setup Ganache and import your Ganache accou
            \
            &#x20;                                                              i.      &#x20;
 
-           ![](<../.gitbook/assets/image (34).png>)\
+           ![](<../.gitbook/assets/image (34) (1).png>)\
            \
 
        3. Set the Chain ID
@@ -87,7 +87,7 @@ In this tutorial we will install and setup Ganache and import your Ganache accou
           ![](<../.gitbook/assets/image (21).png>)
        2. Copy the PRIVATE KEY\
           \
-          ![](<../.gitbook/assets/image (19).png>)
+          ![](<../.gitbook/assets/image (19) (1).png>)
        3. Open Metamask\
           \
           ![](<../.gitbook/assets/image (13).png>)

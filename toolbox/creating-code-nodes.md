@@ -5,7 +5,7 @@ description: >-
   try to avoid creating new code nodes if possi
 ---
 
-# Creating code nodes
+# 👨💻 Creating code nodes
 
 ## Create a code Node
 
@@ -19,7 +19,7 @@ description: >-
 
 Add one input and one output port to the node by clicking the "add port" buttons on both sides.&#x20;
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Where to write your JS code
 

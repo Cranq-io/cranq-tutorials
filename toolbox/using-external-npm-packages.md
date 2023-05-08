@@ -12,7 +12,7 @@ _Keep in mind, that most use cases can be handled with a structure node. Please 
 * Right click on the canvas, then select “Add node”.
 * In the bottom left corner of the pop up window, click “New Code Node”.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Add dependencies to the Node
 
@@ -20,7 +20,7 @@ _Keep in mind, that most use cases can be handled with a structure node. Please 
 * On the inspector panel, select the “Code” tab.
 * Type the names of NPM packages into the "Dependencies" field, one package name per line. When the project starts, (or any project that uses this node) CRANQ will install the latest version of these packages. Specifying package versions for dependencies is not yet available.
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Use the NPM package in the code
 
@@ -35,7 +35,7 @@ const moment = require('moment');
 outputs.out(moment(data, "YYYYMMDD").fromNow(), tag);
 ```
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Test your new code node
 
@@ -45,7 +45,7 @@ outputs.out(moment(data, "YYYYMMDD").fromNow(), tag);
 * Connect the "out" output of our code node to the "data" input of the "log" node.
 * Click run
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How to check what NPM packages your CRANQ project uses
 
