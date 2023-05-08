@@ -46,13 +46,13 @@ In this tutorial we will install and setup Ganache and import your Ganache accou
        ![](<../.gitbook/assets/image (6).png>)
     2. Select Settings\
        \
-       ![](<../.gitbook/assets/image (31).png>)
+       ![](<../.gitbook/assets/image (31) (1).png>)
     3. Select Networks\
        \
        ![](<../.gitbook/assets/image (2) (1).png>)
     4. Click on Add Network\
        \
-       ![](<../.gitbook/assets/image (32).png>)
+       ![](<../.gitbook/assets/image (32) (1).png>)
        1. Set the Network Name e.g ganache\
           \
 
